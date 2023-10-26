@@ -1,0 +1,10 @@
+
+LootArchive = {
+	["profileKeys"] = {
+		["Trollitaa - Faerlina"] = "Trollitaa - Faerlina",
+	},
+	["profiles"] = {
+		["Trollitaa - Faerlina"] = {
+		},
+	},
+}

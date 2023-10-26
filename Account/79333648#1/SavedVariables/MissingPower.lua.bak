@@ -1,0 +1,4 @@
+
+MIPO = {
+	["DEBUG"] = false,
+}

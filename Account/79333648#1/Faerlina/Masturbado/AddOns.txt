@@ -1,0 +1,6 @@
+Blizzard_CompactRaidFrames: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+GuideLime_TUGs_WOTLK: disabled
+Guidelime: disabled
+ElvUI: enabled

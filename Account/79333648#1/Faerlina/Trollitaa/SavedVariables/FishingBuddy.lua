@@ -1,0 +1,72 @@
+
+FishingBuddy_Player = {
+	["MinimapData"] = {
+		["minimapPos"] = 225,
+		["hide"] = false,
+	},
+	["Settings"] = {
+		["AutoOpen"] = true,
+		["OutfitManager"] = "OutfitDisplayFrame",
+		["BackgroundSounds"] = true,
+		["MountedCast"] = true,
+		["TotalTimeFishing"] = 16532.82499999999,
+		["EasyLures"] = true,
+		["AutoLoot"] = true,
+		["CombatSwitch"] = true,
+		["WatchCurrentZone"] = true,
+		["WatchElapsedTime"] = true,
+		["EnhanceFishingSounds"] = true,
+		["WatchHideTrash"] = true,
+		["SpecialBobbers"] = -1,
+		["TurnOnSound"] = true,
+		["AlwaysLure"] = true,
+		["EnhancePools"] = true,
+		["WatchCurrentOnly"] = true,
+		["TurnOffPVP"] = true,
+		["UseAction"] = true,
+	},
+	["WasWearing"] = {
+	},
+	["WatcherLocation"] = {
+		["grp_point"] = "LEFT",
+		["solo_y"] = 42.99990844726563,
+		["solo_x"] = 339.9705200195313,
+		["solo_point"] = "LEFT",
+		["grp_x"] = 339.9705200195313,
+		["solo_scale"] = 1,
+		["raid_point"] = "LEFT",
+		["raid_x"] = 362.9178771972656,
+		["grp_scale"] = 1,
+		["grp_y"] = 42.99993896484375,
+		["raid_y"] = 42.66656494140625,
+		["raid_scale"] = 1,
+	},
+	["Version"] = 1190400,
+}
+FBODF_PlayerInfo = {
+	["Outfit"] = {
+		["HeadSlot"] = {
+			["used"] = true,
+			["item"] = "33820:0",
+			["link"] = "|cff0070dd|Hitem:33820::::::::80:::::::::|h[Weather-Beaten Fishing Hat]|h|r",
+			["color"] = "ff0070dd",
+			["slotid"] = 1,
+			["name"] = "Weather-Beaten Fishing Hat",
+			["texture"] = 133133,
+		},
+		["SecondaryHandSlot"] = {
+			["used"] = true,
+			["forced"] = true,
+			["empty"] = true,
+		},
+		["MainHandSlot"] = {
+			["used"] = true,
+			["item"] = "44050:0",
+			["link"] = "|cffa335ee|Hitem:44050::::::::80:::::::::|h[Mastercraft Kalu'ak Fishing Pole]|h|r",
+			["color"] = "ffa335ee",
+			["slotid"] = 16,
+			["name"] = "Mastercraft Kalu'ak Fishing Pole",
+			["texture"] = 132933,
+		},
+	},
+}

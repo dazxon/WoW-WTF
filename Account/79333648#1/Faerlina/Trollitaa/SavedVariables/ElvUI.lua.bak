@@ -1,0 +1,294 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"LF Healers Only GDKP ICC 25N Wisp gs/spec/budget (Extra cut for Tanks, top DPS/Healer) Second run today ! 24/25", -- [1]
+			"Plasmaxlive", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Plasmaxlive", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			5, -- [11]
+			"Player-4408-04E1D532", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPlasmaxlive|r",
+			[51] = 1697659882,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [1]
+		{
+			"spicy eko", -- [1]
+			"Emokertraker-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emokertraker", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-4408-0453598B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aEmokertraker|r",
+			[51] = 1697659873,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [2]
+		{
+			"quien es el 3ero que falta", -- [1]
+			"Esthis-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Esthis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-4408-0454963E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Esthis|r",
+			[51] = 1697659873,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [3]
+		{
+			"toy pensando", -- [1]
+			"Emokertraker-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emokertraker", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			56, -- [11]
+			"Player-4408-0453598B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aEmokertraker|r",
+			[51] = 1697659873,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [4]
+		{
+			"<Bobbys Yacht> Semi-HC Guild with chill vibes looking to fill a CORE raiding slot for ICC 10m Looking for 5k+ Shaman 830-11:30PM ST Weds/Monday.", -- [1]
+			"Ctrpally", -- [2]
+			"", -- [3]
+			"2. General - Dalaran", -- [4]
+			"Ctrpally", -- [5]
+			"", -- [6]
+			1, -- [7]
+			2, -- [8]
+			"General - Dalaran", -- [9]
+			0, -- [10]
+			61, -- [11]
+			"Player-4408-0501CF1A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCtrpally|r",
+			[51] = 1697659933,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"LF Hpally or FWAR (Carry or Hybrid) ICC 25N Wisp gs/spec/budget (Extra cut for Tanks, top DPS/Healer) Second run today ! 24/25", -- [1]
+			"Plasmaxlive-Faerlina", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Plasmaxlive", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			62, -- [11]
+			"Player-4408-04E1D532", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPlasmaxlive|r",
+			[51] = 1697659933,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [6]
+		{
+			"eko spicy fade?", -- [1]
+			"Kaleric-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kaleric", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-4408-03587D7E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKaleric|r",
+			[51] = 1697659937,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [7]
+		{
+			"ahi esta eko", -- [1]
+			"Kaleric-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kaleric", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-4408-03587D7E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKaleric|r",
+			[51] = 1697659940,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [8]
+		{
+			"ah fade lol", -- [1]
+			"Emokertraker-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Emokertraker", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			74, -- [11]
+			"Player-4408-0453598B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aEmokertraker|r",
+			[51] = 1697659957,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [9]
+		{
+			"LF Hpally or FWAR (Carry or Hybrid) ICC 25N Wisp gs/spec/budget (Extra cut for Tanks, top DPS/Healer) Second run today ! 24/25", -- [1]
+			"Plasmaxlive-Faerlina", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Plasmaxlive", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			98, -- [11]
+			"Player-4408-04E1D532", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPlasmaxlive|r",
+			[51] = 1697659966,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [10]
+		{
+			"Spicy nomas", -- [1]
+			"Deuxh-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Deuxh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			110, -- [11]
+			"Player-4408-03AFB333", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Deuxh|r",
+			[51] = 1697659976,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [11]
+		{
+			"<Bobbys Yacht> Semi-HC Guild with chill vibes looking to fill a CORE raiding slot for ICC 10m Looking for 5k+ Shaman 830-11:30PM ST Weds/Monday.", -- [1]
+			"Ctrpally-Faerlina", -- [2]
+			"", -- [3]
+			"2. General - Dalaran", -- [4]
+			"Ctrpally", -- [5]
+			"", -- [6]
+			1, -- [7]
+			2, -- [8]
+			"General - Dalaran", -- [9]
+			0, -- [10]
+			111, -- [11]
+			"Player-4408-0501CF1A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaCtrpally|r",
+			[51] = 1697659976,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+		{
+			"LF Hpally or FWAR (Carry or Hybrid) ICC 25N Wisp gs/spec/budget (Extra cut for Tanks, top DPS/Healer) Second run today ! 24/25", -- [1]
+			"Plasmaxlive-Faerlina", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Plasmaxlive", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			1, -- [10]
+			224, -- [11]
+			"Player-4408-04E1D532", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPlasmaxlive|r",
+			[51] = 1697660077,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [13]
+	},
+}

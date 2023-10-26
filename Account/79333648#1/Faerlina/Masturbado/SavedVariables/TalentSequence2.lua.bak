@@ -1,0 +1,6 @@
+
+IsTalentSequenceExpanded = false
+TalentSequenceTalents = {
+}
+TalentSequenceSavedSequences = {
+}

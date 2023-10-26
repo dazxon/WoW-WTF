@@ -1,0 +1,91 @@
+VER 3 000000000100000B "attack + shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Lightning Shield
+/startattack
+END
+VER 3 000000000100000E "CORTA/PURGE" "INV_MISC_QUESTIONMARK"
+/cast Wind Shear
+/cast Purge
+END
+VER 3 0000000001000017 "Earth Shock" "134400"
+#showtootip
+/cast Earth Shock
+/startattack
+END
+VER 3 0000000001000018 "ELEMENTS" "134400"
+#showtootip
+/cast Call of the Elements
+/startattack
+END
+VER 3 0000000001000014 "FERAL + POT" "134400"
+#showtooltip Feral Spirit
+/startattack
+/use Spiced Mammoth Treats
+/use Potion of Wild Magic
+/cast Feral Spirit
+/cast Spirit Walk
+/petattack
+END
+VER 3 000000000100000D "Feral RUN" "237577"
+#showtooltip
+/cast Feral Spirit
+/cast Spirit Walk
+/petattack
+END
+VER 3 0000000001000016 "Fire Nova" "134400"
+#showtootip
+/cast Fire Nova
+/startattack
+END
+VER 3 000000000100000C "Flame Shock" "135813"
+#showtootip
+/cast Flame Shock
+/startattack
+END
+VER 3 0000000001000010 "INGENIEROWO" "INV_MISC_QUESTIONMARK"
+#showtooltip Saronite Bomb
+/use Global Thermal Sapper Charge
+/use [@player] Saronite Bomb
+END
+VER 3 0000000001000013 "Lava lash" "134400"
+#showtooltip
+/cast Lava Lash(Rank 1)
+/startattack
+END
+VER 3 0000000001000015 "Lightning bolt" "134400"
+#showtootip
+/cast Lightning Bolt
+/startattack
+END
+VER 3 0000000001000008 "PIEDRA" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence reset=30 Wrath of Air Totem,Bloodlust,Astral Recall
+END
+VER 3 000000000100000A "RAGE + BERS" "INV_MISC_QUESTIONMARK"
+#showtooltip 10
+/cast Berserking
+/use Potion of Wild Magic
+/use 13
+/use 14
+/use 10
+END
+VER 3 0000000001000009 "Stormtrike" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Stormstrike
+/startattack
+END
+VER 3 0000000001000012 "super elemental" "134400"
+#showtooltip
+/castsequence reset=120 Blood Fury, Fire Elemental Totem
+END
+VER 3 0000000001000011 "vesax" "136018"
+#showtooltip Wind Shear
+/stopcasting
+/cast [@focus,exists,nodead,harm] Wind Shear
+END
+VER 3 0000000001000005 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000001000006 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Tro[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

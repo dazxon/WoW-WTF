@@ -1,0 +1,20 @@
+
+MIPOPC = {
+	["hideoverlap"] = true,
+	["ccolg"] = 0,
+	["fonty"] = 0,
+	["ccolr"] = 0,
+	["fontanchor"] = 0,
+	["DEBUG"] = false,
+	["fontx"] = 0,
+	["decimals"] = 1,
+	["poweralpha"] = 0.7,
+	["textoffset"] = 0,
+	["displayiflowerthanx"] = 10,
+	["customcolor"] = false,
+	["textoffsetY"] = 0,
+	["textoffsetX"] = 0,
+	["showamountcounter"] = true,
+	["ccolb"] = 0,
+	["fontsize"] = 12,
+}
