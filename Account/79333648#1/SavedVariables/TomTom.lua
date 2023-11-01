@@ -9,9 +9,9 @@ TomTomDB = {
 		["Bocajuniors - Faerlina"] = "Default",
 		["Platinada - Grobbulus"] = "Default",
 		["Naowebona - Faerlina"] = "Default",
-		["Petemaker - Faerlina"] = "Default",
-		["Elfitanashe - Faerlina"] = "Default",
 		["Platinada - Faerlina"] = "Default",
+		["Elfitanashe - Faerlina"] = "Default",
+		["Petemaker - Faerlina"] = "Default",
 		["Platinada - Benediction"] = "Default",
 		["Trollituwu - Faerlina"] = "Default",
 	},
@@ -49,9 +49,9 @@ TomTomWaypointsM = {
 		["Bocajuniors - Faerlina"] = "Bocajuniors - Faerlina",
 		["Platinada - Grobbulus"] = "Platinada - Grobbulus",
 		["Naowebona - Faerlina"] = "Naowebona - Faerlina",
-		["Petemaker - Faerlina"] = "Petemaker - Faerlina",
-		["Elfitanashe - Faerlina"] = "Elfitanashe - Faerlina",
 		["Platinada - Faerlina"] = "Platinada - Faerlina",
+		["Elfitanashe - Faerlina"] = "Elfitanashe - Faerlina",
+		["Petemaker - Faerlina"] = "Petemaker - Faerlina",
 		["Platinada - Benediction"] = "Platinada - Benediction",
 		["Trollituwu - Faerlina"] = "Trollituwu - Faerlina",
 	},
@@ -72,7 +72,7 @@ TomTomWaypointsM = {
 		},
 		["Naowebona - Faerlina"] = {
 		},
-		["Petemaker - Faerlina"] = {
+		["Platinada - Faerlina"] = {
 		},
 		["Elfitanashe - Faerlina"] = {
 			[1955] = {
@@ -101,7 +101,7 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Platinada - Faerlina"] = {
+		["Petemaker - Faerlina"] = {
 		},
 		["Platinada - Benediction"] = {
 		},

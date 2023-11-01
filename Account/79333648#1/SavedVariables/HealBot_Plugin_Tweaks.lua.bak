@@ -14,8 +14,8 @@ HealBot_Plugin_Tweaks_Config = {
 	},
 	["CustomBuffs"] = {
 	},
-	["InHealHoTTime"] = {
-		["Global"] = 9,
+	["AutoTimed"] = {
+		["Global"] = 31,
 	},
 	["CustomDebuffs"] = {
 	},
@@ -34,7 +34,7 @@ HealBot_Plugin_Tweaks_Config = {
 	["Aggro2"] = {
 		["Global"] = 55,
 	},
-	["AutoTimed"] = {
-		["Global"] = 31,
+	["InHealHoTTime"] = {
+		["Global"] = 9,
 	},
 }

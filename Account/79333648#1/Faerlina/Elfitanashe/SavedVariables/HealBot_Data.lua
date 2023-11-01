@@ -123,7 +123,7 @@ HealBot_Config = {
 	["KnownLoadouts"] = {
 	},
 	["Spec"] = "Frost",
-	["LastVersionUpdate"] = "10.1.7.7",
+	["LastVersionUpdate"] = "10.1.7.8",
 	["SkinZoneEnabled"] = {
 	},
 	["Profile"] = 1,
@@ -451,10 +451,10 @@ HealBot_Config_Cures = {
 	["ListSortOrder"] = 1,
 	["HealBot_CDCWarnRange_Screen"] = 2,
 	["HealBot_Custom_Debuffs_All"] = {
-		["Curse"] = false,
-		["Disease"] = false,
-		["Magic"] = false,
 		["Poison"] = false,
+		["Curse"] = false,
+		["Magic"] = false,
+		["Disease"] = false,
 	},
 	["HealBot_CDCWarnRange_Bar"] = 3,
 	["DebuffWatchInCombat"] = true,
@@ -487,25 +487,25 @@ HealBot_Config_Cures = {
 	["IgnoreOnCooldownDebuffs"] = false,
 	["IgnoreFriendDebuffs"] = false,
 	["CDCBarColour"] = {
+		["Poison"] = {
+			["R"] = 0.12,
+			["G"] = 0.46,
+			["B"] = 0.24,
+		},
 		["Curse"] = {
 			["R"] = 0.83,
 			["G"] = 0.43,
 			["B"] = 0.09,
-		},
-		["Disease"] = {
-			["R"] = 0.55,
-			["G"] = 0.19,
-			["B"] = 0.7,
 		},
 		["Magic"] = {
 			["R"] = 0.26,
 			["G"] = 0.33,
 			["B"] = 0.83,
 		},
-		["Poison"] = {
-			["R"] = 0.12,
-			["G"] = 0.46,
-			["B"] = 0.24,
+		["Disease"] = {
+			["R"] = 0.55,
+			["G"] = 0.19,
+			["B"] = 0.7,
 		},
 	},
 	["HealBotDebuffPriority"] = {

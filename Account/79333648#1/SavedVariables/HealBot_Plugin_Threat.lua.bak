@@ -135,8 +135,8 @@ HealBot_Plugin_Threat_Config = {
 	["yourbarG"] = {
 		["Global"] = 0.1,
 	},
-	["fontsize"] = {
-		["Global"] = 11,
+	["borderG"] = {
+		["Global"] = 1,
 	},
 	["yourbarR"] = {
 		["Global"] = 0.1,
@@ -150,22 +150,22 @@ HealBot_Plugin_Threat_Config = {
 	["borderB"] = {
 		["Global"] = 1,
 	},
-	["frameLocked"] = {
-		["Global"] = false,
+	["borderA"] = {
+		["Global"] = 0.25,
 	},
 	["bartxtB"] = {
 		["Global"] = 0.8,
 	},
-	["yourtxtcoltype"] = {
-		["Global"] = 1,
+	["barB"] = {
+		["Global"] = 0.4,
 	},
-	["tankbarG"] = {
-		["Global"] = 0.1,
+	["tankcoltype"] = {
+		["Global"] = 2,
 	},
-	["texture"] = {
-		["Global"] = "Smooth",
+	["tankbarR"] = {
+		["Global"] = 0.9,
 	},
-	["yourbarB"] = {
+	["headerA"] = {
 		["Global"] = 0.9,
 	},
 	["titletextA"] = {
@@ -177,31 +177,31 @@ HealBot_Plugin_Threat_Config = {
 	["hdrtxtR"] = {
 		["Global"] = 1,
 	},
-	["yourcoltype"] = {
-		["Global"] = 2,
-	},
 	["frameA"] = {
 		["Global"] = 0.05,
 	},
-	["headerA"] = {
-		["Global"] = 0.9,
-	},
-	["tankbarR"] = {
-		["Global"] = 0.9,
-	},
-	["tankcoltype"] = {
+	["yourcoltype"] = {
 		["Global"] = 2,
 	},
-	["barB"] = {
-		["Global"] = 0.4,
+	["yourbarB"] = {
+		["Global"] = 0.9,
 	},
-	["borderA"] = {
-		["Global"] = 0.25,
+	["texture"] = {
+		["Global"] = "Smooth",
+	},
+	["tankbarG"] = {
+		["Global"] = 0.1,
+	},
+	["yourtxtcoltype"] = {
+		["Global"] = 1,
+	},
+	["frameLocked"] = {
+		["Global"] = false,
 	},
 	["barR"] = {
 		["Global"] = 0.4,
 	},
-	["borderG"] = {
-		["Global"] = 1,
+	["fontsize"] = {
+		["Global"] = 11,
 	},
 }

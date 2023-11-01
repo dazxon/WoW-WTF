@@ -26,3 +26,4 @@ Guidelime: disabled
 ExtendedCharacterStats: disabled
 OmniCC_Config: disabled
 OmniCC: disabled
+Leatrix_Maps: enabled

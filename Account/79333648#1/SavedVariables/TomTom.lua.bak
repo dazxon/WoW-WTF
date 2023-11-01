@@ -9,9 +9,9 @@ TomTomDB = {
 		["Bocajuniors - Faerlina"] = "Default",
 		["Platinada - Grobbulus"] = "Default",
 		["Naowebona - Faerlina"] = "Default",
-		["Platinada - Faerlina"] = "Default",
-		["Elfitanashe - Faerlina"] = "Default",
 		["Petemaker - Faerlina"] = "Default",
+		["Elfitanashe - Faerlina"] = "Default",
+		["Platinada - Faerlina"] = "Default",
 		["Platinada - Benediction"] = "Default",
 		["Trollituwu - Faerlina"] = "Default",
 	},
@@ -49,37 +49,14 @@ TomTomWaypointsM = {
 		["Bocajuniors - Faerlina"] = "Bocajuniors - Faerlina",
 		["Platinada - Grobbulus"] = "Platinada - Grobbulus",
 		["Naowebona - Faerlina"] = "Naowebona - Faerlina",
-		["Platinada - Faerlina"] = "Platinada - Faerlina",
-		["Elfitanashe - Faerlina"] = "Elfitanashe - Faerlina",
 		["Petemaker - Faerlina"] = "Petemaker - Faerlina",
+		["Elfitanashe - Faerlina"] = "Elfitanashe - Faerlina",
+		["Platinada - Faerlina"] = "Platinada - Faerlina",
 		["Platinada - Benediction"] = "Platinada - Benediction",
 		["Trollituwu - Faerlina"] = "Trollituwu - Faerlina",
 	},
 	["profiles"] = {
 		["Trollitaa - Faerlina"] = {
-			[1411] = {
-				["1411:455745721.27139:172127139.3643:Tapper Swindlekeg"] = {
-					1411, -- [1]
-					0.4557457212713937, -- [2]
-					0.1721271393643032, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Tapper Swindlekeg",
-					["from"] = "?",
-					["crazy"] = true,
-					["world"] = true,
-				},
-			},
 		},
 		["Torituwu - Faerlina"] = {
 		},
@@ -95,7 +72,7 @@ TomTomWaypointsM = {
 		},
 		["Naowebona - Faerlina"] = {
 		},
-		["Platinada - Faerlina"] = {
+		["Petemaker - Faerlina"] = {
 		},
 		["Elfitanashe - Faerlina"] = {
 			[1955] = {
@@ -113,18 +90,10 @@ TomTomWaypointsM = {
 					["from"] = "Questie",
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["minimap"] = true,
@@ -132,7 +101,7 @@ TomTomWaypointsM = {
 				},
 			},
 		},
-		["Petemaker - Faerlina"] = {
+		["Platinada - Faerlina"] = {
 		},
 		["Platinada - Benediction"] = {
 		},

@@ -20,7 +20,16 @@ Quartz3DB = {
 		},
 		["Range"] = {
 		},
-		["Mirror"] = {
+		["Player"] = {
+			["profiles"] = {
+				["Default"] = {
+					["w"] = 275,
+					["y"] = 141.7185745239258,
+					["point"] = "BOTTOM",
+					["scale"] = 1.5,
+					["x"] = 3.400489807128906,
+				},
+			},
 		},
 		["EnemyCasts"] = {
 		},
@@ -46,16 +55,7 @@ Quartz3DB = {
 		},
 		["Interrupt"] = {
 		},
-		["Player"] = {
-			["profiles"] = {
-				["Default"] = {
-					["w"] = 275,
-					["y"] = 141.7185745239258,
-					["point"] = "BOTTOM",
-					["scale"] = 1.5,
-					["x"] = 3.400489807128906,
-				},
-			},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -69,9 +69,9 @@ Quartz3DB = {
 		["Bocajuniors - Faerlina"] = "Default",
 		["Platinada - Grobbulus"] = "Default",
 		["Naowebona - Faerlina"] = "Default",
-		["Petemaker - Faerlina"] = "Default",
-		["Elfitanashe - Faerlina"] = "Default",
 		["Platinada - Faerlina"] = "Default",
+		["Elfitanashe - Faerlina"] = "Default",
+		["Petemaker - Faerlina"] = "Default",
 		["Platinada - Benediction"] = "Default",
 		["Trollituwu - Faerlina"] = "Default",
 	},

@@ -4,14 +4,14 @@ LagBar_DB = {
 	["bgShown"] = true,
 	["scale"] = 1.00562614440918,
 	["LagBar"] = {
-		["yOfs"] = 155.0247955322266,
-		["xOfs"] = -402.5872802734375,
+		["yOfs"] = 145.5956726074219,
+		["xOfs"] = -305.2386474609375,
 		["point"] = "BOTTOM",
 		["relativePoint"] = "BOTTOM",
 	},
 	["fps"] = true,
 	["homeping"] = true,
 	["metric"] = true,
-	["worldping"] = true,
 	["ttShown"] = true,
+	["worldping"] = true,
 }

@@ -10,7 +10,7 @@ RXPCData = {
 	},
 	["currentStep"] = 3,
 	["questObjectivesCache"] = {
-		[0] = 24,
+		[0] = 28,
 		[9212] = {
 			{
 				["type"] = "event",
@@ -42,6 +42,24 @@ RXPCData = {
 				["finished"] = false,
 				["numFulfilled"] = 0,
 			}, -- [3]
+		},
+		[5052] = {
+			{
+				["type"] = "item",
+				["numRequired"] = 1,
+				["text"] = "Blood Shard: 1/1",
+				["finished"] = true,
+				["numFulfilled"] = 1,
+			}, -- [1]
+		},
+		[742] = {
+			{
+				["type"] = "event",
+				["numRequired"] = 1,
+				["generated"] = true,
+				["text"] = "Objective Complete",
+				["numFulfilled"] = 0,
+			}, -- [1]
 		},
 		[9275] = {
 			{
@@ -173,6 +191,15 @@ RXPCData = {
 				["numFulfilled"] = 0,
 			}, -- [1]
 		},
+		[6441] = {
+			{
+				["type"] = "item",
+				["numRequired"] = 16,
+				["text"] = "Satyr Horns: 0/16",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [1]
+		},
 		[9193] = {
 			{
 				["type"] = "object",
@@ -219,22 +246,6 @@ RXPCData = {
 				["numFulfilled"] = 0,
 			}, -- [4]
 		},
-		[549] = {
-			{
-				["type"] = "monster",
-				["numRequired"] = 7,
-				["text"] = "Syndicate Rogue slain: 0/10",
-				["finished"] = false,
-				["numFulfilled"] = 0,
-			}, -- [1]
-			{
-				["type"] = "monster",
-				["numRequired"] = 7,
-				["text"] = "Syndicate Watchman slain: 0/10",
-				["finished"] = false,
-				["numFulfilled"] = 0,
-			}, -- [2]
-		},
 		[496] = {
 			{
 				["type"] = "item",
@@ -247,6 +258,22 @@ RXPCData = {
 				["type"] = "item",
 				["numRequired"] = 1,
 				["text"] = "Creeper Ichor: 0/1",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [2]
+		},
+		[549] = {
+			{
+				["type"] = "monster",
+				["numRequired"] = 7,
+				["text"] = "Syndicate Rogue slain: 0/10",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [1]
+			{
+				["type"] = "monster",
+				["numRequired"] = 7,
+				["text"] = "Syndicate Watchman slain: 0/10",
 				["finished"] = false,
 				["numFulfilled"] = 0,
 			}, -- [2]
@@ -282,6 +309,22 @@ RXPCData = {
 				["finished"] = false,
 				["numFulfilled"] = 0,
 			}, -- [1]
+		},
+		[498] = {
+			{
+				["type"] = "object",
+				["numRequired"] = 1,
+				["text"] = "Rescue Drull: 0/1",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [1]
+			{
+				["type"] = "object",
+				["numRequired"] = 1,
+				["text"] = "Rescue Tog'thar: 0/1",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [2]
 		},
 		[9156] = {
 			{
@@ -340,22 +383,6 @@ RXPCData = {
 				["numFulfilled"] = 0,
 			}, -- [1]
 		},
-		[498] = {
-			{
-				["type"] = "object",
-				["numRequired"] = 1,
-				["text"] = "Rescue Drull: 0/1",
-				["finished"] = false,
-				["numFulfilled"] = 0,
-			}, -- [1]
-			{
-				["type"] = "object",
-				["numRequired"] = 1,
-				["text"] = "Rescue Tog'thar: 0/1",
-				["finished"] = false,
-				["numFulfilled"] = 0,
-			}, -- [2]
-		},
 		[9214] = {
 			{
 				["type"] = "item",
@@ -402,14 +429,24 @@ RXPCData = {
 				["numFulfilled"] = 0,
 			}, -- [2]
 		},
+		[6284] = {
+			{
+				["type"] = "item",
+				["numRequired"] = 1,
+				["text"] = "Besseleth's Fang: 0/1",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [1]
+		},
 	},
 	["currentGuideGroup"] = "RestedXP Horde 1-30",
 	["flightPaths"] = {
 		[80] = "Ratchet, The Barrens",
 		[25] = "Crossroads, The Barrens",
 		[22] = "Thunder Bluff, Mulgore",
-		[23] = "Orgrimmar, Durotar",
 		[77] = "Camp Taurajo, The Barrens",
+		[23] = "Orgrimmar, Durotar",
+		[29] = "Sun Rock Retreat, Stonetalon Mountains",
 	},
 	["questNameCache"] = {
 		[9212] = "Escape from the Catacombs",
@@ -452,6 +489,76 @@ RXPCTrackingData = {
 	["profiles"] = {
 		["Torituwu - Faerlina"] = {
 			["levels"] = {
+				[20] = {
+					["groupExperience"] = 0,
+					["deaths"] = 1,
+					["mobs"] = {
+						["The Barrens"] = {
+							["xp"] = 15752,
+							["count"] = 38,
+						},
+					},
+					["timestamp"] = {
+						["dateFinished"] = {
+							["monthDay"] = 24,
+							["day"] = 0,
+							["month"] = 10,
+							["minute"] = 5,
+							["year"] = 2023,
+							["hour"] = 17,
+							["weekday"] = 3,
+						},
+						["finished"] = 53955,
+						["started"] = 1,
+					},
+					["quests"] = {
+						["The Barrens"] = {
+							[870] = 697,
+							[848] = 1785,
+						},
+						["Thunder Bluff"] = {
+							[853] = 1360,
+						},
+					},
+				},
+				[24] = {
+					["groupExperience"] = 0,
+					["deaths"] = 0,
+					["mobs"] = {
+						["Ashenvale"] = {
+							["xp"] = 4242,
+							["count"] = 17,
+						},
+					},
+					["timestamp"] = {
+						["dateStarted"] = {
+							["monthDay"] = 26,
+							["day"] = 0,
+							["month"] = 10,
+							["minute"] = 33,
+							["year"] = 2023,
+							["hour"] = 17,
+							["weekday"] = 5,
+						},
+						["started"] = 63221,
+					},
+					["quests"] = {
+						["The Barrens"] = {
+							[12375] = 1657,
+							[3921] = 85,
+							[6542] = 255,
+							[5052] = 2125,
+							[878] = 2805,
+							[1062] = 2465,
+						},
+						["Ashenvale"] = {
+							[6544] = 4080,
+							[6503] = 3315,
+							[12377] = 1657,
+							[742] = 272,
+						},
+					},
+				},
 				[21] = {
 					["groupExperience"] = 0,
 					["deaths"] = 0,
@@ -495,8 +602,12 @@ RXPCTrackingData = {
 				},
 				[22] = {
 					["groupExperience"] = 0,
-					["deaths"] = 0,
+					["deaths"] = 2,
 					["mobs"] = {
+						["Stonetalon Mountains"] = {
+							["xp"] = 15949,
+							["count"] = 49,
+						},
 					},
 					["timestamp"] = {
 						["dateStarted"] = {
@@ -508,6 +619,16 @@ RXPCTrackingData = {
 							["hour"] = 0,
 							["weekday"] = 4,
 						},
+						["finished"] = 58500,
+						["dateFinished"] = {
+							["monthDay"] = 26,
+							["day"] = 0,
+							["month"] = 10,
+							["weekday"] = 5,
+							["year"] = 2023,
+							["hour"] = 16,
+							["minute"] = 15,
+						},
 						["started"] = 55299,
 					},
 					["quests"] = {
@@ -515,40 +636,56 @@ RXPCTrackingData = {
 							[6629] = 2295,
 						},
 						["Stonetalon Mountains"] = {
-							[6461] = 2465,
+							[12378] = 1487,
 							[6401] = 1700,
+							[6461] = 2465,
 						},
 					},
 				},
-				[20] = {
+				[23] = {
 					["groupExperience"] = 0,
-					["deaths"] = 1,
+					["deaths"] = 0,
 					["mobs"] = {
-						["The Barrens"] = {
-							["xp"] = 15752,
-							["count"] = 38,
+						["Stonetalon Mountains"] = {
+							["xp"] = 12438,
+							["count"] = 44,
 						},
 					},
 					["timestamp"] = {
-						["dateFinished"] = {
-							["monthDay"] = 24,
+						["dateStarted"] = {
+							["monthDay"] = 26,
 							["day"] = 0,
 							["month"] = 10,
-							["minute"] = 5,
+							["weekday"] = 5,
+							["year"] = 2023,
+							["hour"] = 16,
+							["minute"] = 15,
+						},
+						["finished"] = 63220,
+						["dateFinished"] = {
+							["monthDay"] = 26,
+							["day"] = 0,
+							["month"] = 10,
+							["minute"] = 33,
 							["year"] = 2023,
 							["hour"] = 17,
-							["weekday"] = 3,
+							["weekday"] = 5,
 						},
-						["finished"] = 53955,
-						["started"] = 1,
+						["started"] = 58501,
 					},
 					["quests"] = {
-						["The Barrens"] = {
-							[870] = 697,
-							[848] = 1785,
-						},
 						["Thunder Bluff"] = {
-							[853] = 1360,
+							[12367] = 1572,
+						},
+						["The Barrens"] = {
+							[6364] = 187,
+							[12374] = 1572,
+							[1094] = 1402,
+						},
+						["Stonetalon Mountains"] = {
+							[6301] = 2380,
+							[1087] = 2550,
+							[1093] = 2805,
 						},
 					},
 				},

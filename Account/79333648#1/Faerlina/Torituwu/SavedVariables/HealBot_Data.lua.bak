@@ -120,18 +120,18 @@ HealBot_Config = {
 	["EnableHealthy"] = true,
 	["MacroUse10"] = false,
 	["Skin_ID"] = -1,
-	["Spec"] = "Balance",
+	["LastAutoSkinChangeType"] = "None",
 	["LastVersionUpdate"] = "10.1.7.7",
 	["KnownLoadouts"] = {
 	},
 	["Profile"] = 1,
 	["SkinZoneEnabled"] = {
 	},
-	["CurrentSpec"] = 1,
+	["CurrentSpec"] = 2,
 	["SpellsUpdatedToV10"] = true,
 	["DisableSolo"] = false,
 	["DisableHealBot"] = false,
-	["LastAutoSkinChangeType"] = "None",
+	["Spec"] = "Feral",
 	["DisabledNow"] = 0,
 }
 HealBot_Config_Spells = {
@@ -200,13 +200,13 @@ HealBot_Config_Spells = {
 		["Left20"] = "S:8936",
 		["ShiftButton5"] = "C:B",
 		["Button510"] = "C:E",
-		["Button4"] = "C:D",
 		["CtrlMiddle20"] = "Nourish",
+		["Button4"] = "C:D",
 		["ShiftButton440"] = "C:A",
 		["Right20"] = "S:5185",
 		["CtrlMiddle30"] = "Nourish",
-		["Middle10"] = "S:774",
 		["ShiftButton510"] = "C:B",
+		["Middle10"] = "S:774",
 		["ShiftButton540"] = "C:B",
 		["Left40"] = "S:8936",
 		["Right10"] = "S:5185",
@@ -275,17 +275,17 @@ HealBot_Config_Buffs = {
 	["WellFedItem"] = "",
 	["AutoBuffCastBy"] = 1,
 	["BuffWatchWhenGrouped"] = false,
-	["CustomBuffName"] = {
-		"", -- [1]
-		"", -- [2]
-		"", -- [3]
+	["CustomBuffCheck"] = {
+		false, -- [1]
+		false, -- [2]
+		false, -- [3]
 	},
 	["BuffWatch"] = true,
 	["AlwaysShowSelf"] = false,
-	["BuffWatchInCombat"] = false,
+	["HealBot_CBWarnRange_Sound"] = 3,
 	["ListSortOrder"] = 1,
 	["LongBuffTimer"] = 120,
-	["HealBot_CBWarnRange_Sound"] = 3,
+	["BuffWatchInCombat"] = false,
 	["HealBotBuffColB"] = {
 		1, -- [1]
 		1, -- [2]
@@ -372,10 +372,10 @@ HealBot_Config_Buffs = {
 		["23"] = 15,
 	},
 	["ListSortFilterTag"] = "",
-	["CustomBuffCheck"] = {
-		false, -- [1]
-		false, -- [2]
-		false, -- [3]
+	["CustomBuffName"] = {
+		"", -- [1]
+		"", -- [2]
+		"", -- [3]
 	},
 	["HealBotBuffText"] = {
 		"Mark of the Wild", -- [1]
@@ -469,10 +469,10 @@ HealBot_Config_Cures = {
 	["ListSortOrder"] = 1,
 	["DebuffWatchInCombat"] = true,
 	["HealBot_Custom_Debuffs_All"] = {
-		["Poison"] = false,
 		["Curse"] = false,
-		["Magic"] = false,
 		["Disease"] = false,
+		["Magic"] = false,
+		["Poison"] = false,
 	},
 	["HealBot_CDCWarnRange_Bar"] = 3,
 	["SoundDebuffPlay"] = "Tribal Bass Drum",
@@ -506,25 +506,25 @@ HealBot_Config_Cures = {
 	["IgnoreOnCooldownDebuffs"] = false,
 	["IgnoreFriendDebuffs"] = false,
 	["CDCBarColour"] = {
-		["Poison"] = {
-			["R"] = 0.12,
-			["G"] = 0.46,
-			["B"] = 0.24,
-		},
 		["Curse"] = {
 			["R"] = 0.83,
 			["G"] = 0.43,
 			["B"] = 0.09,
+		},
+		["Disease"] = {
+			["R"] = 0.55,
+			["G"] = 0.19,
+			["B"] = 0.7,
 		},
 		["Magic"] = {
 			["R"] = 0.26,
 			["G"] = 0.33,
 			["B"] = 0.83,
 		},
-		["Disease"] = {
-			["R"] = 0.55,
-			["G"] = 0.19,
-			["B"] = 0.7,
+		["Poison"] = {
+			["R"] = 0.12,
+			["G"] = 0.46,
+			["B"] = 0.24,
 		},
 	},
 	["HealBotDebuffPriority"] = {

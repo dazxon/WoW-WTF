@@ -54,20 +54,20 @@ HealBot_Plugin_TimeToLive_Config = {
 	["borderB"] = {
 		["Global"] = 1,
 	},
-	["borderG"] = {
-		["Global"] = 1,
+	["playertxtchars"] = {
+		["Global"] = 0,
 	},
-	["barR"] = {
-		["Global"] = 0.4,
+	["titletextB"] = {
+		["Global"] = 0.58,
 	},
 	["bartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["borderA"] = {
-		["Global"] = 0.25,
+	["bartxtR"] = {
+		["Global"] = 0.8,
 	},
-	["barG"] = {
-		["Global"] = 0.4,
+	["borderR"] = {
+		["Global"] = 1,
 	},
 	["fontsize"] = {
 		["Global"] = 11,
@@ -78,8 +78,8 @@ HealBot_Plugin_TimeToLive_Config = {
 	["frameX"] = {
 		["Global"] = 1424,
 	},
-	["barB"] = {
-		["Global"] = 0.4,
+	["headerG"] = {
+		["Global"] = 0.1,
 	},
 	["titlebackA"] = {
 		["Global"] = 0.4,
@@ -93,11 +93,11 @@ HealBot_Plugin_TimeToLive_Config = {
 	["titletextR"] = {
 		["Global"] = 0.58,
 	},
-	["titlebackG"] = {
-		["Global"] = 1,
+	["texture"] = {
+		["Global"] = "Smooth",
 	},
-	["titlebackB"] = {
-		["Global"] = 1,
+	["OnlyShowOutOfCombat"] = {
+		["Global"] = true,
 	},
 	["titletextA"] = {
 		["Global"] = 0.9,
@@ -111,28 +111,28 @@ HealBot_Plugin_TimeToLive_Config = {
 	["titletext"] = {
 		["Global"] = "HealBot TimeToLive",
 	},
-	["OnlyShowOutOfCombat"] = {
-		["Global"] = true,
+	["titlebackB"] = {
+		["Global"] = 1,
 	},
-	["texture"] = {
-		["Global"] = "Smooth",
+	["titlebackG"] = {
+		["Global"] = 1,
 	},
 	["barA"] = {
 		["Global"] = 0,
 	},
-	["headerG"] = {
-		["Global"] = 0.1,
+	["barB"] = {
+		["Global"] = 0.4,
 	},
-	["borderR"] = {
+	["barG"] = {
+		["Global"] = 0.4,
+	},
+	["borderA"] = {
+		["Global"] = 0.25,
+	},
+	["barR"] = {
+		["Global"] = 0.4,
+	},
+	["borderG"] = {
 		["Global"] = 1,
-	},
-	["bartxtR"] = {
-		["Global"] = 0.8,
-	},
-	["titletextB"] = {
-		["Global"] = 0.58,
-	},
-	["playertxtchars"] = {
-		["Global"] = 0,
 	},
 }

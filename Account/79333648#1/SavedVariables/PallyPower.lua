@@ -9,9 +9,9 @@ PallyPowerDB = {
 		["Bocajuniors - Faerlina"] = "Other",
 		["Platinada - Grobbulus"] = "Default",
 		["Naowebona - Faerlina"] = "Other",
-		["Petemaker - Faerlina"] = "Other",
-		["Elfitanashe - Faerlina"] = "Other",
 		["Platinada - Faerlina"] = "Default",
+		["Elfitanashe - Faerlina"] = "Other",
+		["Petemaker - Faerlina"] = "Other",
 		["Platinada - Benediction"] = "Default",
 		["Trollituwu - Faerlina"] = "Other",
 	},
@@ -33,66 +33,6 @@ PallyPowerDB = {
 	},
 }
 PallyPower_Assignments = {
-	["Erzen"] = {
-		2, -- [1]
-		2, -- [2]
-		0, -- [3]
-		2, -- [4]
-		2, -- [5]
-		2, -- [6]
-		0, -- [7]
-		0, -- [8]
-		2, -- [9]
-		2, -- [10]
-	},
-	["Afkblazingit"] = {
-		3, -- [1]
-		3, -- [2]
-		3, -- [3]
-		3, -- [4]
-		3, -- [5]
-		3, -- [6]
-		3, -- [7]
-		3, -- [8]
-		3, -- [9]
-		3, -- [10]
-	},
-	["Fadeawaay"] = {
-		4, -- [1]
-		4, -- [2]
-		4, -- [3]
-		4, -- [4]
-		4, -- [5]
-		4, -- [6]
-		4, -- [7]
-		4, -- [8]
-		4, -- [9]
-		4, -- [10]
-	},
-	["Shockmyanus"] = {
-		0, -- [1]
-		3, -- [2]
-		1, -- [3]
-		1, -- [4]
-		1, -- [5]
-		1, -- [6]
-		1, -- [7]
-		1, -- [8]
-		1, -- [9]
-		3, -- [10]
-	},
-	["Chenes"] = {
-		0, -- [1]
-		0, -- [2]
-		1, -- [3]
-		1, -- [4]
-		1, -- [5]
-		1, -- [6]
-		1, -- [7]
-		1, -- [8]
-		1, -- [9]
-		0, -- [10]
-	},
 }
 PallyPower_NormalAssignments = {
 }
@@ -143,37 +83,38 @@ PallyPower_AuraAssignments = {
 	["Lightice"] = 0,
 	["Asteestel-Whitemane"] = 0,
 	["Chenes"] = 0,
-	["Anorion"] = 0,
+	["Lalatína-Mankrik"] = 0,
+	["Aviciix"] = 0,
 	["Exorz"] = 0,
 	["Tsgg-Whitemane"] = 0,
 	["Mimblis"] = 0,
 	["Valkya-Windseeker"] = 0,
 	["Holysussyman"] = 0,
-	["Tomopala"] = 0,
-	["Vaneth-Whitemane"] = 0,
-	["Beföresky"] = 0,
+	["Bhorus"] = 0,
+	["Belcita"] = 5,
+	["Attanu-Sulfuras"] = 0,
 	["Zhaira"] = 0,
 	["Mulagar"] = 0,
 	["Protatos-Whitemane"] = 0,
-	["Fadeawaay"] = 1,
+	["Fadeawaay"] = 0,
 	["Janator-Grobbulus"] = 0,
-	["Càmbriá"] = 0,
-	["Laughlater"] = 0,
-	["Shockmyanus"] = 4,
-	["Xxåndis"] = 0,
-	["Mjølnir-Sulfuras"] = 0,
-	["Omgjuju-Eranikus"] = 0,
-	["Wavell-Grobbulus"] = 0,
-	["Drewpally-Mankrik"] = 0,
-	["Dirtychurch"] = 0,
 	["Holymaul"] = 0,
+	["Dirtychurch"] = 0,
+	["Shockmyanus"] = 0,
+	["Xxåndis"] = 0,
+	["Wavell-Grobbulus"] = 0,
+	["Omgjuju-Eranikus"] = 0,
+	["Mjølnir-Sulfuras"] = 0,
+	["Drewpally-Mankrik"] = 0,
+	["Laughlater"] = 0,
+	["Càmbriá"] = 0,
 	["Torrancia"] = 0,
-	["Attanu-Sulfuras"] = 0,
-	["Bhorus"] = 0,
-	["Afkblazingit"] = 1,
+	["Beföresky"] = 0,
+	["Tomopala"] = 0,
+	["Afkblazingit"] = 3,
 	["Sliceoftoast-Ashkandi"] = 0,
-	["Aviciix"] = 0,
-	["Lalatína-Mankrik"] = 0,
+	["Anorion"] = 0,
+	["Vaneth-Whitemane"] = 0,
 }
 PallyPower_SavedPresets = {
 	["PallyPower_Assignments"] = {
@@ -186,9 +127,7 @@ PallyPower_SavedPresets = {
 	},
 }
 PallyPower_ChanNames = {
-	"ALFCHANNEL", -- [1]
 	[0] = "None",
-	[3] = "naommgvo",
 }
 LCD_Data = nil
 LCD_GUIDAccess = nil

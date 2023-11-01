@@ -49,6 +49,7 @@ LBISSettings = {
 		["Phase 4"] = true,
 	},
 	["SelectedRank"] = "All",
+	["HideObsolete"] = false,
 	["SelectedSourceType"] = "All",
 	["SelectedSlot"] = "All",
 	["ShowCustom"] = false,

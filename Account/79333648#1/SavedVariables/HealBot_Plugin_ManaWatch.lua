@@ -9,34 +9,34 @@ HealBot_Plugin_ManaWatch_Config = {
 	["ColR"] = {
 		["Global"] = 0.4,
 	},
-	["UpBorderHazard"] = {
-		["Global"] = 5,
+	["InCombat"] = {
+		["Global"] = true,
 	},
 	["TargetPlayers"] = {
 		["Global"] = "Self",
 	},
-	["Sound"] = {
-		["Global"] = "Elf Bell Toll",
-	},
-	["ManaAlert"] = {
-		["Global"] = 25,
-	},
-	["TimeoutTimer"] = {
-		["Global"] = 10,
-	},
-	["ColB"] = {
-		["Global"] = 1,
-	},
-	["UpToolTip"] = {
+	["UpWarnText"] = {
 		["Global"] = true,
 	},
 	["ColG"] = {
 		["Global"] = 0.7,
 	},
-	["UpWarnText"] = {
+	["TimeoutTimer"] = {
+		["Global"] = 10,
+	},
+	["ManaAlert"] = {
+		["Global"] = 25,
+	},
+	["UpToolTip"] = {
 		["Global"] = true,
 	},
-	["InCombat"] = {
-		["Global"] = true,
+	["ColB"] = {
+		["Global"] = 1,
+	},
+	["Sound"] = {
+		["Global"] = "Elf Bell Toll",
+	},
+	["UpBorderHazard"] = {
+		["Global"] = 5,
 	},
 }

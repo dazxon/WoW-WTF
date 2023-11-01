@@ -1,5 +1,9 @@
 
 OmniCCDB = {
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.1.2",
+	},
 	["profileKeys"] = {
 		["Trollitaa - Faerlina"] = "Default",
 		["Torituwu - Faerlina"] = "Default",
@@ -9,15 +13,11 @@ OmniCCDB = {
 		["Bocajuniors - Faerlina"] = "Default",
 		["Platinada - Grobbulus"] = "Default",
 		["Naowebona - Faerlina"] = "Default",
-		["Platinada - Faerlina"] = "Default",
-		["Elfitanashe - Faerlina"] = "Default",
 		["Petemaker - Faerlina"] = "Default",
+		["Elfitanashe - Faerlina"] = "Default",
+		["Platinada - Faerlina"] = "Default",
 		["Platinada - Benediction"] = "Default",
 		["Trollituwu - Faerlina"] = "Default",
-	},
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "10.1.2",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -62,9 +62,9 @@ OmniCCDB = {
 			["themes"] = {
 				["Default"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["soon"] = {
+						},
+						["minutes"] = {
 						},
 						["seconds"] = {
 						},
@@ -72,9 +72,9 @@ OmniCCDB = {
 				},
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
-						["minutes"] = {
-						},
 						["soon"] = {
+						},
+						["minutes"] = {
 						},
 						["seconds"] = {
 						},

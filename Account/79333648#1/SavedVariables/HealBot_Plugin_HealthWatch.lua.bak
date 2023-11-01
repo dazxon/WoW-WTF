@@ -6,40 +6,40 @@ HealBot_Plugin_HealthWatch_Config = {
 	["UpSound"] = {
 		["Global"] = false,
 	},
-	["InCombat"] = {
-		["Global"] = true,
+	["RetryDuration"] = {
+		["Global"] = 180,
 	},
 	["ColR"] = {
 		["Global"] = 1,
 	},
-	["Sound"] = {
-		["Global"] = "Elf Bell Toll",
+	["UpWarnText"] = {
+		["Global"] = true,
 	},
 	["ColG"] = {
 		["Global"] = 0.2,
 	},
-	["TargetPlayers"] = {
-		["Global"] = "Self",
-	},
-	["ColB"] = {
-		["Global"] = 0.2,
-	},
-	["TimeoutTimer"] = {
-		["Global"] = 10,
+	["UpBorderHazard"] = {
+		["Global"] = 5,
 	},
 	["HealthAlert"] = {
 		["Global"] = 0.25,
 	},
+	["TimeoutTimer"] = {
+		["Global"] = 10,
+	},
+	["ColB"] = {
+		["Global"] = 0.2,
+	},
 	["UpToolTip"] = {
 		["Global"] = true,
 	},
-	["UpBorderHazard"] = {
-		["Global"] = 5,
+	["TargetPlayers"] = {
+		["Global"] = "Self",
 	},
-	["UpWarnText"] = {
+	["Sound"] = {
+		["Global"] = "Elf Bell Toll",
+	},
+	["InCombat"] = {
 		["Global"] = true,
-	},
-	["RetryDuration"] = {
-		["Global"] = 180,
 	},
 }

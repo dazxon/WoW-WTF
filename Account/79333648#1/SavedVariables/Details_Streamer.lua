@@ -9,9 +9,9 @@ Details_StreamerDB = {
 		["Bocajuniors - Faerlina"] = "Trollitaa - Faerlina",
 		["Platinada - Grobbulus"] = "Trollitaa - Faerlina",
 		["Naowebona - Faerlina"] = "Trollitaa - Faerlina",
-		["Petemaker - Faerlina"] = "Trollitaa - Faerlina",
-		["Elfitanashe - Faerlina"] = "Trollitaa - Faerlina",
 		["Platinada - Faerlina"] = "Trollitaa - Faerlina",
+		["Elfitanashe - Faerlina"] = "Trollitaa - Faerlina",
+		["Petemaker - Faerlina"] = "Trollitaa - Faerlina",
 		["Platinada - Benediction"] = "Trollitaa - Faerlina",
 		["Trollituwu - Faerlina"] = "Trollitaa - Faerlina",
 	},
@@ -25,11 +25,11 @@ Details_StreamerDB = {
 				1, -- [3]
 				0.5, -- [4]
 			},
+			["author"] = "Terciob",
 			["main_frame_size"] = {
 				300, -- [1]
 				500.0000305175781, -- [2]
 			},
-			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 60.62096355551343,
 				["radius"] = 160,
@@ -37,19 +37,29 @@ Details_StreamerDB = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
-			["author"] = "Terciob",
+			["font_size"] = 10,
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
-			["y"] = -4.57763671875e-05,
+			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -61,17 +71,7 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["font_size"] = 10,
+			["y"] = -4.57763671875e-05,
 			["x"] = 0.000152587890625,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,

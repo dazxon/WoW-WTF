@@ -1,10 +1,12 @@
 
 ElvDB = {
 	["profileKeys"] = {
-		["Trollitaa - Faerlina"] = "Default",
+		["Petemaker - Faerlina"] = "Default",
 		["Torituwu - Faerlina"] = "Default",
 		["Elfitanashe - Faerlina"] = "Default",
-		["Petemaker - Faerlina"] = "Default",
+		["Tomopala - Faerlina"] = "Default",
+		["Masturbado - Faerlina"] = "Default",
+		["Trollitaa - Faerlina"] = "Default",
 	},
 	["DisabledAddOns"] = {
 	},
@@ -15,10 +17,12 @@ ElvDB = {
 	},
 	["class"] = {
 		["Faerlina"] = {
-			["Petemaker"] = "WARLOCK",
-			["Torituwu"] = "DRUID",
 			["Trollitaa"] = "SHAMAN",
 			["Elfitanashe"] = "MAGE",
+			["Masturbado"] = "WARRIOR",
+			["Torituwu"] = "DRUID",
+			["Petemaker"] = "WARLOCK",
+			["Tomopala"] = "PALADIN",
 		},
 	},
 	["profiles"] = {
@@ -31,6 +35,11 @@ ElvDB = {
 				["reputation"] = {
 					["enable"] = true,
 				},
+				["experience"] = {
+					["yOffset"] = 8,
+					["frameStrata"] = "BACKGROUND",
+					["width"] = 1517,
+				},
 				["azerite"] = {
 					["enable"] = false,
 				},
@@ -38,9 +47,9 @@ ElvDB = {
 			["general"] = {
 				["autoTrackReputation"] = true,
 				["valuecolor"] = {
-					["b"] = 0.04,
-					["g"] = 0.49,
-					["r"] = 1,
+					["b"] = 0.43,
+					["g"] = 0.61,
+					["r"] = 0.78,
 				},
 				["objectiveFrameHeight"] = 400,
 				["totems"] = {
@@ -100,14 +109,14 @@ ElvDB = {
 				["ElvUF_FocusMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-351,449",
 				["ElvUF_PetMover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,542,307",
 				["TotemBarMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,250",
-				["ElvUIBankMover"] = "BOTTOMLEFT,LeftChatPanel,BOTTOMLEFT,0,27",
+				["ElvUF_TargetTargetMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-510,79",
 				["DurabilityFrameMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,141,-4",
 				["ElvUF_PetCastbarMover"] = "TOPLEFT,ElvUF_Pet,BOTTOMLEFT,0,-1",
 				["VehicleSeatMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,4,-4",
-				["ElvUF_TargetMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-528,167",
+				["ElvUIBankMover"] = "BOTTOMLEFT,LeftChatPanel,BOTTOMLEFT,0,27",
 				["ExperienceBarMover"] = "TOP,UIParent,TOP,0,-19",
 				["ElvAB_6"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-4,295",
-				["ElvUF_TargetTargetMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-510,79",
+				["ElvUF_TargetMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-528,167",
 				["ElvUIBagMover"] = "BOTTOMRIGHT,RightChatPanel,BOTTOMRIGHT,0,27",
 				["LossControlMover"] = "BOTTOM,ElvUIParent,BOTTOM,-1,507",
 				["QueueStatusMover"] = "BOTTOMRIGHT,ElvUI_MinimapHolder,BOTTOMRIGHT,-6,26",
@@ -297,9 +306,9 @@ ElvDB = {
 				["colors"] = {
 					["healthclass"] = true,
 					["auraBarBuff"] = {
-						["b"] = 0.04,
-						["g"] = 0.49,
-						["r"] = 1,
+						["b"] = 0.43,
+						["g"] = 0.61,
+						["r"] = 0.78,
 					},
 					["castClassColor"] = true,
 					["castColor"] = {
@@ -381,6 +390,7 @@ ElvDB = {
 							["yOffset"] = 0,
 						},
 						["health"] = {
+							["height"] = 9,
 							["text"] = {
 								["format"] = "",
 							},
@@ -444,9 +454,9 @@ ElvDB = {
 			},
 			["chat"] = {
 				["tabSelectorColor"] = {
-					["b"] = 0.04,
-					["g"] = 0.49,
-					["r"] = 1,
+					["b"] = 0.43,
+					["g"] = 0.61,
+					["r"] = 0.78,
 				},
 				["panelWidth"] = 472,
 				["panelHeight"] = 236,
@@ -459,21 +469,26 @@ ElvDB = {
 	},
 	["gold"] = {
 		["Faerlina"] = {
-			["Petemaker"] = 7160,
-			["Torituwu"] = 447634,
 			["Trollitaa"] = 63775637,
-			["Elfitanashe"] = 3706329,
+			["Elfitanashe"] = 3212119,
+			["Masturbado"] = 11646896,
+			["Torituwu"] = 431622,
+			["Petemaker"] = 7160,
+			["Tomopala"] = 9373830,
 		},
 	},
 	["global"] = {
-		["general"] = {
-			["UIScale"] = 0.6,
-		},
 		["datatexts"] = {
 			["settings"] = {
 				["Currencies"] = {
 					["tooltipData"] = {
 						[14] = {
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							true, -- [4]
+						},
+						[7] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
@@ -489,6 +504,9 @@ ElvDB = {
 				},
 			},
 		},
+		["general"] = {
+			["UIScale"] = 0.6,
+		},
 		["nameplates"] = {
 			["filters"] = {
 				["ElvUI_NonTarget"] = {
@@ -502,10 +520,12 @@ ElvDB = {
 	},
 	["faction"] = {
 		["Faerlina"] = {
-			["Petemaker"] = "Horde",
-			["Torituwu"] = "Horde",
 			["Trollitaa"] = "Horde",
 			["Elfitanashe"] = "Horde",
+			["Masturbado"] = "Horde",
+			["Torituwu"] = "Horde",
+			["Petemaker"] = "Horde",
+			["Tomopala"] = "Horde",
 		},
 	},
 	["namespaces"] = {
@@ -515,18 +535,15 @@ ElvDB = {
 }
 ElvPrivateDB = {
 	["profileKeys"] = {
-		["Trollitaa - Faerlina"] = "Trollitaa - Faerlina",
+		["Petemaker - Faerlina"] = "Petemaker - Faerlina",
 		["Torituwu - Faerlina"] = "Torituwu - Faerlina",
 		["Elfitanashe - Faerlina"] = "Elfitanashe - Faerlina",
-		["Petemaker - Faerlina"] = "Petemaker - Faerlina",
+		["Tomopala - Faerlina"] = "Tomopala - Faerlina",
+		["Masturbado - Faerlina"] = "Masturbado - Faerlina",
+		["Trollitaa - Faerlina"] = "Trollitaa - Faerlina",
 	},
 	["profiles"] = {
-		["Trollitaa - Faerlina"] = {
-			["nameplates"] = {
-				["enable"] = false,
-			},
-			["theme"] = "class",
-			["install_complete"] = 13.45,
+		["Petemaker - Faerlina"] = {
 		},
 		["Torituwu - Faerlina"] = {
 			["tooltip"] = {
@@ -540,7 +557,18 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = 13.45,
 		},
-		["Petemaker - Faerlina"] = {
+		["Tomopala - Faerlina"] = {
+			["install_complete"] = 13.45,
+		},
+		["Masturbado - Faerlina"] = {
+			["install_complete"] = 13.45,
+		},
+		["Trollitaa - Faerlina"] = {
+			["nameplates"] = {
+				["enable"] = false,
+			},
+			["theme"] = "class",
+			["install_complete"] = 13.45,
 		},
 	},
 }

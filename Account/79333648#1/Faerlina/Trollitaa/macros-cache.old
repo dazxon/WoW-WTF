@@ -7,6 +7,16 @@ VER 3 000000000100000E "CORTA/PURGE" "INV_MISC_QUESTIONMARK"
 /cast Wind Shear
 /cast Purge
 END
+VER 3 0000000001000017 "Earth Shock" "134400"
+#showtootip
+/cast Earth Shock
+/startattack
+END
+VER 3 0000000001000018 "ELEMENTS" "134400"
+#showtootip
+/cast Call of the Elements
+/startattack
+END
 VER 3 0000000001000014 "FERAL + POT" "134400"
 #showtooltip Feral Spirit
 /startattack
@@ -22,10 +32,20 @@ VER 3 000000000100000D "Feral RUN" "237577"
 /cast Spirit Walk
 /petattack
 END
+VER 3 0000000001000016 "Fire Nova" "134400"
+#showtootip
+/cast Fire Nova
+/startattack
+END
 VER 3 000000000100000C "Flame Shock" "135813"
 #showtootip
 /cast Flame Shock
 /startattack
+END
+VER 3 000000000100000A "Hands Rage" "351062"
+#showtooltip 10
+/cast Shamanistic Rage
+/use 10
 END
 VER 3 0000000001000010 "INGENIEROWO" "INV_MISC_QUESTIONMARK"
 #showtooltip Saronite Bomb
@@ -37,17 +57,14 @@ VER 3 0000000001000013 "Lava lash" "134400"
 /cast Lava Lash(Rank 1)
 /startattack
 END
+VER 3 0000000001000015 "Lightning bolt" "134400"
+#showtootip
+/cast Lightning Bolt
+/startattack
+END
 VER 3 0000000001000008 "PIEDRA" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /castsequence reset=30 Wrath of Air Totem,Bloodlust,Astral Recall
-END
-VER 3 000000000100000A "RAGE + BERS" "INV_MISC_QUESTIONMARK"
-#showtooltip 10
-/cast Berserking
-/use Potion of Wild Magic
-/use 13
-/use 14
-/use 10
 END
 VER 3 0000000001000009 "Stormtrike" "INV_MISC_QUESTIONMARK"
 #showtooltip

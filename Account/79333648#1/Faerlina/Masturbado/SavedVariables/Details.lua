@@ -15,15 +15,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.005538,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 7783.005537999999,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 7783.005537999999,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -37,7 +36,8 @@ _detalhes_database = {
 								[128] = 2935,
 							},
 							["end_time"] = 1695157679,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -45,7 +45,7 @@ _detalhes_database = {
 										["c_amt"] = 3,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 402,
 										["targets"] = {
 											["Sunfury Archer"] = 2600,
 										},
@@ -67,14 +67,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1811,
 										["n_amt"] = 2,
-										["n_max"] = 402,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Sunfury Archer"] = 0,
 										},
@@ -96,14 +96,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 417,
 										["targets"] = {
 											["Sunfury Archer"] = 417,
 										},
@@ -124,14 +124,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 417,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Sunfury Archer"] = 3507,
 										},
@@ -152,14 +152,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 3507,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 507,
 										["targets"] = {
 											["Sunfury Archer"] = 507,
 										},
@@ -180,14 +180,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 507,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 121,
 										["targets"] = {
 											["Sunfury Archer"] = 529,
 										},
@@ -208,14 +208,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["n_max"] = 121,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 223,
 										["targets"] = {
 											["Sunfury Archer"] = 223,
 										},
@@ -236,14 +236,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 223,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157678,
@@ -259,10 +259,9 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 3740.008215,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = true,
 							["total"] = 3740.008215,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = true,
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4391-530-72-19707-00000A0C94",
 							["damage_from"] = {
@@ -276,7 +275,7 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["dps_started"] = true,
+							["monster"] = true,
 							["fight_component"] = true,
 							["totalabsorbed"] = 0.008215,
 							["aID"] = "19707",
@@ -284,23 +283,23 @@ _detalhes_database = {
 							["spells"] = {
 								["_ActorTable"] = {
 									{
-										["DODGE"] = 2,
+										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 200,
 										["targets"] = {
 											["Masturbado"] = 541,
 											["Nether Beast"] = 3199,
 										},
 										["n_total"] = 3740,
-										["g_dmg"] = 0,
-										["n_min"] = 145,
 										["MISS"] = 1,
+										["n_min"] = 145,
+										["g_dmg"] = 0,
 										["counter"] = 26,
 										["a_amt"] = 0,
 										["total"] = 3740,
 										["c_max"] = 0,
-										["c_amt"] = 0,
+										["DODGE"] = 2,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -312,13 +311,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 22,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
-										["n_max"] = 200,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = true,
+							["friendlyfire"] = {
+							},
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157869,
@@ -335,12 +335,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008387,
 							["total_without_pet"] = 331.008387,
 							["total"] = 331.008387,
@@ -359,10 +360,9 @@ _detalhes_database = {
 							["healing_taken"] = 331.008387,
 							["fight_component"] = true,
 							["end_time"] = 1695157679,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157678,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -380,12 +380,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 331,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -395,8 +395,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157678,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.008387,
@@ -415,8 +415,8 @@ _detalhes_database = {
 							["resource"] = 0.002664,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.002664,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.002664,
 							["total"] = 1.002664,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -431,8 +431,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -442,8 +442,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.002664,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.002664,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157673,
@@ -506,7 +506,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 46,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -521,14 +522,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[65156] = {
-										["appliedamt"] = 1,
+									[52437] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 65156,
-										["refreshamt"] = 0,
+										["activedamt"] = 2,
+										["uptime"] = 4,
+										["id"] = 52437,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -543,14 +544,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
-										["appliedamt"] = 2,
+									[65156] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 4,
-										["id"] = 52437,
-										["refreshamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 8,
+										["id"] = 65156,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -592,19 +593,18 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 19,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 46,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157679,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157679,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -628,7 +628,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1366,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					17329, -- [1]
@@ -653,26 +655,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					7783, -- [1]
-					331, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -700,12 +683,29 @@ _detalhes_database = {
 				["end_time"] = 523467.932,
 				["combat_id"] = 1352,
 				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Nether Beast"] = 5,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					7783, -- [1]
+					331, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -727,13 +727,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1366,
 				["start_time"] = 523459.41,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Nether Beast"] = 5,
 				},
 			}, -- [1]
 			{
@@ -746,15 +746,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.001505,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 6683.001505,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6683.001505,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -767,7 +766,8 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["end_time"] = 1695157655,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -775,7 +775,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 365,
 										["targets"] = {
 											["Sunfury Archer"] = 1662,
 										},
@@ -796,154 +796,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 400,
 										["n_amt"] = 5,
-										["n_max"] = 365,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
-									[25286] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 2067,
-										},
-										["n_total"] = 1070,
-										["n_min"] = 530,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 2067,
-										["c_max"] = 997,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 997,
-										["successful_casted"] = 0,
-										["c_total"] = 997,
-										["n_amt"] = 2,
-										["n_max"] = 540,
-										["r_amt"] = 0,
-									},
-									[20569] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 518,
-										},
-										["n_total"] = 518,
-										["n_min"] = 518,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 518,
-										["c_max"] = 0,
-										["id"] = 20569,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["n_max"] = 518,
-										["r_amt"] = 0,
-									},
-									[20647] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 782,
-										},
-										["n_total"] = 782,
-										["n_min"] = 782,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 782,
-										["c_max"] = 0,
-										["id"] = 20647,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["n_max"] = 782,
-										["r_amt"] = 0,
-									},
-									[11574] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 385,
-										},
-										["n_total"] = 385,
-										["n_min"] = 167,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 385,
-										["c_max"] = 0,
-										["id"] = 11574,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["n_max"] = 218,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 424,
-										},
-										["n_total"] = 424,
-										["n_min"] = 106,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 424,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 4,
-										["n_max"] = 106,
-										["r_amt"] = 0,
-									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Sunfury Archer"] = 845,
 										},
@@ -964,14 +824,154 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 845,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[20569] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 518,
+										["targets"] = {
+											["Sunfury Archer"] = 518,
+										},
+										["n_total"] = 518,
+										["n_min"] = 518,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 518,
+										["c_max"] = 0,
+										["id"] = 20569,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[20647] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 782,
+										["targets"] = {
+											["Sunfury Archer"] = 782,
+										},
+										["n_total"] = 782,
+										["n_min"] = 782,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 782,
+										["c_max"] = 0,
+										["id"] = 20647,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[11574] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 218,
+										["targets"] = {
+											["Sunfury Archer"] = 385,
+										},
+										["n_total"] = 385,
+										["n_min"] = 167,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 385,
+										["c_max"] = 0,
+										["id"] = 11574,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 106,
+										["targets"] = {
+											["Sunfury Archer"] = 424,
+										},
+										["n_total"] = 424,
+										["n_min"] = 106,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 424,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 540,
+										["targets"] = {
+											["Sunfury Archer"] = 2067,
+										},
+										["n_total"] = 1070,
+										["n_min"] = 530,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2067,
+										["c_max"] = 997,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 997,
+										["successful_casted"] = 0,
+										["c_total"] = 997,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157655,
@@ -987,7 +987,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1693.007738,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 1693.007738,
 							["friendlyfire"] = {
 							},
@@ -1016,7 +1016,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 193,
 										["targets"] = {
 											["Masturbado"] = 687,
 											["Nether Beast"] = 1006,
@@ -1039,13 +1039,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 10,
-										["n_max"] = 193,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157665,
@@ -1062,12 +1062,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.00119,
 							["total_without_pet"] = 332.00119,
 							["total"] = 332.00119,
@@ -1086,10 +1087,9 @@ _detalhes_database = {
 							["healing_taken"] = 332.00119,
 							["fight_component"] = true,
 							["end_time"] = 1695157655,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157655,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1107,12 +1107,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 332,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -1122,8 +1122,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157655,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.00119,
@@ -1142,8 +1142,8 @@ _detalhes_database = {
 							["resource"] = 0.006127,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.006127,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.006127,
 							["total"] = 13.006127,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -1158,8 +1158,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 3,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 3,
 										},
@@ -1167,8 +1167,8 @@ _detalhes_database = {
 									},
 									[58362] = {
 										["total"] = 10,
-										["totalover"] = 0,
 										["id"] = 58362,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
@@ -1178,8 +1178,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.006127,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.006127,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157654,
@@ -1243,7 +1243,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 38,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -1318,19 +1319,18 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 10,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 38,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157655,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157655,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1354,7 +1354,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1365,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					9086, -- [1]
@@ -1379,26 +1381,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					6683, -- [1]
-					332, -- [2]
-					{
-						13, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -1425,12 +1408,29 @@ _detalhes_database = {
 				["end_time"] = 523444.034,
 				["combat_id"] = 1351,
 				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Nether Beast"] = 7,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					6683, -- [1]
+					332, -- [2]
+					{
+						13, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -1452,13 +1452,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1365,
 				["start_time"] = 523435.23,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Nether Beast"] = 7,
 				},
 			}, -- [2]
 			{
@@ -1471,20 +1471,13 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.006754,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 0.006754,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 0.006754,
 							["spec"] = 71,
-							["friendlyfire"] = {
-								["Masturbado"] = {
-									["spells"] = {
-										[35995] = 1487,
-									},
-									["total"] = 1487,
-								},
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -1497,7 +1490,14 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["end_time"] = 1695157647,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+								["Masturbado"] = {
+									["spells"] = {
+										[35995] = 1487,
+									},
+									["total"] = 1487,
+								},
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1505,7 +1505,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Sunfury Archer"] = 0,
 										},
@@ -1527,14 +1527,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157647,
@@ -1615,17 +1615,17 @@ _detalhes_database = {
 								["tipo"] = 9,
 							},
 							["fight_component"] = true,
+							["last_event"] = 1695157637,
 							["nome"] = "Masturbado",
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
 							["spec"] = 71,
 							["grupo"] = true,
 							["tipo"] = 4,
-							["aID"] = "4408-0474E7DA",
+							["pets"] = {
+							},
 							["serial"] = "Player-4408-0474E7DA",
-							["last_event"] = 1695157637,
+							["aID"] = "4408-0474E7DA",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1673,65 +1673,6 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					1487, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "18:07:18",
-				["pvp"] = true,
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Unknown",
-				["trinketProcs"] = {
-				},
-				["aura_timeline"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Masturbado"] = 0.006754,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 523425.621,
-				["combat_id"] = 1350,
-				["spells_cast_timeline"] = {
-				},
-				["overall_added"] = true,
 				["player_last_events"] = {
 					["Masturbado"] = {
 						{
@@ -1831,15 +1772,74 @@ _detalhes_database = {
 						["n"] = 4,
 					},
 				},
-				["data_inicio"] = "18:07:17",
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "18:07:18",
+				["pvp"] = true,
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Unknown",
+				["trinketProcs"] = {
+				},
+				["aura_timeline"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Masturbado"] = 0.006754,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 523425.621,
+				["combat_id"] = 1350,
+				["frags"] = {
+					["Nether Beast"] = 1,
+				},
+				["overall_added"] = true,
 				["cleu_events"] = {
 					["n"] = 1,
 				},
+				["totals_grupo"] = {
+					1487, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["data_inicio"] = "18:07:17",
 				["start_time"] = 523424.612,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Nether Beast"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [3]
 			{
@@ -1852,15 +1852,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.005323,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 5268.005322999999,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5268.005322999999,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -1874,7 +1873,8 @@ _detalhes_database = {
 								[16] = 5268,
 							},
 							["end_time"] = 1695157627,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -1882,7 +1882,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 336,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 983,
 										},
@@ -1904,14 +1904,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 424,
 										["n_amt"] = 1,
-										["n_max"] = 336,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[7384] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 1659,
 										},
@@ -1932,14 +1932,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1659,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 513,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 1575,
 										},
@@ -1960,14 +1960,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1062,
 										["n_amt"] = 1,
-										["n_max"] = 513,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 499,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 499,
 										},
@@ -1988,14 +1988,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 499,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 53,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 159,
 										},
@@ -2016,14 +2016,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 53,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 222,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 393,
 										},
@@ -2044,14 +2044,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["n_max"] = 222,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157626,
@@ -2067,7 +2067,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 647.00236,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 647.00236,
 							["friendlyfire"] = {
 							},
@@ -2094,7 +2094,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 177,
 										["targets"] = {
 											["Masturbado"] = 647,
 										},
@@ -2115,14 +2115,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 298,
 										["n_amt"] = 2,
-										["n_max"] = 177,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[35831] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -2141,13 +2141,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157625,
@@ -2164,12 +2164,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.005431,
 							["total_without_pet"] = 330.005431,
 							["total"] = 330.005431,
@@ -2188,10 +2189,9 @@ _detalhes_database = {
 							["healing_taken"] = 330.005431,
 							["fight_component"] = true,
 							["end_time"] = 1695157627,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157626,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2209,12 +2209,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 330,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -2224,8 +2224,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157626,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.005431,
@@ -2244,8 +2244,8 @@ _detalhes_database = {
 							["resource"] = 0.001249,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.001249,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.001249,
 							["total"] = 11.001249,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -2260,8 +2260,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -2269,8 +2269,8 @@ _detalhes_database = {
 									},
 									[58362] = {
 										["total"] = 10,
-										["totalover"] = 0,
 										["id"] = 58362,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
@@ -2280,8 +2280,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.001249,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.001249,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157625,
@@ -2333,7 +2333,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 30,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -2348,17 +2349,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 7,
-										["id"] = 25289,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[60503] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -2366,6 +2356,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 3,
 										["id"] = 60503,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[25289] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -2397,32 +2398,31 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 8,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 30,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157627,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157627,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Spellreaver Marathelle",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-19926-00000A0D06",
 							["aID"] = "19926",
+							["fight_component"] = true,
+							["nome"] = "Spellreaver Marathelle",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-19926-00000A0D06",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -2445,7 +2445,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1363,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					5915, -- [1]
@@ -2518,11 +2520,12 @@ _detalhes_database = {
 				["end_time"] = 523415.297,
 				["combat_id"] = 1349,
 				["overall_added"] = true,
-				["frags"] = {
-					["Spellreaver Marathelle"] = 1,
-					["Nether Beast"] = 8,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Spellreaver Marathelle",
+				["combat_counter"] = 1363,
+				["player_last_events"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -2543,15 +2546,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["player_last_events"] = {
-				},
 				["start_time"] = 523408.464,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Spellreaver Marathelle"] = 1,
+					["Nether Beast"] = 8,
 				},
 			}, -- [4]
 			{
@@ -2564,15 +2564,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.004071,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 6622.004071,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6622.004071,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -2587,7 +2586,8 @@ _detalhes_database = {
 								[128] = 5168,
 							},
 							["end_time"] = 1695157612,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2595,7 +2595,7 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 346,
 										["targets"] = {
 											["Spellreaver Marathelle"] = 0,
 											["Sunfury Archer"] = 2609,
@@ -2605,12 +2605,12 @@ _detalhes_database = {
 										["g_dmg"] = 164,
 										["counter"] = 10,
 										["DODGE"] = 1,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 2609,
+										["c_max"] = 810,
 										["MISS"] = 2,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 810,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -2619,14 +2619,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1272,
 										["n_amt"] = 4,
-										["n_max"] = 346,
-										["total"] = 2609,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 450,
+										["n_max"] = 547,
 										["targets"] = {
 											["Sunfury Archer"] = 997,
 										},
@@ -2647,14 +2647,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["n_max"] = 547,
+										["b_dmg"] = 450,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 218,
 										["targets"] = {
 											["Sunfury Archer"] = 386,
 										},
@@ -2675,14 +2675,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["n_max"] = 218,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 797,
 										["targets"] = {
 											["Sunfury Archer"] = 797,
 										},
@@ -2703,14 +2703,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 797,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 497,
 										["targets"] = {
 											["Sunfury Archer"] = 497,
 										},
@@ -2731,14 +2731,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 497,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 96,
 										["targets"] = {
 											["Sunfury Archer"] = 444,
 										},
@@ -2759,14 +2759,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["n_max"] = 96,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Sunfury Archer"] = 892,
 										},
@@ -2787,14 +2787,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 892,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157619,
@@ -2810,7 +2810,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 3038.00127,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 3038.00127,
 							["friendlyfire"] = {
 							},
@@ -2839,7 +2839,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 120,
+										["n_max"] = 191,
 										["targets"] = {
 											["Masturbado"] = 865,
 											["Nether Beast"] = 2173,
@@ -2861,14 +2861,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 19,
-										["n_max"] = 191,
+										["b_dmg"] = 120,
 										["r_amt"] = 0,
 									}, -- [1]
 									[12024] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -2887,13 +2887,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157616,
@@ -2910,12 +2910,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.007991,
 							["total_without_pet"] = 331.007991,
 							["total"] = 331.007991,
@@ -2934,10 +2935,9 @@ _detalhes_database = {
 							["healing_taken"] = 331.007991,
 							["fight_component"] = true,
 							["end_time"] = 1695157612,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157612,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2955,12 +2955,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 331,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -2970,8 +2970,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157612,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.007991,
@@ -2990,8 +2990,8 @@ _detalhes_database = {
 							["resource"] = 0.001421,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.001421,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.001421,
 							["total"] = 1.001421,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -3006,8 +3006,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -3017,8 +3017,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.001421,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.001421,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157603,
@@ -3056,17 +3056,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[413763] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 7,
-										["id"] = 413763,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[46857] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -3078,10 +3067,22 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[413763] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 7,
+										["id"] = 413763,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 49,
+							["pets"] = {
+							},
 							["aID"] = "4408-0474E7DA",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -3156,32 +3157,31 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 17,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 49,
 							["classe"] = "WARRIOR",
 							["last_event"] = 1695157612,
-							["tipo"] = 4,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["tipo"] = 4,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Archer",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-19707-000309E980",
 							["aID"] = "19707",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Archer",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-19707-000309E980",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -3205,7 +3205,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1362,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					11341, -- [1]
@@ -3230,61 +3232,6 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					6622, -- [1]
-					331, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-					["Masturbado"] = {
-						["Rend"] = 1,
-						["Victory Rush"] = 1,
-						["Overpower"] = 1,
-						["Heroic Strike"] = 2,
-					},
-					["Sunfury Archer"] = {
-						["Net"] = 1,
-					},
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "18:06:52",
-				["hasTimer"] = 10.07999999995809,
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Sunfury Archer",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 523400.283,
-				["CombatEndedAt"] = 523400.283,
-				["aura_timeline"] = {
-				},
-				["data_inicio"] = "18:06:41",
-				["end_time"] = 523400.283,
-				["combat_id"] = 1348,
-				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Nether Beast"] = 1,
-				},
-				["contra"] = "Sunfury Archer",
 				["player_last_events"] = {
 					["Masturbado"] = {
 						{
@@ -3366,6 +3313,59 @@ _detalhes_database = {
 						["n"] = 2,
 					},
 				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+					["Masturbado"] = {
+						["Rend"] = 1,
+						["Victory Rush"] = 1,
+						["Overpower"] = 1,
+						["Heroic Strike"] = 2,
+					},
+					["Sunfury Archer"] = {
+						["Net"] = 1,
+					},
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "18:06:52",
+				["hasTimer"] = 10.07999999995809,
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Sunfury Archer",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 523400.283,
+				["CombatEndedAt"] = 523400.283,
+				["aura_timeline"] = {
+				},
+				["data_inicio"] = "18:06:41",
+				["end_time"] = 523400.283,
+				["combat_id"] = 1348,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["contra"] = "Sunfury Archer",
+				["totals_grupo"] = {
+					6622, -- [1]
+					331, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -3386,13 +3386,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1362,
 				["start_time"] = 523389.351,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Nether Beast"] = 1,
 				},
 			}, -- [5]
 			{
@@ -3405,15 +3405,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.003636,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 6614.003636,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6614.003636,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -3427,7 +3426,8 @@ _detalhes_database = {
 								[128] = 1204,
 							},
 							["end_time"] = 1695157587,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3435,7 +3435,7 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 308,
 										["targets"] = {
 											["Sunfury Archer"] = 1682,
 										},
@@ -3444,12 +3444,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 8,
 										["MISS"] = 2,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 1682,
+										["c_max"] = 601,
 										["a_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 601,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -3458,98 +3458,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 996,
 										["n_amt"] = 3,
-										["n_max"] = 308,
-										["total"] = 1682,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
-									[25286] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 1963,
-										},
-										["n_total"] = 1963,
-										["n_min"] = 449,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 1963,
-										["c_max"] = 0,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 4,
-										["n_max"] = 559,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 550,
-										},
-										["n_total"] = 550,
-										["n_min"] = 106,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 550,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 5,
-										["n_max"] = 124,
-										["r_amt"] = 0,
-									},
-									[7384] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 1854,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 1854,
-										["c_max"] = 980,
-										["id"] = 7384,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 874,
-										["successful_casted"] = 0,
-										["c_total"] = 1854,
-										["n_amt"] = 0,
-										["n_max"] = 0,
-										["r_amt"] = 0,
-									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 204,
 										["targets"] = {
 											["Sunfury Archer"] = 565,
 										},
@@ -3570,14 +3486,98 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 204,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 124,
+										["targets"] = {
+											["Sunfury Archer"] = 550,
+										},
+										["n_total"] = 550,
+										["n_min"] = 106,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 550,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[7384] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Sunfury Archer"] = 1854,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1854,
+										["c_max"] = 980,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 874,
+										["successful_casted"] = 0,
+										["c_total"] = 1854,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 559,
+										["targets"] = {
+											["Sunfury Archer"] = 1963,
+										},
+										["n_total"] = 1963,
+										["n_min"] = 449,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1963,
+										["c_max"] = 0,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157601,
@@ -3593,7 +3593,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 730.0030899999999,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 730.0030899999999,
 							["friendlyfire"] = {
 							},
@@ -3620,7 +3620,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 207,
 										["targets"] = {
 											["Masturbado"] = 730,
 										},
@@ -3642,14 +3642,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["n_max"] = 207,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[12024] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -3668,13 +3668,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157585,
@@ -3691,12 +3691,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.002134,
 							["total_without_pet"] = 395.002134,
 							["total"] = 395.002134,
@@ -3715,10 +3716,9 @@ _detalhes_database = {
 							["healing_taken"] = 395.002134,
 							["fight_component"] = true,
 							["end_time"] = 1695157587,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157585,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3736,12 +3736,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 64,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -3761,12 +3761,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 331,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -3776,8 +3776,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157585,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002134,
@@ -3849,7 +3849,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 54,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -3897,13 +3898,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
-										["appliedamt"] = 2,
+									[25289] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 2,
-										["id"] = 60503,
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -3919,13 +3920,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
-										["appliedamt"] = 1,
+									[60503] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 25289,
+										["activedamt"] = 2,
+										["uptime"] = 2,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -3935,32 +3936,31 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 28,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 54,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157587,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157587,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Archer",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-19707-00008A0C94",
 							["aID"] = "19707",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Archer",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-19707-00008A0C94",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -3984,7 +3984,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1361,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					7344, -- [1]
@@ -4009,26 +4011,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					6614, -- [1]
-					395, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -4059,12 +4042,29 @@ _detalhes_database = {
 				["end_time"] = 523374.724,
 				["combat_id"] = 1347,
 				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Nether Beast"] = 3,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					6614, -- [1]
+					395, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -4086,13 +4086,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1361,
 				["start_time"] = 523363.425,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Nether Beast"] = 3,
 				},
 			}, -- [6]
 			{
@@ -4105,15 +4105,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.005885,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 25476.005885,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 25476.005885,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -4132,7 +4131,8 @@ _detalhes_database = {
 								[64] = 7412,
 							},
 							["end_time"] = 1695157545,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4140,7 +4140,7 @@ _detalhes_database = {
 										["c_amt"] = 3,
 										["b_amt"] = 4,
 										["g_amt"] = 2,
-										["b_dmg"] = 1089,
+										["n_max"] = 391,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 2129,
 											["Nether Beast"] = 703,
@@ -4151,12 +4151,12 @@ _detalhes_database = {
 										["g_dmg"] = 490,
 										["counter"] = 26,
 										["a_amt"] = 0,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 6251,
+										["c_max"] = 785,
 										["MISS"] = 5,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 785,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -4165,14 +4165,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1935,
 										["n_amt"] = 14,
-										["n_max"] = 391,
-										["total"] = 6251,
+										["b_dmg"] = 1089,
+										["r_amt"] = 0,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 507,
 										["targets"] = {
 											["Sunfury Archer"] = 2974,
 										},
@@ -4193,14 +4193,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1004,
 										["n_amt"] = 4,
-										["n_max"] = 507,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20569] = {
 										["c_amt"] = 1,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 442,
+										["n_max"] = 481,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 1204,
 											["Nether Beast"] = 481,
@@ -4224,14 +4224,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1204,
 										["n_amt"] = 2,
-										["n_max"] = 481,
+										["b_dmg"] = 442,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 3,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 465,
 										["targets"] = {
 											["Nether Beast"] = 890,
 											["Sunfury Archer"] = 2272,
@@ -4253,14 +4253,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2697,
 										["n_amt"] = 1,
-										["n_max"] = 465,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 89,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 605,
 											["Sunfury Archer"] = 637,
@@ -4282,14 +4282,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 19,
-										["n_max"] = 89,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 185,
+										["n_max"] = 244,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 185,
 											["Sunfury Archer"] = 957,
@@ -4311,14 +4311,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["n_max"] = 244,
+										["b_dmg"] = 185,
 										["r_amt"] = 0,
 									},
 									[12723] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 926,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 926,
 										},
@@ -4339,14 +4339,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 926,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 218,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 0,
 											["Nether Beast"] = 177,
@@ -4370,14 +4370,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 12,
-										["n_max"] = 218,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 802,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 802,
 											["Nether Beast"] = 1764,
@@ -4400,14 +4400,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1764,
 										["n_amt"] = 2,
-										["n_max"] = 802,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 541,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 1561,
 											["Sunfury Archer"] = 520,
@@ -4429,14 +4429,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1020,
 										["n_amt"] = 2,
-										["n_max"] = 541,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157575,
@@ -4452,7 +4452,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 3353.002846,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 3353.002846,
 							["friendlyfire"] = {
 							},
@@ -4479,7 +4479,7 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 193,
 										["targets"] = {
 											["Masturbado"] = 2669,
 										},
@@ -4501,14 +4501,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 616,
 										["n_amt"] = 12,
-										["n_max"] = 193,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[12024] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -4527,14 +4527,14 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[6660] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 252,
 										["targets"] = {
 											["Masturbado"] = 684,
 										},
@@ -4554,13 +4554,13 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 252,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157529,
@@ -4576,7 +4576,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 2357.005157,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 2357.005157,
 							["friendlyfire"] = {
 							},
@@ -4603,7 +4603,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 321,
 										["targets"] = {
 											["Masturbado"] = 1993,
 										},
@@ -4625,14 +4625,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 10,
-										["n_max"] = 321,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[33731] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -4651,14 +4651,14 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[35857] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 364,
 										["targets"] = {
 											["Masturbado"] = 364,
 										},
@@ -4678,14 +4678,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 364,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[8599] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -4704,13 +4704,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157544,
@@ -4726,7 +4726,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 2184.008787,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 2184.008787,
 							["friendlyfire"] = {
 							},
@@ -4753,7 +4753,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 209,
 										["targets"] = {
 											["Masturbado"] = 2184,
 										},
@@ -4762,12 +4762,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 17,
 										["DODGE"] = 2,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 2184,
+										["c_max"] = 0,
 										["MISS"] = 3,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -4776,13 +4776,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 12,
-										["n_max"] = 209,
-										["total"] = 2184,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157542,
@@ -4799,12 +4799,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.005701,
 							["total_without_pet"] = 1795.005701,
 							["total"] = 1795.005701,
@@ -4823,10 +4824,9 @@ _detalhes_database = {
 							["healing_taken"] = 1795.005701,
 							["fight_component"] = true,
 							["end_time"] = 1695157545,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157526,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4844,12 +4844,12 @@ _detalhes_database = {
 										["counter"] = 10,
 										["overheal"] = 0,
 										["total"] = 1654,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 10,
@@ -4869,12 +4869,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 141,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -4884,8 +4884,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157526,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.005701,
@@ -4904,8 +4904,8 @@ _detalhes_database = {
 							["resource"] = 0.004254,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 2.004254,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.004254,
 							["total"] = 13.004254,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -4920,8 +4920,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[58362] = {
 										["total"] = 10,
-										["totalover"] = 0,
 										["id"] = 58362,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
@@ -4929,8 +4929,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 3,
-										["totalover"] = 2,
 										["id"] = 12964,
+										["totalover"] = 2,
 										["targets"] = {
 											["Masturbado"] = 3,
 										},
@@ -4940,8 +4940,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.004254,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 2.004254,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157540,
@@ -5025,7 +5025,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 193,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -5133,45 +5134,44 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 144,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 193,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157545,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157545,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Archer",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-19707-00000A0C60",
 							["aID"] = "19707",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Archer",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-19707-00000A0C60",
+							["tipo"] = 4,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Flamekeeper",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-20221-00000A0B12",
 							["aID"] = "20221",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Flamekeeper",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-20221-00000A0B12",
+							["tipo"] = 4,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -5195,7 +5195,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1360,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					33370, -- [1]
@@ -5220,26 +5222,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					25476, -- [1]
-					1795, -- [2]
-					{
-						13, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -5280,13 +5263,29 @@ _detalhes_database = {
 				["end_time"] = 523334.255,
 				["combat_id"] = 1346,
 				["overall_added"] = true,
-				["frags"] = {
-					["Nether Beast"] = 7,
-					["Sunfury Flamekeeper"] = 1,
-					["Sunfury Archer"] = 2,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					25476, -- [1]
+					1795, -- [2]
+					{
+						13, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -5308,13 +5307,14 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1360,
 				["start_time"] = 523294.63,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Nether Beast"] = 7,
+					["Sunfury Flamekeeper"] = 1,
+					["Sunfury Archer"] = 2,
 				},
 			}, -- [7]
 			{
@@ -5327,15 +5327,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.008694,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 13622.008694,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 13622.008694,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -5352,7 +5351,8 @@ _detalhes_database = {
 								[128] = 4143,
 							},
 							["end_time"] = 1695157484,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5360,7 +5360,7 @@ _detalhes_database = {
 										["c_amt"] = 3,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 176,
+										["n_max"] = 405,
 										["targets"] = {
 											["Sunfury Archer"] = 2606,
 											["Sunfury Flamekeeper"] = 1908,
@@ -5370,12 +5370,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 16,
 										["MISS"] = 2,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 4514,
+										["c_max"] = 799,
 										["a_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 799,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -5384,14 +5384,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1826,
 										["n_amt"] = 9,
-										["n_max"] = 405,
-										["total"] = 4514,
+										["b_dmg"] = 176,
+										["r_amt"] = 0,
 									}, -- [1]
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 230,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 459,
 											["Sunfury Archer"] = 760,
@@ -5413,14 +5413,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["n_max"] = 230,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20569] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 562,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 1121,
 											["Sunfury Archer"] = 0,
@@ -5430,12 +5430,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 4,
 										["a_amt"] = 0,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 1121,
+										["c_max"] = 0,
 										["DODGE"] = 1,
 										["id"] = 20569,
 										["r_dmg"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -5444,14 +5444,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["n_max"] = 562,
-										["total"] = 1121,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[12723] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 952,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 1188,
 											["Sunfury Archer"] = 1475,
@@ -5473,14 +5473,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["n_max"] = 952,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 507,
 										["targets"] = {
 											["Sunfury Archer"] = 507,
 											["Sunfury Flamekeeper"] = 1191,
@@ -5502,14 +5502,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1191,
 										["n_amt"] = 1,
-										["n_max"] = 507,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 159,
 										["targets"] = {
 											["Sunfury Archer"] = 112,
 											["Sunfury Flamekeeper"] = 534,
@@ -5531,14 +5531,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["n_max"] = 159,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Sunfury Archer"] = 916,
 											["Sunfury Flamekeeper"] = 845,
@@ -5560,14 +5560,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1761,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157483,
@@ -5583,7 +5583,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1506.002731,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 1506.002731,
 							["friendlyfire"] = {
 							},
@@ -5610,7 +5610,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 291,
 										["targets"] = {
 											["Masturbado"] = 1190,
 										},
@@ -5631,14 +5631,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["n_max"] = 291,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[33731] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -5657,14 +5657,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[35857] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 316,
 										["targets"] = {
 											["Masturbado"] = 316,
 										},
@@ -5684,14 +5684,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 316,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[8599] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -5710,13 +5710,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157480,
@@ -5732,7 +5732,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1123.007647,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 1123.007647,
 							["friendlyfire"] = {
 							},
@@ -5761,7 +5761,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 195,
 										["targets"] = {
 											["Masturbado"] = 948,
 											["Nether Beast"] = 175,
@@ -5771,12 +5771,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 9,
 										["MISS"] = 1,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 1123,
+										["c_max"] = 0,
 										["a_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -5785,14 +5785,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 7,
-										["n_max"] = 195,
-										["total"] = 1123,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[12024] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -5811,13 +5811,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157501,
@@ -5834,13 +5834,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Masturbado"] = 71,
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 71.0018,
 							["total_without_pet"] = 664.0018,
 							["total"] = 664.0018,
@@ -5859,10 +5859,10 @@ _detalhes_database = {
 							["healing_taken"] = 664.0018,
 							["fight_component"] = true,
 							["end_time"] = 1695157484,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157481,
+							["targets_overheal"] = {
+								["Masturbado"] = 71,
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5881,12 +5881,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 71,
 										["total"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -5906,12 +5906,12 @@ _detalhes_database = {
 										["counter"] = 4,
 										["overheal"] = 0,
 										["total"] = 664,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 4,
@@ -5921,8 +5921,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157481,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.0018,
@@ -5941,8 +5941,8 @@ _detalhes_database = {
 							["resource"] = 0.002823,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.002823,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.002823,
 							["total"] = 1.002823,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -5957,8 +5957,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -5968,8 +5968,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.002823,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.002823,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157473,
@@ -6020,7 +6020,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 92,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -6046,17 +6047,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
-										["appliedamt"] = 3,
-										["targets"] = {
-										},
-										["activedamt"] = 3,
-										["uptime"] = 5,
-										["id"] = 60503,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[12328] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -6064,6 +6054,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 4,
 										["id"] = 12328,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[60503] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 5,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -6106,45 +6107,44 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 28,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 92,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157484,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157484,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Flamekeeper",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-20221-00000A0BBE",
 							["aID"] = "20221",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Flamekeeper",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-20221-00000A0BBE",
+							["tipo"] = 4,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Archer",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-19707-00000A0CC3",
 							["aID"] = "19707",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Archer",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-19707-00000A0CC3",
+							["tipo"] = 4,
 						}, -- [3]
 					},
 				}, -- [4]
@@ -6168,7 +6168,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1359,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					16399, -- [1]
@@ -6193,26 +6195,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					13622, -- [1]
-					664, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -6224,9 +6207,9 @@ _detalhes_database = {
 					["Masturbado"] = {
 						["Sweeping Strikes"] = 1,
 						["Cleave"] = 2,
-						["Rend"] = 2,
-						["Overpower"] = 2,
 						["Victory Rush"] = 2,
+						["Overpower"] = 2,
+						["Rend"] = 2,
 					},
 					["Sunfury Archer"] = {
 						["Net"] = 1,
@@ -6249,12 +6232,29 @@ _detalhes_database = {
 				["end_time"] = 523272.268,
 				["combat_id"] = 1345,
 				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Sunfury Flamekeeper"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Flamekeeper",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					13622, -- [1]
+					664, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -6276,13 +6276,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1359,
 				["start_time"] = 523255.569,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Sunfury Flamekeeper"] = 1,
 				},
 			}, -- [8]
 			{
@@ -6295,15 +6295,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.007941,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 7904.007941,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 7904.007941,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -6319,7 +6318,8 @@ _detalhes_database = {
 								[128] = 6738,
 							},
 							["end_time"] = 1695157464,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6327,7 +6327,7 @@ _detalhes_database = {
 										["c_amt"] = 3,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 169,
+										["n_max"] = 418,
 										["targets"] = {
 											["Nether Beast"] = 0,
 											["Sunfury Archer"] = 2961,
@@ -6350,14 +6350,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1951,
 										["n_amt"] = 4,
-										["n_max"] = 418,
+										["b_dmg"] = 169,
 										["r_amt"] = 0,
 									}, -- [1]
 									[7384] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 391,
 										["targets"] = {
 											["Sunfury Archer"] = 391,
 										},
@@ -6378,14 +6378,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 391,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 532,
 										["targets"] = {
 											["Sunfury Archer"] = 532,
 										},
@@ -6406,14 +6406,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 532,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 817,
 										["targets"] = {
 											["Sunfury Archer"] = 1634,
 										},
@@ -6434,14 +6434,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["n_max"] = 817,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 551,
 										["targets"] = {
 											["Nether Beast"] = 1166,
 											["Sunfury Archer"] = 551,
@@ -6463,14 +6463,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1166,
 										["n_amt"] = 1,
-										["n_max"] = 551,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 75,
 										["targets"] = {
 											["Sunfury Archer"] = 439,
 										},
@@ -6491,14 +6491,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 7,
-										["n_max"] = 75,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 230,
 										["targets"] = {
 											["Sunfury Flamekeeper"] = 0,
 											["Sunfury Archer"] = 230,
@@ -6521,14 +6521,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 230,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157467,
@@ -6544,7 +6544,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 184.002894,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 184.002894,
 							["friendlyfire"] = {
 							},
@@ -6571,7 +6571,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 184,
 										["targets"] = {
 											["Masturbado"] = 184,
 										},
@@ -6580,12 +6580,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 4,
 										["MISS"] = 1,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 184,
+										["c_max"] = 0,
 										["DODGE"] = 2,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -6594,13 +6594,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 184,
-										["total"] = 184,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157461,
@@ -6616,7 +6616,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 142.00508,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 142.00508,
 							["friendlyfire"] = {
 							},
@@ -6643,7 +6643,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 142,
 										["targets"] = {
 											["Masturbado"] = 142,
 										},
@@ -6665,13 +6665,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 142,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157462,
@@ -6688,13 +6688,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Masturbado"] = 12,
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 12.002722,
 							["total_without_pet"] = 648.002722,
 							["total"] = 648.002722,
@@ -6713,10 +6713,10 @@ _detalhes_database = {
 							["healing_taken"] = 648.002722,
 							["fight_component"] = true,
 							["end_time"] = 1695157464,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157462,
+							["targets_overheal"] = {
+								["Masturbado"] = 12,
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -6735,12 +6735,12 @@ _detalhes_database = {
 										["counter"] = 4,
 										["overheal"] = 12,
 										["total"] = 648,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 4,
@@ -6750,8 +6750,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157462,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002722,
@@ -6770,8 +6770,8 @@ _detalhes_database = {
 							["resource"] = 0.0049,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 2.0049,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.0049,
 							["total"] = 1.0049,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -6786,8 +6786,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["totalover"] = 2,
 										["id"] = 12964,
+										["totalover"] = 2,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -6797,8 +6797,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.0049,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 2.0049,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157462,
@@ -6861,7 +6861,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 65,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -6887,13 +6888,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[65156] = {
-										["appliedamt"] = 1,
+									[52437] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 65156,
+										["activedamt"] = 2,
+										["uptime"] = 2,
+										["id"] = 52437,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -6909,13 +6910,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
-										["appliedamt"] = 2,
+									[65156] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 2,
-										["id"] = 52437,
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 65156,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -6958,19 +6959,18 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 21,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 65,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157464,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157464,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -6994,7 +6994,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1358,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					8230, -- [1]
@@ -7019,26 +7021,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					7904, -- [1]
-					648, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -7065,12 +7048,29 @@ _detalhes_database = {
 				["end_time"] = 523252.437,
 				["combat_id"] = 1344,
 				["overall_added"] = true,
-				["frags"] = {
-					["Nether Beast"] = 2,
-					["Sunfury Archer"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					7904, -- [1]
+					648, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -7092,13 +7092,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1358,
 				["start_time"] = 523242.566,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Nether Beast"] = 2,
+					["Sunfury Archer"] = 1,
 				},
 			}, -- [9]
 			{
@@ -7111,15 +7111,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.007833,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 6897.007833,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6897.007833,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -7133,7 +7132,8 @@ _detalhes_database = {
 								[128] = 6897,
 							},
 							["end_time"] = 1695157449,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7141,7 +7141,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 2,
 										["g_amt"] = 0,
-										["b_dmg"] = 343,
+										["n_max"] = 377,
 										["targets"] = {
 											["Sunfury Archer"] = 2522,
 										},
@@ -7163,14 +7163,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 776,
 										["n_amt"] = 7,
-										["n_max"] = 377,
+										["b_dmg"] = 343,
 										["r_amt"] = 0,
 									}, -- [1]
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 466,
 										["targets"] = {
 											["Sunfury Archer"] = 1427,
 										},
@@ -7191,14 +7191,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 961,
 										["n_amt"] = 1,
-										["n_max"] = 466,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 472,
 										["targets"] = {
 											["Sunfury Archer"] = 472,
 										},
@@ -7219,14 +7219,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 472,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[3018] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 317,
 										["targets"] = {
 											["Sunfury Archer"] = 317,
 										},
@@ -7247,14 +7247,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 317,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 797,
 										["targets"] = {
 											["Sunfury Archer"] = 797,
 										},
@@ -7275,14 +7275,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 797,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 508,
 										["targets"] = {
 											["Sunfury Archer"] = 508,
 										},
@@ -7303,14 +7303,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 508,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 80,
 										["targets"] = {
 											["Sunfury Archer"] = 237,
 										},
@@ -7331,14 +7331,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["n_max"] = 80,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 223,
 										["targets"] = {
 											["Sunfury Archer"] = 617,
 										},
@@ -7359,14 +7359,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 223,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157449,
@@ -7382,7 +7382,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 941.0052949999999,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 941.0052949999999,
 							["friendlyfire"] = {
 							},
@@ -7409,7 +7409,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 170,
 										["targets"] = {
 											["Masturbado"] = 448,
 										},
@@ -7418,12 +7418,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 5,
 										["a_amt"] = 0,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 448,
+										["c_max"] = 0,
 										["MISS"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -7432,14 +7432,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 170,
-										["total"] = 448,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[37847] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 493,
 										["targets"] = {
 											["Masturbado"] = 493,
 										},
@@ -7459,13 +7459,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["n_max"] = 493,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157448,
@@ -7482,12 +7482,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.004251,
 							["total_without_pet"] = 331.004251,
 							["total"] = 331.004251,
@@ -7506,10 +7507,9 @@ _detalhes_database = {
 							["healing_taken"] = 331.004251,
 							["fight_component"] = true,
 							["end_time"] = 1695157449,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157449,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7527,12 +7527,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 331,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -7542,8 +7542,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157449,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004251,
@@ -7562,8 +7562,8 @@ _detalhes_database = {
 							["resource"] = 0.007123,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.007123,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.007123,
 							["total"] = 3.007123,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -7578,8 +7578,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 3,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 3,
 										},
@@ -7589,8 +7589,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.007123,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.007123,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157447,
@@ -7605,25 +7605,14 @@ _detalhes_database = {
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
-									[11574] = {
+									[25202] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 10,
-										["id"] = 11574,
+										["uptime"] = 8,
+										["id"] = 25202,
 										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[413763] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 5,
-										["id"] = 413763,
-										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -7638,13 +7627,24 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25202] = {
+									[413763] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 8,
-										["id"] = 25202,
+										["uptime"] = 5,
+										["id"] = 413763,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[11574] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 10,
+										["id"] = 11574,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -7652,7 +7652,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 57,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -7678,17 +7679,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 13,
-										["id"] = 25289,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[60503] = {
 										["appliedamt"] = 3,
 										["targets"] = {
@@ -7696,6 +7686,17 @@ _detalhes_database = {
 										["activedamt"] = 3,
 										["uptime"] = 5,
 										["id"] = 60503,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[25289] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 13,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -7727,32 +7728,31 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 28,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 57,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157449,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157449,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Sunfury Archer",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-19707-000489E981",
 							["aID"] = "19707",
+							["fight_component"] = true,
+							["nome"] = "Sunfury Archer",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-19707-000489E981",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -7776,7 +7776,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1357,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					7838, -- [1]
@@ -7801,26 +7803,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					6897, -- [1]
-					331, -- [2]
-					{
-						3, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -7852,12 +7835,29 @@ _detalhes_database = {
 				["end_time"] = 523237.076,
 				["combat_id"] = 1343,
 				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Nether Beast"] = 2,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					6897, -- [1]
+					331, -- [2]
+					{
+						3, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -7879,13 +7879,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1357,
 				["start_time"] = 523224.322,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Nether Beast"] = 2,
 				},
 			}, -- [10]
 			{
@@ -7898,15 +7898,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.007253,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 7011.007253,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 7011.007253,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -7920,7 +7919,8 @@ _detalhes_database = {
 								[128] = 7011,
 							},
 							["end_time"] = 1695157430,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -7928,7 +7928,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 368,
 										["targets"] = {
 											["Sunfury Archer"] = 1712,
 										},
@@ -7949,126 +7949,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 401,
 										["n_amt"] = 5,
-										["n_max"] = 368,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
-									[7384] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 1024,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1024,
-										["c_max"] = 1024,
-										["id"] = 7384,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1024,
-										["successful_casted"] = 0,
-										["c_total"] = 1024,
-										["n_amt"] = 0,
-										["n_max"] = 0,
-										["r_amt"] = 0,
-									},
-									[20647] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 1764,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1764,
-										["c_max"] = 1764,
-										["id"] = 20647,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1764,
-										["successful_casted"] = 0,
-										["c_total"] = 1764,
-										["n_amt"] = 0,
-										["n_max"] = 0,
-										["r_amt"] = 0,
-									},
-									[25286] = {
-										["c_amt"] = 0,
-										["b_amt"] = 1,
-										["g_amt"] = 0,
-										["b_dmg"] = 448,
-										["targets"] = {
-											["Sunfury Archer"] = 1407,
-										},
-										["n_total"] = 1407,
-										["n_min"] = 448,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 1407,
-										["c_max"] = 0,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 3,
-										["n_max"] = 504,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Sunfury Archer"] = 450,
-										},
-										["n_total"] = 450,
-										["n_min"] = 30,
-										["g_dmg"] = 0,
-										["counter"] = 8,
-										["total"] = 450,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 8,
-										["n_max"] = 72,
-										["r_amt"] = 0,
-									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 218,
 										["targets"] = {
 											["Sunfury Archer"] = 654,
 										},
@@ -8089,14 +7977,126 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 218,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[20647] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Sunfury Archer"] = 1764,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1764,
+										["c_max"] = 1764,
+										["id"] = 20647,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1764,
+										["successful_casted"] = 0,
+										["c_total"] = 1764,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 0,
+										["b_amt"] = 1,
+										["g_amt"] = 0,
+										["n_max"] = 504,
+										["targets"] = {
+											["Sunfury Archer"] = 1407,
+										},
+										["n_total"] = 1407,
+										["n_min"] = 448,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1407,
+										["c_max"] = 0,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 448,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 72,
+										["targets"] = {
+											["Sunfury Archer"] = 450,
+										},
+										["n_total"] = 450,
+										["n_min"] = 30,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 450,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 8,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[7384] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Sunfury Archer"] = 1024,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1024,
+										["c_max"] = 1024,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1024,
+										["successful_casted"] = 0,
+										["c_total"] = 1024,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157429,
@@ -8112,7 +8112,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 654.0077699999999,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 654.0077699999999,
 							["friendlyfire"] = {
 							},
@@ -8139,7 +8139,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 168,
 										["targets"] = {
 											["Masturbado"] = 654,
 										},
@@ -8160,13 +8160,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["n_max"] = 168,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157428,
@@ -8183,12 +8183,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.005307,
 							["total_without_pet"] = 476.005307,
 							["total"] = 476.005307,
@@ -8207,10 +8208,9 @@ _detalhes_database = {
 							["healing_taken"] = 476.005307,
 							["fight_component"] = true,
 							["end_time"] = 1695157430,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157422,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8228,12 +8228,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 145,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -8253,12 +8253,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 331,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -8268,8 +8268,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157422,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.005307,
@@ -8288,8 +8288,8 @@ _detalhes_database = {
 							["resource"] = 0.008668,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.008668,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.008668,
 							["total"] = 1.008668,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -8304,8 +8304,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -8315,8 +8315,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.008668,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.008668,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157422,
@@ -8379,7 +8379,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 59,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -8405,14 +8406,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
-										["appliedamt"] = 1,
+									[60503] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 25289,
-										["refreshamt"] = 1,
+										["activedamt"] = 2,
+										["uptime"] = 2,
+										["id"] = 60503,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -8427,14 +8428,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
-										["appliedamt"] = 2,
+									[25289] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 2,
-										["id"] = 60503,
-										["refreshamt"] = 0,
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 25289,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -8465,19 +8466,18 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 27,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 59,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157430,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157430,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -8501,7 +8501,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1356,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					7665, -- [1]
@@ -8526,26 +8528,7 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					7011, -- [1]
-					476, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -8573,12 +8556,29 @@ _detalhes_database = {
 				["end_time"] = 523217.633,
 				["combat_id"] = 1342,
 				["overall_added"] = true,
-				["frags"] = {
-					["Sunfury Archer"] = 1,
-					["Nether Beast"] = 2,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Sunfury Archer",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					7011, -- [1]
+					476, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -8600,13 +8600,13 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1356,
 				["start_time"] = 523207.537,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Sunfury Archer"] = 1,
+					["Nether Beast"] = 2,
 				},
 			}, -- [11]
 			{
@@ -8619,15 +8619,14 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.007351,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["total_without_pet"] = 6571.007351,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6571.007351,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -8640,7 +8639,8 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["end_time"] = 1695157374,
-							["aID"] = "4408-0474E7DA",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8648,7 +8648,7 @@ _detalhes_database = {
 										["c_amt"] = 3,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["b_dmg"] = 141,
+										["n_max"] = 372,
 										["targets"] = {
 											["Severed Defender"] = 2715,
 										},
@@ -8670,126 +8670,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1398,
 										["n_amt"] = 5,
-										["n_max"] = 372,
+										["b_dmg"] = 141,
 										["r_amt"] = 0,
 									}, -- [1]
-									[25286] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Severed Defender"] = 1538,
-										},
-										["n_total"] = 486,
-										["n_min"] = 486,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 1538,
-										["c_max"] = 1052,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1052,
-										["successful_casted"] = 0,
-										["c_total"] = 1052,
-										["n_amt"] = 1,
-										["n_max"] = 486,
-										["r_amt"] = 0,
-									},
-									[20647] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Severed Defender"] = 783,
-										},
-										["n_total"] = 783,
-										["n_min"] = 783,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 783,
-										["c_max"] = 0,
-										["id"] = 20647,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["n_max"] = 783,
-										["r_amt"] = 0,
-									},
-									[7384] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Severed Defender"] = 385,
-										},
-										["n_total"] = 385,
-										["n_min"] = 385,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 385,
-										["c_max"] = 0,
-										["id"] = 7384,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["n_max"] = 385,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["b_dmg"] = 0,
-										["targets"] = {
-											["Severed Defender"] = 706,
-										},
-										["n_total"] = 706,
-										["n_min"] = 46,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 706,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 9,
-										["n_max"] = 109,
-										["r_amt"] = 0,
-									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 222,
 										["targets"] = {
 											["Severed Defender"] = 444,
 										},
@@ -8810,14 +8698,126 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["n_max"] = 222,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[20647] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 783,
+										["targets"] = {
+											["Severed Defender"] = 783,
+										},
+										["n_total"] = 783,
+										["n_min"] = 783,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 783,
+										["c_max"] = 0,
+										["id"] = 20647,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[7384] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 385,
+										["targets"] = {
+											["Severed Defender"] = 385,
+										},
+										["n_total"] = 385,
+										["n_min"] = 385,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 385,
+										["c_max"] = 0,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 109,
+										["targets"] = {
+											["Severed Defender"] = 706,
+										},
+										["n_total"] = 706,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 706,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 9,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 486,
+										["targets"] = {
+											["Severed Defender"] = 1538,
+										},
+										["n_total"] = 486,
+										["n_min"] = 486,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1538,
+										["c_max"] = 1052,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1052,
+										["successful_casted"] = 0,
+										["c_total"] = 1052,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["on_hold"] = false,
+							["classe"] = "WARRIOR",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157373,
@@ -8833,7 +8833,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 509.006964,
 							["last_dps_realtime"] = 0,
-							["monster"] = true,
+							["dps_started"] = false,
 							["total"] = 509.006964,
 							["friendlyfire"] = {
 							},
@@ -8860,7 +8860,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 185,
 										["targets"] = {
 											["Masturbado"] = 509,
 										},
@@ -8869,12 +8869,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 5,
 										["a_amt"] = 0,
-										["r_amt"] = 0,
-										["spellschool"] = 1,
+										["total"] = 509,
+										["c_max"] = 0,
 										["DODGE"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -8883,14 +8883,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["n_max"] = 185,
-										["total"] = 509,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[36093] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["targets"] = {
 											["Masturbado"] = 0,
 										},
@@ -8911,13 +8911,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["dps_started"] = false,
+							["monster"] = true,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157371,
@@ -8934,12 +8934,13 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.002062,
 							["total_without_pet"] = 332.002062,
 							["total"] = 332.002062,
@@ -8958,10 +8959,9 @@ _detalhes_database = {
 							["healing_taken"] = 332.002062,
 							["fight_component"] = true,
 							["end_time"] = 1695157374,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["start_time"] = 1695157373,
+							["targets_overheal"] = {
 							},
-							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -8979,12 +8979,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 332,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -8994,8 +8994,8 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["start_time"] = 1695157373,
-							["heal_enemy_amt"] = 0,
+							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002062,
@@ -9014,8 +9014,8 @@ _detalhes_database = {
 							["resource"] = 0.002694,
 							["pets"] = {
 							},
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.002694,
+							["aID"] = "4408-0474E7DA",
+							["passiveover"] = 0.002694,
 							["total"] = 42.00269400000001,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -9028,28 +9028,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[29131] = {
-										["total"] = 10,
-										["totalover"] = 0,
-										["id"] = 29131,
-										["targets"] = {
-											["Masturbado"] = 10,
-										},
-										["counter"] = 10,
-									},
 									[58362] = {
 										["total"] = 10,
-										["totalover"] = 0,
 										["id"] = 58362,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
 										["counter"] = 1,
 									},
+									[29131] = {
+										["total"] = 10,
+										["id"] = 29131,
+										["totalover"] = 0,
+										["targets"] = {
+											["Masturbado"] = 10,
+										},
+										["counter"] = 10,
+									},
 									[12964] = {
 										["total"] = 2,
-										["totalover"] = 0,
 										["id"] = 12964,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 2,
 										},
@@ -9057,8 +9057,8 @@ _detalhes_database = {
 									},
 									[2687] = {
 										["total"] = 20,
-										["totalover"] = 0,
 										["id"] = 2687,
+										["totalover"] = 0,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
@@ -9068,8 +9068,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["passiveover"] = 0.002694,
-							["aID"] = "4408-0474E7DA",
+							["totalover"] = 0.002694,
+							["classe"] = "WARRIOR",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695157372,
@@ -9120,7 +9120,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 61,
+							["pets"] = {
+							},
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -9135,14 +9136,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[29131] = {
-										["appliedamt"] = 1,
+									[52437] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 29131,
-										["refreshamt"] = 0,
+										["activedamt"] = 2,
+										["uptime"] = 3,
+										["id"] = 52437,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -9157,14 +9158,14 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
-										["appliedamt"] = 2,
+									[29131] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 3,
-										["id"] = 52437,
-										["refreshamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 29131,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -9206,32 +9207,31 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 29,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "Masturbado",
 							["spec"] = 71,
 							["grupo"] = true,
-							["pets"] = {
-							},
+							["buff_uptime"] = 61,
 							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
-							["last_event"] = 1695157374,
-							["nome"] = "Masturbado",
-							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 							["debuff_uptime_targets"] = {
 							},
+							["serial"] = "Player-4408-0474E7DA",
+							["last_event"] = 1695157374,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["monster"] = true,
-							["nome"] = "Severed Defender",
-							["fight_component"] = true,
-							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4391-530-72-20934-00000A0A41",
 							["aID"] = "20934",
+							["fight_component"] = true,
+							["nome"] = "Severed Defender",
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-4391-530-72-20934-00000A0A41",
+							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -9255,7 +9255,9 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["combat_counter"] = 1355,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["playing_solo"] = true,
 				["totals"] = {
 					7080, -- [1]
@@ -9280,34 +9282,15 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["totals_grupo"] = {
-					6571, -- [1]
-					332, -- [2]
-					{
-						42, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
 					["Masturbado"] = {
 						["Battle Shout"] = 1,
 						["Bloodrage"] = 1,
-						["Overpower"] = 1,
 						["Rend"] = 1,
+						["Overpower"] = 1,
 						["Heroic Strike"] = 2,
 					},
 					["Severed Defender"] = {
@@ -9331,11 +9314,29 @@ _detalhes_database = {
 				["end_time"] = 523162.593,
 				["combat_id"] = 1341,
 				["overall_added"] = true,
-				["frags"] = {
-					["Severed Defender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["contra"] = "Severed Defender",
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					6571, -- [1]
+					332, -- [2]
+					{
+						42, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["PhaseData"] = {
 					{
@@ -9357,13 +9358,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1355,
 				["start_time"] = 523150.61,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Defender"] = 1,
 				},
 			}, -- [12]
 			{
@@ -9376,14 +9376,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.003944,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 20819.003944,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 20819.003944,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -9402,8 +9403,7 @@ _detalhes_database = {
 								[16] = 6871,
 							},
 							["end_time"] = 1695096778,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -9411,7 +9411,7 @@ _detalhes_database = {
 										["c_amt"] = 4,
 										["b_amt"] = 2,
 										["g_amt"] = 3,
-										["n_max"] = 369,
+										["b_dmg"] = 470,
 										["targets"] = {
 											["Kirin'Var Apprentice"] = 1712,
 											["Conjurer Luminrath"] = 1881,
@@ -9435,14 +9435,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1849,
 										["n_amt"] = 8,
-										["b_dmg"] = 470,
+										["n_max"] = 369,
 										["r_amt"] = 0,
 									}, -- [1]
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 224,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Kirin'Var Apprentice"] = 819,
 											["Conjurer Luminrath"] = 672,
@@ -9464,14 +9464,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 7,
-										["b_dmg"] = 0,
+										["n_max"] = 224,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 2,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 521,
+										["b_dmg"] = 447,
 										["targets"] = {
 											["Kirin'Var Apprentice"] = 1007,
 											["Conjurer Luminrath"] = 1590,
@@ -9494,14 +9494,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2076,
 										["n_amt"] = 2,
-										["b_dmg"] = 447,
+										["n_max"] = 521,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 3,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Kirin'Var Apprentice"] = 881,
 											["Conjurer Luminrath"] = 977,
@@ -9524,14 +9524,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2680,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[20569] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 520,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Kirin'Var Apprentice"] = 1414,
 											["Severed Defender"] = 2049,
@@ -9553,14 +9553,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1051,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 520,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 724,
+										["b_dmg"] = 1502,
 										["targets"] = {
 											["Severed Defender"] = 1502,
 											["Conjurer Luminrath"] = 724,
@@ -9583,14 +9583,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1502,
 										["n_amt"] = 1,
-										["b_dmg"] = 1502,
+										["n_max"] = 724,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 507,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Conjurer Luminrath"] = 507,
 										},
@@ -9611,14 +9611,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 507,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 161,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Kirin'Var Apprentice"] = 884,
 											["Conjurer Luminrath"] = 520,
@@ -9641,14 +9641,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 23,
-										["b_dmg"] = 0,
+										["n_max"] = 161,
 										["r_amt"] = 0,
 									},
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 219,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 215,
 											["Kirin'Var Apprentice"] = 219,
@@ -9670,14 +9670,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 219,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096777,
@@ -9694,7 +9694,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 2328.001471,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 2476.001471,
 							["friendlyfire"] = {
 							},
@@ -9721,7 +9721,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 190,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 507,
 										},
@@ -9742,14 +9742,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 190,
 										["r_amt"] = 0,
 									}, -- [1]
 									[9532] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 688,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1821,
 										},
@@ -9769,14 +9769,14 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 688,
 										["r_amt"] = 0,
 									},
 									[36110] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -9795,13 +9795,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096775,
@@ -9817,7 +9817,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 796.005472,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 796.005472,
 							["friendlyfire"] = {
 							},
@@ -9844,19 +9844,19 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 173,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 599,
 										},
 										["n_total"] = 599,
 										["DODGE"] = 1,
 										["n_min"] = 128,
-										["g_dmg"] = 0,
+										["MISS"] = 1,
 										["counter"] = 7,
 										["a_amt"] = 0,
 										["r_amt"] = 0,
 										["spellschool"] = 1,
-										["total"] = 599,
+										["n_max"] = 173,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["c_max"] = 0,
@@ -9868,14 +9868,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
-										["MISS"] = 1,
+										["total"] = 599,
+										["g_dmg"] = 0,
 									}, -- [1]
 									[36093] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 197,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 197,
 										},
@@ -9895,14 +9895,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 197,
 										["r_amt"] = 0,
 									},
 									[12169] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -9921,13 +9921,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695157362,
@@ -9943,7 +9943,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 655.00702,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 655.00702,
 							["friendlyfire"] = {
 							},
@@ -9970,7 +9970,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 181,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 655,
 										},
@@ -9980,9 +9980,9 @@ _detalhes_database = {
 										["a_amt"] = 0,
 										["counter"] = 11,
 										["DODGE"] = 2,
-										["total"] = 655,
+										["r_amt"] = 0,
 										["c_max"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 181,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -9994,13 +9994,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["r_amt"] = 0,
+										["total"] = 655,
 										["g_dmg"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096763,
@@ -10018,7 +10018,8 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 148.002651,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-530-126-21093-0000091FC5",
 							["aID"] = "21093",
@@ -10041,7 +10042,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 76,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 148,
 										},
@@ -10063,14 +10064,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 76,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096776,
@@ -10087,13 +10087,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.002223,
 							["total_without_pet"] = 1109.002223,
 							["total"] = 1109.002223,
@@ -10108,13 +10107,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 1109,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.002223,
 							["healing_taken"] = 1109.002223,
 							["fight_component"] = true,
 							["end_time"] = 1695096778,
 							["start_time"] = 1695096770,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -10133,12 +10133,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 114,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -10158,12 +10158,12 @@ _detalhes_database = {
 										["counter"] = 6,
 										["overheal"] = 0,
 										["total"] = 995,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 6,
@@ -10173,13 +10173,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096777,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002223,
 							["delay"] = 1695096764,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -10192,8 +10192,8 @@ _detalhes_database = {
 							["resource"] = 0.004271,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.004271,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.004271,
 							["total"] = 22.004271,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -10208,8 +10208,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[58362] = {
 										["total"] = 20,
-										["id"] = 58362,
 										["totalover"] = 0,
+										["id"] = 58362,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
@@ -10217,8 +10217,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 2,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 2,
 										},
@@ -10228,8 +10228,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.004271,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.004271,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096775,
@@ -10314,8 +10314,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 120,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -10341,17 +10340,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
-										["appliedamt"] = 3,
-										["targets"] = {
-										},
-										["activedamt"] = 3,
-										["uptime"] = 7,
-										["id"] = 52437,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[65156] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -10359,6 +10347,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 9,
 										["id"] = 65156,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[52437] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 7,
+										["id"] = 52437,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -10401,44 +10400,45 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 88,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 120,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096778,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096778,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Defender",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "20934",
-							["serial"] = "Creature-0-4390-530-126-20934-0000091E62",
+							["nome"] = "Severed Defender",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-20934-0000091E62",
+							["aID"] = "20934",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Conjurer Luminrath",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19544",
-							["serial"] = "Creature-0-4390-530-126-19544-0000091ABA",
+							["nome"] = "Conjurer Luminrath",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19544-0000091ABA",
+							["aID"] = "19544",
 						}, -- [3]
 					},
 				}, -- [4]
@@ -10466,9 +10466,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1354,
 				["totals"] = {
 					24746, -- [1]
 					1109, -- [2]
@@ -10492,7 +10490,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					20819, -- [1]
+					1109, -- [2]
+					{
+						22, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -10531,10 +10548,15 @@ _detalhes_database = {
 				["end_time"] = 462565.743,
 				["combat_id"] = 1340,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Kirin'Var Apprentice"] = 1,
+					["Conjurer Luminrath"] = 1,
+					["Severed Defender"] = 1,
 				},
 				["contra"] = "Kirin'Var Apprentice",
-				["combat_counter"] = 1354,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -10555,34 +10577,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					20819, -- [1]
-					1109, -- [2]
-					{
-						22, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462536.534,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Kirin'Var Apprentice"] = 1,
-					["Conjurer Luminrath"] = 1,
-					["Severed Defender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [13]
 			{
@@ -10595,14 +10595,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.002443,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 7001.002442999999,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 7001.002442999999,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -10615,8 +10616,7 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["end_time"] = 1695096701,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -10624,7 +10624,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 390,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 2040,
 										},
@@ -10645,126 +10645,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 652,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 390,
 										["r_amt"] = 0,
 									}, -- [1]
-									[11574] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 222,
-										["targets"] = {
-											["Severed Defender"] = 444,
-										},
-										["n_total"] = 444,
-										["n_min"] = 222,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 444,
-										["c_max"] = 0,
-										["id"] = 11574,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[20647] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Severed Defender"] = 1502,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1502,
-										["c_max"] = 1502,
-										["id"] = 20647,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1502,
-										["successful_casted"] = 0,
-										["c_total"] = 1502,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[25286] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 560,
-										["targets"] = {
-											["Severed Defender"] = 1575,
-										},
-										["n_total"] = 1575,
-										["n_min"] = 466,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 1575,
-										["c_max"] = 0,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 117,
-										["targets"] = {
-											["Severed Defender"] = 515,
-										},
-										["n_total"] = 515,
-										["n_min"] = 52,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 515,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 7,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 925,
 										},
@@ -10785,14 +10673,126 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 925,
 										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
+									},
+									[20647] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 1502,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1502,
+										["c_max"] = 1502,
+										["id"] = 20647,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1502,
+										["successful_casted"] = 0,
+										["c_total"] = 1502,
+										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 1575,
+										},
+										["n_total"] = 1575,
+										["n_min"] = 466,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1575,
+										["c_max"] = 0,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 3,
+										["n_max"] = 560,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 515,
+										},
+										["n_total"] = 515,
+										["n_min"] = 52,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 515,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 7,
+										["n_max"] = 117,
+										["r_amt"] = 0,
+									},
+									[11574] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 444,
+										},
+										["n_total"] = 444,
+										["n_min"] = 222,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 444,
+										["c_max"] = 0,
+										["id"] = 11574,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 222,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096699,
@@ -10808,7 +10808,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 584.008927,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 584.008927,
 							["friendlyfire"] = {
 							},
@@ -10835,7 +10835,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 202,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 584,
 										},
@@ -10844,12 +10844,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 5,
 										["MISS"] = 1,
-										["total"] = 584,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["DODGE"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -10858,13 +10858,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 202,
+										["total"] = 584,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096699,
@@ -10881,13 +10881,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.003532,
 							["total_without_pet"] = 388.003532,
 							["total"] = 388.003532,
@@ -10902,13 +10901,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 388,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.003532,
 							["healing_taken"] = 388.003532,
 							["fight_component"] = true,
 							["end_time"] = 1695096701,
 							["start_time"] = 1695096692,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -10927,12 +10927,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 57,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -10952,12 +10952,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 331,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -10967,13 +10967,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096699,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.003532,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -11027,8 +11027,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 51,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -11054,13 +11053,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
+									[25289] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 60503,
+										["uptime"] = 10,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -11076,13 +11075,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
+									[60503] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 25289,
+										["uptime"] = 1,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -11114,18 +11113,19 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 23,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 51,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096701,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096701,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [4]
@@ -11153,9 +11153,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1353,
 				["totals"] = {
 					9782, -- [1]
 					388, -- [2]
@@ -11179,7 +11177,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					7001, -- [1]
+					388, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -11206,10 +11223,13 @@ _detalhes_database = {
 				["end_time"] = 462488.043,
 				["combat_id"] = 1339,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Defender"] = 1,
 				},
 				["contra"] = "Severed Defender",
-				["combat_counter"] = 1353,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -11230,32 +11250,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					7001, -- [1]
-					388, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462477.964,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Defender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [14]
 			{
@@ -11268,14 +11268,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.007135,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5222.007135,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5222.007135,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -11289,8 +11290,7 @@ _detalhes_database = {
 								[64] = 5222,
 							},
 							["end_time"] = 1695096632,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -11298,7 +11298,7 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 1,
-										["n_max"] = 413,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1785,
 										},
@@ -11319,14 +11319,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 870,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 413,
 										["r_amt"] = 0,
 									}, -- [1]
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 220,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 440,
 										},
@@ -11347,14 +11347,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 220,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 0,
 										},
@@ -11376,14 +11376,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 829,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 829,
 										},
@@ -11404,14 +11404,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 829,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 524,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 524,
 										},
@@ -11432,14 +11432,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 524,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 50,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 159,
 										},
@@ -11460,14 +11460,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 50,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 469,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1485,
 										},
@@ -11488,14 +11488,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1016,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 469,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096630,
@@ -11511,7 +11511,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 872.003333,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 872.003333,
 							["friendlyfire"] = {
 							},
@@ -11538,7 +11538,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 140,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 263,
 										},
@@ -11559,14 +11559,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 140,
 										["r_amt"] = 0,
 									}, -- [1]
 									[20822] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 609,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 609,
 										},
@@ -11586,13 +11586,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 609,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096630,
@@ -11609,13 +11609,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.005868,
 							["total_without_pet"] = 315.005868,
 							["total"] = 315.005868,
@@ -11630,13 +11629,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.005868,
 							["healing_taken"] = 315.005868,
 							["fight_component"] = true,
 							["end_time"] = 1695096632,
 							["start_time"] = 1695096630,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -11655,12 +11655,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -11670,13 +11670,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096630,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.005868,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -11689,8 +11689,8 @@ _detalhes_database = {
 							["resource"] = 0.003963,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.003963,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.003963,
 							["total"] = 9.003962999999999,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -11705,8 +11705,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[29131] = {
 										["total"] = 8,
-										["id"] = 29131,
 										["totalover"] = 0,
+										["id"] = 29131,
 										["targets"] = {
 											["Masturbado"] = 8,
 										},
@@ -11714,8 +11714,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -11725,8 +11725,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.003963,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.003963,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096631,
@@ -11789,8 +11789,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 55,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -11887,31 +11886,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 21,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 55,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096632,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096632,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000091D63",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000091D63",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -11939,9 +11939,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1352,
 				["totals"] = {
 					6094, -- [1]
 					315, -- [2]
@@ -11965,7 +11963,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					5222, -- [1]
+					315, -- [2]
+					{
+						9, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -11996,10 +12013,13 @@ _detalhes_database = {
 				["end_time"] = 462418.778,
 				["combat_id"] = 1338,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1352,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -12020,32 +12040,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					5222, -- [1]
-					315, -- [2]
-					{
-						9, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462410.715,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [15]
 			{
@@ -12058,14 +12058,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.008963,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5610.008963,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5610.008963,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -12079,8 +12080,7 @@ _detalhes_database = {
 								[64] = 1684,
 							},
 							["end_time"] = 1695096611,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -12088,7 +12088,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 1,
-										["n_max"] = 385,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1296,
 										},
@@ -12110,182 +12110,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 385,
 										["r_amt"] = 0,
 									}, -- [1]
-									[11581] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 252,
-										["targets"] = {
-											["Severed Spirit"] = 252,
-										},
-										["n_total"] = 252,
-										["n_min"] = 252,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 252,
-										["c_max"] = 0,
-										["id"] = 11581,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[25286] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 548,
-										["targets"] = {
-											["Severed Spirit"] = 1019,
-										},
-										["n_total"] = 1019,
-										["n_min"] = 471,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 1019,
-										["c_max"] = 0,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 53,
-										["targets"] = {
-											["Severed Spirit"] = 53,
-										},
-										["n_total"] = 53,
-										["n_min"] = 53,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 53,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[20647] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 715,
-										["targets"] = {
-											["Severed Spirit"] = 715,
-										},
-										["n_total"] = 715,
-										["n_min"] = 715,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 715,
-										["c_max"] = 0,
-										["id"] = 20647,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[7384] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 410,
-										["targets"] = {
-											["Severed Spirit"] = 1341,
-										},
-										["n_total"] = 410,
-										["n_min"] = 410,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 1341,
-										["c_max"] = 931,
-										["id"] = 7384,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 931,
-										["successful_casted"] = 0,
-										["c_total"] = 931,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[50782] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 437,
-										["targets"] = {
-											["Severed Spirit"] = 437,
-										},
-										["n_total"] = 437,
-										["n_min"] = 437,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 437,
-										["c_max"] = 0,
-										["id"] = 50782,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 166,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 497,
 										},
@@ -12306,14 +12138,182 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
+										["n_max"] = 166,
+										["r_amt"] = 0,
+									},
+									[11581] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 252,
+										},
+										["n_total"] = 252,
+										["n_min"] = 252,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 252,
+										["c_max"] = 0,
+										["id"] = 11581,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["n_max"] = 252,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 53,
+										},
+										["n_total"] = 53,
+										["n_min"] = 53,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 53,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["n_max"] = 53,
+										["r_amt"] = 0,
+									},
+									[20647] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 715,
+										},
+										["n_total"] = 715,
+										["n_min"] = 715,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 715,
+										["c_max"] = 0,
+										["id"] = 20647,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["n_max"] = 715,
+										["r_amt"] = 0,
+									},
+									[7384] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 1341,
+										},
+										["n_total"] = 410,
+										["n_min"] = 410,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1341,
+										["c_max"] = 931,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 931,
+										["successful_casted"] = 0,
+										["c_total"] = 931,
+										["n_amt"] = 1,
+										["n_max"] = 410,
+										["r_amt"] = 0,
+									},
+									[50782] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 437,
+										},
+										["n_total"] = 437,
+										["n_min"] = 437,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 437,
+										["c_max"] = 0,
+										["id"] = 50782,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["n_max"] = 437,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 1019,
+										},
+										["n_total"] = 1019,
+										["n_min"] = 471,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1019,
+										["c_max"] = 0,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 548,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096609,
@@ -12329,7 +12329,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1912.002439,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1912.002439,
 							["friendlyfire"] = {
 							},
@@ -12356,7 +12356,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 676,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1912,
 										},
@@ -12376,13 +12376,13 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 676,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096608,
@@ -12399,13 +12399,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.001666,
 							["total_without_pet"] = 3715.001666,
 							["total"] = 3715.001666,
@@ -12420,13 +12419,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 3715,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.001666,
 							["healing_taken"] = 3715.001666,
 							["fight_component"] = true,
 							["end_time"] = 1695096623,
 							["start_time"] = 1695096609,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -12445,12 +12445,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -12470,12 +12470,12 @@ _detalhes_database = {
 										["counter"] = 8,
 										["overheal"] = 0,
 										["total"] = 3400,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 27031,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 8,
@@ -12485,13 +12485,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096619,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.001666,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -12504,8 +12504,8 @@ _detalhes_database = {
 							["resource"] = 0.001786,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.001786,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.001786,
 							["total"] = 24.001786,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -12518,28 +12518,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[29131] = {
-										["total"] = 2,
-										["id"] = 29131,
-										["totalover"] = 0,
-										["targets"] = {
-											["Masturbado"] = 2,
-										},
-										["counter"] = 2,
-									},
 									[2687] = {
 										["total"] = 20,
-										["id"] = 2687,
 										["totalover"] = 0,
+										["id"] = 2687,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
 										["counter"] = 1,
 									},
+									[29131] = {
+										["total"] = 2,
+										["totalover"] = 0,
+										["id"] = 29131,
+										["targets"] = {
+											["Masturbado"] = 2,
+										},
+										["counter"] = 2,
+									},
 									[12964] = {
 										["total"] = 2,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 2,
 										},
@@ -12549,8 +12549,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.001786,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.001786,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096622,
@@ -12624,8 +12624,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 59,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -12711,31 +12710,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 23,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 59,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096611,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096611,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000091D8C",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000091D8C",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -12763,9 +12763,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1351,
 				["totals"] = {
 					7522, -- [1]
 					3715, -- [2]
@@ -12788,6 +12786,83 @@ _detalhes_database = {
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					5610, -- [1]
+					3715, -- [2]
+					{
+						24, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+					["Severed Spirit"] = {
+						["Frostbolt"] = 3,
+					},
+					["Masturbado"] = {
+						["Overpower"] = 2,
+						["Rend"] = 1,
+						["Thunder Clap"] = 1,
+						["Heroic Strike"] = 2,
+					},
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "01:10:12",
+				["hasTimer"] = 13.06500000000233,
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Severed Spirit",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 462397.748,
+				["CombatEndedAt"] = 462397.748,
+				["aura_timeline"] = {
+				},
+				["data_inicio"] = "01:09:58",
+				["end_time"] = 462398.617,
+				["combat_id"] = 1337,
+				["overall_added"] = true,
+				["frags"] = {
+					["Severed Spirit"] = 1,
+				},
+				["contra"] = "Severed Spirit",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Masturbado"] = 315.001666,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Masturbado"] = 5610.008963,
+						}, -- [1]
+					},
 				},
 				["player_last_events"] = {
 					["Masturbado"] = {
@@ -12922,85 +12997,10 @@ _detalhes_database = {
 						["n"] = 9,
 					},
 				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-					["Severed Spirit"] = {
-						["Frostbolt"] = 3,
-					},
-					["Masturbado"] = {
-						["Overpower"] = 2,
-						["Rend"] = 1,
-						["Thunder Clap"] = 1,
-						["Heroic Strike"] = 2,
-					},
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "01:10:12",
-				["hasTimer"] = 13.06500000000233,
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Severed Spirit",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 462397.748,
-				["CombatEndedAt"] = 462397.748,
-				["aura_timeline"] = {
-				},
-				["data_inicio"] = "01:09:58",
-				["end_time"] = 462398.617,
-				["combat_id"] = 1337,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1351,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Masturbado"] = 315.001666,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Masturbado"] = 5610.008963,
-						}, -- [1]
-					},
-				},
-				["totals_grupo"] = {
-					5610, -- [1]
-					3715, -- [2]
-					{
-						24, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
 				["start_time"] = 462384.55,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [16]
 			{
@@ -13013,14 +13013,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.003073,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 6834.003073,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6834.003073,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -13033,8 +13034,7 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["end_time"] = 1695096569,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13042,7 +13042,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 322,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 1850,
 										},
@@ -13051,12 +13051,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 10,
 										["a_amt"] = 0,
-										["total"] = 1850,
-										["c_max"] = 643,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["MISS"] = 3,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 643,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -13065,14 +13065,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 643,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 322,
+										["total"] = 1850,
 									}, -- [1]
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 238,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 238,
 										},
@@ -13093,14 +13093,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 238,
 										["r_amt"] = 0,
 									},
 									[3018] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 239,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 239,
 										},
@@ -13121,14 +13121,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 239,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 737,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 2423,
 										},
@@ -13149,14 +13149,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1686,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 737,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 457,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 457,
 										},
@@ -13177,14 +13177,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 457,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 70,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 621,
 										},
@@ -13205,14 +13205,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 10,
-										["b_dmg"] = 0,
+										["n_max"] = 70,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 527,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Cohlien Frostweaver"] = 1006,
 										},
@@ -13233,14 +13233,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 527,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096566,
@@ -13256,7 +13256,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1804.007179,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1804.007179,
 							["friendlyfire"] = {
 							},
@@ -13283,7 +13283,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 158,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 158,
 										},
@@ -13292,12 +13292,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 3,
 										["DODGE"] = 1,
-										["total"] = 158,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["a_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -13306,14 +13306,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 158,
+										["total"] = 158,
 									}, -- [1]
 									[9672] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 487,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1377,
 										},
@@ -13333,14 +13333,14 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 487,
 										["r_amt"] = 0,
 									},
 									[11831] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 269,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 269,
 										},
@@ -13360,14 +13360,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 269,
 										["r_amt"] = 0,
 									},
 									[33245] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -13386,13 +13386,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096564,
@@ -13409,13 +13409,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.006763,
 							["total_without_pet"] = 315.006763,
 							["total"] = 315.006763,
@@ -13430,13 +13429,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.006763,
 							["healing_taken"] = 315.006763,
 							["fight_component"] = true,
 							["end_time"] = 1695096569,
 							["start_time"] = 1695096566,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -13455,12 +13455,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -13470,13 +13470,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096566,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.006763,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -13489,8 +13489,8 @@ _detalhes_database = {
 							["resource"] = 0.007667,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.007667,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.007667,
 							["total"] = 1.007667,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -13505,8 +13505,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -13516,8 +13516,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.007667,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.007667,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096566,
@@ -13580,8 +13580,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 89,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -13607,17 +13606,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 52437,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[65156] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -13625,6 +13613,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 9,
 										["id"] = 65156,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[52437] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 52437,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -13667,31 +13666,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 44,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 89,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096569,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096569,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Cohlien Frostweaver",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19545",
-							["serial"] = "Creature-0-4390-530-126-19545-0000091DDB",
+							["nome"] = "Cohlien Frostweaver",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19545-0000091DDB",
+							["aID"] = "19545",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -13719,9 +13719,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1350,
 				["totals"] = {
 					8638, -- [1]
 					315, -- [2]
@@ -13745,7 +13743,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					6834, -- [1]
+					315, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -13773,10 +13790,13 @@ _detalhes_database = {
 				["end_time"] = 462356.122,
 				["combat_id"] = 1336,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Cohlien Frostweaver"] = 1,
 				},
 				["contra"] = "Cohlien Frostweaver",
-				["combat_counter"] = 1350,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -13797,32 +13817,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					6834, -- [1]
-					315, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462334.967,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Cohlien Frostweaver"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [17]
 			{
@@ -13835,14 +13835,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.003647,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 10515.003647,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 10515.003647,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -13856,8 +13857,7 @@ _detalhes_database = {
 								[64] = 8299,
 							},
 							["end_time"] = 1695096538,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -13865,7 +13865,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 1,
-										["n_max"] = 407,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1605,
 										},
@@ -13887,14 +13887,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 417,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 407,
 										["r_amt"] = 0,
 									}, -- [1]
 									[7384] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1957,
 										},
@@ -13915,14 +13915,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1957,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 216,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1046,
 										},
@@ -13943,14 +13943,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 216,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 503,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 3232,
 										},
@@ -13971,14 +13971,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2248,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 503,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 829,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 829,
 										},
@@ -13999,14 +13999,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 829,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1258,
 										},
@@ -14027,14 +14027,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1258,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 83,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 83,
 										},
@@ -14055,14 +14055,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 83,
 										["r_amt"] = 0,
 									},
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 253,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 505,
 										},
@@ -14083,14 +14083,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 253,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096535,
@@ -14106,7 +14106,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 2526.00733,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 2526.00733,
 							["friendlyfire"] = {
 							},
@@ -14133,7 +14133,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 163,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 514,
 										},
@@ -14154,14 +14154,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 243,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 163,
 										["r_amt"] = 0,
 									}, -- [1]
 									[20822] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 684,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 2012,
 										},
@@ -14182,13 +14182,13 @@ _detalhes_database = {
 										["successful_casted"] = 4,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 684,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096535,
@@ -14205,13 +14205,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.007808,
 							["total_without_pet"] = 689.0078080000001,
 							["total"] = 689.0078080000001,
@@ -14226,13 +14225,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 689,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.007808,
 							["healing_taken"] = 689.0078080000001,
 							["fight_component"] = true,
 							["end_time"] = 1695096538,
 							["start_time"] = 1695096532,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -14251,12 +14251,12 @@ _detalhes_database = {
 										["counter"] = 4,
 										["overheal"] = 0,
 										["total"] = 631,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 4,
@@ -14276,12 +14276,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 58,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -14291,13 +14291,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096535,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.007808,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -14310,8 +14310,8 @@ _detalhes_database = {
 							["resource"] = 0.008493,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.008493,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.008493,
 							["total"] = 21.008493,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -14326,8 +14326,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[58362] = {
 										["total"] = 20,
-										["id"] = 58362,
 										["totalover"] = 0,
+										["id"] = 58362,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
@@ -14335,8 +14335,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -14346,8 +14346,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.008493,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.008493,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096535,
@@ -14432,8 +14432,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 79,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -14481,13 +14480,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
+									[65156] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 52437,
+										["uptime"] = 9,
+										["id"] = 65156,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -14514,13 +14513,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[65156] = {
+									[52437] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 65156,
+										["uptime"] = 2,
+										["id"] = 52437,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -14530,31 +14529,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 36,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 79,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096538,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096538,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-000009173E",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-000009173E",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -14582,9 +14582,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1349,
 				["totals"] = {
 					13041, -- [1]
 					689, -- [2]
@@ -14608,7 +14606,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					10515, -- [1]
+					689, -- [2]
+					{
+						21, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -14641,10 +14658,13 @@ _detalhes_database = {
 				["end_time"] = 462324.899,
 				["combat_id"] = 1335,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 2,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1349,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -14665,32 +14685,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					10515, -- [1]
-					689, -- [2]
-					{
-						21, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462308.789,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 2,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [18]
 			{
@@ -14703,14 +14703,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.008243,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5774.008243,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5774.008243,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -14724,8 +14725,7 @@ _detalhes_database = {
 								[64] = 5774,
 							},
 							["end_time"] = 1695096507,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -14733,7 +14733,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 1,
-										["n_max"] = 341,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1626,
 										},
@@ -14755,14 +14755,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 573,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 341,
 										["r_amt"] = 0,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 531,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1594,
 										},
@@ -14783,14 +14783,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1063,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 531,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 861,
 										},
@@ -14811,14 +14811,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 861,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 829,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 829,
 										},
@@ -14839,14 +14839,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 829,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 425,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 425,
 										},
@@ -14867,14 +14867,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 425,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 47,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 233,
 										},
@@ -14895,14 +14895,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 47,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 206,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 206,
 										},
@@ -14923,14 +14923,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 206,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096505,
@@ -14946,7 +14946,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1345.006454,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1345.006454,
 							["friendlyfire"] = {
 							},
@@ -14973,7 +14973,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 685,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1345,
 										},
@@ -14993,13 +14993,13 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 685,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096505,
@@ -15016,13 +15016,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.006169,
 							["total_without_pet"] = 315.006169,
 							["total"] = 315.006169,
@@ -15037,13 +15036,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.006169,
 							["healing_taken"] = 315.006169,
 							["fight_component"] = true,
 							["end_time"] = 1695096507,
 							["start_time"] = 1695096505,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -15062,12 +15062,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -15077,13 +15077,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096505,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.006169,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -15096,8 +15096,8 @@ _detalhes_database = {
 							["resource"] = 0.005235,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.005235,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.005235,
 							["total"] = 43.005235,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -15110,28 +15110,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[58362] = {
-										["total"] = 10,
-										["id"] = 58362,
-										["totalover"] = 0,
-										["targets"] = {
-											["Masturbado"] = 10,
-										},
-										["counter"] = 1,
-									},
 									[29131] = {
 										["total"] = 10,
-										["id"] = 29131,
 										["totalover"] = 0,
+										["id"] = 29131,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
 										["counter"] = 10,
 									},
+									[58362] = {
+										["total"] = 10,
+										["totalover"] = 0,
+										["id"] = 58362,
+										["targets"] = {
+											["Masturbado"] = 10,
+										},
+										["counter"] = 1,
+									},
 									[2687] = {
 										["total"] = 20,
-										["id"] = 2687,
 										["totalover"] = 0,
+										["id"] = 2687,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
@@ -15139,8 +15139,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 3,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 3,
 										},
@@ -15150,8 +15150,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.005235,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.005235,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096510,
@@ -15202,8 +15202,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 41,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -15218,13 +15217,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
+									[25289] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 2,
-										["id"] = 60503,
+										["uptime"] = 5,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -15240,13 +15239,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
+									[60503] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 25289,
+										["uptime"] = 2,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -15278,31 +15277,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 20,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 41,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096507,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096507,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000091CF0",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000091CF0",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -15330,9 +15330,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1348,
 				["totals"] = {
 					7119, -- [1]
 					315, -- [2]
@@ -15356,62 +15354,6 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-					["Severed Spirit"] = {
-						["Frostbolt"] = 2,
-					},
-					["Masturbado"] = {
-						["Battle Shout"] = 1,
-						["Bloodrage"] = 1,
-						["Rend"] = 1,
-						["Overpower"] = 1,
-						["Heroic Strike"] = 2,
-					},
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "01:08:27",
-				["hasTimer"] = 8.119999999995343,
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Severed Spirit",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 462293.261,
-				["CombatEndedAt"] = 462293.261,
-				["aura_timeline"] = {
-				},
-				["data_inicio"] = "01:08:18",
-				["end_time"] = 462294.069,
-				["combat_id"] = 1334,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1348,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Masturbado"] = 315.006169,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Masturbado"] = 5774.008243,
-						}, -- [1]
-					},
-				},
 				["totals_grupo"] = {
 					5774, -- [1]
 					315, -- [2]
@@ -15433,11 +15375,69 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+					["Severed Spirit"] = {
+						["Frostbolt"] = 2,
+					},
+					["Masturbado"] = {
+						["Battle Shout"] = 1,
+						["Bloodrage"] = 1,
+						["Overpower"] = 1,
+						["Rend"] = 1,
+						["Heroic Strike"] = 2,
+					},
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "01:08:27",
+				["hasTimer"] = 8.119999999995343,
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Severed Spirit",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 462293.261,
+				["CombatEndedAt"] = 462293.261,
+				["aura_timeline"] = {
+				},
+				["data_inicio"] = "01:08:18",
+				["end_time"] = 462294.069,
+				["combat_id"] = 1334,
+				["overall_added"] = true,
+				["frags"] = {
+					["Severed Spirit"] = 1,
+				},
+				["contra"] = "Severed Spirit",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Masturbado"] = 315.006169,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Masturbado"] = 5774.008243,
+						}, -- [1]
+					},
+				},
+				["player_last_events"] = {
+				},
 				["start_time"] = 462284.941,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [19]
 			{
@@ -15450,14 +15450,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.002728,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5129.002728,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5129.002728,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -15471,8 +15472,7 @@ _detalhes_database = {
 								[64] = 5129,
 							},
 							["end_time"] = 1695096493,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -15480,7 +15480,7 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 330,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1802,
 										},
@@ -15502,14 +15502,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1283,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 330,
 										["r_amt"] = 0,
 									}, -- [1]
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 207,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 413,
 										},
@@ -15530,14 +15530,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 207,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 522,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 522,
 										},
@@ -15558,14 +15558,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 522,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 792,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 792,
 										},
@@ -15586,14 +15586,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 792,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 441,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 441,
 										},
@@ -15614,14 +15614,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 441,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 114,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 399,
 										},
@@ -15642,14 +15642,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 114,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 760,
 										},
@@ -15670,14 +15670,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 760,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096492,
@@ -15693,7 +15693,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 142.004934,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 142.004934,
 							["friendlyfire"] = {
 							},
@@ -15720,7 +15720,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 142,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 142,
 										},
@@ -15742,13 +15742,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 142,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096489,
@@ -15765,13 +15765,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.002639,
 							["total_without_pet"] = 315.002639,
 							["total"] = 315.002639,
@@ -15786,13 +15785,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.002639,
 							["healing_taken"] = 315.002639,
 							["fight_component"] = true,
 							["end_time"] = 1695096493,
 							["start_time"] = 1695096492,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -15811,12 +15811,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -15826,13 +15826,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096492,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002639,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -15845,8 +15845,8 @@ _detalhes_database = {
 							["resource"] = 0.003096,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.003096,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.003096,
 							["total"] = 1.003096,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -15861,8 +15861,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -15872,8 +15872,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.003096,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.003096,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096488,
@@ -15936,8 +15936,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 33,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -15952,17 +15951,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 5,
-										["id"] = 52437,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[65156] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -15970,6 +15958,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 7,
 										["id"] = 65156,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[52437] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 52437,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -16012,18 +16011,19 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 18,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 33,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096493,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096493,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [4]
@@ -16051,9 +16051,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1347,
 				["totals"] = {
 					5271, -- [1]
 					315, -- [2]
@@ -16077,7 +16075,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					5129, -- [1]
+					315, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -16105,10 +16122,13 @@ _detalhes_database = {
 				["end_time"] = 462279.546,
 				["combat_id"] = 1333,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1347,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -16129,32 +16149,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					5129, -- [1]
-					315, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462272.487,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [20]
 			{
@@ -16167,14 +16167,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.005998,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5055.005998000001,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5055.005998000001,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -16188,8 +16189,7 @@ _detalhes_database = {
 								[64] = 1533,
 							},
 							["end_time"] = 1695096475,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16197,7 +16197,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 340,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1190,
 										},
@@ -16219,14 +16219,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 340,
 										["r_amt"] = 0,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 498,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 939,
 										},
@@ -16247,14 +16247,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 498,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 793,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1555,
 										},
@@ -16275,14 +16275,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 793,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 933,
 										},
@@ -16303,14 +16303,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 933,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 47,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 232,
 										},
@@ -16331,14 +16331,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 47,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 206,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 206,
 										},
@@ -16359,14 +16359,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 206,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096485,
@@ -16382,7 +16382,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 872.007356,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 872.007356,
 							["friendlyfire"] = {
 							},
@@ -16409,7 +16409,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 137,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 137,
 										},
@@ -16431,14 +16431,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 137,
 										["r_amt"] = 0,
 									}, -- [1]
 									[20822] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 735,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 735,
 										},
@@ -16458,13 +16458,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 735,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096473,
@@ -16481,13 +16481,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.006742,
 							["total_without_pet"] = 315.006742,
 							["total"] = 315.006742,
@@ -16502,13 +16501,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.006742,
 							["healing_taken"] = 315.006742,
 							["fight_component"] = true,
 							["end_time"] = 1695096475,
 							["start_time"] = 1695096473,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -16527,12 +16527,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -16542,13 +16542,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096473,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.006742,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -16561,8 +16561,8 @@ _detalhes_database = {
 							["resource"] = 0.004392,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.004392,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.004392,
 							["total"] = 1.004392,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -16577,8 +16577,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -16588,8 +16588,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.004392,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.004392,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096469,
@@ -16652,8 +16652,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 39,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -16668,17 +16667,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[65156] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 65156,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[52437] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -16686,6 +16674,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 0,
 										["id"] = 52437,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[65156] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 65156,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -16728,31 +16727,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 14,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 39,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096475,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096475,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000089234",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000089234",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -16780,9 +16780,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1346,
 				["totals"] = {
 					5927, -- [1]
 					315, -- [2]
@@ -16806,7 +16804,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					5055, -- [1]
+					315, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -16836,10 +16853,13 @@ _detalhes_database = {
 				["end_time"] = 462261.801,
 				["combat_id"] = 1332,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1346,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -16860,32 +16880,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					5055, -- [1]
-					315, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462252.73,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [21]
 			{
@@ -16898,14 +16898,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.00276,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 13165.00276,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 13165.00276,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -16919,8 +16920,7 @@ _detalhes_database = {
 								[128] = 6572,
 							},
 							["end_time"] = 1695096460,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -16928,7 +16928,7 @@ _detalhes_database = {
 										["c_amt"] = 4,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 377,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 4076,
 										},
@@ -16937,12 +16937,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 14,
 										["MISS"] = 2,
-										["total"] = 4076,
-										["c_max"] = 664,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["DODGE"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 664,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -16951,154 +16951,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2182,
 										["n_amt"] = 7,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 377,
+										["total"] = 4076,
 									}, -- [1]
-									[11574] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 220,
-										["targets"] = {
-											["Severed Defender"] = 1099,
-										},
-										["n_total"] = 1099,
-										["n_min"] = 219,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 1099,
-										["c_max"] = 0,
-										["id"] = 11574,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 5,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[20569] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 480,
-										["targets"] = {
-											["Severed Defender"] = 2547,
-										},
-										["n_total"] = 480,
-										["n_min"] = 480,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 2547,
-										["c_max"] = 1102,
-										["id"] = 20569,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 965,
-										["successful_casted"] = 0,
-										["c_total"] = 2067,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[25286] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 503,
-										["targets"] = {
-											["Severed Defender"] = 999,
-										},
-										["n_total"] = 999,
-										["n_min"] = 496,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 999,
-										["c_max"] = 0,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[34428] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 484,
-										["targets"] = {
-											["Severed Defender"] = 968,
-										},
-										["n_total"] = 968,
-										["n_min"] = 484,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 968,
-										["c_max"] = 0,
-										["id"] = 34428,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 134,
-										["targets"] = {
-											["Severed Defender"] = 1722,
-										},
-										["n_total"] = 1722,
-										["n_min"] = 50,
-										["g_dmg"] = 0,
-										["counter"] = 18,
-										["total"] = 1722,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 18,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
 									[7384] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 1754,
 										},
@@ -17119,14 +16979,154 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1754,
 										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
+									},
+									[20569] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 2547,
+										},
+										["n_total"] = 480,
+										["n_min"] = 480,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2547,
+										["c_max"] = 1102,
+										["id"] = 20569,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 965,
+										["successful_casted"] = 0,
+										["c_total"] = 2067,
+										["n_amt"] = 1,
+										["n_max"] = 480,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 999,
+										},
+										["n_total"] = 999,
+										["n_min"] = 496,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 999,
+										["c_max"] = 0,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 503,
+										["r_amt"] = 0,
+									},
+									[34428] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 968,
+										},
+										["n_total"] = 968,
+										["n_min"] = 484,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 968,
+										["c_max"] = 0,
+										["id"] = 34428,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 484,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 1722,
+										},
+										["n_total"] = 1722,
+										["n_min"] = 50,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 1722,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 18,
+										["n_max"] = 134,
+										["r_amt"] = 0,
+									},
+									[11574] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 1099,
+										},
+										["n_total"] = 1099,
+										["n_min"] = 219,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 1099,
+										["c_max"] = 0,
+										["id"] = 11574,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 5,
+										["n_max"] = 220,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096459,
@@ -17142,7 +17142,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1248.004486,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1248.004486,
 							["friendlyfire"] = {
 							},
@@ -17169,7 +17169,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 204,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1248,
 										},
@@ -17178,12 +17178,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 11,
 										["MISS"] = 1,
-										["total"] = 1248,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["DODGE"] = 3,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -17192,14 +17192,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 7,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 204,
+										["total"] = 1248,
 									}, -- [1]
 									[12169] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -17218,13 +17218,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096459,
@@ -17241,13 +17241,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.004175,
 							["total_without_pet"] = 631.004175,
 							["total"] = 631.004175,
@@ -17262,13 +17261,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 631,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.004175,
 							["healing_taken"] = 631.004175,
 							["fight_component"] = true,
 							["end_time"] = 1695096460,
 							["start_time"] = 1695096456,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -17287,12 +17287,12 @@ _detalhes_database = {
 										["counter"] = 4,
 										["overheal"] = 0,
 										["total"] = 631,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 4,
@@ -17302,13 +17302,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096459,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004175,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -17321,8 +17321,8 @@ _detalhes_database = {
 							["resource"] = 0.003659,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.003659,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.003659,
 							["total"] = 2.003659,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -17337,8 +17337,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 2,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 2,
 										},
@@ -17348,8 +17348,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.003659,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.003659,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096453,
@@ -17401,8 +17401,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 76,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -17417,13 +17416,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[52437] = {
+									[65156] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 52437,
+										["uptime"] = 9,
+										["id"] = 65156,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -17439,13 +17438,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[65156] = {
+									[52437] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 65156,
+										["uptime"] = 1,
+										["id"] = 52437,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -17488,31 +17487,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 33,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 76,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096460,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096460,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Defender",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "20934",
-							["serial"] = "Creature-0-4390-530-126-20934-0000091CFA",
+							["nome"] = "Severed Defender",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-20934-0000091CFA",
+							["aID"] = "20934",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -17540,9 +17540,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1345,
 				["totals"] = {
 					14413, -- [1]
 					631, -- [2]
@@ -17566,62 +17564,6 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-					["Severed Defender"] = {
-						["Shield Block"] = 1,
-					},
-					["Masturbado"] = {
-						["Cleave"] = 2,
-						["Rend"] = 1,
-						["Overpower"] = 2,
-						["Victory Rush"] = 2,
-						["Heroic Strike"] = 2,
-					},
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "01:07:40",
-				["hasTimer"] = 15.13099999999395,
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Severed Defender",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 462245.789,
-				["CombatEndedAt"] = 462245.789,
-				["aura_timeline"] = {
-				},
-				["data_inicio"] = "01:07:25",
-				["end_time"] = 462246.288,
-				["combat_id"] = 1331,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Severed Defender",
-				["combat_counter"] = 1345,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Masturbado"] = 631.004175,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Masturbado"] = 13165.00276,
-						}, -- [1]
-					},
-				},
 				["totals_grupo"] = {
 					13165, -- [1]
 					631, -- [2]
@@ -17643,11 +17585,69 @@ _detalhes_database = {
 						["dead"] = 0,
 					}, -- [4]
 				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+					["Severed Defender"] = {
+						["Shield Block"] = 1,
+					},
+					["Masturbado"] = {
+						["Cleave"] = 2,
+						["Overpower"] = 2,
+						["Rend"] = 1,
+						["Victory Rush"] = 2,
+						["Heroic Strike"] = 2,
+					},
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "01:07:40",
+				["hasTimer"] = 15.13099999999395,
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Severed Defender",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 462245.789,
+				["CombatEndedAt"] = 462245.789,
+				["aura_timeline"] = {
+				},
+				["data_inicio"] = "01:07:25",
+				["end_time"] = 462246.288,
+				["combat_id"] = 1331,
+				["overall_added"] = true,
+				["frags"] = {
+					["Severed Defender"] = 2,
+				},
+				["contra"] = "Severed Defender",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Masturbado"] = 631.004175,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Masturbado"] = 13165.00276,
+						}, -- [1]
+					},
+				},
+				["player_last_events"] = {
+				},
 				["start_time"] = 462231.157,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Defender"] = 2,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [22]
 			{
@@ -17660,14 +17660,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.00284,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 8274.002840000001,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 8274.002840000001,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -17681,8 +17682,7 @@ _detalhes_database = {
 								[128] = 8274,
 							},
 							["end_time"] = 1695096434,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -17690,7 +17690,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 3,
 										["g_amt"] = 2,
-										["n_max"] = 350,
+										["b_dmg"] = 571,
 										["targets"] = {
 											["Severed Defender"] = 2210,
 										},
@@ -17712,14 +17712,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 380,
 										["n_amt"] = 6,
-										["b_dmg"] = 571,
+										["n_max"] = 350,
 										["r_amt"] = 0,
 									}, -- [1]
 									[7384] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 384,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 384,
 										},
@@ -17740,14 +17740,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 384,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 2,
 										["g_amt"] = 0,
-										["n_max"] = 419,
+										["b_dmg"] = 829,
 										["targets"] = {
 											["Severed Defender"] = 1791,
 										},
@@ -17768,14 +17768,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 962,
 										["n_amt"] = 2,
-										["b_dmg"] = 829,
+										["n_max"] = 419,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 215,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 596,
 										},
@@ -17796,14 +17796,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 215,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 2,
 										["g_amt"] = 0,
-										["n_max"] = 717,
+										["b_dmg"] = 2353,
 										["targets"] = {
 											["Severed Defender"] = 2353,
 										},
@@ -17824,14 +17824,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1636,
 										["n_amt"] = 1,
-										["b_dmg"] = 2353,
+										["n_max"] = 717,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 456,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 456,
 										},
@@ -17852,14 +17852,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 456,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 84,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 251,
 										},
@@ -17880,14 +17880,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 84,
 										["r_amt"] = 0,
 									},
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 233,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 233,
 										},
@@ -17908,14 +17908,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 233,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096433,
@@ -17931,7 +17931,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1112.002287,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1112.002287,
 							["friendlyfire"] = {
 							},
@@ -17958,7 +17958,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 183,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 904,
 										},
@@ -17980,14 +17980,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 297,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 183,
 										["r_amt"] = 0,
 									}, -- [1]
 									[36094] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 0,
 										},
@@ -18009,14 +18009,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[36093] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 208,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 208,
 										},
@@ -18036,14 +18036,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 208,
 										["r_amt"] = 0,
 									},
 									[12169] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -18062,13 +18062,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096433,
@@ -18085,13 +18085,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.003592,
 							["total_without_pet"] = 315.003592,
 							["total"] = 315.003592,
@@ -18106,13 +18105,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.003592,
 							["healing_taken"] = 315.003592,
 							["fight_component"] = true,
 							["end_time"] = 1695096434,
 							["start_time"] = 1695096433,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -18131,12 +18131,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -18146,13 +18146,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096433,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.003592,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -18165,8 +18165,8 @@ _detalhes_database = {
 							["resource"] = 0.001703,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.001703,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.001703,
 							["total"] = 10.001703,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -18181,8 +18181,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[58362] = {
 										["total"] = 10,
-										["id"] = 58362,
 										["totalover"] = 0,
+										["id"] = 58362,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
@@ -18192,8 +18192,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.001703,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.001703,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096429,
@@ -18241,17 +18241,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[11574] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 10,
-										["id"] = 11574,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[25202] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -18263,11 +18252,21 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[11574] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 10,
+										["id"] = 11574,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 49,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -18331,31 +18330,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 36,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 49,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096434,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096434,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Defender",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "20934",
-							["serial"] = "Creature-0-4390-530-126-20934-000009172E",
+							["nome"] = "Severed Defender",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-20934-000009172E",
+							["aID"] = "20934",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -18383,9 +18383,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1344,
 				["totals"] = {
 					9386, -- [1]
 					315, -- [2]
@@ -18409,7 +18407,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					8274, -- [1]
+					315, -- [2]
+					{
+						10, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -18442,10 +18459,13 @@ _detalhes_database = {
 				["end_time"] = 462221.485,
 				["combat_id"] = 1330,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Defender"] = 1,
 				},
 				["contra"] = "Severed Defender",
-				["combat_counter"] = 1344,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -18466,32 +18486,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					8274, -- [1]
-					315, -- [2]
-					{
-						10, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462208.422,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Defender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [23]
 			{
@@ -18504,14 +18504,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.008737,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5172.008737,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5172.008737,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -18525,8 +18526,7 @@ _detalhes_database = {
 								[64] = 5172,
 							},
 							["end_time"] = 1695096410,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -18534,7 +18534,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 381,
+										["b_dmg"] = 161,
 										["targets"] = {
 											["Severed Spirit"] = 1740,
 										},
@@ -18556,14 +18556,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 733,
 										["n_amt"] = 4,
-										["b_dmg"] = 161,
+										["n_max"] = 381,
 										["r_amt"] = 0,
 									}, -- [1]
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 228,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 456,
 										},
@@ -18584,14 +18584,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 228,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 529,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1028,
 										},
@@ -18612,14 +18612,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 529,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 572,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 572,
 										},
@@ -18640,14 +18640,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 572,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 83,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 333,
 										},
@@ -18668,14 +18668,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 83,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1043,
 										},
@@ -18696,14 +18696,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1043,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096408,
@@ -18719,7 +18719,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 264.001022,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 264.001022,
 							["friendlyfire"] = {
 							},
@@ -18746,7 +18746,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 145,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 264,
 										},
@@ -18767,13 +18767,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 145,
 										["r_amt"] = 0,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096407,
@@ -18790,13 +18790,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.002195,
 							["total_without_pet"] = 395.002195,
 							["total"] = 395.002195,
@@ -18811,13 +18810,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 395,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.002195,
 							["healing_taken"] = 395.002195,
 							["fight_component"] = true,
 							["end_time"] = 1695096410,
 							["start_time"] = 1695096406,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -18836,12 +18836,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 80,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -18861,12 +18861,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -18876,13 +18876,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096408,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002195,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -18895,8 +18895,8 @@ _detalhes_database = {
 							["resource"] = 0.001315,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.001315,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.001315,
 							["total"] = 1.001315,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -18911,8 +18911,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -18922,8 +18922,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.001315,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.001315,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096402,
@@ -18986,8 +18986,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 48,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -19013,13 +19012,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
+									[25289] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 60503,
+										["uptime"] = 8,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -19035,13 +19034,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
+									[60503] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 8,
-										["id"] = 25289,
+										["uptime"] = 1,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -19073,18 +19072,19 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 14,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 48,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096410,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096410,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [4]
@@ -19112,9 +19112,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1343,
 				["totals"] = {
 					5436, -- [1]
 					395, -- [2]
@@ -19138,7 +19136,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					5172, -- [1]
+					395, -- [2]
+					{
+						1, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -19166,10 +19183,13 @@ _detalhes_database = {
 				["end_time"] = 462197.181,
 				["combat_id"] = 1329,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1343,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -19190,32 +19210,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					5172, -- [1]
-					395, -- [2]
-					{
-						1, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462189.128,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [24]
 			{
@@ -19228,14 +19228,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.00273,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 6193.00273,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6193.00273,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -19249,8 +19250,7 @@ _detalhes_database = {
 								[64] = 5359,
 							},
 							["end_time"] = 1695096391,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19258,7 +19258,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 340,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1302,
 										},
@@ -19280,14 +19280,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 403,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 340,
 										["r_amt"] = 0,
 									}, -- [1]
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 216,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 216,
 										},
@@ -19308,14 +19308,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 216,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1010,
 										},
@@ -19336,14 +19336,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1010,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 494,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 494,
 										},
@@ -19364,14 +19364,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 494,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 75,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 202,
 										},
@@ -19392,14 +19392,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 75,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 553,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 2969,
 										},
@@ -19420,14 +19420,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2416,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 553,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096390,
@@ -19443,7 +19443,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 568.004776,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 568.004776,
 							["friendlyfire"] = {
 							},
@@ -19470,7 +19470,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 568,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 568,
 										},
@@ -19490,13 +19490,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 568,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096387,
@@ -19513,13 +19513,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.005269,
 							["total_without_pet"] = 369.005269,
 							["total"] = 369.005269,
@@ -19534,13 +19533,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 369,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.005269,
 							["healing_taken"] = 369.005269,
 							["fight_component"] = true,
 							["end_time"] = 1695096391,
 							["start_time"] = 1695096390,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -19559,12 +19559,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 54,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -19584,12 +19584,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -19599,13 +19599,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096390,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.005269,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -19618,8 +19618,8 @@ _detalhes_database = {
 							["resource"] = 0.007208,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.007208,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.007208,
 							["total"] = 21.007208,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -19634,8 +19634,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
@@ -19643,8 +19643,8 @@ _detalhes_database = {
 									},
 									[58362] = {
 										["total"] = 20,
-										["id"] = 58362,
 										["totalover"] = 0,
+										["id"] = 58362,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
@@ -19654,8 +19654,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.007208,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.007208,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096390,
@@ -19693,17 +19693,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[46857] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 4,
-										["id"] = 46857,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[413763] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -19715,11 +19704,21 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[46857] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 4,
+										["id"] = 46857,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 28,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -19745,17 +19744,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 60503,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[25289] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -19763,6 +19751,17 @@ _detalhes_database = {
 										["activedamt"] = 1,
 										["uptime"] = 7,
 										["id"] = 25289,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[60503] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -19794,31 +19793,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 12,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 28,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096391,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096391,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000090AB2",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000090AB2",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -19846,9 +19846,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1342,
 				["totals"] = {
 					6761, -- [1]
 					369, -- [2]
@@ -19872,7 +19870,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					6193, -- [1]
+					369, -- [2]
+					{
+						21, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -19902,10 +19919,13 @@ _detalhes_database = {
 				["end_time"] = 462178.328,
 				["combat_id"] = 1328,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1342,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -19926,32 +19946,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					6193, -- [1]
-					369, -- [2]
-					{
-						21, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462171.259,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [25]
 			{
@@ -19964,14 +19964,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.004982,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5223.004982,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5223.004982,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -19985,8 +19986,7 @@ _detalhes_database = {
 								[64] = 5223,
 							},
 							["end_time"] = 1695096373,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -19994,7 +19994,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 404,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1692,
 										},
@@ -20015,14 +20015,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 457,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 404,
 										["r_amt"] = 0,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 544,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1775,
 										},
@@ -20043,14 +20043,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1231,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 544,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 888,
 										},
@@ -20071,14 +20071,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 888,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 494,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 494,
 										},
@@ -20099,14 +20099,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 494,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 68,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 155,
 										},
@@ -20127,14 +20127,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 68,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 219,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 219,
 										},
@@ -20155,14 +20155,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 219,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096372,
@@ -20178,7 +20178,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 643.004383,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 643.004383,
 							["friendlyfire"] = {
 							},
@@ -20205,7 +20205,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 0,
 										},
@@ -20227,14 +20227,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[20822] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 643,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 643,
 										},
@@ -20254,13 +20254,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 643,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096371,
@@ -20277,13 +20277,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.008459,
 							["total_without_pet"] = 316.008459,
 							["total"] = 316.008459,
@@ -20298,13 +20297,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 316,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.008459,
 							["healing_taken"] = 316.008459,
 							["fight_component"] = true,
 							["end_time"] = 1695096373,
 							["start_time"] = 1695096372,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -20323,12 +20323,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 316,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -20338,13 +20338,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096372,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.008459,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -20357,8 +20357,8 @@ _detalhes_database = {
 							["resource"] = 0.002396,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.002396,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.002396,
 							["total"] = 10.002396,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -20373,8 +20373,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[58362] = {
 										["total"] = 10,
-										["id"] = 58362,
 										["totalover"] = 0,
+										["id"] = 58362,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
@@ -20384,8 +20384,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.002396,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.002396,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096370,
@@ -20448,8 +20448,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 36,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -20464,13 +20463,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[60503] = {
+									[25289] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 1,
-										["id"] = 60503,
+										["uptime"] = 7,
+										["id"] = 25289,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -20486,13 +20485,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25289] = {
+									[60503] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 7,
-										["id"] = 25289,
+										["uptime"] = 1,
+										["id"] = 60503,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -20524,31 +20523,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 17,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 36,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096373,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096373,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-00000916E0",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-00000916E0",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -20576,9 +20576,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1341,
 				["totals"] = {
 					5866, -- [1]
 					316, -- [2]
@@ -20602,7 +20600,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					5223, -- [1]
+					316, -- [2]
+					{
+						10, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -20632,10 +20649,13 @@ _detalhes_database = {
 				["end_time"] = 462159.862,
 				["combat_id"] = 1327,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1341,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -20656,32 +20676,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					5223, -- [1]
-					316, -- [2]
-					{
-						10, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462152.821,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [26]
 			{
@@ -20694,14 +20694,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.00487,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 5434.00487,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 5434.00487,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -20715,8 +20716,7 @@ _detalhes_database = {
 								[64] = 865,
 							},
 							["end_time"] = 1695096350,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -20724,7 +20724,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 382,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 821,
 										},
@@ -20746,126 +20746,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 382,
 										["r_amt"] = 0,
 									}, -- [1]
-									[11574] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 215,
-										["targets"] = {
-											["Severed Spirit"] = 381,
-										},
-										["n_total"] = 381,
-										["n_min"] = 166,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 381,
-										["c_max"] = 0,
-										["id"] = 11574,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[20647] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 813,
-										["targets"] = {
-											["Severed Spirit"] = 813,
-										},
-										["n_total"] = 813,
-										["n_min"] = 813,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 813,
-										["c_max"] = 0,
-										["id"] = 20647,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[25286] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 542,
-										["targets"] = {
-											["Severed Spirit"] = 2184,
-										},
-										["n_total"] = 1005,
-										["n_min"] = 463,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 2184,
-										["c_max"] = 1179,
-										["id"] = 25286,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1179,
-										["successful_casted"] = 0,
-										["c_total"] = 1179,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 109,
-										["targets"] = {
-											["Severed Spirit"] = 217,
-										},
-										["n_total"] = 217,
-										["n_min"] = 108,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 217,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
 									[7384] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Spirit"] = 1018,
 										},
@@ -20886,14 +20774,126 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1018,
 										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
+									},
+									[20647] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 813,
+										},
+										["n_total"] = 813,
+										["n_min"] = 813,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 813,
+										["c_max"] = 0,
+										["id"] = 20647,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 1,
+										["n_max"] = 813,
+										["r_amt"] = 0,
+									},
+									[25286] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 2184,
+										},
+										["n_total"] = 1005,
+										["n_min"] = 463,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2184,
+										["c_max"] = 1179,
+										["id"] = 25286,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1179,
+										["successful_casted"] = 0,
+										["c_total"] = 1179,
+										["n_amt"] = 2,
+										["n_max"] = 542,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 217,
+										},
+										["n_total"] = 217,
+										["n_min"] = 108,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 217,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 109,
+										["r_amt"] = 0,
+									},
+									[11574] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Spirit"] = 381,
+										},
+										["n_total"] = 381,
+										["n_min"] = 166,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 381,
+										["c_max"] = 0,
+										["id"] = 11574,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 215,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096349,
@@ -20909,7 +20909,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 840.005949,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 840.005949,
 							["friendlyfire"] = {
 							},
@@ -20936,7 +20936,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 138,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 138,
 										},
@@ -20957,14 +20957,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 138,
 										["r_amt"] = 0,
 									}, -- [1]
 									[20822] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 702,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 702,
 										},
@@ -20984,13 +20984,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 702,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096348,
@@ -21007,13 +21007,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.008175,
 							["total_without_pet"] = 382.008175,
 							["total"] = 382.008175,
@@ -21028,13 +21027,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 382,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.008175,
 							["healing_taken"] = 382.008175,
 							["fight_component"] = true,
 							["end_time"] = 1695096350,
 							["start_time"] = 1695096347,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -21053,12 +21053,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 67,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -21078,12 +21078,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -21093,13 +21093,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096349,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.008175,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -21112,8 +21112,8 @@ _detalhes_database = {
 							["resource"] = 0.004811,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.004811,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.004811,
 							["total"] = 18.004811,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -21126,28 +21126,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[58362] = {
-										["total"] = 10,
-										["id"] = 58362,
-										["totalover"] = 0,
-										["targets"] = {
-											["Masturbado"] = 10,
-										},
-										["counter"] = 1,
-									},
 									[12964] = {
 										["total"] = 1,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 1,
 										},
 										["counter"] = 1,
 									},
+									[58362] = {
+										["total"] = 10,
+										["totalover"] = 0,
+										["id"] = 58362,
+										["targets"] = {
+											["Masturbado"] = 10,
+										},
+										["counter"] = 1,
+									},
 									[29131] = {
 										["total"] = 7,
-										["id"] = 29131,
 										["totalover"] = 0,
+										["id"] = 29131,
 										["targets"] = {
 											["Masturbado"] = 7,
 										},
@@ -21157,8 +21157,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.004811,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.004811,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096349,
@@ -21221,7 +21221,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 43,
+							["pets"] = {
+							},
 							["aID"] = "4408-0474E7DA",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -21329,32 +21330,31 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 10,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["pets"] = {
-							},
-							["classe"] = "WARRIOR",
-							["tipo"] = 4,
-							["buff_uptime_targets"] = {
-							},
 							["debuff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["buff_uptime"] = 43,
+							["classe"] = "WARRIOR",
 							["last_event"] = 1695096350,
+							["tipo"] = 4,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000090A78",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000090A78",
+							["aID"] = "19881",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -21382,9 +21382,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1340,
 				["totals"] = {
 					6274, -- [1]
 					382, -- [2]
@@ -21408,7 +21406,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					5434, -- [1]
+					382, -- [2]
+					{
+						18, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -21438,10 +21455,13 @@ _detalhes_database = {
 				["end_time"] = 462137.143,
 				["combat_id"] = 1326,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Spirit"] = 1,
 				},
 				["contra"] = "Severed Spirit",
-				["combat_counter"] = 1340,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -21462,32 +21482,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					5434, -- [1]
-					382, -- [2]
-					{
-						18, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462130.095,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Spirit"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [27]
 			{
@@ -21500,24 +21500,25 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.002521,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 25663.002521,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 25663.002521,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
-								["Abjurist Belmara"] = true,
 								["Severed Spirit"] = true,
+								["Abjurist Belmara"] = true,
 								["Severed Defender"] = true,
 							},
 							["targets"] = {
-								["Abjurist Belmara"] = 7250,
 								["Severed Spirit"] = 5136,
+								["Abjurist Belmara"] = 7250,
 								["Severed Defender"] = 13277,
 							},
 							["friendlyfire_total"] = 0,
@@ -21527,8 +21528,7 @@ _detalhes_database = {
 								[16] = 7250,
 							},
 							["end_time"] = 1695096301,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -21536,10 +21536,10 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 4,
 										["g_amt"] = 1,
-										["n_max"] = 392,
+										["b_dmg"] = 712,
 										["targets"] = {
-											["Abjurist Belmara"] = 870,
 											["Severed Spirit"] = 1515,
+											["Abjurist Belmara"] = 870,
 											["Severed Defender"] = 2058,
 										},
 										["n_total"] = 3456,
@@ -21547,12 +21547,12 @@ _detalhes_database = {
 										["g_dmg"] = 202,
 										["counter"] = 25,
 										["MISS"] = 5,
-										["total"] = 4443,
-										["c_max"] = 460,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["DODGE"] = 3,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 460,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -21561,14 +21561,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 785,
 										["n_amt"] = 14,
-										["b_dmg"] = 712,
-										["r_amt"] = 0,
+										["n_max"] = 392,
+										["total"] = 4443,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 520,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 1014,
 											["Abjurist Belmara"] = 1406,
@@ -21590,14 +21590,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 970,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 520,
 										["r_amt"] = 0,
 									},
 									[20569] = {
 										["c_amt"] = 0,
 										["b_amt"] = 2,
 										["g_amt"] = 0,
-										["n_max"] = 514,
+										["b_dmg"] = 925,
 										["targets"] = {
 											["Severed Defender"] = 2302,
 											["Severed Spirit"] = 514,
@@ -21619,17 +21619,17 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["b_dmg"] = 925,
+										["n_max"] = 514,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 3,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 440,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Abjurist Belmara"] = 1320,
 											["Severed Defender"] = 2079,
+											["Abjurist Belmara"] = 1320,
 											["Severed Spirit"] = 430,
 										},
 										["n_total"] = 1254,
@@ -21649,14 +21649,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2575,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 440,
 										["r_amt"] = 0,
 									},
 									[3018] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 227,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 227,
 										},
@@ -21677,14 +21677,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 227,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 114,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 812,
 											["Abjurist Belmara"] = 482,
@@ -21706,14 +21706,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 15,
-										["b_dmg"] = 0,
+										["n_max"] = 114,
 										["r_amt"] = 0,
 									},
 									[34428] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 508,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 992,
 											["Abjurist Belmara"] = 483,
@@ -21735,14 +21735,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 508,
 										["r_amt"] = 0,
 									},
 									[12723] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 503,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 841,
 										},
@@ -21763,17 +21763,17 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 503,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 228,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Abjurist Belmara"] = 454,
 											["Severed Spirit"] = 1014,
+											["Abjurist Belmara"] = 454,
 											["Severed Defender"] = 1242,
 										},
 										["n_total"] = 2710,
@@ -21793,17 +21793,17 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 15,
-										["b_dmg"] = 0,
+										["n_max"] = 228,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 850,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Abjurist Belmara"] = 2235,
 											["Severed Defender"] = 786,
+											["Abjurist Belmara"] = 2235,
 											["Severed Spirit"] = 1663,
 										},
 										["n_total"] = 3040,
@@ -21823,14 +21823,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1644,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 850,
 										["r_amt"] = 0,
 									},
 									[26654] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 338,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 924,
 										},
@@ -21851,14 +21851,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 338,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096299,
@@ -21874,7 +21874,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 3303.003636,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 3303.003636,
 							["friendlyfire"] = {
 							},
@@ -21901,7 +21901,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 190,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 2909,
 										},
@@ -21911,9 +21911,9 @@ _detalhes_database = {
 										["MISS"] = 2,
 										["counter"] = 20,
 										["DODGE"] = 1,
-										["total"] = 2909,
+										["r_amt"] = 0,
 										["c_max"] = 308,
-										["b_dmg"] = 0,
+										["n_max"] = 190,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -21925,14 +21925,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 308,
 										["n_amt"] = 15,
-										["r_amt"] = 0,
+										["total"] = 2909,
 										["g_dmg"] = 0,
 									}, -- [1]
 									[36093] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 203,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 394,
 										},
@@ -21953,14 +21953,14 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 203,
 										["r_amt"] = 0,
 									},
 									[12169] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -21979,13 +21979,13 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096286,
@@ -22001,7 +22001,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 3065.007018,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 3065.007018,
 							["friendlyfire"] = {
 							},
@@ -22028,7 +22028,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 275,
 										},
@@ -22049,14 +22049,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 275,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									}, -- [1]
 									[20822] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 693,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 2523,
 										},
@@ -22076,14 +22076,14 @@ _detalhes_database = {
 										["successful_casted"] = 4,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 693,
 										["r_amt"] = 0,
 									},
 									[11831] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 267,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 267,
 										},
@@ -22103,13 +22103,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 267,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096284,
@@ -22125,7 +22125,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 1691.003433,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 1691.003433,
 							["friendlyfire"] = {
 							},
@@ -22152,7 +22152,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 195,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 641,
 										},
@@ -22161,12 +22161,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 6,
 										["a_amt"] = 0,
-										["total"] = 641,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["DODGE"] = 1,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -22175,14 +22175,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 195,
+										["total"] = 641,
 									}, -- [1]
 									[34447] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 210,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 1050,
 										},
@@ -22202,14 +22202,14 @@ _detalhes_database = {
 										["successful_casted"] = 5,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 210,
 										["r_amt"] = 0,
 									},
 									[17740] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -22228,13 +22228,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096299,
@@ -22251,13 +22251,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.001137,
 							["total_without_pet"] = 3971.001137,
 							["total"] = 3971.001137,
@@ -22272,13 +22271,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 3971,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.001137,
 							["healing_taken"] = 3971.001137,
 							["fight_component"] = true,
 							["end_time"] = 1695096343,
 							["start_time"] = 1695096286,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -22297,12 +22297,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 160,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -22322,12 +22322,12 @@ _detalhes_database = {
 										["counter"] = 8,
 										["overheal"] = 0,
 										["total"] = 1261,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 8,
@@ -22347,12 +22347,12 @@ _detalhes_database = {
 										["counter"] = 6,
 										["overheal"] = 0,
 										["total"] = 2550,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 27031,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 6,
@@ -22362,13 +22362,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096337,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.001137,
 							["delay"] = 1695096288,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -22381,8 +22381,8 @@ _detalhes_database = {
 							["resource"] = 0.002738,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.002738,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.002738,
 							["total"] = 36.002738,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -22395,28 +22395,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[29131] = {
-										["total"] = 3,
-										["id"] = 29131,
-										["totalover"] = 0,
-										["targets"] = {
-											["Masturbado"] = 3,
-										},
-										["counter"] = 3,
-									},
 									[2687] = {
 										["total"] = 20,
-										["id"] = 2687,
 										["totalover"] = 0,
+										["id"] = 2687,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
 										["counter"] = 1,
 									},
+									[29131] = {
+										["total"] = 3,
+										["totalover"] = 0,
+										["id"] = 29131,
+										["targets"] = {
+											["Masturbado"] = 3,
+										},
+										["counter"] = 3,
+									},
 									[58362] = {
 										["total"] = 10,
-										["id"] = 58362,
 										["totalover"] = 0,
+										["id"] = 58362,
 										["targets"] = {
 											["Masturbado"] = 10,
 										},
@@ -22424,8 +22424,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 3,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 3,
 										},
@@ -22435,8 +22435,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.002738,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.002738,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096342,
@@ -22498,8 +22498,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 233,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -22618,57 +22617,58 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 78,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 233,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096301,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096301,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Spirit",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19881",
-							["serial"] = "Creature-0-4390-530-126-19881-0000091CFF",
+							["nome"] = "Severed Spirit",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19881-0000091CFF",
+							["aID"] = "19881",
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Defender",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "20934",
-							["serial"] = "Creature-0-4390-530-126-20934-0000091C92",
+							["nome"] = "Severed Defender",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-20934-0000091C92",
+							["aID"] = "20934",
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Abjurist Belmara",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "19546",
-							["serial"] = "Creature-0-4390-530-126-19546-0000091C08",
+							["nome"] = "Abjurist Belmara",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-19546-0000091C08",
+							["aID"] = "19546",
 						}, -- [4]
 					},
 				}, -- [4]
@@ -22696,9 +22696,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1339,
 				["totals"] = {
 					33722, -- [1]
 					3971, -- [2]
@@ -22721,6 +22719,94 @@ _detalhes_database = {
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					25663, -- [1]
+					3971, -- [2]
+					{
+						36, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["amountCasts"] = {
+					["Masturbado"] = {
+						["Sweeping Strikes"] = 1,
+						["Berserker Rage"] = 1,
+						["Charge"] = 1,
+						["Cleave"] = 3,
+						["Victory Rush"] = 3,
+						["Overpower"] = 6,
+						["Rend"] = 5,
+						["Heroic Strike"] = 4,
+					},
+					["Severed Defender"] = {
+						["Shield Block"] = 2,
+						["Ghost Strike"] = 3,
+					},
+					["Severed Spirit"] = {
+						["Frost Nova"] = 1,
+						["Frostbolt"] = 4,
+					},
+				},
+				["instance_type"] = "none",
+				["data_fim"] = "01:05:01",
+				["hasTimer"] = 40.32000000000699,
+				["bIsClosed"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Severed Defender",
+				["trinketProcs"] = {
+				},
+				["TotalElapsedCombatTime"] = 462087.373,
+				["CombatEndedAt"] = 462087.373,
+				["aura_timeline"] = {
+				},
+				["data_inicio"] = "01:04:20",
+				["end_time"] = 462087.659,
+				["combat_id"] = 1325,
+				["overall_added"] = true,
+				["frags"] = {
+					["Severed Spirit"] = 1,
+					["Abjurist Belmara"] = 1,
+					["Severed Defender"] = 2,
+				},
+				["contra"] = "Severed Defender",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Masturbado"] = 1421.001137,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Masturbado"] = 25663.002521,
+						}, -- [1]
+					},
 				},
 				["player_last_events"] = {
 					["Masturbado"] = {
@@ -22839,96 +22925,10 @@ _detalhes_database = {
 						["n"] = 7,
 					},
 				},
-				["frags_need_refresh"] = true,
-				["amountCasts"] = {
-					["Severed Defender"] = {
-						["Shield Block"] = 2,
-						["Ghost Strike"] = 3,
-					},
-					["Masturbado"] = {
-						["Sweeping Strikes"] = 1,
-						["Charge"] = 1,
-						["Berserker Rage"] = 1,
-						["Cleave"] = 3,
-						["Victory Rush"] = 3,
-						["Overpower"] = 6,
-						["Rend"] = 5,
-						["Heroic Strike"] = 4,
-					},
-					["Severed Spirit"] = {
-						["Frost Nova"] = 1,
-						["Frostbolt"] = 4,
-					},
-				},
-				["instance_type"] = "none",
-				["data_fim"] = "01:05:01",
-				["hasTimer"] = 40.32000000000699,
-				["bIsClosed"] = true,
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Severed Defender",
-				["trinketProcs"] = {
-				},
-				["TotalElapsedCombatTime"] = 462087.373,
-				["CombatEndedAt"] = 462087.373,
-				["aura_timeline"] = {
-				},
-				["data_inicio"] = "01:04:20",
-				["end_time"] = 462087.659,
-				["combat_id"] = 1325,
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Severed Defender",
-				["combat_counter"] = 1339,
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage_section"] = {
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Masturbado"] = 1421.001137,
-						}, -- [1]
-					},
-					["damage"] = {
-						{
-							["Masturbado"] = 25663.002521,
-						}, -- [1]
-					},
-				},
-				["totals_grupo"] = {
-					25663, -- [1]
-					3971, -- [2]
-					{
-						36, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
 				["start_time"] = 462046.327,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Abjurist Belmara"] = 1,
-					["Severed Spirit"] = 1,
-					["Severed Defender"] = 2,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [28]
 			{
@@ -22941,14 +22941,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.003396,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 7057.003396,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 7057.003396,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -22962,8 +22963,7 @@ _detalhes_database = {
 								[128] = 6827,
 							},
 							["end_time"] = 1695096254,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -22971,7 +22971,7 @@ _detalhes_database = {
 										["c_amt"] = 1,
 										["b_amt"] = 3,
 										["g_amt"] = 1,
-										["n_max"] = 351,
+										["b_dmg"] = 575,
 										["targets"] = {
 											["Severed Defender"] = 1743,
 										},
@@ -22980,12 +22980,12 @@ _detalhes_database = {
 										["g_dmg"] = 202,
 										["counter"] = 10,
 										["a_amt"] = 0,
-										["total"] = 1743,
-										["c_max"] = 330,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["MISS"] = 2,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 330,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -22994,14 +22994,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 330,
 										["n_amt"] = 5,
-										["b_dmg"] = 575,
-										["r_amt"] = 0,
+										["n_max"] = 351,
+										["total"] = 1743,
 									}, -- [1]
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 217,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 217,
 										},
@@ -23022,14 +23022,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 217,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 451,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 1321,
 										},
@@ -23050,14 +23050,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 451,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 717,
+										["b_dmg"] = 717,
 										["targets"] = {
 											["Severed Defender"] = 717,
 										},
@@ -23078,70 +23078,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 717,
-										["r_amt"] = 0,
-									},
-									[7384] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Severed Defender"] = 1649,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 1649,
-										["c_max"] = 877,
-										["id"] = 7384,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 772,
-										["successful_casted"] = 0,
-										["c_total"] = 1649,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[413764] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 63,
-										["targets"] = {
-											["Severed Defender"] = 602,
-										},
-										["n_total"] = 602,
-										["n_min"] = 28,
-										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 602,
-										["c_max"] = 0,
-										["id"] = 413764,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 12,
-										["b_dmg"] = 0,
+										["n_max"] = 717,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 202,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Severed Defender"] = 808,
 										},
@@ -23162,14 +23106,70 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
+										["n_max"] = 202,
+										["r_amt"] = 0,
+									},
+									[413764] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 602,
+										},
+										["n_total"] = 602,
+										["n_min"] = 28,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 602,
+										["c_max"] = 0,
+										["id"] = 413764,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 12,
+										["n_max"] = 63,
+										["r_amt"] = 0,
+									},
+									[7384] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Severed Defender"] = 1649,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1649,
+										["c_max"] = 877,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 772,
+										["successful_casted"] = 0,
+										["c_total"] = 1649,
+										["n_amt"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096252,
@@ -23185,7 +23185,7 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["total_without_pet"] = 572.004306,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 572.004306,
 							["friendlyfire"] = {
 							},
@@ -23212,7 +23212,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 209,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 572,
 										},
@@ -23221,12 +23221,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 5,
 										["DODGE"] = 1,
-										["total"] = 572,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["a_amt"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -23235,14 +23235,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 209,
+										["total"] = 572,
 									}, -- [1]
 									[36093] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 0,
 										},
@@ -23263,14 +23263,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[12169] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -23289,13 +23289,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695096250,
@@ -23312,13 +23312,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "WARRIOR",
 							["totalover"] = 0.003427,
 							["total_without_pet"] = 315.003427,
 							["total"] = 315.003427,
@@ -23333,13 +23332,14 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 315,
 							},
-							["spec"] = 71,
+							["aID"] = "4408-0474E7DA",
 							["totalover_without_pet"] = 0.003427,
 							["healing_taken"] = 315.003427,
 							["fight_component"] = true,
 							["end_time"] = 1695096254,
 							["start_time"] = 1695096252,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
 							},
 							["nome"] = "Masturbado",
 							["spells"] = {
@@ -23358,12 +23358,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 315,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -23373,13 +23373,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695096252,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.003427,
 							["delay"] = 0,
-							["aID"] = "4408-0474E7DA",
+							["spec"] = 71,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -23392,8 +23392,8 @@ _detalhes_database = {
 							["resource"] = 0.002256,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.002256,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.002256,
 							["total"] = 32.002256,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -23406,28 +23406,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[29131] = {
-										["total"] = 10,
-										["id"] = 29131,
-										["totalover"] = 0,
-										["targets"] = {
-											["Masturbado"] = 10,
-										},
-										["counter"] = 10,
-									},
 									[2687] = {
 										["total"] = 20,
-										["id"] = 2687,
 										["totalover"] = 0,
+										["id"] = 2687,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
 										["counter"] = 1,
 									},
+									[29131] = {
+										["total"] = 10,
+										["totalover"] = 0,
+										["id"] = 29131,
+										["targets"] = {
+											["Masturbado"] = 10,
+										},
+										["counter"] = 10,
+									},
 									[12964] = {
 										["total"] = 2,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 2,
 										},
@@ -23437,8 +23437,8 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.002256,
-							["classe"] = "WARRIOR",
+							["passiveover"] = 0.002256,
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 3,
 							["fight_component"] = true,
 							["last_event"] = 1695096252,
@@ -23513,8 +23513,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
+							["buff_uptime"] = 70,
 							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
@@ -23529,13 +23528,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[29131] = {
+									[65156] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 10,
-										["id"] = 29131,
+										["uptime"] = 9,
+										["id"] = 65156,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -23551,13 +23550,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[65156] = {
+									[29131] = {
 										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 65156,
+										["uptime"] = 10,
+										["id"] = 29131,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -23600,31 +23599,32 @@ _detalhes_database = {
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 37,
-							["nome"] = "Masturbado",
-							["spec"] = 71,
-							["grupo"] = true,
-							["buff_uptime"] = 70,
-							["aID"] = "4408-0474E7DA",
-							["last_event"] = 1695096254,
-							["debuff_uptime_targets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-0474E7DA",
+							["spec"] = 71,
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["tipo"] = 4,
+							["last_event"] = 1695096254,
+							["nome"] = "Masturbado",
+							["serial"] = "Player-4408-0474E7DA",
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
 							["classe"] = "UNKNOW",
-							["fight_component"] = true,
-							["nome"] = "Severed Defender",
 							["monster"] = true,
-							["tipo"] = 4,
-							["aID"] = "20934",
-							["serial"] = "Creature-0-4390-530-126-20934-0000090A5E",
+							["nome"] = "Severed Defender",
+							["fight_component"] = true,
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-530-126-20934-0000090A5E",
+							["aID"] = "20934",
 						}, -- [2]
 					},
 				}, -- [4]
@@ -23652,9 +23652,7 @@ _detalhes_database = {
 				},
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1338,
 				["totals"] = {
 					7629, -- [1]
 					315, -- [2]
@@ -23678,7 +23676,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					7057, -- [1]
+					315, -- [2]
+					{
+						32, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -23711,10 +23728,13 @@ _detalhes_database = {
 				["end_time"] = 462041.397,
 				["combat_id"] = 1324,
 				["overall_added"] = true,
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Severed Defender"] = 1,
 				},
 				["contra"] = "Severed Defender",
-				["combat_counter"] = 1338,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
@@ -23735,32 +23755,12 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["totals_grupo"] = {
-					7057, -- [1]
-					315, -- [2]
-					{
-						32, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["start_time"] = 462026.289,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Severed Defender"] = 1,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [29]
 			{
@@ -23773,14 +23773,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 5699.002928,
 							["pets"] = {
 							},
-							["aID"] = "4408-03CDC066",
+							["classe"] = "PRIEST",
 							["total_without_pet"] = 40605.002928,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 40605.002928,
 							["spec"] = 258,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-03CDC066",
 							["damage_from"] = {
@@ -23795,45 +23796,15 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695095853,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
-									[58381] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1304,
-										["targets"] = {
-											["Talon King Ikiss"] = 10614,
-										},
-										["n_total"] = 9527,
-										["n_min"] = 524,
-										["g_dmg"] = 0,
-										["counter"] = 18,
-										["total"] = 10614,
-										["c_max"] = 1087,
-										["IMMUNE"] = 3,
-										["id"] = 58381,
-										["r_dmg"] = 524,
-										["spellschool"] = 32,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1087,
-										["successful_casted"] = 0,
-										["c_total"] = 1087,
-										["n_amt"] = 14,
-										["b_dmg"] = 0,
-										["r_amt"] = 1,
-									},
 									[25467] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 458,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 3430,
 										},
@@ -23855,14 +23826,43 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 823,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 458,
 										["r_amt"] = 3,
+									},
+									[58381] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Talon King Ikiss"] = 10614,
+										},
+										["n_total"] = 9527,
+										["n_min"] = 524,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 10614,
+										["c_max"] = 1087,
+										["IMMUNE"] = 3,
+										["id"] = 58381,
+										["r_dmg"] = 524,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1087,
+										["successful_casted"] = 0,
+										["c_total"] = 1087,
+										["n_amt"] = 14,
+										["n_max"] = 1304,
+										["r_amt"] = 1,
 									},
 									[63675] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1098,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 2195,
 										},
@@ -23884,14 +23884,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 1098,
 										["r_amt"] = 0,
 									},
 									[32379] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1222,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 1222,
 										},
@@ -23912,14 +23912,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 1222,
 										["r_amt"] = 0,
 									},
 									[25372] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1486,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 8198,
 										},
@@ -23940,14 +23940,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2557,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 1486,
 										["r_amt"] = 2,
 									},
 									[25387] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 0,
 										},
@@ -23969,14 +23969,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[25367] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 895,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 5491,
 										},
@@ -23998,14 +23998,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 750,
 										["n_amt"] = 10,
-										["b_dmg"] = 0,
+										["n_max"] = 895,
 										["r_amt"] = 3,
 									},
 									[34916] = {
 										["c_amt"] = 4,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1164,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 9455,
 										},
@@ -24027,14 +24027,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 4327,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
+										["n_max"] = 1164,
 										["r_amt"] = 2,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["aID"] = "4408-03CDC066",
 							["nome"] = "Lightnot",
 							["custom"] = 0,
 							["last_event"] = 1695095853,
@@ -24048,14 +24048,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 665.004456,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 19045.004456,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 19045.004456,
 							["spec"] = 71,
 							["colocacao"] = 2,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -24069,16 +24070,15 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695095853,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
-										["c_amt"] = 5,
+										["DODGE"] = 2,
 										["b_amt"] = 1,
 										["g_amt"] = 5,
-										["n_max"] = 320,
+										["b_dmg"] = 320,
 										["targets"] = {
 											["Talon King Ikiss"] = 5769,
 										},
@@ -24088,10 +24088,10 @@ _detalhes_database = {
 										["n_min"] = 205,
 										["MISS"] = 7,
 										["counter"] = 31,
-										["b_dmg"] = 320,
+										["r_amt"] = 0,
 										["total"] = 5769,
 										["c_max"] = 764,
-										["DODGE"] = 2,
+										["c_amt"] = 5,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -24103,14 +24103,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 3091,
 										["n_amt"] = 6,
-										["r_amt"] = 0,
+										["n_max"] = 320,
 										["g_dmg"] = 1252,
 									}, -- [1]
 									[7384] = {
 										["c_amt"] = 3,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 485,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 3440,
 										},
@@ -24132,14 +24132,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2955,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 485,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 232,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 2738,
 										},
@@ -24161,14 +24161,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 12,
-										["b_dmg"] = 0,
+										["n_max"] = 232,
 										["r_amt"] = 0,
 									},
 									[25286] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 544,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 3291,
 										},
@@ -24177,12 +24177,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 9,
 										["a_amt"] = 1,
-										["total"] = 3291,
-										["c_max"] = 1196,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["IMMUNE"] = 3,
 										["id"] = 25286,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 1196,
 										["extra"] = {
 										},
 										["a_dmg"] = 499,
@@ -24191,14 +24191,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1196,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 544,
+										["total"] = 3291,
 									},
 									[20569] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 524,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 524,
 										},
@@ -24219,14 +24219,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 524,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 1926,
 										},
@@ -24235,12 +24235,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 3,
 										["IMMUNE"] = 1,
-										["total"] = 1926,
-										["c_max"] = 1926,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["MISS"] = 1,
 										["id"] = 20647,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 1926,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -24249,14 +24249,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1926,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 0,
+										["total"] = 1926,
 									},
 									[7922] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 0,
 										},
@@ -24278,14 +24278,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 111,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 870,
 										},
@@ -24307,14 +24307,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 15,
-										["b_dmg"] = 0,
+										["n_max"] = 111,
 										["r_amt"] = 0,
 									},
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 271,
+										["b_dmg"] = 216,
 										["targets"] = {
 											["Talon King Ikiss"] = 487,
 										},
@@ -24335,14 +24335,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 216,
+										["n_max"] = 271,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["custom"] = 0,
 							["last_event"] = 1695095853,
@@ -24356,14 +24356,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 1810.003863,
 							["pets"] = {
 							},
-							["aID"] = "4408-04B19510",
+							["classe"] = "DRUID",
 							["total_without_pet"] = 15596.003863,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 15596.003863,
 							["spec"] = 103,
 							["colocacao"] = 3,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-04B19510",
 							["damage_from"] = {
@@ -24377,8 +24378,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695095853,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -24418,7 +24418,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 259,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 777,
 										},
@@ -24439,104 +24439,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 259,
 										["r_amt"] = 0,
-									},
-									[45334] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Talon King Ikiss"] = 0,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 0,
-										["c_max"] = 0,
-										["IMMUNE"] = 3,
-										["id"] = 45334,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[33745] = {
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 77,
-										["targets"] = {
-											["Talon King Ikiss"] = 921,
-										},
-										["n_total"] = 585,
-										["n_min"] = 33,
-										["g_dmg"] = 0,
-										["counter"] = 21,
-										["a_amt"] = 0,
-										["total"] = 921,
-										["c_max"] = 135,
-										["IMMUNE"] = 7,
-										["id"] = 33745,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["PARRY"] = 1,
-										["c_min"] = 66,
-										["successful_casted"] = 0,
-										["c_total"] = 336,
-										["n_amt"] = 10,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[9881] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 953,
-										["targets"] = {
-											["Talon King Ikiss"] = 6267,
-										},
-										["n_total"] = 3488,
-										["IMMUNE"] = 1,
-										["n_min"] = 779,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["MISS"] = 1,
-										["r_amt"] = 0,
-										["c_max"] = 1616,
-										["DODGE"] = 1,
-										["id"] = 9881,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1163,
-										["successful_casted"] = 0,
-										["c_total"] = 2779,
-										["n_amt"] = 4,
-										["b_dmg"] = 0,
-										["total"] = 6267,
 									},
 									[26997] = {
 										["c_amt"] = 1,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 187,
+										["b_dmg"] = 106,
 										["targets"] = {
 											["Talon King Ikiss"] = 1316,
 										},
@@ -24558,14 +24468,104 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 325,
 										["n_amt"] = 6,
-										["b_dmg"] = 106,
+										["n_max"] = 187,
+										["r_amt"] = 0,
+									},
+									[33745] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Talon King Ikiss"] = 921,
+										},
+										["n_total"] = 585,
+										["n_min"] = 33,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
+										["IMMUNE"] = 7,
+										["id"] = 33745,
+										["r_dmg"] = 0,
+										["c_max"] = 135,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["PARRY"] = 1,
+										["c_min"] = 66,
+										["successful_casted"] = 0,
+										["c_total"] = 336,
+										["n_amt"] = 10,
+										["n_max"] = 77,
+										["total"] = 921,
+									},
+									[9881] = {
+										["DODGE"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Talon King Ikiss"] = 6267,
+										},
+										["n_total"] = 3488,
+										["IMMUNE"] = 1,
+										["n_min"] = 779,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["MISS"] = 1,
+										["total"] = 6267,
+										["c_max"] = 1616,
+										["c_amt"] = 2,
+										["id"] = 9881,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1163,
+										["successful_casted"] = 0,
+										["c_total"] = 2779,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["n_max"] = 953,
+									},
+									[45334] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Talon King Ikiss"] = 0,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 0,
+										["c_max"] = 0,
+										["IMMUNE"] = 3,
+										["id"] = 45334,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[19675] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 0,
 										},
@@ -24587,26 +24587,26 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[33986] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 623,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 2500,
 										},
 										["n_total"] = 1180,
 										["IMMUNE"] = 1,
 										["n_min"] = 557,
-										["a_amt"] = 0,
+										["g_dmg"] = 0,
 										["counter"] = 7,
 										["DODGE"] = 2,
-										["total"] = 2500,
+										["r_amt"] = 0,
 										["c_max"] = 1320,
-										["b_dmg"] = 0,
+										["n_max"] = 623,
 										["id"] = 33986,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -24618,14 +24618,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1320,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["g_dmg"] = 0,
+										["total"] = 2500,
+										["a_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "DRUID",
+							["aID"] = "4408-04B19510",
 							["nome"] = "Shifthole",
 							["custom"] = 0,
 							["last_event"] = 1695095853,
@@ -24639,14 +24639,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 1779.005411,
 							["pets"] = {
 							},
-							["aID"] = "4408-051A4069",
+							["classe"] = "DEATHKNIGHT",
 							["total_without_pet"] = 14978.005411,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 14978.005411,
 							["spec"] = 251,
 							["colocacao"] = 4,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-051A4069",
 							["damage_from"] = {
@@ -24660,8 +24661,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695095853,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -24669,7 +24669,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 10,
-										["n_max"] = 868,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 3717,
 										},
@@ -24678,12 +24678,12 @@ _detalhes_database = {
 										["g_dmg"] = 1588,
 										["counter"] = 19,
 										["MISS"] = 1,
-										["total"] = 3717,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["IMMUNE"] = 4,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -24692,14 +24692,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 868,
+										["total"] = 3717,
 									}, -- [1]
 									[55095] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 214,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 957,
 										},
@@ -24721,7 +24721,7 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 214,
 										["r_amt"] = 5,
 									},
 									[55268] = {
@@ -24760,7 +24760,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 358,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 988,
 										},
@@ -24782,14 +24782,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 358,
 										["r_amt"] = 0,
 									},
 									[51714] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 0,
 										},
@@ -24811,14 +24811,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[49930] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 485,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 1808,
 										},
@@ -24827,12 +24827,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 7,
 										["IMMUNE"] = 1,
-										["total"] = 1808,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["a_amt"] = 0,
 										["id"] = 49930,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -24841,27 +24841,28 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 485,
+										["total"] = 1808,
 									},
-									[50436] = {
+									[49896] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Talon King Ikiss"] = 0,
+											["Talon King Ikiss"] = 1003,
 										},
-										["n_total"] = 0,
-										["n_min"] = 0,
+										["n_total"] = 1003,
+										["n_min"] = 470,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 0,
-										["c_max"] = 0,
-										["IMMUNE"] = 2,
-										["id"] = 50436,
-										["r_dmg"] = 0,
+										["counter"] = 5,
+										["MISS"] = 2,
+										["r_amt"] = 1,
 										["spellschool"] = 16,
+										["IMMUNE"] = 1,
+										["id"] = 49896,
+										["r_dmg"] = 470,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -24869,15 +24870,15 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["c_total"] = 0,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_amt"] = 2,
+										["n_max"] = 533,
+										["total"] = 1003,
 									},
 									[51425] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 749,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 3341,
 										},
@@ -24899,14 +24900,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1981,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 749,
 										["r_amt"] = 0,
 									},
 									[55078] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 181,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 872,
 										},
@@ -24928,27 +24929,26 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 181,
 										["r_amt"] = 5,
 									},
-									[49896] = {
+									[50436] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 533,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Talon King Ikiss"] = 1003,
+											["Talon King Ikiss"] = 0,
 										},
-										["n_total"] = 1003,
-										["n_min"] = 470,
+										["n_total"] = 0,
+										["n_min"] = 0,
 										["g_dmg"] = 0,
-										["counter"] = 5,
-										["MISS"] = 2,
-										["total"] = 1003,
+										["counter"] = 2,
+										["total"] = 0,
 										["c_max"] = 0,
-										["IMMUNE"] = 1,
-										["id"] = 49896,
-										["r_dmg"] = 470,
+										["IMMUNE"] = 2,
+										["id"] = 50436,
+										["r_dmg"] = 0,
 										["spellschool"] = 16,
 										["extra"] = {
 										},
@@ -24957,15 +24957,15 @@ _detalhes_database = {
 										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["c_total"] = 0,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
-										["r_amt"] = 1,
+										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
 									},
 									[50401] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 7,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 157,
 										},
@@ -24986,14 +24986,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 31,
-										["b_dmg"] = 0,
+										["n_max"] = 7,
 										["r_amt"] = 12,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "DEATHKNIGHT",
+							["aID"] = "4408-051A4069",
 							["nome"] = "Mueltee",
 							["custom"] = 0,
 							["last_event"] = 1695095853,
@@ -25008,14 +25008,15 @@ _detalhes_database = {
 							["pets"] = {
 								"Searing Totem VI <Müstardtiger>", -- [1]
 							},
-							["aID"] = "4408-050DF194",
+							["classe"] = "SHAMAN",
 							["total_without_pet"] = 0.006921,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 236.006921,
 							["spec"] = 264,
 							["colocacao"] = 5,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-050DF194",
 							["damage_from"] = {
@@ -25029,8 +25030,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695095853,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -25038,7 +25038,7 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "SHAMAN",
+							["aID"] = "4408-050DF194",
 							["nome"] = "Müstardtiger",
 							["custom"] = 0,
 							["last_event"] = 1695095830,
@@ -25051,16 +25051,16 @@ _detalhes_database = {
 							["flag_original"] = 68168,
 							["pets"] = {
 							},
-							["aID"] = "18473",
+							["classe"] = "UNKNOW",
 							["total_without_pet"] = 62046.005971,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 62046.005971,
 							["friendlyfire"] = {
 							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["damage_from"] = {
 								["Mueltee"] = true,
 								["Masturbado"] = true,
@@ -25080,16 +25080,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 1268.005971,
 							["end_time"] = 1695095853,
-							["boss_fight_component"] = true,
-							["on_hold"] = false,
 							["nome"] = "Talon King Ikiss",
+							["aID"] = "18473",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 953,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 6456,
 										},
@@ -25098,12 +25098,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 14,
 										["DODGE"] = 4,
-										["total"] = 6456,
-										["c_max"] = 0,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["MISS"] = 2,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 2598,
@@ -25112,14 +25112,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 953,
+										["total"] = 6456,
 									}, -- [1]
 									[9438] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -25138,14 +25138,14 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[38151] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -25164,14 +25164,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[35059] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1806,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Mueltee"] = 7456,
 											["Masturbado"] = 7960,
@@ -25195,14 +25195,14 @@ _detalhes_database = {
 										["successful_casted"] = 5,
 										["c_total"] = 0,
 										["n_amt"] = 25,
-										["b_dmg"] = 0,
+										["n_max"] = 1806,
 										["r_amt"] = 18,
 									},
 									[38197] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 4910,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Mueltee"] = 9662,
 											["Masturbado"] = 4763,
@@ -25224,14 +25224,14 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 4,
-										["b_dmg"] = 0,
+										["n_max"] = 4910,
 										["r_amt"] = 4,
 									},
 									[38194] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 0,
 											["Mueltee"] = 0,
@@ -25253,14 +25253,14 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[38245] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 										},
 										["n_total"] = 0,
@@ -25279,13 +25279,13 @@ _detalhes_database = {
 										["successful_casted"] = 4,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695095852,
@@ -25297,18 +25297,17 @@ _detalhes_database = {
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.003738,
-							["pets"] = {
-							},
-							["aID"] = "",
+							["spellicon"] = 136149,
+							["classe"] = "UNKNOW",
 							["total_without_pet"] = 716.003738,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 716.003738,
 							["friendlyfire"] = {
 							},
 							["total_extra"] = 0,
 							["serial"] = "",
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -25317,18 +25316,19 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["boss_fight_component"] = true,
-							["end_time"] = 1695095853,
-							["on_hold"] = false,
-							["spellicon"] = 136149,
 							["nome"] = "[*] Shadow Word: Death",
+							["end_time"] = 1695095853,
+							["aID"] = "",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[32409] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 716,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Lightnot"] = 716,
 										},
@@ -25349,14 +25349,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 716,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["tipo"] = 1,
-							["monster"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1695095850,
 							["damage_taken"] = 0.003738,
@@ -25373,7 +25373,8 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 236.001483,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-7402-0000091BE9",
 							["aID"] = "7402",
@@ -25387,16 +25388,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.001483,
 							["end_time"] = 1695095853,
-							["boss_fight_component"] = true,
-							["ownerName"] = "Müstardtiger",
 							["nome"] = "Searing Totem VI <Müstardtiger>",
+							["ownerName"] = "Müstardtiger",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[10436] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 85,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Talon King Ikiss"] = 236,
 										},
@@ -25405,7 +25406,7 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 5,
 										["IMMUNE"] = 1,
-										["total"] = 236,
+										["r_amt"] = 1,
 										["c_max"] = 0,
 										["spellschool"] = 4,
 										["id"] = 10436,
@@ -25419,14 +25420,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 1,
+										["n_max"] = 85,
+										["total"] = 236,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695095832,
@@ -25443,10 +25443,8 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Mueltee"] = true,
-								["Müstardtiger"] = true,
-								["Lightnot"] = true,
+							["targets_overheal"] = {
+								["Mueltee"] = 248,
 							},
 							["pets"] = {
 							},
@@ -25466,16 +25464,18 @@ _detalhes_database = {
 							["targets"] = {
 								["Mueltee"] = 1475,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.008573,
 							["healing_taken"] = 15941.008573,
-							["start_time"] = 1695095821,
+							["classe"] = "DEATHKNIGHT",
 							["end_time"] = 1695095853,
-							["spec"] = 251,
-							["targets_overheal"] = {
-								["Mueltee"] = 248,
+							["healing_from"] = {
+								["Mueltee"] = true,
+								["Müstardtiger"] = true,
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695095821,
+							["nome"] = "Mueltee",
 							["spells"] = {
 								["_ActorTable"] = {
 									[50475] = {
@@ -25493,12 +25493,12 @@ _detalhes_database = {
 										["counter"] = 29,
 										["overheal"] = 248,
 										["total"] = 207,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 50475,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 29,
@@ -25518,12 +25518,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 1268,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 17534,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -25533,18 +25533,22 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "DEATHKNIGHT",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695095853,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.008573,
 							["delay"] = 1695095831,
-							["nome"] = "Mueltee",
+							["spec"] = 251,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Lightnot"] = true,
+							["targets_overheal"] = {
+								["Mueltee"] = 421,
+								["Masturbado"] = 104,
+								["Müstardtiger"] = 246,
+								["Shifthole"] = 142,
+								["Lightnot"] = 1708,
 							},
 							["pets"] = {
 							},
@@ -25569,20 +25573,16 @@ _detalhes_database = {
 								["Shifthole"] = 913,
 								["Müstardtiger"] = 807,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.001652,
 							["healing_taken"] = 6226.001652,
-							["start_time"] = 1695095795,
+							["classe"] = "PRIEST",
 							["end_time"] = 1695095853,
-							["spec"] = 258,
-							["targets_overheal"] = {
-								["Mueltee"] = 421,
-								["Masturbado"] = 104,
-								["Müstardtiger"] = 246,
-								["Shifthole"] = 142,
-								["Lightnot"] = 1708,
+							["healing_from"] = {
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695095795,
+							["nome"] = "Lightnot",
 							["spells"] = {
 								["_ActorTable"] = {
 									[75999] = {
@@ -25600,12 +25600,12 @@ _detalhes_database = {
 										["counter"] = 3,
 										["overheal"] = 124,
 										["total"] = 310,
-										["c_max"] = 186,
+										["spellschool"] = 32,
 										["id"] = 75999,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 186,
-										["spellschool"] = 32,
+										["c_max"] = 186,
 										["c_total"] = 186,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -25634,12 +25634,12 @@ _detalhes_database = {
 										["counter"] = 288,
 										["overheal"] = 2497,
 										["total"] = 6986,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 15290,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 288,
@@ -25659,12 +25659,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 1791,
-										["c_max"] = 0,
+										["spellschool"] = 2,
 										["id"] = 25217,
 										["targets_absorbs"] = {
 											["Lightnot"] = 1791,
 										},
-										["spellschool"] = 2,
+										["c_max"] = 0,
 										["c_min"] = 0,
 										["n_amt"] = 2,
 										["c_total"] = 0,
@@ -25686,12 +25686,12 @@ _detalhes_database = {
 										["counter"] = 6,
 										["overheal"] = 0,
 										["total"] = 442,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 25467,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 6,
@@ -25701,20 +25701,17 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695095853,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.001652,
 							["delay"] = 1695095830,
-							["nome"] = "Lightnot",
+							["spec"] = 258,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Lightnot"] = true,
-								["Shifthole"] = true,
-								["Müstardtiger"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
@@ -25735,15 +25732,18 @@ _detalhes_database = {
 							["targets"] = {
 								["Shifthole"] = 1224,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.004996,
 							["healing_taken"] = 14787.004996,
-							["start_time"] = 1695095849,
+							["classe"] = "DRUID",
 							["end_time"] = 1695095853,
-							["spec"] = 103,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Lightnot"] = true,
+								["Shifthole"] = true,
+								["Müstardtiger"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695095849,
+							["nome"] = "Shifthole",
 							["spells"] = {
 								["_ActorTable"] = {
 									[62606] = {
@@ -25760,12 +25760,12 @@ _detalhes_database = {
 										["counter"] = 3,
 										["overheal"] = 0,
 										["total"] = 1224,
-										["c_max"] = 0,
+										["spellschool"] = 8,
 										["id"] = 62606,
 										["targets_absorbs"] = {
 											["Shifthole"] = 1224,
 										},
-										["spellschool"] = 8,
+										["c_max"] = 0,
 										["c_min"] = 0,
 										["n_amt"] = 3,
 										["c_total"] = 0,
@@ -25777,19 +25777,17 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695095849,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004996,
 							["delay"] = 1695095804,
-							["nome"] = "Shifthole",
+							["spec"] = 103,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Müstardtiger"] = true,
-								["Lightnot"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
@@ -25807,20 +25805,22 @@ _detalhes_database = {
 							["totalabsorb"] = 0.004949,
 							["last_hps"] = 0,
 							["targets"] = {
-								["Müstardtiger"] = 3769,
 								["Mueltee"] = 13831,
-								["Masturbado"] = 10214,
+								["Müstardtiger"] = 3769,
 								["Shifthole"] = 12650,
-							},
-							["heal_enemy_amt"] = 0,
-							["totalover_without_pet"] = 0.004949,
-							["healing_taken"] = 4576.004949,
-							["start_time"] = 1695095803,
-							["end_time"] = 1695095853,
-							["spec"] = 264,
-							["targets_overheal"] = {
+								["Masturbado"] = 10214,
 							},
 							["boss_fight_component"] = true,
+							["totalover_without_pet"] = 0.004949,
+							["healing_taken"] = 4576.004949,
+							["classe"] = "SHAMAN",
+							["end_time"] = 1695095853,
+							["healing_from"] = {
+								["Müstardtiger"] = true,
+								["Lightnot"] = true,
+							},
+							["start_time"] = 1695095803,
+							["nome"] = "Müstardtiger",
 							["spells"] = {
 								["_ActorTable"] = {
 									[25391] = {
@@ -25837,12 +25837,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 7948,
-										["c_max"] = 4825,
+										["spellschool"] = 8,
 										["id"] = 25391,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 4825,
-										["spellschool"] = 8,
+										["c_max"] = 4825,
 										["c_total"] = 4825,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -25855,22 +25855,22 @@ _detalhes_database = {
 										},
 										["n_max"] = 1404,
 										["targets"] = {
-											["Mueltee"] = 5277,
 											["Müstardtiger"] = 3162,
-											["Shifthole"] = 11665,
+											["Mueltee"] = 5277,
 											["Masturbado"] = 9607,
+											["Shifthole"] = 11665,
 										},
 										["n_total"] = 18380,
 										["n_min"] = 1237,
 										["counter"] = 20,
 										["overheal"] = 0,
 										["total"] = 29711,
-										["c_max"] = 2091,
+										["spellschool"] = 8,
 										["id"] = 10468,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 1818,
-										["spellschool"] = 8,
+										["c_max"] = 2091,
 										["c_total"] = 11331,
 										["totaldenied"] = 0,
 										["n_amt"] = 14,
@@ -25883,22 +25883,22 @@ _detalhes_database = {
 										},
 										["n_max"] = 182,
 										["targets"] = {
-											["Müstardtiger"] = 607,
 											["Mueltee"] = 606,
-											["Masturbado"] = 607,
+											["Müstardtiger"] = 607,
 											["Shifthole"] = 985,
+											["Masturbado"] = 607,
 										},
 										["n_total"] = 2805,
 										["n_min"] = 151,
 										["counter"] = 18,
 										["overheal"] = 0,
 										["total"] = 2805,
-										["c_max"] = 0,
+										["spellschool"] = 8,
 										["id"] = 51998,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 8,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 18,
@@ -25908,19 +25908,17 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "SHAMAN",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695095853,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004949,
 							["delay"] = 0,
-							["nome"] = "Müstardtiger",
+							["spec"] = 264,
 						}, -- [4]
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Müstardtiger"] = true,
-								["Lightnot"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
@@ -25939,28 +25937,30 @@ _detalhes_database = {
 							["last_hps"] = 0,
 							["targets"] = {
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.007049,
 							["healing_taken"] = 11162.007049,
-							["start_time"] = 1695095853,
+							["classe"] = "WARRIOR",
 							["end_time"] = 1695095853,
-							["spec"] = 71,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Müstardtiger"] = true,
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695095853,
+							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.007049,
 							["delay"] = 0,
-							["nome"] = "Masturbado",
+							["spec"] = 71,
 						}, -- [5]
 						{
 							["flag_original"] = 68168,
@@ -25969,7 +25969,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["aID"] = "18473",
+							["classe"] = "UNKNOW",
 							["totalover"] = 0.007139,
 							["total_without_pet"] = 0.007139,
 							["monster"] = true,
@@ -25998,7 +25998,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 3,
 							},
-							["classe"] = "UNKNOW",
+							["aID"] = "18473",
 							["heal_enemy_amt"] = 10000,
 							["custom"] = 0,
 							["tipo"] = 2,
@@ -26017,8 +26017,8 @@ _detalhes_database = {
 							["resource"] = 0.001743,
 							["pets"] = {
 							},
-							["aID"] = "4408-04B19510",
-							["passiveover"] = 0.001743,
+							["classe"] = "DRUID",
+							["totalover"] = 0.001743,
 							["total"] = 168.001743,
 							["spec"] = 103,
 							["serial"] = "Player-4408-04B19510",
@@ -26033,8 +26033,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[59072] = {
 										["total"] = 12,
-										["id"] = 59072,
 										["totalover"] = 0,
+										["id"] = 59072,
 										["targets"] = {
 											["Shifthole"] = 12,
 										},
@@ -26042,8 +26042,8 @@ _detalhes_database = {
 									},
 									[16959] = {
 										["total"] = 40,
-										["id"] = 16959,
 										["totalover"] = 0,
+										["id"] = 16959,
 										["targets"] = {
 											["Shifthole"] = 40,
 										},
@@ -26051,8 +26051,8 @@ _detalhes_database = {
 									},
 									[5229] = {
 										["total"] = 37,
-										["id"] = 5229,
 										["totalover"] = 0,
+										["id"] = 5229,
 										["targets"] = {
 											["Shifthole"] = 37,
 										},
@@ -26060,8 +26060,8 @@ _detalhes_database = {
 									},
 									[59914] = {
 										["total"] = 79,
-										["id"] = 59914,
 										["totalover"] = 0,
+										["id"] = 59914,
 										["targets"] = {
 											["Shifthole"] = 79,
 										},
@@ -26071,10 +26071,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.001743,
-							["classe"] = "DRUID",
-							["tipo"] = 3,
+							["passiveover"] = 0.001743,
+							["aID"] = "4408-04B19510",
 							["last_event"] = 1695095853,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [1]
 						{
@@ -26082,8 +26082,8 @@ _detalhes_database = {
 							["resource"] = 0.005497,
 							["pets"] = {
 							},
-							["aID"] = "4408-051A4069",
-							["passiveover"] = 0.005497,
+							["classe"] = "DEATHKNIGHT",
+							["totalover"] = 6.805497190734863,
 							["total"] = 163.2054970476837,
 							["spec"] = 251,
 							["serial"] = "Player-4408-051A4069",
@@ -26098,8 +26098,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[49020] = {
 										["total"] = 60,
-										["id"] = 49020,
 										["totalover"] = 0,
+										["id"] = 49020,
 										["targets"] = {
 											["Mueltee"] = 60,
 										},
@@ -26107,8 +26107,8 @@ _detalhes_database = {
 									},
 									[51271] = {
 										["total"] = 10,
-										["id"] = 51271,
 										["totalover"] = 0,
+										["id"] = 51271,
 										["targets"] = {
 											["Mueltee"] = 10,
 										},
@@ -26116,8 +26116,8 @@ _detalhes_database = {
 									},
 									[49917] = {
 										["total"] = 30,
-										["id"] = 49917,
 										["totalover"] = 0,
+										["id"] = 49917,
 										["targets"] = {
 											["Mueltee"] = 30,
 										},
@@ -26125,8 +26125,8 @@ _detalhes_database = {
 									},
 									[49927] = {
 										["total"] = 43.20000004768372,
-										["id"] = 49927,
 										["totalover"] = 6.800000190734863,
+										["id"] = 49927,
 										["targets"] = {
 											["Mueltee"] = 43.20000004768372,
 										},
@@ -26134,8 +26134,8 @@ _detalhes_database = {
 									},
 									[49896] = {
 										["total"] = 20,
-										["id"] = 49896,
 										["totalover"] = 0,
+										["id"] = 49896,
 										["targets"] = {
 											["Mueltee"] = 20,
 										},
@@ -26145,10 +26145,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 6.805497190734863,
-							["classe"] = "DEATHKNIGHT",
-							["tipo"] = 3,
+							["passiveover"] = 0.005497,
+							["aID"] = "4408-051A4069",
 							["last_event"] = 1695095853,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [2]
 						{
@@ -26156,8 +26156,8 @@ _detalhes_database = {
 							["resource"] = 0.005826,
 							["pets"] = {
 							},
-							["aID"] = "4408-03CDC066",
-							["passiveover"] = 0.005826,
+							["classe"] = "PRIEST",
+							["totalover"] = 0.005826,
 							["total"] = 2120.005826,
 							["spec"] = 258,
 							["serial"] = "Player-4408-03CDC066",
@@ -26173,8 +26173,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[71132] = {
 										["total"] = 238,
-										["id"] = 71132,
 										["totalover"] = 0,
+										["id"] = 71132,
 										["targets"] = {
 											["Lightnot"] = 238,
 										},
@@ -26182,8 +26182,8 @@ _detalhes_database = {
 									},
 									[57669] = {
 										["total"] = 1882,
-										["id"] = 57669,
 										["totalover"] = 0,
+										["id"] = 57669,
 										["targets"] = {
 											["Müstardtiger"] = 877,
 											["Lightnot"] = 1005,
@@ -26194,10 +26194,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.005826,
-							["classe"] = "PRIEST",
-							["tipo"] = 3,
+							["passiveover"] = 0.005826,
+							["aID"] = "4408-03CDC066",
 							["last_event"] = 1695095860,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [3]
 						{
@@ -26205,8 +26205,8 @@ _detalhes_database = {
 							["resource"] = 0.008816,
 							["pets"] = {
 							},
-							["aID"] = "4408-050DF194",
-							["passiveover"] = 0.008816,
+							["classe"] = "SHAMAN",
+							["totalover"] = 0.008816,
 							["total"] = 0.008816,
 							["spec"] = 264,
 							["serial"] = "Player-4408-050DF194",
@@ -26222,10 +26222,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.008816,
-							["classe"] = "SHAMAN",
-							["tipo"] = 3,
+							["passiveover"] = 0.008816,
+							["aID"] = "4408-050DF194",
 							["last_event"] = 0,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [4]
 						{
@@ -26233,8 +26233,8 @@ _detalhes_database = {
 							["resource"] = 0.006234,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.006234,
+							["classe"] = "WARRIOR",
+							["totalover"] = 0.006234,
 							["total"] = 72.006234,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -26247,28 +26247,28 @@ _detalhes_database = {
 							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
-									[58362] = {
-										["total"] = 10,
-										["id"] = 58362,
-										["totalover"] = 0,
-										["targets"] = {
-											["Masturbado"] = 10,
-										},
-										["counter"] = 1,
-									},
 									[12964] = {
 										["total"] = 2,
-										["id"] = 12964,
 										["totalover"] = 0,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 2,
 										},
 										["counter"] = 2,
 									},
+									[58362] = {
+										["total"] = 10,
+										["totalover"] = 0,
+										["id"] = 58362,
+										["targets"] = {
+											["Masturbado"] = 10,
+										},
+										["counter"] = 1,
+									},
 									[29131] = {
 										["total"] = 20,
-										["id"] = 29131,
 										["totalover"] = 0,
+										["id"] = 29131,
 										["targets"] = {
 											["Masturbado"] = 20,
 										},
@@ -26276,8 +26276,8 @@ _detalhes_database = {
 									},
 									[2687] = {
 										["total"] = 40,
-										["id"] = 2687,
 										["totalover"] = 0,
+										["id"] = 2687,
 										["targets"] = {
 											["Masturbado"] = 40,
 										},
@@ -26287,10 +26287,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.006234,
-							["classe"] = "WARRIOR",
-							["tipo"] = 3,
+							["passiveover"] = 0.006234,
+							["aID"] = "4408-0474E7DA",
 							["last_event"] = 1695095956,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [5]
 					},
@@ -26347,13 +26347,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[6788] = {
-										["appliedamt"] = 1,
+									[25387] = {
+										["appliedamt"] = 8,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 15,
-										["id"] = 6788,
+										["uptime"] = 19,
+										["id"] = 25387,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -26369,13 +26369,13 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25387] = {
-										["appliedamt"] = 8,
+									[6788] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
 										["activedamt"] = 0,
-										["uptime"] = 19,
-										["id"] = 25387,
+										["uptime"] = 15,
+										["id"] = 6788,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -26386,7 +26386,41 @@ _detalhes_database = {
 							["dispell"] = 1.001824,
 							["pets"] = {
 							},
+							["classe"] = "PRIEST",
+							["dispell_targets"] = {
+								["Mueltee"] = 1,
+							},
+							["debuff_uptime"] = 286,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 258,
+							["serial"] = "Player-4408-03CDC066",
+							["buff_uptime"] = 645,
+							["dispell_oque"] = {
+								[38245] = 1,
+							},
+							["dispell_spells"] = {
+								["_ActorTable"] = {
+									[988] = {
+										["targets"] = {
+											["Mueltee"] = 1,
+										},
+										["id"] = 988,
+										["dispell_oque"] = {
+											[38245] = 1,
+										},
+										["dispell"] = 1,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["nome"] = "Lightnot",
+							["boss_fight_component"] = true,
+							["grupo"] = true,
+							["tipo"] = 4,
 							["aID"] = "4408-03CDC066",
+							["last_event"] = 1695095853,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[10952] = {
@@ -26524,41 +26558,7 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["debuff_uptime"] = 286,
 							["debuff_uptime_targets"] = {
-							},
-							["spec"] = 258,
-							["serial"] = "Player-4408-03CDC066",
-							["buff_uptime"] = 645,
-							["dispell_oque"] = {
-								[38245] = 1,
-							},
-							["dispell_spells"] = {
-								["_ActorTable"] = {
-									[988] = {
-										["dispell"] = 1,
-										["id"] = 988,
-										["dispell_oque"] = {
-											[38245] = 1,
-										},
-										["targets"] = {
-											["Mueltee"] = 1,
-										},
-										["counter"] = 0,
-									},
-								},
-								["tipo"] = 9,
-							},
-							["boss_fight_component"] = true,
-							["nome"] = "Lightnot",
-							["grupo"] = true,
-							["tipo"] = 4,
-							["classe"] = "PRIEST",
-							["last_event"] = 1695095853,
-							["dispell_targets"] = {
-								["Mueltee"] = 1,
-							},
-							["buff_uptime_targets"] = {
 							},
 						}, -- [1]
 						{
@@ -26601,9 +26601,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
-							["aID"] = "4408-051A4069",
+							["buff_uptime"] = 461,
+							["classe"] = "DEATHKNIGHT",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[18191] = {
@@ -26724,8 +26723,9 @@ _detalhes_database = {
 							},
 							["spec"] = 251,
 							["grupo"] = true,
-							["buff_uptime"] = 461,
-							["classe"] = "DEATHKNIGHT",
+							["pets"] = {
+							},
+							["aID"] = "4408-051A4069",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
 							["nome"] = "Mueltee",
@@ -26762,17 +26762,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[55166] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 9,
-										["id"] = 55166,
-										["refreshamt"] = 4,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[16188] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -26781,6 +26770,17 @@ _detalhes_database = {
 										["uptime"] = 1,
 										["id"] = 16188,
 										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[55166] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 55166,
+										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -26856,16 +26856,16 @@ _detalhes_database = {
 							["pets"] = {
 								"Searing Totem VI <Müstardtiger>", -- [1]
 							},
+							["nome"] = "Müstardtiger",
 							["buff_uptime_targets"] = {
 							},
-							["boss_fight_component"] = true,
 							["spec"] = 264,
 							["grupo"] = true,
-							["aID"] = "4408-050DF194",
+							["boss_fight_component"] = true,
 							["last_event"] = 1695095853,
 							["tipo"] = 4,
 							["serial"] = "Player-4408-050DF194",
-							["nome"] = "Müstardtiger",
+							["aID"] = "4408-050DF194",
 						}, -- [3]
 						{
 							["flag_original"] = 1047,
@@ -26936,7 +26936,7 @@ _detalhes_database = {
 								1695095845.791, -- [1]
 								22812, -- [2]
 							},
-							["aID"] = "4408-04B19510",
+							["classe"] = "DRUID",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[9634] = {
@@ -27078,6 +27078,17 @@ _detalhes_database = {
 							["debuff_uptime_targets"] = {
 							},
 							["spec"] = 103,
+							["serial"] = "Player-4408-04B19510",
+							["buff_uptime"] = 480,
+							["cooldowns_defensive_targets"] = {
+								["Shifthole"] = 2,
+							},
+							["boss_fight_component"] = true,
+							["grupo"] = true,
+							["aID"] = "4408-04B19510",
+							["tipo"] = 4,
+							["last_event"] = 1695095853,
+							["nome"] = "Shifthole",
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[61336] = {
@@ -27097,19 +27108,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 480,
-							["cooldowns_defensive_targets"] = {
-								["Shifthole"] = 2,
-							},
-							["nome"] = "Shifthole",
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["tipo"] = 4,
-							["last_event"] = 1695095853,
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-04B19510",
-							["boss_fight_component"] = true,
 						}, -- [4]
 						{
 							["flag_original"] = 1047,
@@ -27148,17 +27148,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[25202] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 55,
-										["id"] = 25202,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[11574] = {
 										["appliedamt"] = 2,
 										["targets"] = {
@@ -27170,12 +27159,22 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[25202] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 55,
+										["id"] = 25202,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
-							["aID"] = "4408-0474E7DA",
+							["buff_uptime"] = 452,
+							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[18499] = {
@@ -27307,8 +27306,9 @@ _detalhes_database = {
 							},
 							["spec"] = 71,
 							["grupo"] = true,
-							["buff_uptime"] = 452,
-							["classe"] = "WARRIOR",
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
 							["nome"] = "Masturbado",
@@ -27325,10 +27325,10 @@ _detalhes_database = {
 							["monster"] = true,
 							["nome"] = "Talon King Ikiss",
 							["boss_fight_component"] = true,
-							["tipo"] = 4,
-							["aID"] = "18473",
-							["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
+							["aID"] = "18473",
 						}, -- [6]
 						{
 							["flag_original"] = 68168,
@@ -27370,11 +27370,11 @@ _detalhes_database = {
 							},
 							["classe"] = "UNKNOW",
 							["boss_fight_component"] = true,
-							["tipo"] = 4,
+							["last_event"] = 1695095849,
 							["damage_twin"] = "Talon King Ikiss",
 							["nome"] = "Polymorph",
 							["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
-							["last_event"] = 1695095849,
+							["tipo"] = 4,
 						}, -- [7]
 						{
 							["flag_original"] = 8466,
@@ -27382,12 +27382,12 @@ _detalhes_database = {
 							},
 							["classe"] = "PET",
 							["ownerName"] = "Müstardtiger",
-							["boss_fight_component"] = true,
 							["nome"] = "Searing Totem VI <Müstardtiger>",
+							["boss_fight_component"] = true,
 							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4390-556-3743-7402-0000091BE9",
 							["aID"] = "7402",
+							["serial"] = "Creature-0-4390-556-3743-7402-0000091BE9",
+							["tipo"] = 4,
 						}, -- [8]
 					},
 				}, -- [4]
@@ -27459,9 +27459,7 @@ _detalhes_database = {
 						"543", -- [11]
 					}, -- [3]
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1337,
 				["totals"] = {
 					156356, -- [1]
 					52692, -- [2]
@@ -27485,7 +27483,26 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					90224, -- [1]
+					52692, -- [2]
+					{
+						161, -- [1]
+						[0] = 2199,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 163.2000000476837,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 2,
+						["dispell"] = 1,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
@@ -27494,14 +27511,14 @@ _detalhes_database = {
 					},
 					["Mueltee"] = {
 						["Ferocity"] = 1,
-						["Icy Touch"] = 5,
+						["Unbreakable Armor"] = 1,
 						["Obliterate"] = 5,
-						["Frost Strike"] = 10,
-						["Healing Potion"] = 1,
 						["Blood Fury"] = 1,
+						["Healing Potion"] = 1,
+						["Frost Strike"] = 10,
 						["Plague Strike"] = 5,
 						["Blood Strike"] = 7,
-						["Unbreakable Armor"] = 1,
+						["Icy Touch"] = 5,
 					},
 					["Masturbado"] = {
 						["Battle Shout"] = 1,
@@ -27518,27 +27535,6 @@ _detalhes_database = {
 					},
 					["Searing Totem VI <Müstardtiger>"] = {
 						["Attack"] = 1,
-					},
-					["Talon King Ikiss"] = {
-						["Polymorph"] = 4,
-						["Blink"] = 3,
-						["Mana Shield"] = 1,
-						["Arcane Bubble"] = 3,
-						["Arcane Volley"] = 5,
-						["Arcane Explosion"] = 3,
-					},
-					["Müstardtiger"] = {
-						["Nature's Swiftness"] = 1,
-						["Tremor Totem"] = 1,
-						["Healing Wave"] = 2,
-						["Windfury Totem"] = 1,
-						["Mana Spring Totem"] = 1,
-						["Arcane Energy"] = 1,
-						["Lesser Healing Wave"] = 20,
-						["Tidal Force"] = 1,
-						["Call of the Elements"] = 1,
-						["Stoneskin Totem"] = 1,
-						["Searing Totem"] = 1,
 					},
 					["Shifthole"] = {
 						["Enrage"] = 1,
@@ -27567,6 +27563,27 @@ _detalhes_database = {
 						["Dispel Magic"] = 1,
 						["Shadow Word: Death"] = 1,
 					},
+					["Talon King Ikiss"] = {
+						["Polymorph"] = 4,
+						["Blink"] = 3,
+						["Mana Shield"] = 1,
+						["Arcane Bubble"] = 3,
+						["Arcane Volley"] = 5,
+						["Arcane Explosion"] = 3,
+					},
+					["Müstardtiger"] = {
+						["Nature's Swiftness"] = 1,
+						["Tremor Totem"] = 1,
+						["Healing Wave"] = 2,
+						["Windfury Totem"] = 1,
+						["Mana Spring Totem"] = 1,
+						["Arcane Energy"] = 1,
+						["Lesser Healing Wave"] = 20,
+						["Call of the Elements"] = 1,
+						["Tidal Force"] = 1,
+						["Stoneskin Totem"] = 1,
+						["Searing Totem"] = 1,
+					},
 				},
 				["instance_type"] = "party",
 				["data_fim"] = "00:57:34",
@@ -27586,8 +27603,7 @@ _detalhes_database = {
 				["combat_id"] = 1323,
 				["overall_added"] = true,
 				["contra"] = "Talon King Ikiss",
-				["frags"] = {
-					["Searing Totem VI"] = 1,
+				["spells_cast_timeline"] = {
 				},
 				["is_boss"] = {
 					["diff_string"] = "Normal",
@@ -27602,26 +27618,7 @@ _detalhes_database = {
 					["unixtime"] = 1695095780,
 					["killed"] = true,
 				},
-				["totals_grupo"] = {
-					90224, -- [1]
-					52692, -- [2]
-					{
-						161, -- [1]
-						[0] = 2199,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 163.2000000476837,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 2,
-						["dispell"] = 1,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["player_last_events"] = {
 				},
 				["PhaseData"] = {
 					{
@@ -27651,11 +27648,14 @@ _detalhes_database = {
 						}, -- [1]
 					},
 				},
-				["combat_counter"] = 1337,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
 				["start_time"] = 461566.284,
 				["TimeData"] = {
 				},
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Searing Totem VI"] = 1,
 				},
 			}, -- [30]
 			{
@@ -27668,14 +27668,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.005171,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
+							["classe"] = "WARRIOR",
 							["total_without_pet"] = 39406.005171,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 39406.005171,
 							["spec"] = 71,
 							["colocacao"] = 1,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-0474E7DA",
 							["damage_from"] = {
@@ -27686,8 +27687,8 @@ _detalhes_database = {
 							["targets"] = {
 								["Syth Shadow Elemental <Darkweaver Syth>"] = 2668,
 								["Syth Arcane Elemental <Darkweaver Syth>"] = 1323,
-								["Darkweaver Syth"] = 30937,
 								["Syth Fire Elemental <Darkweaver Syth>"] = 3698,
+								["Darkweaver Syth"] = 30937,
 								["Syth Frost Elemental <Darkweaver Syth>"] = 780,
 							},
 							["friendlyfire_total"] = 0,
@@ -27695,8 +27696,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695094897,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -27704,7 +27704,7 @@ _detalhes_database = {
 										["c_amt"] = 11,
 										["b_amt"] = 1,
 										["g_amt"] = 7,
-										["n_max"] = 445,
+										["b_dmg"] = 202,
 										["targets"] = {
 											["Darkweaver Syth"] = 11836,
 										},
@@ -27713,12 +27713,12 @@ _detalhes_database = {
 										["g_dmg"] = 1726,
 										["counter"] = 31,
 										["DODGE"] = 1,
-										["total"] = 11836,
-										["c_max"] = 915,
+										["r_amt"] = 0,
+										["spellschool"] = 1,
 										["MISS"] = 3,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 915,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -27727,14 +27727,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 6986,
 										["n_amt"] = 9,
-										["b_dmg"] = 202,
-										["r_amt"] = 0,
+										["n_max"] = 445,
+										["total"] = 11836,
 									}, -- [1]
 									[25286] = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 603,
+										["b_dmg"] = 562,
 										["targets"] = {
 											["Darkweaver Syth"] = 1165,
 										},
@@ -27755,14 +27755,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 562,
+										["n_max"] = 603,
 										["r_amt"] = 0,
 									},
 									[7922] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 0,
 										},
@@ -27784,14 +27784,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[20569] = {
 										["c_amt"] = 1,
 										["b_amt"] = 1,
 										["g_amt"] = 0,
-										["n_max"] = 650,
+										["b_dmg"] = 429,
 										["targets"] = {
 											["Darkweaver Syth"] = 3734,
 											["Syth Shadow Elemental <Darkweaver Syth>"] = 1403,
@@ -27815,14 +27815,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1250,
 										["n_amt"] = 11,
-										["b_dmg"] = 429,
+										["n_max"] = 650,
 										["r_amt"] = 0,
 									},
 									[7384] = {
 										["c_amt"] = 3,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 487,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 3832,
 										},
@@ -27843,14 +27843,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 3345,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 487,
 										["r_amt"] = 0,
 									},
 									[413764] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 293,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 3891,
 											["Syth Fire Elemental <Darkweaver Syth>"] = 119,
@@ -27872,19 +27872,19 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 20,
-										["b_dmg"] = 0,
+										["n_max"] = 293,
 										["r_amt"] = 0,
 									},
 									[11581] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 303,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Shadow Elemental <Darkweaver Syth>"] = 517,
 											["Syth Arcane Elemental <Darkweaver Syth>"] = 780,
-											["Darkweaver Syth"] = 877,
 											["Syth Fire Elemental <Darkweaver Syth>"] = 252,
+											["Darkweaver Syth"] = 877,
 											["Syth Frost Elemental <Darkweaver Syth>"] = 780,
 										},
 										["n_total"] = 3206,
@@ -27904,14 +27904,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 12,
-										["b_dmg"] = 0,
+										["n_max"] = 303,
 										["r_amt"] = 0,
 									},
 									[12723] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1123,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Fire Elemental <Darkweaver Syth>"] = 1571,
 										},
@@ -27932,14 +27932,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 1123,
 										["r_amt"] = 0,
 									},
 									[11574] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 227,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 1587,
 										},
@@ -27960,14 +27960,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 7,
-										["b_dmg"] = 0,
+										["n_max"] = 227,
 										["r_amt"] = 0,
 									},
 									[20647] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 925,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 3628,
 										},
@@ -27988,14 +27988,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1778,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 925,
 										["r_amt"] = 0,
 									},
 									[26654] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 402,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 387,
 											["Syth Shadow Elemental <Darkweaver Syth>"] = 748,
@@ -28017,14 +28017,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 402,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["aID"] = "4408-0474E7DA",
 							["nome"] = "Masturbado",
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -28038,14 +28038,15 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.008449,
 							["pets"] = {
 							},
-							["aID"] = "4408-03CDC066",
+							["classe"] = "PRIEST",
 							["total_without_pet"] = 33772.008449,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 33772.008449,
 							["spec"] = 258,
 							["colocacao"] = 2,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-03CDC066",
 							["damage_from"] = {
@@ -28059,8 +28060,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695094897,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -28068,7 +28068,7 @@ _detalhes_database = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 433,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 4280,
 										},
@@ -28089,14 +28089,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1730,
 										["n_amt"] = 6,
-										["b_dmg"] = 0,
+										["n_max"] = 433,
 										["r_amt"] = 1,
 									},
 									[63675] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1037,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 1037,
 										},
@@ -28117,42 +28117,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[25372] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1492,
-										["targets"] = {
-											["Darkweaver Syth"] = 5841,
-										},
-										["n_total"] = 2976,
-										["n_min"] = 1484,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 5841,
-										["c_max"] = 2865,
-										["id"] = 25372,
-										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 2865,
-										["successful_casted"] = 0,
-										["c_total"] = 2865,
-										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 1037,
 										["r_amt"] = 0,
 									},
 									[32379] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1197,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 1197,
 										},
@@ -28173,14 +28145,42 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
+										["n_max"] = 1197,
+										["r_amt"] = 0,
+									},
+									[25372] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
+										["targets"] = {
+											["Darkweaver Syth"] = 5841,
+										},
+										["n_total"] = 2976,
+										["n_min"] = 1484,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 5841,
+										["c_max"] = 2865,
+										["id"] = 25372,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 2865,
+										["successful_casted"] = 0,
+										["c_total"] = 2865,
+										["n_amt"] = 2,
+										["n_max"] = 1492,
 										["r_amt"] = 0,
 									},
 									[58381] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 656,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 12303,
 										},
@@ -28201,14 +28201,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2615,
 										["n_amt"] = 15,
-										["b_dmg"] = 0,
+										["n_max"] = 656,
 										["r_amt"] = 2,
 									},
 									[25367] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 417,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 4041,
 										},
@@ -28229,14 +28229,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 834,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
+										["n_max"] = 417,
 										["r_amt"] = 3,
 									},
 									[34916] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 587,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 5073,
 										},
@@ -28257,14 +28257,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 1058,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
+										["n_max"] = 587,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["aID"] = "4408-03CDC066",
 							["nome"] = "Lightnot",
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -28278,28 +28278,29 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.001347,
 							["pets"] = {
 							},
-							["aID"] = "4408-04B19510",
+							["classe"] = "DRUID",
 							["total_without_pet"] = 17975.001347,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 17975.001347,
 							["spec"] = 103,
 							["colocacao"] = 3,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-04B19510",
 							["damage_from"] = {
 								["Syth Shadow Elemental <Darkweaver Syth>"] = true,
 								["Syth Arcane Elemental <Darkweaver Syth>"] = true,
-								["Darkweaver Syth"] = true,
 								["Syth Fire Elemental <Darkweaver Syth>"] = true,
+								["Darkweaver Syth"] = true,
 								["Syth Frost Elemental <Darkweaver Syth>"] = true,
 							},
 							["targets"] = {
 								["Syth Shadow Elemental <Darkweaver Syth>"] = 1946,
 								["Syth Arcane Elemental <Darkweaver Syth>"] = 1685,
-								["Syth Fire Elemental <Darkweaver Syth>"] = 1941,
 								["Darkweaver Syth"] = 9508,
+								["Syth Fire Elemental <Darkweaver Syth>"] = 1941,
 								["Syth Frost Elemental <Darkweaver Syth>"] = 2895,
 							},
 							["friendlyfire_total"] = 0,
@@ -28307,8 +28308,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695094897,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -28316,7 +28316,7 @@ _detalhes_database = {
 										["c_amt"] = 4,
 										["b_amt"] = 0,
 										["g_amt"] = 3,
-										["n_max"] = 331,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Fire Elemental <Darkweaver Syth>"] = 651,
 											["Syth Shadow Elemental <Darkweaver Syth>"] = 193,
@@ -28339,14 +28339,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2801,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 331,
 										["r_amt"] = 0,
 									}, -- [1]
 									[26992] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 28,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Shadow Elemental"] = 0,
 											["Syth Shadow Elemental <Darkweaver Syth>"] = 176,
@@ -28375,26 +28375,26 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 29,
-										["b_dmg"] = 0,
+										["n_max"] = 28,
 										["r_amt"] = 0,
 									},
-									[60089] = {
+									[33986] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 232,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Darkweaver Syth"] = 232,
+											["Darkweaver Syth"] = 678,
 										},
-										["n_total"] = 232,
-										["n_min"] = 232,
+										["n_total"] = 678,
+										["n_min"] = 678,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 232,
+										["total"] = 678,
 										["c_max"] = 0,
-										["id"] = 60089,
-										["r_dmg"] = 232,
-										["spellschool"] = 8,
+										["id"] = 33986,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -28403,14 +28403,42 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
+										["n_max"] = 678,
+										["r_amt"] = 0,
+									},
+									[33745] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
 										["b_dmg"] = 0,
-										["r_amt"] = 1,
+										["targets"] = {
+											["Darkweaver Syth"] = 1207,
+										},
+										["n_total"] = 563,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 1207,
+										["c_max"] = 322,
+										["id"] = 33745,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 322,
+										["successful_casted"] = 0,
+										["c_total"] = 644,
+										["n_amt"] = 5,
+										["n_max"] = 161,
+										["r_amt"] = 0,
 									},
 									[5209] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Fire Elemental"] = 0,
 										},
@@ -28432,42 +28460,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[33745] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 161,
-										["targets"] = {
-											["Darkweaver Syth"] = 1207,
-										},
-										["n_total"] = 563,
-										["n_min"] = 40,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 1207,
-										["c_max"] = 322,
-										["id"] = 33745,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 322,
-										["successful_casted"] = 0,
-										["c_total"] = 644,
-										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[9881] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 2033,
 										},
@@ -28488,34 +28488,34 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 2033,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[26997] = {
-										["c_amt"] = 11,
+										["DODGE"] = 6,
 										["b_amt"] = 2,
 										["g_amt"] = 0,
-										["n_max"] = 174,
+										["b_dmg"] = 351,
 										["targets"] = {
 											["Syth Arcane Elemental"] = 0,
 											["Syth Arcane Elemental <Darkweaver Syth>"] = 1504,
 											["Syth Fire Elemental"] = 0,
 											["Syth Shadow Elemental"] = 0,
 											["Syth Frost Elemental"] = 0,
-											["Darkweaver Syth"] = 1216,
-											["Syth Shadow Elemental <Darkweaver Syth>"] = 1577,
 											["Syth Fire Elemental <Darkweaver Syth>"] = 1238,
+											["Syth Shadow Elemental <Darkweaver Syth>"] = 1577,
+											["Darkweaver Syth"] = 1216,
 											["Syth Frost Elemental <Darkweaver Syth>"] = 2706,
 										},
 										["n_total"] = 5151,
-										["a_amt"] = 0,
-										["n_min"] = 75,
 										["g_dmg"] = 0,
+										["n_min"] = 75,
+										["a_amt"] = 0,
 										["counter"] = 57,
 										["MISS"] = 3,
-										["r_amt"] = 0,
+										["total"] = 8241,
 										["c_max"] = 312,
-										["DODGE"] = 6,
+										["c_amt"] = 11,
 										["id"] = 26997,
 										["r_dmg"] = 0,
 										["spellschool"] = 1,
@@ -28527,14 +28527,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 3090,
 										["n_amt"] = 34,
-										["b_dmg"] = 351,
-										["total"] = 8241,
+										["r_amt"] = 0,
+										["n_max"] = 174,
 									},
 									[26998] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Arcane Elemental"] = 0,
 										},
@@ -28556,26 +28556,26 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
-									[33986] = {
+									[60089] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 678,
+										["b_dmg"] = 0,
 										["targets"] = {
-											["Darkweaver Syth"] = 678,
+											["Darkweaver Syth"] = 232,
 										},
-										["n_total"] = 678,
-										["n_min"] = 678,
+										["n_total"] = 232,
+										["n_min"] = 232,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 678,
+										["total"] = 232,
 										["c_max"] = 0,
-										["id"] = 33986,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
+										["id"] = 60089,
+										["r_dmg"] = 232,
+										["spellschool"] = 8,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -28584,14 +28584,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
+										["n_max"] = 232,
+										["r_amt"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "DRUID",
+							["aID"] = "4408-04B19510",
 							["nome"] = "Shifthole",
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -28605,22 +28605,23 @@ _detalhes_database = {
 							["totalabsorbed"] = 0.008392,
 							["pets"] = {
 							},
-							["aID"] = "4408-051A4069",
+							["classe"] = "DEATHKNIGHT",
 							["total_without_pet"] = 11355.008392,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 11355.008392,
 							["spec"] = 251,
 							["colocacao"] = 4,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-051A4069",
 							["damage_from"] = {
 								["Darkweaver Syth"] = true,
 							},
 							["targets"] = {
-								["Darkweaver Syth"] = 10721,
 								["Syth Fire Elemental <Darkweaver Syth>"] = 374,
+								["Darkweaver Syth"] = 10721,
 								["Syth Arcane Elemental <Darkweaver Syth>"] = 253,
 								["Roach"] = 7,
 							},
@@ -28629,8 +28630,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695094897,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -28638,7 +28638,7 @@ _detalhes_database = {
 										["c_amt"] = 0,
 										["b_amt"] = 1,
 										["g_amt"] = 8,
-										["n_max"] = 533,
+										["b_dmg"] = 390,
 										["targets"] = {
 											["Darkweaver Syth"] = 1917,
 										},
@@ -28660,14 +28660,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 390,
+										["n_max"] = 533,
 										["r_amt"] = 0,
 									}, -- [1]
 									[49184] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 473,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Syth Shadow Elemental"] = 0,
 											["Syth Arcane Elemental"] = 0,
@@ -28682,12 +28682,12 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 9,
 										["MISS"] = 3,
-										["total"] = 1107,
-										["c_max"] = 7,
+										["r_amt"] = 3,
+										["spellschool"] = 16,
 										["IMMUNE"] = 2,
 										["id"] = 49184,
 										["r_dmg"] = 1100,
-										["spellschool"] = 16,
+										["c_max"] = 7,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
@@ -28696,14 +28696,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 7,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
-										["r_amt"] = 3,
+										["n_max"] = 473,
+										["total"] = 1107,
 									},
 									[55095] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 123,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 623,
 										},
@@ -28724,14 +28724,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
+										["n_max"] = 123,
 										["r_amt"] = 8,
 									},
 									[55268] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 380,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 1591,
 										},
@@ -28752,14 +28752,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 709,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 380,
 										["r_amt"] = 4,
 									},
 									[49921] = {
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 359,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 1236,
 										},
@@ -28780,14 +28780,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 574,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 359,
 										["r_amt"] = 0,
 									},
 									[51714] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 0,
 										},
@@ -28809,14 +28809,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 0,
 										["r_amt"] = 0,
 									},
 									[49930] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 469,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 1352,
 										},
@@ -28837,14 +28837,98 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 469,
 										["r_amt"] = 0,
+									},
+									[49896] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Darkweaver Syth"] = 1265,
+										},
+										["n_total"] = 307,
+										["n_min"] = 307,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1265,
+										["c_max"] = 599,
+										["id"] = 49896,
+										["r_dmg"] = 1265,
+										["spellschool"] = 16,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 359,
+										["successful_casted"] = 0,
+										["c_total"] = 958,
+										["n_amt"] = 1,
+										["n_max"] = 307,
+										["r_amt"] = 3,
+									},
+									[51425] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Darkweaver Syth"] = 1639,
+										},
+										["n_total"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1639,
+										["c_max"] = 1639,
+										["id"] = 51425,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 1639,
+										["successful_casted"] = 0,
+										["c_total"] = 1639,
+										["n_amt"] = 0,
+										["n_max"] = 0,
+										["r_amt"] = 0,
+									},
+									[55078] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["g_amt"] = 0,
+										["b_dmg"] = 0,
+										["targets"] = {
+											["Darkweaver Syth"] = 580,
+										},
+										["n_total"] = 580,
+										["n_min"] = 48,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 580,
+										["c_max"] = 0,
+										["id"] = 55078,
+										["r_dmg"] = 580,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["c_total"] = 0,
+										["n_amt"] = 7,
+										["n_max"] = 109,
+										["r_amt"] = 7,
 									},
 									[50436] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 0,
 										},
@@ -28866,98 +28950,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 0,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									},
-									[51425] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
 										["n_max"] = 0,
-										["targets"] = {
-											["Darkweaver Syth"] = 1639,
-										},
-										["n_total"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1639,
-										["c_max"] = 1639,
-										["id"] = 51425,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 1639,
-										["successful_casted"] = 0,
-										["c_total"] = 1639,
-										["n_amt"] = 0,
-										["b_dmg"] = 0,
 										["r_amt"] = 0,
-									},
-									[55078] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 109,
-										["targets"] = {
-											["Darkweaver Syth"] = 580,
-										},
-										["n_total"] = 580,
-										["n_min"] = 48,
-										["g_dmg"] = 0,
-										["counter"] = 7,
-										["total"] = 580,
-										["c_max"] = 0,
-										["id"] = 55078,
-										["r_dmg"] = 580,
-										["spellschool"] = 32,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["c_total"] = 0,
-										["n_amt"] = 7,
-										["b_dmg"] = 0,
-										["r_amt"] = 7,
-									},
-									[49896] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 307,
-										["targets"] = {
-											["Darkweaver Syth"] = 1265,
-										},
-										["n_total"] = 307,
-										["n_min"] = 307,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 1265,
-										["c_max"] = 599,
-										["id"] = 49896,
-										["r_dmg"] = 1265,
-										["spellschool"] = 16,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["a_amt"] = 0,
-										["c_min"] = 359,
-										["successful_casted"] = 0,
-										["c_total"] = 958,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 3,
 									},
 									[50401] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 3,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 45,
 										},
@@ -28978,14 +28978,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 21,
-										["b_dmg"] = 0,
+										["n_max"] = 3,
 										["r_amt"] = 21,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "DEATHKNIGHT",
+							["aID"] = "4408-051A4069",
 							["nome"] = "Mueltee",
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -29000,14 +29000,15 @@ _detalhes_database = {
 							["pets"] = {
 								"Searing Totem VI <Müstardtiger>", -- [1]
 							},
-							["aID"] = "4408-050DF194",
+							["classe"] = "SHAMAN",
 							["total_without_pet"] = 0.005342,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 878.0053419999999,
 							["spec"] = 264,
 							["colocacao"] = 5,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Player-4408-050DF194",
 							["damage_from"] = {
@@ -29022,8 +29023,7 @@ _detalhes_database = {
 							},
 							["end_time"] = 1695094897,
 							["tipo"] = 1,
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
@@ -29031,7 +29031,7 @@ _detalhes_database = {
 								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["classe"] = "SHAMAN",
+							["aID"] = "4408-050DF194",
 							["nome"] = "Müstardtiger",
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -29048,16 +29048,16 @@ _detalhes_database = {
 								"Syth Frost Elemental <Darkweaver Syth>", -- [3]
 								"Syth Fire Elemental <Darkweaver Syth>", -- [4]
 							},
-							["aID"] = "18472",
+							["classe"] = "UNKNOW",
 							["total_without_pet"] = 6604.007686,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 24647.007686,
 							["friendlyfire"] = {
 							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["damage_from"] = {
 								["Mueltee"] = true,
 								["Masturbado"] = true,
@@ -29066,26 +29066,26 @@ _detalhes_database = {
 								["Shifthole"] = true,
 							},
 							["targets"] = {
-								["Müstardtiger"] = 870,
 								["Mueltee"] = 1252,
-								["Shifthole"] = 19861,
+								["Müstardtiger"] = 870,
 								["Masturbado"] = 2664,
+								["Shifthole"] = 19861,
 							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["totalabsorbed"] = 0.007686,
 							["end_time"] = 1695094897,
-							["boss_fight_component"] = true,
-							["on_hold"] = false,
 							["nome"] = "Darkweaver Syth",
+							["aID"] = "18472",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 759,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 3179,
 											["Masturbado"] = 759,
@@ -29108,14 +29108,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 7,
-										["b_dmg"] = 0,
+										["n_max"] = 759,
 										["r_amt"] = 0,
 									}, -- [1]
 									[15659] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1252,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 776,
 											["Mueltee"] = 1252,
@@ -29136,14 +29136,14 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 1252,
 										["r_amt"] = 2,
 									},
 									[15039] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 266,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 638,
 										},
@@ -29163,13 +29163,13 @@ _detalhes_database = {
 										["successful_casted"] = 1,
 										["c_total"] = 0,
 										["n_amt"] = 5,
-										["b_dmg"] = 0,
+										["n_max"] = 266,
 										["r_amt"] = 1,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["monster"] = true,
+							["dps_started"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -29187,7 +29187,8 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 6838.006861,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
 							["aID"] = "19205",
@@ -29205,16 +29206,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.006861,
 							["end_time"] = 1695094897,
-							["boss_fight_component"] = true,
-							["ownerName"] = "Darkweaver Syth",
 							["nome"] = "Syth Arcane Elemental <Darkweaver Syth>",
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 692,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 4853,
 											["Masturbado"] = 566,
@@ -29222,12 +29223,12 @@ _detalhes_database = {
 										["n_total"] = 5419,
 										["DODGE"] = 2,
 										["n_min"] = 366,
-										["a_amt"] = 0,
+										["g_dmg"] = 0,
 										["counter"] = 15,
 										["MISS"] = 1,
-										["total"] = 5419,
+										["r_amt"] = 6,
 										["c_max"] = 0,
-										["b_dmg"] = 0,
+										["n_max"] = 692,
 										["id"] = 1,
 										["r_dmg"] = 2813,
 										["spellschool"] = 1,
@@ -29239,14 +29240,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 11,
-										["r_amt"] = 6,
-										["g_dmg"] = 0,
+										["total"] = 5419,
+										["a_amt"] = 0,
 									}, -- [1]
 									[33527] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 555,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 864,
 											["Masturbado"] = 555,
@@ -29267,14 +29268,13 @@ _detalhes_database = {
 										["successful_casted"] = 3,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 555,
 										["r_amt"] = 3,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695094896,
@@ -29292,13 +29292,14 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 4966.005797,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
 							["aID"] = "19204",
 							["damage_from"] = {
-								["Masturbado"] = true,
 								["Shifthole"] = true,
+								["Masturbado"] = true,
 								["Searing Totem VI <Müstardtiger>"] = true,
 							},
 							["targets"] = {
@@ -29309,16 +29310,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.005797,
 							["end_time"] = 1695094897,
-							["boss_fight_component"] = true,
-							["ownerName"] = "Darkweaver Syth",
 							["nome"] = "Syth Frost Elemental <Darkweaver Syth>",
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 563,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 4093,
 										},
@@ -29340,14 +29341,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 9,
-										["b_dmg"] = 0,
+										["n_max"] = 563,
 										["r_amt"] = 8,
 									}, -- [1]
 									[33528] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 536,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 873,
 										},
@@ -29367,14 +29368,13 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 536,
 										["r_amt"] = 2,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695094896,
@@ -29392,7 +29392,8 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 4685.001371,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
 							["aID"] = "19206",
@@ -29409,16 +29410,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.001371,
 							["end_time"] = 1695094897,
-							["boss_fight_component"] = true,
-							["ownerName"] = "Darkweaver Syth",
 							["nome"] = "Syth Shadow Elemental <Darkweaver Syth>",
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 1,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 457,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 3087,
 											["Müstardtiger"] = 870,
@@ -29441,14 +29442,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 870,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
+										["n_max"] = 457,
 										["r_amt"] = 9,
 									}, -- [1]
 									[33529] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 391,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Shifthole"] = 728,
 										},
@@ -29468,14 +29469,13 @@ _detalhes_database = {
 										["successful_casted"] = 2,
 										["c_total"] = 0,
 										["n_amt"] = 2,
-										["b_dmg"] = 0,
+										["n_max"] = 391,
 										["r_amt"] = 2,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695094896,
@@ -29493,7 +29493,8 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 1554.008331,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-19203-0000091859",
 							["aID"] = "19203",
@@ -29511,16 +29512,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.008331,
 							["end_time"] = 1695094897,
-							["boss_fight_component"] = true,
-							["ownerName"] = "Darkweaver Syth",
 							["nome"] = "Syth Fire Elemental <Darkweaver Syth>",
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 784,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Masturbado"] = 784,
 											["Shifthole"] = 770,
@@ -29543,14 +29544,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 3,
-										["b_dmg"] = 0,
+										["n_max"] = 784,
 										["r_amt"] = 2,
 									}, -- [1]
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -29568,7 +29568,8 @@ _detalhes_database = {
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 878.003163,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-7402-0000091855",
 							["aID"] = "7402",
@@ -29583,16 +29584,16 @@ _detalhes_database = {
 							},
 							["totalabsorbed"] = 0.003163,
 							["end_time"] = 1695094897,
-							["boss_fight_component"] = true,
-							["ownerName"] = "Müstardtiger",
 							["nome"] = "Searing Totem VI <Müstardtiger>",
+							["ownerName"] = "Müstardtiger",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[10436] = {
 										["c_amt"] = 2,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 89,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Darkweaver Syth"] = 255,
 											["Syth Frost Elemental"] = 0,
@@ -29616,14 +29617,13 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 224,
 										["n_amt"] = 8,
-										["b_dmg"] = 0,
+										["n_max"] = 89,
 										["r_amt"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 1695094897,
@@ -29635,18 +29635,17 @@ _detalhes_database = {
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 0.004265,
-							["pets"] = {
-							},
-							["aID"] = "",
+							["spellicon"] = 136149,
+							["classe"] = "UNKNOW",
 							["total_without_pet"] = 701.004265,
 							["last_dps_realtime"] = 0,
-							["dps_started"] = false,
+							["monster"] = true,
 							["total"] = 701.004265,
 							["friendlyfire"] = {
 							},
 							["total_extra"] = 0,
 							["serial"] = "",
-							["classe"] = "UNKNOW",
+							["on_hold"] = false,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -29655,18 +29654,19 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["boss_fight_component"] = true,
-							["end_time"] = 1695094897,
-							["on_hold"] = false,
-							["spellicon"] = 136149,
 							["nome"] = "[*] Shadow Word: Death",
+							["end_time"] = 1695094897,
+							["aID"] = "",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[32409] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 701,
+										["b_dmg"] = 0,
 										["targets"] = {
 											["Lightnot"] = 701,
 										},
@@ -29687,14 +29687,14 @@ _detalhes_database = {
 										["successful_casted"] = 0,
 										["c_total"] = 0,
 										["n_amt"] = 1,
-										["b_dmg"] = 0,
+										["n_max"] = 701,
 										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
 							["tipo"] = 1,
-							["monster"] = true,
+							["dps_started"] = false,
 							["custom"] = 0,
 							["last_event"] = 1695094892,
 							["damage_taken"] = 0.004265,
@@ -29706,12 +29706,13 @@ _detalhes_database = {
 							["flag_original"] = 2600,
 							["pets"] = {
 							},
-							["aID"] = "4076",
+							["classe"] = "UNKNOW",
 							["total_without_pet"] = 0.006295,
 							["last_dps_realtime"] = 0,
 							["dps_started"] = false,
 							["total"] = 0.006295,
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["total_extra"] = 0,
 							["serial"] = "Creature-0-4390-556-3743-4076-0002091644",
 							["damage_from"] = {
@@ -29722,18 +29723,17 @@ _detalhes_database = {
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
-							["classe"] = "UNKNOW",
+							["aID"] = "4076",
 							["end_time"] = 1695094897,
 							["totalabsorbed"] = 0.006295,
-							["boss_fight_component"] = true,
 							["nome"] = "Roach",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["on_hold"] = false,
 							["tipo"] = 1,
 							["custom"] = 0,
 							["last_event"] = 0,
@@ -29750,8 +29750,12 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Lightnot"] = true,
+							["targets_overheal"] = {
+								["Mueltee"] = 771,
+								["Masturbado"] = 199,
+								["Müstardtiger"] = 1008,
+								["Shifthole"] = 57,
+								["Lightnot"] = 5229,
 							},
 							["pets"] = {
 							},
@@ -29775,20 +29779,16 @@ _detalhes_database = {
 								["Shifthole"] = 975,
 								["Müstardtiger"] = 20,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.004863,
 							["healing_taken"] = 701.004863,
-							["start_time"] = 1695094870,
+							["classe"] = "PRIEST",
 							["end_time"] = 1695094897,
-							["spec"] = 258,
-							["targets_overheal"] = {
-								["Mueltee"] = 771,
-								["Masturbado"] = 199,
-								["Müstardtiger"] = 1008,
-								["Shifthole"] = 57,
-								["Lightnot"] = 5229,
+							["healing_from"] = {
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695094870,
+							["nome"] = "Lightnot",
 							["spells"] = {
 								["_ActorTable"] = {
 									[75999] = {
@@ -29806,12 +29806,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 123,
 										["total"] = 0,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 75999,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -29840,12 +29840,12 @@ _detalhes_database = {
 										["counter"] = 290,
 										["overheal"] = 6569,
 										["total"] = 2726,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 15290,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 290,
@@ -29866,12 +29866,12 @@ _detalhes_database = {
 										["counter"] = 8,
 										["overheal"] = 572,
 										["total"] = 64,
-										["c_max"] = 0,
+										["spellschool"] = 32,
 										["id"] = 25467,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 32,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 8,
@@ -29881,20 +29881,18 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "PRIEST",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695094897,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004863,
 							["delay"] = 0,
-							["nome"] = "Lightnot",
+							["spec"] = 258,
 						}, -- [1]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Mueltee"] = true,
-								["Müstardtiger"] = true,
-								["Lightnot"] = true,
+							["targets_overheal"] = {
+								["Mueltee"] = 292,
 							},
 							["pets"] = {
 							},
@@ -29914,16 +29912,18 @@ _detalhes_database = {
 							["targets"] = {
 								["Mueltee"] = 110,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.003338,
 							["healing_taken"] = 1252.003338,
-							["start_time"] = 1695094870,
+							["classe"] = "DEATHKNIGHT",
 							["end_time"] = 1695094897,
-							["spec"] = 251,
-							["targets_overheal"] = {
-								["Mueltee"] = 292,
+							["healing_from"] = {
+								["Mueltee"] = true,
+								["Müstardtiger"] = true,
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695094870,
+							["nome"] = "Mueltee",
 							["spells"] = {
 								["_ActorTable"] = {
 									[50475] = {
@@ -29941,12 +29941,12 @@ _detalhes_database = {
 										["counter"] = 27,
 										["overheal"] = 292,
 										["total"] = 110,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 50475,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 27,
@@ -29956,20 +29956,17 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "DEATHKNIGHT",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695094897,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.003338,
 							["delay"] = 0,
-							["nome"] = "Mueltee",
+							["spec"] = 251,
 						}, -- [2]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Lightnot"] = true,
-								["Shifthole"] = true,
-								["Müstardtiger"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
@@ -29990,15 +29987,18 @@ _detalhes_database = {
 							["targets"] = {
 								["Shifthole"] = 2769,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.004211,
 							["healing_taken"] = 17835.004211,
-							["start_time"] = 1695094874,
+							["classe"] = "DRUID",
 							["end_time"] = 1695094897,
-							["spec"] = 103,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Lightnot"] = true,
+								["Shifthole"] = true,
+								["Müstardtiger"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695094874,
+							["nome"] = "Shifthole",
 							["spells"] = {
 								["_ActorTable"] = {
 									[62606] = {
@@ -30015,12 +30015,12 @@ _detalhes_database = {
 										["counter"] = 5,
 										["overheal"] = 0,
 										["total"] = 2285,
-										["c_max"] = 0,
+										["spellschool"] = 8,
 										["id"] = 62606,
 										["targets_absorbs"] = {
 											["Shifthole"] = 2285,
 										},
-										["spellschool"] = 8,
+										["c_max"] = 0,
 										["c_min"] = 0,
 										["n_amt"] = 5,
 										["c_total"] = 0,
@@ -30042,12 +30042,12 @@ _detalhes_database = {
 										["counter"] = 3,
 										["overheal"] = 0,
 										["total"] = 484,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 59913,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 3,
@@ -30057,18 +30057,19 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "DRUID",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695094894,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.004211,
 							["delay"] = 0,
-							["nome"] = "Shifthole",
+							["spec"] = 103,
 						}, -- [3]
 						{
 							["flag_original"] = 1298,
-							["healing_from"] = {
-								["Lightnot"] = true,
+							["targets_overheal"] = {
+								["Shifthole"] = 828,
+								["Mueltee"] = 1052,
 							},
 							["pets"] = {
 							},
@@ -30089,17 +30090,16 @@ _detalhes_database = {
 								["Shifthole"] = 14091,
 								["Mueltee"] = 881,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.002185,
 							["healing_taken"] = 20.002185,
-							["start_time"] = 1695094877,
+							["classe"] = "SHAMAN",
 							["end_time"] = 1695094897,
-							["spec"] = 264,
-							["targets_overheal"] = {
-								["Shifthole"] = 828,
-								["Mueltee"] = 1052,
+							["healing_from"] = {
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695094877,
+							["nome"] = "Müstardtiger",
 							["spells"] = {
 								["_ActorTable"] = {
 									[25391] = {
@@ -30117,12 +30117,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 647,
 										["total"] = 2593,
-										["c_max"] = 0,
+										["spellschool"] = 8,
 										["id"] = 25391,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 8,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -30145,12 +30145,12 @@ _detalhes_database = {
 										["counter"] = 9,
 										["overheal"] = 1233,
 										["total"] = 12075,
-										["c_max"] = 1940,
+										["spellschool"] = 8,
 										["id"] = 10468,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 881,
-										["spellschool"] = 8,
+										["c_max"] = 1940,
 										["c_total"] = 4547,
 										["totaldenied"] = 0,
 										["n_amt"] = 6,
@@ -30170,12 +30170,12 @@ _detalhes_database = {
 										["counter"] = 2,
 										["overheal"] = 0,
 										["total"] = 304,
-										["c_max"] = 0,
+										["spellschool"] = 8,
 										["id"] = 51998,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 8,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 2,
@@ -30185,19 +30185,17 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "SHAMAN",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695094896,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002185,
 							["delay"] = 0,
-							["nome"] = "Müstardtiger",
+							["spec"] = 264,
 						}, -- [4]
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["Masturbado"] = true,
-								["Lightnot"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
@@ -30217,15 +30215,17 @@ _detalhes_database = {
 							["targets"] = {
 								["Masturbado"] = 80,
 							},
-							["heal_enemy_amt"] = 0,
+							["boss_fight_component"] = true,
 							["totalover_without_pet"] = 0.002633,
 							["healing_taken"] = 913.0026330000001,
-							["start_time"] = 1695094896,
+							["classe"] = "WARRIOR",
 							["end_time"] = 1695094897,
-							["spec"] = 71,
-							["targets_overheal"] = {
+							["healing_from"] = {
+								["Masturbado"] = true,
+								["Lightnot"] = true,
 							},
-							["boss_fight_component"] = true,
+							["start_time"] = 1695094896,
+							["nome"] = "Masturbado",
 							["spells"] = {
 								["_ActorTable"] = {
 									[20007] = {
@@ -30242,12 +30242,12 @@ _detalhes_database = {
 										["counter"] = 1,
 										["overheal"] = 0,
 										["total"] = 80,
-										["c_max"] = 0,
+										["spellschool"] = 1,
 										["id"] = 20007,
 										["targets_absorbs"] = {
 										},
 										["c_min"] = 0,
-										["spellschool"] = 1,
+										["c_max"] = 0,
 										["c_total"] = 0,
 										["totaldenied"] = 0,
 										["n_amt"] = 1,
@@ -30257,13 +30257,13 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["classe"] = "WARRIOR",
+							["heal_enemy_amt"] = 0,
 							["last_event"] = 1695094878,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["totaldenied"] = 0.002633,
 							["delay"] = 1695094878,
-							["nome"] = "Masturbado",
+							["spec"] = 71,
 						}, -- [5]
 					},
 				}, -- [2]
@@ -30276,8 +30276,8 @@ _detalhes_database = {
 							["resource"] = 0.004928,
 							["pets"] = {
 							},
-							["aID"] = "4408-04B19510",
-							["passiveover"] = 0.004928,
+							["classe"] = "DRUID",
+							["totalover"] = 245.7049280476837,
 							["total"] = 120.3049280119209,
 							["spec"] = 103,
 							["serial"] = "Player-4408-04B19510",
@@ -30292,8 +30292,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[59072] = {
 										["total"] = 36.30000001192093,
-										["id"] = 59072,
 										["totalover"] = 5.700000047683716,
+										["id"] = 59072,
 										["targets"] = {
 											["Shifthole"] = 36.30000001192093,
 										},
@@ -30301,8 +30301,8 @@ _detalhes_database = {
 									},
 									[16959] = {
 										["total"] = 75,
-										["id"] = 16959,
 										["totalover"] = 5,
+										["id"] = 16959,
 										["targets"] = {
 											["Shifthole"] = 75,
 										},
@@ -30310,8 +30310,8 @@ _detalhes_database = {
 									},
 									[5229] = {
 										["total"] = 9,
-										["id"] = 5229,
 										["totalover"] = 0,
+										["id"] = 5229,
 										["targets"] = {
 											["Shifthole"] = 9,
 										},
@@ -30319,8 +30319,8 @@ _detalhes_database = {
 									},
 									[59914] = {
 										["total"] = 0,
-										["id"] = 59914,
 										["totalover"] = 235,
+										["id"] = 59914,
 										["targets"] = {
 											["Shifthole"] = 0,
 										},
@@ -30330,10 +30330,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 245.7049280476837,
-							["classe"] = "DRUID",
-							["tipo"] = 3,
+							["passiveover"] = 0.004928,
+							["aID"] = "4408-04B19510",
 							["last_event"] = 1695094897,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [1]
 						{
@@ -30341,8 +30341,8 @@ _detalhes_database = {
 							["resource"] = 0.00681,
 							["pets"] = {
 							},
-							["aID"] = "4408-0474E7DA",
-							["passiveover"] = 0.00681,
+							["classe"] = "WARRIOR",
+							["totalover"] = 3.00681,
 							["total"] = 10.00681,
 							["spec"] = 71,
 							["serial"] = "Player-4408-0474E7DA",
@@ -30357,8 +30357,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[29131] = {
 										["total"] = 5,
-										["id"] = 29131,
 										["totalover"] = 0,
+										["id"] = 29131,
 										["targets"] = {
 											["Masturbado"] = 5,
 										},
@@ -30366,8 +30366,8 @@ _detalhes_database = {
 									},
 									[12964] = {
 										["total"] = 5,
-										["id"] = 12964,
 										["totalover"] = 3,
+										["id"] = 12964,
 										["targets"] = {
 											["Masturbado"] = 5,
 										},
@@ -30377,10 +30377,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 3.00681,
-							["classe"] = "WARRIOR",
-							["tipo"] = 3,
+							["passiveover"] = 0.00681,
+							["aID"] = "4408-0474E7DA",
 							["last_event"] = 1695094887,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [2]
 						{
@@ -30388,8 +30388,8 @@ _detalhes_database = {
 							["resource"] = 0.008173,
 							["pets"] = {
 							},
-							["aID"] = "4408-051A4069",
-							["passiveover"] = 0.008173,
+							["classe"] = "DEATHKNIGHT",
+							["totalover"] = 0.008173,
 							["total"] = 140.008173,
 							["spec"] = 251,
 							["serial"] = "Player-4408-051A4069",
@@ -30404,8 +30404,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[49020] = {
 										["total"] = 15,
-										["id"] = 49020,
 										["totalover"] = 0,
+										["id"] = 49020,
 										["targets"] = {
 											["Mueltee"] = 15,
 										},
@@ -30413,8 +30413,8 @@ _detalhes_database = {
 									},
 									[49927] = {
 										["total"] = 40,
-										["id"] = 49927,
 										["totalover"] = 0,
+										["id"] = 49927,
 										["targets"] = {
 											["Mueltee"] = 40,
 										},
@@ -30422,8 +30422,8 @@ _detalhes_database = {
 									},
 									[49896] = {
 										["total"] = 30,
-										["id"] = 49896,
 										["totalover"] = 0,
+										["id"] = 49896,
 										["targets"] = {
 											["Mueltee"] = 30,
 										},
@@ -30431,8 +30431,8 @@ _detalhes_database = {
 									},
 									[49184] = {
 										["total"] = 15,
-										["id"] = 49184,
 										["totalover"] = 0,
+										["id"] = 49184,
 										["targets"] = {
 											["Mueltee"] = 15,
 										},
@@ -30440,8 +30440,8 @@ _detalhes_database = {
 									},
 									[51271] = {
 										["total"] = 10,
-										["id"] = 51271,
 										["totalover"] = 0,
+										["id"] = 51271,
 										["targets"] = {
 											["Mueltee"] = 10,
 										},
@@ -30449,8 +30449,8 @@ _detalhes_database = {
 									},
 									[49917] = {
 										["total"] = 30,
-										["id"] = 49917,
 										["totalover"] = 0,
+										["id"] = 49917,
 										["targets"] = {
 											["Mueltee"] = 30,
 										},
@@ -30460,10 +30460,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.008173,
-							["classe"] = "DEATHKNIGHT",
-							["tipo"] = 3,
+							["passiveover"] = 0.008173,
+							["aID"] = "4408-051A4069",
 							["last_event"] = 1695094898,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [3]
 						{
@@ -30471,8 +30471,8 @@ _detalhes_database = {
 							["resource"] = 0.00247,
 							["pets"] = {
 							},
-							["aID"] = "4408-03CDC066",
-							["passiveover"] = 0.00247,
+							["classe"] = "PRIEST",
+							["totalover"] = 0.00247,
 							["total"] = 1078.00247,
 							["spec"] = 258,
 							["serial"] = "Player-4408-03CDC066",
@@ -30489,8 +30489,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[59914] = {
 										["total"] = 162,
-										["id"] = 59914,
 										["totalover"] = 0,
+										["id"] = 59914,
 										["targets"] = {
 											["Lightnot"] = 162,
 										},
@@ -30498,8 +30498,8 @@ _detalhes_database = {
 									},
 									[57669] = {
 										["total"] = 704,
-										["id"] = 57669,
 										["totalover"] = 0,
+										["id"] = 57669,
 										["targets"] = {
 											["Lightnot"] = 371,
 											["Shifthole"] = 8,
@@ -30509,8 +30509,8 @@ _detalhes_database = {
 									},
 									[71132] = {
 										["total"] = 212,
-										["id"] = 71132,
 										["totalover"] = 0,
+										["id"] = 71132,
 										["targets"] = {
 											["Lightnot"] = 212,
 										},
@@ -30520,10 +30520,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.00247,
-							["classe"] = "PRIEST",
-							["tipo"] = 3,
+							["passiveover"] = 0.00247,
+							["aID"] = "4408-03CDC066",
 							["last_event"] = 1695094897,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [4]
 						{
@@ -30531,8 +30531,8 @@ _detalhes_database = {
 							["resource"] = 0.008823,
 							["pets"] = {
 							},
-							["aID"] = "4408-050DF194",
-							["passiveover"] = 0.008823,
+							["classe"] = "SHAMAN",
+							["totalover"] = 0.008823,
 							["total"] = 839.008823,
 							["spec"] = 264,
 							["serial"] = "Player-4408-050DF194",
@@ -30547,8 +30547,8 @@ _detalhes_database = {
 								["_ActorTable"] = {
 									[23575] = {
 										["total"] = 839,
-										["id"] = 23575,
 										["totalover"] = 0,
+										["id"] = 23575,
 										["targets"] = {
 											["Müstardtiger"] = 839,
 										},
@@ -30558,10 +30558,10 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["totalover"] = 0.008823,
-							["classe"] = "SHAMAN",
-							["tipo"] = 3,
+							["passiveover"] = 0.008823,
+							["aID"] = "4408-050DF194",
 							["last_event"] = 1695094896,
+							["tipo"] = 3,
 							["boss_fight_component"] = true,
 						}, -- [5]
 					},
@@ -30618,17 +30618,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[33198] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 28,
-										["id"] = 33198,
-										["refreshamt"] = 8,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[25367] = {
 										["appliedamt"] = 1,
 										["targets"] = {
@@ -30640,12 +30629,22 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[33198] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 28,
+										["id"] = 33198,
+										["refreshamt"] = 8,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
-							["aID"] = "4408-03CDC066",
+							["buff_uptime"] = 305,
+							["classe"] = "PRIEST",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[10952] = {
@@ -30788,8 +30787,9 @@ _detalhes_database = {
 							},
 							["spec"] = 258,
 							["grupo"] = true,
-							["buff_uptime"] = 305,
-							["classe"] = "PRIEST",
+							["pets"] = {
+							},
+							["aID"] = "4408-03CDC066",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
 							["nome"] = "Lightnot",
@@ -30838,9 +30838,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
-							["aID"] = "4408-051A4069",
+							["buff_uptime"] = 208,
+							["classe"] = "DEATHKNIGHT",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[33667] = {
@@ -30950,8 +30949,9 @@ _detalhes_database = {
 							},
 							["spec"] = 251,
 							["grupo"] = true,
-							["buff_uptime"] = 208,
-							["classe"] = "DEATHKNIGHT",
+							["pets"] = {
+							},
+							["aID"] = "4408-051A4069",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
 							["nome"] = "Mueltee",
@@ -31038,16 +31038,16 @@ _detalhes_database = {
 							["pets"] = {
 								"Searing Totem VI <Müstardtiger>", -- [1]
 							},
+							["nome"] = "Müstardtiger",
 							["buff_uptime_targets"] = {
 							},
-							["boss_fight_component"] = true,
 							["spec"] = 264,
 							["grupo"] = true,
-							["aID"] = "4408-050DF194",
+							["boss_fight_component"] = true,
 							["last_event"] = 1695094897,
 							["tipo"] = 4,
 							["serial"] = "Player-4408-050DF194",
-							["nome"] = "Müstardtiger",
+							["aID"] = "4408-050DF194",
 						}, -- [3]
 						{
 							["flag_original"] = 1047,
@@ -31129,7 +31129,7 @@ _detalhes_database = {
 								1695094890.789, -- [1]
 								61336, -- [2]
 							},
-							["aID"] = "4408-04B19510",
+							["classe"] = "DRUID",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[9634] = {
@@ -31260,6 +31260,17 @@ _detalhes_database = {
 							["debuff_uptime_targets"] = {
 							},
 							["spec"] = 103,
+							["serial"] = "Player-4408-04B19510",
+							["buff_uptime"] = 237,
+							["cooldowns_defensive_targets"] = {
+								["Shifthole"] = 2,
+							},
+							["boss_fight_component"] = true,
+							["grupo"] = true,
+							["aID"] = "4408-04B19510",
+							["tipo"] = 4,
+							["last_event"] = 1695094897,
+							["nome"] = "Shifthole",
 							["cooldowns_defensive_spells"] = {
 								["_ActorTable"] = {
 									[22812] = {
@@ -31279,19 +31290,8 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 237,
-							["cooldowns_defensive_targets"] = {
-								["Shifthole"] = 2,
-							},
-							["nome"] = "Shifthole",
-							["grupo"] = true,
-							["classe"] = "DRUID",
-							["tipo"] = 4,
-							["last_event"] = 1695094897,
 							["buff_uptime_targets"] = {
 							},
-							["serial"] = "Player-4408-04B19510",
-							["boss_fight_component"] = true,
 						}, -- [4]
 						{
 							["flag_original"] = 1047,
@@ -31330,17 +31330,6 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[11574] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 0,
-										["uptime"] = 20,
-										["id"] = 11574,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[25202] = {
 										["appliedamt"] = 9,
 										["targets"] = {
@@ -31352,12 +31341,22 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[11574] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 20,
+										["id"] = 11574,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
 								["tipo"] = 9,
 							},
-							["pets"] = {
-							},
-							["aID"] = "4408-0474E7DA",
+							["buff_uptime"] = 211,
+							["classe"] = "WARRIOR",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[18499] = {
@@ -31511,8 +31510,9 @@ _detalhes_database = {
 							},
 							["spec"] = 71,
 							["grupo"] = true,
-							["buff_uptime"] = 211,
-							["classe"] = "WARRIOR",
+							["pets"] = {
+							},
+							["aID"] = "4408-0474E7DA",
 							["boss_fight_component"] = true,
 							["tipo"] = 4,
 							["nome"] = "Masturbado",
@@ -31527,12 +31527,12 @@ _detalhes_database = {
 							},
 							["classe"] = "PET",
 							["ownerName"] = "Müstardtiger",
-							["boss_fight_component"] = true,
 							["nome"] = "Searing Totem VI <Müstardtiger>",
+							["boss_fight_component"] = true,
 							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4390-556-3743-7402-0000091855",
 							["aID"] = "7402",
+							["serial"] = "Creature-0-4390-556-3743-7402-0000091855",
+							["tipo"] = 4,
 						}, -- [6]
 						{
 							["flag_original"] = 68168,
@@ -31548,10 +31548,10 @@ _detalhes_database = {
 							["monster"] = true,
 							["nome"] = "Darkweaver Syth",
 							["boss_fight_component"] = true,
-							["tipo"] = 4,
-							["aID"] = "18472",
-							["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
 							["last_event"] = 0,
+							["tipo"] = 4,
+							["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
+							["aID"] = "18472",
 						}, -- [7]
 						{
 							["flag_original"] = 8776,
@@ -31559,12 +31559,12 @@ _detalhes_database = {
 							},
 							["classe"] = "PET",
 							["ownerName"] = "Darkweaver Syth",
-							["boss_fight_component"] = true,
 							["nome"] = "Syth Arcane Elemental <Darkweaver Syth>",
+							["boss_fight_component"] = true,
 							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
 							["aID"] = "19205",
+							["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
+							["tipo"] = 4,
 						}, -- [8]
 						{
 							["flag_original"] = 8776,
@@ -31573,15 +31573,6 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["boss_fight_component"] = true,
-							["aID"] = "19205",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["boss_debuff"] = true,
-							["debuff_uptime"] = 9,
-							["spellschool"] = 64,
-							["ownerName"] = "Darkweaver Syth",
 							["debuff_uptime_targets"] = {
 								["Shifthole"] = {
 									["uptime"] = 9,
@@ -31600,12 +31591,21 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 							},
+							["aID"] = "19205",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["boss_debuff"] = true,
+							["debuff_uptime"] = 9,
+							["spellschool"] = 64,
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
-							["last_event"] = 1695094889,
+							["tipo"] = 4,
 							["damage_twin"] = "Syth Arcane Elemental",
 							["nome"] = "Arcane Buffet <Darkweaver Syth>",
 							["damage_spellid"] = 33527,
-							["tipo"] = 4,
+							["last_event"] = 1695094889,
 						}, -- [9]
 						{
 							["flag_original"] = 8776,
@@ -31613,12 +31613,12 @@ _detalhes_database = {
 							},
 							["classe"] = "PET",
 							["ownerName"] = "Darkweaver Syth",
-							["boss_fight_component"] = true,
 							["nome"] = "Syth Frost Elemental <Darkweaver Syth>",
+							["boss_fight_component"] = true,
 							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
 							["aID"] = "19204",
+							["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
+							["tipo"] = 4,
 						}, -- [10]
 						{
 							["flag_original"] = 8776,
@@ -31627,15 +31627,6 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["boss_fight_component"] = true,
-							["aID"] = "19204",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["boss_debuff"] = true,
-							["debuff_uptime"] = 13,
-							["spellschool"] = 16,
-							["ownerName"] = "Darkweaver Syth",
 							["debuff_uptime_targets"] = {
 								["Shifthole"] = {
 									["uptime"] = 13,
@@ -31646,12 +31637,21 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 							},
+							["aID"] = "19204",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["boss_debuff"] = true,
+							["debuff_uptime"] = 13,
+							["spellschool"] = 16,
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
-							["last_event"] = 1695094895,
+							["tipo"] = 4,
 							["damage_twin"] = "Syth Frost Elemental",
 							["nome"] = "Frost Buffet <Darkweaver Syth>",
 							["damage_spellid"] = 33528,
-							["tipo"] = 4,
+							["last_event"] = 1695094895,
 						}, -- [11]
 						{
 							["flag_original"] = 8776,
@@ -31659,12 +31659,12 @@ _detalhes_database = {
 							},
 							["classe"] = "PET",
 							["ownerName"] = "Darkweaver Syth",
-							["boss_fight_component"] = true,
 							["nome"] = "Syth Shadow Elemental <Darkweaver Syth>",
+							["boss_fight_component"] = true,
 							["last_event"] = 0,
-							["tipo"] = 4,
-							["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
 							["aID"] = "19206",
+							["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
+							["tipo"] = 4,
 						}, -- [12]
 						{
 							["flag_original"] = 8776,
@@ -31673,15 +31673,6 @@ _detalhes_database = {
 								},
 								["tipo"] = 9,
 							},
-							["boss_fight_component"] = true,
-							["aID"] = "19206",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["boss_debuff"] = true,
-							["debuff_uptime"] = 5,
-							["spellschool"] = 32,
-							["ownerName"] = "Darkweaver Syth",
 							["debuff_uptime_targets"] = {
 								["Shifthole"] = {
 									["uptime"] = 5,
@@ -31692,12 +31683,21 @@ _detalhes_database = {
 									["refreshamt"] = 0,
 								},
 							},
+							["aID"] = "19206",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["boss_debuff"] = true,
+							["debuff_uptime"] = 5,
+							["spellschool"] = 32,
+							["ownerName"] = "Darkweaver Syth",
+							["boss_fight_component"] = true,
 							["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
-							["last_event"] = 1695094889,
+							["tipo"] = 4,
 							["damage_twin"] = "Syth Shadow Elemental",
 							["nome"] = "Shadow Buffet <Darkweaver Syth>",
 							["damage_spellid"] = 33529,
-							["tipo"] = 4,
+							["last_event"] = 1695094889,
 						}, -- [13]
 						{
 							["flag_original"] = 68168,
@@ -31725,11 +31725,11 @@ _detalhes_database = {
 							},
 							["classe"] = "UNKNOW",
 							["boss_fight_component"] = true,
-							["tipo"] = 4,
+							["last_event"] = 1695094897,
 							["damage_twin"] = "Darkweaver Syth",
 							["nome"] = "Flame Shock",
 							["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
-							["last_event"] = 1695094897,
+							["tipo"] = 4,
 						}, -- [14]
 					},
 				}, -- [4]
@@ -31762,9 +31762,7 @@ _detalhes_database = {
 				["bossIcon"] = "",
 				["bossTimers"] = {
 				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
+				["combat_counter"] = 1320,
 				["totals"] = {
 					128734, -- [1]
 					20721, -- [2]
@@ -31788,23 +31786,43 @@ _detalhes_database = {
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
+				["totals_grupo"] = {
+					102508, -- [1]
+					20721, -- [2]
+					{
+						130.3000000119209, -- [1]
+						[0] = 1917,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 140,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 2,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["amountCasts"] = {
-					["Mueltee"] = {
-						["Ferocity"] = 1,
-						["Howling Blast"] = 1,
-						["Unbreakable Armor"] = 1,
-						["Obliterate"] = 1,
-						["Frost Strike"] = 4,
-						["Blood Fury"] = 1,
-						["Plague Strike"] = 3,
-						["Blood Strike"] = 3,
-						["Icy Touch"] = 3,
+					["Syth Arcane Elemental"] = {
+						["Arcane Buffet"] = 1,
 					},
-					["Syth Arcane Elemental <Darkweaver Syth>"] = {
-						["Arcane Buffet"] = 2,
+					["Masturbado"] = {
+						["Charge"] = 1,
+						["Cleave"] = 6,
+						["Demoralizing Shout"] = 2,
+						["Rend"] = 1,
+						["Sweeping Strikes"] = 1,
+						["Berserker Rage"] = 1,
+						["Berserking"] = 1,
+						["Overpower"] = 4,
+						["Thunder Clap"] = 3,
+						["Heroic Strike"] = 2,
 					},
 					["Searing Totem VI <Müstardtiger>"] = {
 						["Attack"] = 1,
@@ -31830,17 +31848,22 @@ _detalhes_database = {
 					["Syth Shadow Elemental <Darkweaver Syth>"] = {
 						["Shadow Buffet"] = 2,
 					},
-					["Masturbado"] = {
-						["Charge"] = 1,
-						["Cleave"] = 6,
-						["Demoralizing Shout"] = 2,
-						["Rend"] = 1,
-						["Sweeping Strikes"] = 1,
-						["Berserker Rage"] = 1,
-						["Berserking"] = 1,
-						["Overpower"] = 4,
-						["Thunder Clap"] = 3,
-						["Heroic Strike"] = 2,
+					["Syth Arcane Elemental <Darkweaver Syth>"] = {
+						["Arcane Buffet"] = 2,
+					},
+					["Müstardtiger"] = {
+						["Lesser Healing Wave"] = 9,
+						["Nature's Swiftness"] = 1,
+						["Mana Spring Totem"] = 1,
+						["Healing Wave"] = 1,
+						["Windfury Totem"] = 1,
+						["Call of the Elements"] = 1,
+						["Searing Totem"] = 1,
+						["Strength of Earth Totem"] = 1,
+					},
+					["Darkweaver Syth"] = {
+						["Chain Lightning"] = 1,
+						["Flame Shock"] = 1,
 					},
 					["Lightnot"] = {
 						["Mind Blast"] = 3,
@@ -31850,22 +31873,16 @@ _detalhes_database = {
 						["Mind Flay"] = 6,
 						["Shadow Word: Death"] = 1,
 					},
-					["Darkweaver Syth"] = {
-						["Chain Lightning"] = 1,
-						["Flame Shock"] = 1,
-					},
-					["Müstardtiger"] = {
-						["Lesser Healing Wave"] = 9,
-						["Nature's Swiftness"] = 1,
-						["Mana Spring Totem"] = 1,
-						["Healing Wave"] = 1,
-						["Windfury Totem"] = 1,
-						["Strength of Earth Totem"] = 1,
-						["Searing Totem"] = 1,
-						["Call of the Elements"] = 1,
-					},
-					["Syth Arcane Elemental"] = {
-						["Arcane Buffet"] = 1,
+					["Mueltee"] = {
+						["Ferocity"] = 1,
+						["Howling Blast"] = 1,
+						["Unbreakable Armor"] = 1,
+						["Obliterate"] = 1,
+						["Frost Strike"] = 4,
+						["Blood Fury"] = 1,
+						["Plague Strike"] = 3,
+						["Blood Strike"] = 3,
+						["Icy Touch"] = 3,
 					},
 					["Syth Frost Elemental <Darkweaver Syth>"] = {
 						["Frost Buffet"] = 2,
@@ -31887,7 +31904,11 @@ _detalhes_database = {
 				["combat_id"] = 1306,
 				["overall_added"] = true,
 				["contra"] = "Darkweaver Syth",
-				["spells_cast_timeline"] = {
+				["frags"] = {
+					["Syth Shadow Elemental"] = 1,
+					["Roach"] = 1,
+					["Darkweaver Syth"] = 1,
+					["Syth Fire Elemental"] = 2,
 				},
 				["is_boss"] = {
 					["diff_string"] = "Normal",
@@ -31902,27 +31923,10 @@ _detalhes_database = {
 					["unixtime"] = 1695094867,
 					["killed"] = true,
 				},
-				["combat_counter"] = 1320,
-				["totals_grupo"] = {
-					102508, -- [1]
-					20721, -- [2]
-					{
-						130.3000000119209, -- [1]
-						[0] = 1917,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 140,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["cooldowns_defensive"] = 2,
-						["dispell"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["player_last_events"] = {
 				},
 				["PhaseData"] = {
 					{
@@ -31955,21 +31959,17 @@ _detalhes_database = {
 				["start_time"] = 460652.98,
 				["TimeData"] = {
 				},
-				["frags"] = {
-					["Syth Shadow Elemental"] = 1,
-					["Roach"] = 1,
-					["Darkweaver Syth"] = 1,
-					["Syth Fire Elemental"] = 2,
+				["spells_cast_timeline"] = {
 				},
 			}, -- [31]
 		},
 	},
 	["ocd_tracker"] = {
-		["show_title"] = true,
+		["enabled"] = false,
 		["current_cooldowns"] = {
 		},
-		["lines_per_column"] = 12,
 		["group_frames"] = true,
+		["lines_per_column"] = 12,
 		["frames"] = {
 			["defensive-raid"] = {
 			},
@@ -32001,7 +32001,7 @@ _detalhes_database = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
 		},
-		["enabled"] = false,
+		["show_title"] = true,
 		["filters"] = {
 			["itemutil"] = false,
 			["itempower"] = false,
@@ -32014,7 +32014,7 @@ _detalhes_database = {
 			["utility"] = false,
 		},
 	},
-	["last_version"] = "3.4.3 11914",
+	["last_version"] = "3.4.3 12018",
 	["player_stats"] = {
 	},
 	["force_font_outline"] = "",
@@ -32049,10 +32049,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -147.2215576171875,
-					["x"] = 816.1112060546875,
-					["w"] = 188.2222747802734,
-					["h"] = 226.4447937011719,
+					["y"] = -147.221435546875,
+					["x"] = 1043.666748046875,
+					["w"] = 188.2222137451172,
+					["h"] = 226.4448089599609,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -32084,10 +32084,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 51.66766357421875,
-					["x"] = 816.1112060546875,
-					["w"] = 188.2222747802734,
-					["h"] = 131.3336029052734,
+					["y"] = 51.66778564453125,
+					["x"] = 1043.666748046875,
+					["w"] = 188.2222137451172,
+					["h"] = 131.3336486816406,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -32905,10 +32905,10 @@ _detalhes_database = {
 	["data_harvest_for_charsts"] = {
 		["players"] = {
 			{
-				["playerKey"] = "total",
-				["combatObjectContainer"] = 1,
 				["name"] = "Damage of Each Individual Player",
 				["playerOnly"] = true,
+				["playerKey"] = "total",
+				["combatObjectContainer"] = 1,
 			}, -- [1]
 		},
 		["totals"] = {
@@ -32949,41 +32949,161 @@ _detalhes_database = {
 	},
 	["combat_log"] = {
 		["inverse_deathlog_overalldata"] = false,
-		["evoker_calc_damage"] = false,
 		["track_hunter_frenzy"] = false,
-		["merge_critical_heals"] = false,
+		["evoker_calc_damage"] = false,
 		["inverse_deathlog_raid"] = false,
+		["merge_critical_heals"] = false,
 		["merge_gemstones_1007"] = false,
 		["evoker_show_realtimedps"] = false,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["on_death_menu"] = false,
+	["ignore_nicktag"] = false,
 	["mythic_plus_log"] = {
 	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1698363586,
-		["last_version"] = 15,
+	["combat_counter"] = 1366,
+	["cached_roles"] = {
+		["Player-4408-04C650BD"] = "DAMAGER",
+		["Player-4408-05094B98"] = "TANK",
+		["Player-4408-03AFC040"] = "DAMAGER",
+		["Player-4408-04B19510"] = "DAMAGER",
+		["Player-4408-03CDC066"] = "DAMAGER",
+		["Player-4408-050CB254"] = "DAMAGER",
+		["Player-4408-0451E06D"] = "DAMAGER",
+		["Player-4408-05018A7F"] = "DAMAGER",
+		["Player-4408-0504CB8E"] = "TANK",
+		["Player-4408-0474E7DA"] = "DAMAGER",
+		["Player-4408-04FAE7A1"] = "TANK",
+		["Player-4408-050A099F"] = "DAMAGER",
+		["Player-4408-04E447DF"] = "DAMAGER",
+		["Player-4408-051A4069"] = "DAMAGER",
+		["Player-4408-050DF194"] = "HEALER",
+		["Player-4408-050C7AF1"] = "DAMAGER",
+		["Player-4408-0505D59C"] = "HEALER",
+		["Player-4408-0509897A"] = "DAMAGER",
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["data_harvested_for_charts"] = {
 	},
+	["on_death_menu"] = false,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["enabled"] = true,
+			["animate"] = false,
+			["hide_pull_bar"] = false,
+			["author"] = "Terciob",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["usefocus"] = false,
+			["updatespeed"] = 1,
+			["disable_gouge"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["absolute_mode"] = false,
+			["playSound"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["useclasscolors"] = false,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Terciob",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
+			["enabled"] = true,
+			["author"] = "Terciob",
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["use_square_mode"] = false,
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["scale"] = 1,
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 60.62096355551343,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["row_height"] = 20,
+			["arrow_anchor_x"] = 0,
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["use_spark"] = true,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Terciob",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["y"] = -4.57763671875e-05,
+			["x"] = 0.000152587890625,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 1.52587890625e-05,
+				["x"] = 9.1552734375e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
 	},
-	["combat_counter"] = 1366,
-	["last_realversion"] = 155,
 	["last_instance_time"] = 1695094373,
 	["combat_id"] = 1352,
 	["savedStyles"] = {
 	},
-	["last_day"] = "11",
+	["last_day"] = "01",
 	["character_data"] = {
-		["logons"] = 28,
+		["logons"] = 31,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -33000,78 +33120,12 @@ _detalhes_database = {
 					["totalabsorbed"] = 1810.145591,
 					["pets"] = {
 					},
-					["aID"] = "4408-04B19510",
+					["classe"] = "DRUID",
 					["total_without_pet"] = 282608.145591,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 282608.145591,
 					["spec"] = 103,
-					["on_hold"] = false,
-					["total_extra"] = 0,
-					["serial"] = "Player-4408-04B19510",
-					["damage_from"] = {
-						["Sethekk Ravenguard"] = true,
-						["Syth Arcane Elemental <Darkweaver Syth>"] = true,
-						["Searing Totem VI <Müstardtiger>"] = true,
-						["Roach"] = true,
-						["Sethekk Prophet"] = true,
-						["Avian Darkhawk"] = true,
-						["Sethekk Talon Lord"] = true,
-						["Talon King Ikiss"] = true,
-						["Time-Lost Controller"] = true,
-						["Lightnot"] = true,
-						["Mueltee"] = true,
-						["Time-Lost Shadowmage"] = true,
-						["Syth Shadow Elemental <Darkweaver Syth>"] = true,
-						["Sethekk Shaman"] = true,
-						["Masturbado"] = true,
-						["Cobalt Serpent"] = true,
-						["Sethekk Oracle"] = true,
-						["Avian Warhawk"] = true,
-						["Sethekk Guard"] = true,
-						["Avian Ripper"] = true,
-						["Charming Totem <Time-Lost Controller>"] = true,
-						["Sethekk Initiate"] = true,
-						["Time-Lost Scryer"] = true,
-						["Sethekk Spirit"] = true,
-						["Darkweaver Syth"] = true,
-						["Syth Fire Elemental <Darkweaver Syth>"] = true,
-						["Dark Vortex <Sethekk Shaman>"] = true,
-						["Syth Frost Elemental <Darkweaver Syth>"] = true,
-					},
-					["targets"] = {
-						["Sethekk Ravenguard"] = 23412,
-						["Syth Arcane Elemental <Darkweaver Syth>"] = 1685,
-						["Roach"] = 21,
-						["Avian Darkhawk"] = 12091,
-						["Sethekk Talon Lord"] = 6619,
-						["Syth Fire Elemental <Darkweaver Syth>"] = 1941,
-						["Sethekk Prophet"] = 16409,
-						["Time-Lost Controller"] = 24126,
-						["Talon King Ikiss"] = 15596,
-						["Time-Lost Shadowmage"] = 10477,
-						["Avian Ripper"] = 25166,
-						["Cobalt Serpent"] = 15823,
-						["Sethekk Oracle"] = 20296,
-						["Avian Warhawk"] = 7747,
-						["Sethekk Guard"] = 28620,
-						["Sethekk Shaman"] = 9938,
-						["Charming Totem <Time-Lost Controller>"] = 5670,
-						["Sethekk Initiate"] = 18032,
-						["Time-Lost Scryer"] = 18208,
-						["Rat"] = 7,
-						["Darkweaver Syth"] = 9508,
-						["Syth Shadow Elemental <Darkweaver Syth>"] = 1946,
-						["Dark Vortex <Sethekk Shaman>"] = 6375,
-						["Syth Frost Elemental <Darkweaver Syth>"] = 2895,
-					},
-					["friendlyfire_total"] = 835,
-					["raid_targets"] = {
-						[128] = 22470,
-					},
-					["fight_component"] = true,
-					["end_time"] = 1695094487,
-					["tipo"] = 1,
 					["friendlyfire"] = {
 						["Masturbado"] = {
 							["spells"] = {
@@ -33087,37 +33141,103 @@ _detalhes_database = {
 							["total"] = 675,
 						},
 					},
+					["total_extra"] = 0,
+					["serial"] = "Player-4408-04B19510",
+					["damage_from"] = {
+						["Sethekk Ravenguard"] = true,
+						["Syth Arcane Elemental <Darkweaver Syth>"] = true,
+						["Searing Totem VI <Müstardtiger>"] = true,
+						["Roach"] = true,
+						["Lightnot"] = true,
+						["Avian Darkhawk"] = true,
+						["Sethekk Talon Lord"] = true,
+						["Talon King Ikiss"] = true,
+						["Time-Lost Controller"] = true,
+						["Sethekk Prophet"] = true,
+						["Mueltee"] = true,
+						["Sethekk Guard"] = true,
+						["Sethekk Initiate"] = true,
+						["Sethekk Shaman"] = true,
+						["Masturbado"] = true,
+						["Cobalt Serpent"] = true,
+						["Sethekk Oracle"] = true,
+						["Avian Warhawk"] = true,
+						["Time-Lost Shadowmage"] = true,
+						["Avian Ripper"] = true,
+						["Charming Totem <Time-Lost Controller>"] = true,
+						["Syth Shadow Elemental <Darkweaver Syth>"] = true,
+						["Time-Lost Scryer"] = true,
+						["Sethekk Spirit"] = true,
+						["Darkweaver Syth"] = true,
+						["Syth Fire Elemental <Darkweaver Syth>"] = true,
+						["Dark Vortex <Sethekk Shaman>"] = true,
+						["Syth Frost Elemental <Darkweaver Syth>"] = true,
+					},
+					["targets"] = {
+						["Sethekk Ravenguard"] = 23412,
+						["Syth Arcane Elemental <Darkweaver Syth>"] = 1685,
+						["Roach"] = 21,
+						["Avian Darkhawk"] = 12091,
+						["Sethekk Talon Lord"] = 6619,
+						["Time-Lost Controller"] = 24126,
+						["Sethekk Prophet"] = 16409,
+						["Syth Fire Elemental <Darkweaver Syth>"] = 1941,
+						["Talon King Ikiss"] = 15596,
+						["Sethekk Guard"] = 28620,
+						["Avian Ripper"] = 25166,
+						["Cobalt Serpent"] = 15823,
+						["Sethekk Oracle"] = 20296,
+						["Avian Warhawk"] = 7747,
+						["Time-Lost Shadowmage"] = 10477,
+						["Sethekk Shaman"] = 9938,
+						["Charming Totem <Time-Lost Controller>"] = 5670,
+						["Syth Shadow Elemental <Darkweaver Syth>"] = 1946,
+						["Time-Lost Scryer"] = 18208,
+						["Rat"] = 7,
+						["Darkweaver Syth"] = 9508,
+						["Sethekk Initiate"] = 18032,
+						["Dark Vortex <Sethekk Shaman>"] = 6375,
+						["Syth Frost Elemental <Darkweaver Syth>"] = 2895,
+					},
+					["friendlyfire_total"] = 835,
+					["raid_targets"] = {
+						[128] = 22470,
+					},
+					["fight_component"] = true,
+					["end_time"] = 1695094487,
+					["tipo"] = 1,
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 60,
+								["DODGE"] = 5,
 								["b_amt"] = 14,
 								["g_amt"] = 41,
-								["n_max"] = 661,
+								["b_dmg"] = 3153,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 5836,
 									["Avian Darkhawk"] = 3828,
 									["Sethekk Talon Lord"] = 2609,
-									["Syth Fire Elemental <Darkweaver Syth>"] = 651,
+									["Time-Lost Controller"] = 7388,
 									["Sethekk Prophet"] = 4265,
 									["Dark Vortex"] = 0,
 									["Talon King Ikiss"] = 3815,
-									["Avian Ripper"] = 5826,
+									["Charming Totem <Time-Lost Controller>"] = 3646,
 									["Masturbado"] = 0,
 									["Cobalt Serpent"] = 1718,
 									["Sethekk Oracle"] = 5658,
 									["Avian Warhawk"] = 1542,
+									["Syth Shadow Elemental <Darkweaver Syth>"] = 193,
+									["Time-Lost Scryer"] = 4920,
+									["Avian Ripper"] = 5826,
 									["Sethekk Initiate"] = 6458,
 									["Sethekk Shaman"] = 3474,
-									["Charming Totem <Time-Lost Controller>"] = 3646,
-									["Sethekk Guard"] = 9046,
-									["Time-Lost Scryer"] = 4920,
-									["Syth Shadow Elemental <Darkweaver Syth>"] = 193,
-									["Darkweaver Syth"] = 3986,
 									["Time-Lost Shadowmage"] = 2774,
+									["Darkweaver Syth"] = 3986,
+									["Sethekk Guard"] = 9046,
 									["Dark Vortex <Sethekk Shaman>"] = 1224,
-									["Time-Lost Controller"] = 7388,
+									["Syth Fire Elemental <Darkweaver Syth>"] = 651,
 								},
 								["n_total"] = 34724,
 								["IMMUNE"] = 3,
@@ -33125,10 +33245,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["MISS"] = 6,
 								["counter"] = 252,
-								["b_dmg"] = 3153,
+								["r_amt"] = 0,
 								["total"] = 78857,
 								["c_max"] = 787,
-								["DODGE"] = 5,
+								["c_amt"] = 60,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -33140,27 +33260,27 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 34776,
 								["n_amt"] = 124,
-								["r_amt"] = 0,
+								["n_max"] = 661,
 								["g_dmg"] = 9357,
 							}, -- [1]
 							[60089] = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 260,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 869,
 									["Cobalt Serpent"] = 1271,
 									["Avian Warhawk"] = 259,
-									["Sethekk Initiate"] = 260,
 									["Time-Lost Shadowmage"] = 219,
-									["Avian Darkhawk"] = 224,
+									["Sethekk Initiate"] = 260,
+									["Sethekk Guard"] = 820,
 									["Sethekk Shaman"] = 196,
 									["Darkweaver Syth"] = 232,
 									["Time-Lost Controller"] = 959,
 									["Sethekk Prophet"] = 474,
 									["Talon King Ikiss"] = 777,
-									["Sethekk Guard"] = 820,
+									["Avian Darkhawk"] = 224,
 								},
 								["n_total"] = 6232,
 								["n_min"] = 0,
@@ -33179,14 +33299,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 328,
 								["n_amt"] = 27,
-								["b_dmg"] = 0,
+								["n_max"] = 260,
 								["r_amt"] = 12,
 							},
 							[5209] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Syth Fire Elemental"] = 0,
 								},
@@ -33208,14 +33328,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[16857] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Dark Vortex"] = 0,
 									["Charming Totem"] = 0,
@@ -33238,26 +33358,51 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
-							[13738] = {
+							[26992] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 29,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Time-Lost Shadowmage"] = 141,
+									["Dark Vortex"] = 0,
+									["Syth Arcane Elemental <Darkweaver Syth>"] = 181,
+									["Roach"] = 7,
+									["Syth Frost Elemental"] = 0,
+									["Sethekk Talon Lord"] = 161,
+									["Time-Lost Controller"] = 976,
+									["Sethekk Prophet"] = 927,
+									["Syth Fire Elemental <Darkweaver Syth>"] = 52,
+									["Avian Darkhawk"] = 364,
+									["Syth Arcane Elemental"] = 0,
+									["Syth Shadow Elemental"] = 0,
+									["Cobalt Serpent"] = 212,
+									["Sethekk Oracle"] = 586,
+									["Avian Warhawk"] = 290,
+									["Sethekk Initiate"] = 507,
+									["Time-Lost Scryer"] = 317,
+									["Avian Ripper"] = 1612,
+									["Sethekk Guard"] = 601,
+									["Sethekk Shaman"] = 335,
+									["Time-Lost Shadowmage"] = 257,
+									["Darkweaver Syth"] = 156,
+									["Sethekk Ravenguard"] = 1375,
+									["Syth Shadow Elemental <Darkweaver Syth>"] = 176,
+									["Syth Frost Elemental <Darkweaver Syth>"] = 189,
 								},
-								["n_total"] = 141,
+								["n_total"] = 9281,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 5,
-								["total"] = 141,
+								["counter"] = 366,
+								["IMMUNE"] = 3,
+								["r_amt"] = 0,
 								["c_max"] = 0,
-								["id"] = 13738,
+								["spellschool"] = 8,
+								["id"] = 26992,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["RESIST"] = 12,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -33265,15 +33410,15 @@ _detalhes_database = {
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["c_total"] = 0,
-								["n_amt"] = 5,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_amt"] = 351,
+								["n_max"] = 28,
+								["total"] = 9281,
 							},
 							[19970] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 36,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Avian Darkhawk"] = 71,
 									["Time-Lost Shadowmage"] = 0,
@@ -33297,21 +33442,21 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 9,
-								["b_dmg"] = 0,
+								["n_max"] = 36,
 								["r_amt"] = 1,
 							},
 							[33745] = {
-								["c_amt"] = 16,
+								["DODGE"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 161,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 157,
-									["Time-Lost Shadowmage"] = 573,
+									["Avian Darkhawk"] = 31,
 									["Cobalt Serpent"] = 791,
 									["Sethekk Oracle"] = 228,
 									["Talon King Ikiss"] = 921,
-									["Avian Darkhawk"] = 31,
+									["Time-Lost Shadowmage"] = 573,
 									["Darkweaver Syth"] = 1207,
 									["Sethekk Shaman"] = 96,
 									["Sethekk Initiate"] = 217,
@@ -33324,14 +33469,14 @@ _detalhes_database = {
 								},
 								["n_total"] = 3254,
 								["IMMUNE"] = 7,
-								["a_amt"] = 0,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["a_amt"] = 0,
 								["counter"] = 82,
-								["c_max"] = 322,
+								["r_amt"] = 0,
 								["total"] = 5539,
 								["spellschool"] = 1,
-								["DODGE"] = 1,
+								["c_amt"] = 16,
 								["id"] = 33745,
 								["r_dmg"] = 0,
 								["extra"] = {
@@ -33343,14 +33488,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 2285,
 								["n_amt"] = 54,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["c_max"] = 322,
+								["n_max"] = 161,
 							},
 							[26998] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Prophet"] = 0,
 									["Time-Lost Shadowmage"] = 0,
@@ -33375,21 +33520,21 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[33986] = {
-								["c_amt"] = 14,
+								["DODGE"] = 5,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 694,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Time-Lost Shadowmage"] = 1155,
+									["Sethekk Initiate"] = 988,
 									["Sethekk Ravenguard"] = 3103,
 									["Talon King Ikiss"] = 2500,
 									["Cobalt Serpent"] = 2755,
 									["Sethekk Oracle"] = 1615,
-									["Sethekk Initiate"] = 988,
+									["Time-Lost Shadowmage"] = 1155,
 									["Darkweaver Syth"] = 678,
 									["Sethekk Talon Lord"] = 1043,
 									["Charming Totem <Time-Lost Controller>"] = 2024,
@@ -33407,10 +33552,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["MISS"] = 2,
 								["counter"] = 52,
-								["b_dmg"] = 0,
+								["r_amt"] = 0,
 								["total"] = 28355,
 								["c_max"] = 1320,
-								["DODGE"] = 5,
+								["c_amt"] = 14,
 								["id"] = 33986,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -33422,14 +33567,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 14673,
 								["n_amt"] = 29,
-								["r_amt"] = 0,
+								["n_max"] = 694,
 								["g_dmg"] = 0,
 							},
 							[45334] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Talon King Ikiss"] = 0,
 								},
@@ -33451,14 +33596,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[19675] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Talon King Ikiss"] = 0,
 								},
@@ -33480,51 +33625,26 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
-							[26992] = {
+							[13738] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 28,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Sethekk Ravenguard"] = 1375,
-									["Syth Arcane Elemental <Darkweaver Syth>"] = 181,
-									["Roach"] = 7,
-									["Syth Frost Elemental"] = 0,
-									["Sethekk Talon Lord"] = 161,
-									["Syth Fire Elemental <Darkweaver Syth>"] = 52,
-									["Sethekk Prophet"] = 927,
-									["Time-Lost Controller"] = 976,
-									["Avian Darkhawk"] = 364,
-									["Syth Arcane Elemental"] = 0,
-									["Avian Ripper"] = 1612,
-									["Cobalt Serpent"] = 212,
-									["Sethekk Oracle"] = 586,
-									["Avian Warhawk"] = 290,
-									["Time-Lost Shadowmage"] = 257,
-									["Sethekk Shaman"] = 335,
-									["Syth Shadow Elemental"] = 0,
-									["Syth Shadow Elemental <Darkweaver Syth>"] = 176,
-									["Time-Lost Scryer"] = 317,
-									["Sethekk Initiate"] = 507,
-									["Darkweaver Syth"] = 156,
-									["Dark Vortex"] = 0,
-									["Sethekk Guard"] = 601,
-									["Syth Frost Elemental <Darkweaver Syth>"] = 189,
+									["Time-Lost Shadowmage"] = 141,
 								},
-								["n_total"] = 9281,
+								["n_total"] = 141,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 366,
-								["IMMUNE"] = 3,
-								["total"] = 9281,
+								["counter"] = 5,
+								["total"] = 141,
 								["c_max"] = 0,
-								["spellschool"] = 8,
-								["id"] = 26992,
+								["id"] = 13738,
 								["r_dmg"] = 0,
-								["RESIST"] = 12,
+								["spellschool"] = 1,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -33532,24 +33652,24 @@ _detalhes_database = {
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["c_total"] = 0,
-								["n_amt"] = 351,
-								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["n_max"] = 29,
 								["r_amt"] = 0,
 							},
 							[9881] = {
-								["c_amt"] = 9,
+								["DODGE"] = 4,
 								["b_amt"] = 4,
 								["g_amt"] = 0,
-								["n_max"] = 953,
+								["b_dmg"] = 2583,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 9240,
 									["Cobalt Serpent"] = 7784,
 									["Sethekk Oracle"] = 939,
-									["Time-Lost Shadowmage"] = 1187,
+									["Avian Darkhawk"] = 774,
 									["Talon King Ikiss"] = 6267,
 									["Sethekk Talon Lord"] = 740,
 									["Avian Ripper"] = 494,
-									["Avian Darkhawk"] = 774,
+									["Time-Lost Shadowmage"] = 1187,
 									["Time-Lost Scryer"] = 610,
 									["Sethekk Initiate"] = 935,
 									["Darkweaver Syth"] = 2033,
@@ -33563,10 +33683,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["a_amt"] = 0,
 								["counter"] = 54,
-								["b_dmg"] = 2583,
+								["r_amt"] = 0,
 								["total"] = 36054,
 								["c_max"] = 2033,
-								["DODGE"] = 4,
+								["c_amt"] = 9,
 								["id"] = 9881,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -33578,14 +33698,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 12700,
 								["n_amt"] = 35,
-								["r_amt"] = 0,
+								["n_max"] = 953,
 								["g_dmg"] = 0,
 							},
 							[6795] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Talon Lord"] = 0,
 									["Charming Totem"] = 0,
@@ -33595,12 +33715,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 2,
 								["MISS"] = 1,
-								["total"] = 0,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["IMMUNE"] = 1,
 								["id"] = 6795,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -33609,42 +33729,42 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 0,
+								["total"] = 0,
 							},
 							[26997] = {
-								["c_amt"] = 153,
+								["DODGE"] = 21,
 								["b_amt"] = 29,
 								["g_amt"] = 0,
-								["n_max"] = 196,
+								["b_dmg"] = 3597,
 								["targets"] = {
-									["Sethekk Ravenguard"] = 2832,
+									["Dark Vortex"] = 0,
 									["Syth Arcane Elemental <Darkweaver Syth>"] = 1504,
 									["Syth Fire Elemental"] = 0,
-									["Time-Lost Controller"] = 11095,
+									["Syth Frost Elemental"] = 0,
 									["Roach"] = 14,
 									["Talon King Ikiss"] = 1316,
 									["Avian Darkhawk"] = 6286,
 									["Sethekk Talon Lord"] = 2066,
-									["Syth Frost Elemental"] = 0,
 									["Syth Fire Elemental <Darkweaver Syth>"] = 1238,
+									["Time-Lost Controller"] = 11095,
 									["Sethekk Prophet"] = 9673,
-									["Dark Vortex"] = 0,
-									["Syth Shadow Elemental <Darkweaver Syth>"] = 1577,
+									["Sethekk Ravenguard"] = 2832,
+									["Sethekk Guard"] = 9716,
 									["Sethekk Shaman"] = 4927,
 									["Syth Arcane Elemental"] = 0,
 									["Masturbado"] = 0,
 									["Cobalt Serpent"] = 1292,
 									["Sethekk Oracle"] = 11270,
 									["Avian Warhawk"] = 5656,
-									["Sethekk Guard"] = 9716,
+									["Time-Lost Shadowmage"] = 4171,
 									["Avian Ripper"] = 17234,
 									["Syth Shadow Elemental"] = 0,
-									["Sethekk Initiate"] = 8667,
+									["Syth Shadow Elemental <Darkweaver Syth>"] = 1577,
 									["Time-Lost Scryer"] = 10356,
 									["Rat"] = 7,
 									["Darkweaver Syth"] = 1216,
-									["Time-Lost Shadowmage"] = 4171,
+									["Sethekk Initiate"] = 8667,
 									["Dark Vortex <Sethekk Shaman>"] = 2690,
 									["Syth Frost Elemental <Darkweaver Syth>"] = 2706,
 								},
@@ -33654,10 +33774,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["a_amt"] = 0,
 								["counter"] = 679,
-								["b_dmg"] = 3597,
+								["r_amt"] = 0,
 								["total"] = 117509,
 								["c_max"] = 380,
-								["DODGE"] = 21,
+								["c_amt"] = 153,
 								["id"] = 26997,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -33669,14 +33789,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 46538,
 								["n_amt"] = 463,
-								["r_amt"] = 0,
+								["n_max"] = 196,
 								["g_dmg"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["classe"] = "DRUID",
+					["aID"] = "4408-04B19510",
 					["nome"] = "Shifthole",
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -33692,7 +33812,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 44556.02647,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 44556.02647,
 					["friendlyfire"] = {
 					},
@@ -33707,10 +33827,10 @@ _detalhes_database = {
 						["Müstardtiger"] = true,
 					},
 					["targets"] = {
-						["Lightnot"] = 4872,
 						["Mueltee"] = 11269,
-						["Shifthole"] = 23561,
+						["Lightnot"] = 4872,
 						["Masturbado"] = 4854,
+						["Shifthole"] = 23561,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -33726,12 +33846,12 @@ _detalhes_database = {
 								["c_amt"] = 2,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1511,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Masturbado"] = 1584,
-									["Lightnot"] = 3591,
 									["Shifthole"] = 18246,
 									["Mueltee"] = 5665,
+									["Masturbado"] = 1584,
+									["Lightnot"] = 3591,
 								},
 								["n_total"] = 26157,
 								["a_amt"] = 15,
@@ -33739,9 +33859,9 @@ _detalhes_database = {
 								["MISS"] = 3,
 								["counter"] = 71,
 								["DODGE"] = 20,
-								["total"] = 29086,
+								["r_amt"] = 0,
 								["c_max"] = 1479,
-								["b_dmg"] = 0,
+								["n_max"] = 1511,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -33753,14 +33873,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 2929,
 								["n_amt"] = 45,
-								["r_amt"] = 0,
+								["total"] = 29086,
 								["g_dmg"] = 0,
 							}, -- [1]
 							[33967] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 626,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 5604,
 									["Masturbado"] = 3270,
@@ -33786,13 +33906,13 @@ _detalhes_database = {
 								["successful_casted"] = 9,
 								["c_total"] = 0,
 								["n_amt"] = 30,
-								["b_dmg"] = 0,
+								["n_max"] = 626,
 								["r_amt"] = 27,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -33806,66 +33926,12 @@ _detalhes_database = {
 					["totalabsorbed"] = 1779.130041,
 					["pets"] = {
 					},
-					["aID"] = "4408-051A4069",
+					["classe"] = "DEATHKNIGHT",
 					["total_without_pet"] = 271645.130041,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 271645.130041,
 					["spec"] = 251,
-					["on_hold"] = false,
-					["total_extra"] = 0,
-					["serial"] = "Player-4408-051A4069",
-					["damage_from"] = {
-						["Mueltee"] = true,
-						["Shifthole"] = true,
-						["Avian Darkhawk"] = true,
-						["Sethekk Talon Lord"] = true,
-						["Müstardtiger"] = true,
-						["Cobalt Serpent"] = true,
-						["Sethekk Oracle"] = true,
-						["Avian Warhawk"] = true,
-						["Time-Lost Shadowmage"] = true,
-						["Sethekk Initiate"] = true,
-						["Avian Ripper"] = true,
-						["Sethekk Guard"] = true,
-						["Sethekk Shaman"] = true,
-						["Sethekk Spirit"] = true,
-						["Darkweaver Syth"] = true,
-						["Sethekk Prophet"] = true,
-						["Talon King Ikiss"] = true,
-						["Time-Lost Scryer"] = true,
-					},
-					["targets"] = {
-						["Sethekk Ravenguard"] = 14935,
-						["Syth Arcane Elemental <Darkweaver Syth>"] = 253,
-						["Roach"] = 14,
-						["Avian Darkhawk"] = 8224,
-						["Sethekk Talon Lord"] = 4218,
-						["Time-Lost Controller"] = 23829,
-						["Sethekk Prophet"] = 20960,
-						["Time-Lost Shadowmage"] = 14072,
-						["Talon King Ikiss"] = 14978,
-						["Cobalt Serpent"] = 21407,
-						["Sethekk Oracle"] = 20108,
-						["Avian Warhawk"] = 18222,
-						["Sethekk Shaman"] = 3193,
-						["Adder"] = 0,
-						["Charming Totem <Time-Lost Controller>"] = 2213,
-						["Sethekk Initiate"] = 26671,
-						["Time-Lost Scryer"] = 20196,
-						["Sethekk Guard"] = 19664,
-						["Darkweaver Syth"] = 10721,
-						["Avian Ripper"] = 25552,
-						["Dark Vortex <Sethekk Shaman>"] = 1841,
-						["Syth Fire Elemental <Darkweaver Syth>"] = 374,
-					},
-					["friendlyfire_total"] = 2549,
-					["raid_targets"] = {
-						[128] = 21200,
-					},
-					["fight_component"] = true,
-					["end_time"] = 1695094487,
-					["tipo"] = 1,
 					["friendlyfire"] = {
 						["Mueltee"] = {
 							["spells"] = {
@@ -33902,14 +33968,68 @@ _detalhes_database = {
 							["total"] = 824,
 						},
 					},
+					["total_extra"] = 0,
+					["serial"] = "Player-4408-051A4069",
+					["damage_from"] = {
+						["Mueltee"] = true,
+						["Shifthole"] = true,
+						["Avian Darkhawk"] = true,
+						["Sethekk Talon Lord"] = true,
+						["Müstardtiger"] = true,
+						["Cobalt Serpent"] = true,
+						["Sethekk Oracle"] = true,
+						["Avian Warhawk"] = true,
+						["Sethekk Initiate"] = true,
+						["Time-Lost Shadowmage"] = true,
+						["Avian Ripper"] = true,
+						["Sethekk Guard"] = true,
+						["Time-Lost Scryer"] = true,
+						["Sethekk Spirit"] = true,
+						["Darkweaver Syth"] = true,
+						["Sethekk Prophet"] = true,
+						["Talon King Ikiss"] = true,
+						["Sethekk Shaman"] = true,
+					},
+					["targets"] = {
+						["Sethekk Ravenguard"] = 14935,
+						["Syth Arcane Elemental <Darkweaver Syth>"] = 253,
+						["Roach"] = 14,
+						["Avian Darkhawk"] = 8224,
+						["Sethekk Talon Lord"] = 4218,
+						["Syth Fire Elemental <Darkweaver Syth>"] = 374,
+						["Sethekk Prophet"] = 20960,
+						["Sethekk Initiate"] = 26671,
+						["Talon King Ikiss"] = 14978,
+						["Cobalt Serpent"] = 21407,
+						["Sethekk Oracle"] = 20108,
+						["Avian Warhawk"] = 18222,
+						["Time-Lost Scryer"] = 20196,
+						["Adder"] = 0,
+						["Avian Ripper"] = 25552,
+						["Time-Lost Shadowmage"] = 14072,
+						["Sethekk Shaman"] = 3193,
+						["Sethekk Guard"] = 19664,
+						["Darkweaver Syth"] = 10721,
+						["Charming Totem <Time-Lost Controller>"] = 2213,
+						["Dark Vortex <Sethekk Shaman>"] = 1841,
+						["Time-Lost Controller"] = 23829,
+					},
+					["friendlyfire_total"] = 2549,
+					["raid_targets"] = {
+						[128] = 21200,
+					},
+					["fight_component"] = true,
+					["end_time"] = 1695094487,
+					["tipo"] = 1,
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 22,
+								["DODGE"] = 11,
 								["b_amt"] = 7,
 								["g_amt"] = 106,
-								["n_max"] = 868,
+								["b_dmg"] = 2414,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 3295,
 									["Avian Darkhawk"] = 1803,
@@ -33936,10 +34056,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["a_amt"] = 0,
 								["counter"] = 209,
-								["b_dmg"] = 2414,
+								["r_amt"] = 0,
 								["total"] = 49458,
 								["c_max"] = 978,
-								["DODGE"] = 11,
+								["c_amt"] = 22,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -33951,48 +34071,48 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 16876,
 								["n_amt"] = 32,
-								["r_amt"] = 0,
+								["n_max"] = 868,
 								["g_dmg"] = 20448,
 							}, -- [1]
 							[49184] = {
 								["c_amt"] = 9,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1000,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Syth Arcane Elemental <Darkweaver Syth>"] = 253,
 									["Roach"] = 7,
 									["Syth Frost Elemental"] = 0,
 									["Sethekk Talon Lord"] = 1280,
-									["Syth Fire Elemental <Darkweaver Syth>"] = 374,
+									["Time-Lost Controller"] = 2562,
 									["Sethekk Prophet"] = 2678,
 									["Syth Arcane Elemental"] = 0,
 									["Avian Darkhawk"] = 0,
 									["Cobalt Serpent"] = 670,
 									["Sethekk Oracle"] = 2622,
 									["Avian Warhawk"] = 3943,
-									["Time-Lost Shadowmage"] = 3166,
-									["Sethekk Shaman"] = 679,
+									["Sethekk Guard"] = 1110,
+									["Time-Lost Scryer"] = 7255,
 									["Syth Shadow Elemental"] = 0,
 									["Sethekk Initiate"] = 4959,
-									["Time-Lost Scryer"] = 7255,
+									["Sethekk Shaman"] = 679,
 									["Avian Ripper"] = 9807,
 									["Darkweaver Syth"] = 473,
-									["Sethekk Guard"] = 1110,
+									["Time-Lost Shadowmage"] = 3166,
 									["Dark Vortex <Sethekk Shaman>"] = 847,
-									["Time-Lost Controller"] = 2562,
+									["Syth Fire Elemental <Darkweaver Syth>"] = 374,
 								},
 								["n_total"] = 32825,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 93,
 								["IMMUNE"] = 2,
-								["total"] = 42685,
-								["c_max"] = 1379,
+								["r_amt"] = 41,
+								["spellschool"] = 16,
 								["MISS"] = 22,
 								["id"] = 49184,
 								["r_dmg"] = 22210,
-								["spellschool"] = 16,
+								["c_max"] = 1379,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -34001,21 +34121,21 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 9860,
 								["n_amt"] = 60,
-								["b_dmg"] = 0,
-								["r_amt"] = 41,
+								["n_max"] = 1000,
+								["total"] = 42685,
 							},
 							[55095] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 214,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 1614,
-									["Sethekk Guard"] = 1698,
+									["Time-Lost Shadowmage"] = 930,
 									["Cobalt Serpent"] = 1012,
 									["Time-Lost Controller"] = 2096,
 									["Avian Warhawk"] = 901,
-									["Time-Lost Shadowmage"] = 930,
+									["Sethekk Guard"] = 1698,
 									["Darkweaver Syth"] = 623,
 									["Sethekk Shaman"] = 167,
 									["Sethekk Initiate"] = 1051,
@@ -34044,14 +34164,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 106,
-								["b_dmg"] = 0,
+								["n_max"] = 214,
 								["r_amt"] = 61,
 							},
 							[55268] = {
 								["c_amt"] = 26,
 								["b_amt"] = 1,
 								["g_amt"] = 0,
-								["n_max"] = 756,
+								["b_dmg"] = 190,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 2483,
 									["Avian Darkhawk"] = 3112,
@@ -34061,27 +34181,27 @@ _detalhes_database = {
 									["Cobalt Serpent"] = 1471,
 									["Sethekk Oracle"] = 2579,
 									["Avian Warhawk"] = 1593,
-									["Charming Totem <Time-Lost Controller>"] = 982,
-									["Time-Lost Shadowmage"] = 493,
 									["Avian Ripper"] = 679,
-									["Sethekk Initiate"] = 5546,
+									["Time-Lost Shadowmage"] = 493,
+									["Charming Totem <Time-Lost Controller>"] = 982,
+									["Sethekk Guard"] = 784,
 									["Time-Lost Scryer"] = 1102,
 									["Dark Vortex"] = 0,
 									["Darkweaver Syth"] = 1591,
 									["Sethekk Shaman"] = 289,
 									["Talon King Ikiss"] = 2135,
-									["Sethekk Guard"] = 784,
+									["Sethekk Initiate"] = 5546,
 								},
 								["n_total"] = 9850,
 								["IMMUNE"] = 2,
 								["DODGE"] = 5,
 								["n_min"] = 0,
-								["MISS"] = 6,
+								["g_dmg"] = 0,
 								["counter"] = 77,
 								["r_amt"] = 40,
 								["total"] = 29656,
 								["c_max"] = 1437,
-								["b_dmg"] = 190,
+								["n_max"] = 756,
 								["id"] = 55268,
 								["r_dmg"] = 19039,
 								["spellschool"] = 16,
@@ -34094,13 +34214,13 @@ _detalhes_database = {
 								["c_total"] = 19806,
 								["n_amt"] = 28,
 								["a_amt"] = 0,
-								["g_dmg"] = 0,
+								["MISS"] = 6,
 							},
 							[49921] = {
-								["c_amt"] = 7,
+								["DODGE"] = 2,
 								["b_amt"] = 4,
 								["g_amt"] = 0,
-								["n_max"] = 359,
+								["b_dmg"] = 799,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 468,
 									["Cobalt Serpent"] = 1211,
@@ -34122,10 +34242,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["MISS"] = 8,
 								["counter"] = 49,
-								["b_dmg"] = 799,
+								["r_amt"] = 0,
 								["total"] = 10446,
 								["c_max"] = 574,
-								["DODGE"] = 2,
+								["c_amt"] = 7,
 								["id"] = 49921,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -34137,39 +34257,39 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 3553,
 								["n_amt"] = 27,
-								["r_amt"] = 0,
+								["n_max"] = 359,
 								["g_dmg"] = 0,
 							},
 							[51714] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 0,
 									["Cobalt Serpent"] = 0,
 									["Sethekk Oracle"] = 0,
 									["Charming Totem"] = 0,
 									["Dark Vortex"] = 0,
-									["Sethekk Guard"] = 0,
+									["Sethekk Initiate"] = 0,
 									["Sethekk Shaman"] = 0,
 									["Darkweaver Syth"] = 0,
 									["Time-Lost Controller"] = 0,
 									["Sethekk Prophet"] = 0,
 									["Talon King Ikiss"] = 0,
-									["Sethekk Initiate"] = 0,
+									["Sethekk Guard"] = 0,
 								},
 								["n_total"] = 0,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 61,
 								["IMMUNE"] = 4,
-								["total"] = 0,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 16,
 								["MISS"] = 57,
 								["id"] = 51714,
 								["r_dmg"] = 0,
-								["spellschool"] = 16,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -34178,14 +34298,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 0,
+								["total"] = 0,
 							},
 							[51209] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Time-Lost Scryer"] = 0,
 									["Sethekk Prophet"] = 0,
@@ -34208,41 +34328,41 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[49930] = {
 								["c_amt"] = 5,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 485,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 2403,
-									["Sethekk Initiate"] = 1325,
+									["Dark Vortex"] = 0,
 									["Cobalt Serpent"] = 1438,
 									["Sethekk Oracle"] = 296,
 									["Avian Warhawk"] = 613,
-									["Dark Vortex"] = 0,
 									["Time-Lost Shadowmage"] = 287,
-									["Darkweaver Syth"] = 1352,
 									["Sethekk Guard"] = 2875,
+									["Darkweaver Syth"] = 1352,
+									["Avian Darkhawk"] = 605,
 									["Sethekk Talon Lord"] = 262,
 									["Time-Lost Scryer"] = 312,
 									["Time-Lost Controller"] = 744,
 									["Sethekk Prophet"] = 2157,
 									["Talon King Ikiss"] = 1808,
-									["Avian Darkhawk"] = 605,
+									["Sethekk Initiate"] = 1325,
 								},
 								["n_total"] = 12925,
 								["IMMUNE"] = 1,
 								["DODGE"] = 1,
 								["n_min"] = 0,
-								["MISS"] = 4,
+								["g_dmg"] = 0,
 								["counter"] = 56,
 								["r_amt"] = 0,
 								["total"] = 16477,
 								["c_max"] = 771,
-								["b_dmg"] = 0,
+								["n_max"] = 485,
 								["id"] = 49930,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -34255,13 +34375,13 @@ _detalhes_database = {
 								["c_total"] = 3552,
 								["n_amt"] = 39,
 								["a_amt"] = 0,
-								["g_dmg"] = 0,
+								["MISS"] = 4,
 							},
 							[26992] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 32,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Avian Ripper"] = 379,
 									["Sethekk Initiate"] = 60,
@@ -34275,7 +34395,7 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 36,
 								["IMMUNE"] = 5,
-								["total"] = 888,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["spellschool"] = 8,
 								["id"] = 26992,
@@ -34289,14 +34409,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 30,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 32,
+								["total"] = 888,
 							},
 							[50436] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Darkweaver Syth"] = 0,
 									["Time-Lost Shadowmage"] = 0,
@@ -34321,14 +34441,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[48721] = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 341,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 341,
 									["Sethekk Prophet"] = 228,
@@ -34352,22 +34472,22 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 469,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 341,
 								["r_amt"] = 2,
 							},
 							[52212] = {
 								["c_amt"] = 15,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 136,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Sethekk Talon Lord"] = 1339,
+									["Sethekk Shaman"] = 1286,
 									["Dark Vortex"] = 0,
 									["Time-Lost Shadowmage"] = 3862,
 									["Cobalt Serpent"] = 562,
 									["Sethekk Oracle"] = 6073,
 									["Avian Warhawk"] = 5017,
-									["Sethekk Shaman"] = 1286,
+									["Sethekk Talon Lord"] = 1339,
 									["Roach"] = 7,
 									["Avian Ripper"] = 13197,
 									["Avian Darkhawk"] = 1110,
@@ -34396,14 +34516,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 3141,
 								["n_amt"] = 451,
-								["b_dmg"] = 0,
+								["n_max"] = 136,
 								["r_amt"] = 209,
 							},
 							[51425] = {
 								["c_amt"] = 4,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 749,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 1642,
 									["Cobalt Serpent"] = 2979,
@@ -34422,12 +34542,12 @@ _detalhes_database = {
 								["n_total"] = 11962,
 								["IMMUNE"] = 1,
 								["n_min"] = 0,
-								["MISS"] = 1,
+								["g_dmg"] = 0,
 								["counter"] = 33,
 								["a_amt"] = 0,
-								["total"] = 16539,
+								["r_amt"] = 0,
 								["c_max"] = 1639,
-								["b_dmg"] = 0,
+								["n_max"] = 749,
 								["id"] = 51425,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -34439,14 +34559,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 4577,
 								["n_amt"] = 22,
-								["r_amt"] = 0,
-								["g_dmg"] = 0,
+								["total"] = 16539,
+								["MISS"] = 1,
 							},
 							[55078] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 181,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 451,
 									["Cobalt Serpent"] = 1502,
@@ -34477,17 +34597,17 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 47,
-								["b_dmg"] = 0,
+								["n_max"] = 181,
 								["r_amt"] = 30,
 							},
 							[49896] = {
 								["c_amt"] = 21,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 608,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Sethekk Ravenguard"] = 2107,
 									["Mueltee"] = 0,
+									["Sethekk Ravenguard"] = 2107,
 									["Talon King Ikiss"] = 1003,
 									["Cobalt Serpent"] = 3798,
 									["Sethekk Oracle"] = 1492,
@@ -34495,24 +34615,24 @@ _detalhes_database = {
 									["Sethekk Talon Lord"] = 917,
 									["Time-Lost Controller"] = 2978,
 									["Charming Totem <Time-Lost Controller>"] = 402,
-									["Time-Lost Shadowmage"] = 3006,
+									["Sethekk Initiate"] = 2600,
 									["Time-Lost Scryer"] = 835,
 									["Sethekk Guard"] = 5207,
 									["Darkweaver Syth"] = 1265,
 									["Sethekk Prophet"] = 2308,
 									["Dark Vortex <Sethekk Shaman>"] = 628,
-									["Sethekk Initiate"] = 2600,
+									["Time-Lost Shadowmage"] = 3006,
 								},
 								["n_total"] = 12302,
 								["IMMUNE"] = 1,
 								["REFLECT"] = 1,
 								["n_min"] = 0,
-								["MISS"] = 7,
+								["g_dmg"] = 0,
 								["counter"] = 61,
 								["RESIST"] = 1,
 								["total"] = 30976,
 								["c_max"] = 1353,
-								["b_dmg"] = 0,
+								["r_amt"] = 28,
 								["id"] = 49896,
 								["r_dmg"] = 13761,
 								["spellschool"] = 16,
@@ -34524,14 +34644,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 18674,
 								["n_amt"] = 30,
-								["r_amt"] = 28,
-								["g_dmg"] = 0,
+								["n_max"] = 608,
+								["MISS"] = 7,
 							},
 							[50401] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 7,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 131,
 									["Avian Darkhawk"] = 92,
@@ -34569,14 +34689,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 303,
-								["b_dmg"] = 0,
+								["n_max"] = 7,
 								["r_amt"] = 147,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["classe"] = "DEATHKNIGHT",
+					["aID"] = "4408-051A4069",
 					["nome"] = "Mueltee",
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -34590,96 +34710,12 @@ _detalhes_database = {
 					["totalabsorbed"] = 1121.289113,
 					["pets"] = {
 					},
-					["aID"] = "4408-0474E7DA",
+					["classe"] = "WARRIOR",
 					["total_without_pet"] = 850673.2891130002,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 850673.2891130002,
 					["spec"] = 71,
-					["on_hold"] = false,
-					["total_extra"] = 0,
-					["serial"] = "Player-4408-0474E7DA",
-					["damage_from"] = {
-						["Sethekk Ravenguard"] = true,
-						["Syth Arcane Elemental <Darkweaver Syth>"] = true,
-						["Searing Totem VI <Müstardtiger>"] = true,
-						["Spellreaver Marathelle"] = true,
-						["Sethekk Talon Lord"] = true,
-						["Sethekk Prophet"] = true,
-						["Masturbado"] = true,
-						["Sethekk Oracle"] = true,
-						["Sethekk Initiate"] = true,
-						["Time-Lost Scryer"] = true,
-						["Dancing Sword <Conjurer Luminrath>"] = true,
-						["Darkweaver Syth"] = true,
-						["Mueltee"] = true,
-						["Severed Defender"] = true,
-						["Shifthole"] = true,
-						["Avian Darkhawk"] = true,
-						["Abjurist Belmara"] = true,
-						["Sunfury Archer"] = true,
-						["Syth Fire Elemental <Darkweaver Syth>"] = true,
-						["Müstardtiger"] = true,
-						["Severed Spirit"] = true,
-						["Sunfury Flamekeeper"] = true,
-						["Nether Beast"] = true,
-						["Cobalt Serpent"] = true,
-						["Talon King Ikiss"] = true,
-						["Avian Warhawk"] = true,
-						["Time-Lost Controller"] = true,
-						["Conjurer Luminrath"] = true,
-						["Avian Ripper"] = true,
-						["Sethekk Guard"] = true,
-						["Sethekk Shaman"] = true,
-						["Sethekk Spirit"] = true,
-						["Cohlien Frostweaver"] = true,
-						["Kirin'Var Apprentice"] = true,
-						["Dark Vortex <Sethekk Shaman>"] = true,
-						["Time-Lost Shadowmage"] = true,
-					},
-					["targets"] = {
-						["Cohlien Frostweaver"] = 6834,
-						["Sethekk Ravenguard"] = 34208,
-						["Syth Arcane Elemental <Darkweaver Syth>"] = 1323,
-						["Talon King Ikiss"] = 19045,
-						["Spellreaver Marathelle"] = 5268,
-						["Time-Lost Controller"] = 36644,
-						["Kirin'Var Apprentice"] = 6936,
-						["Conjurer Luminrath"] = 6871,
-						["Sethekk Shaman"] = 19926,
-						["Avian Darkhawk"] = 38977,
-						["Sethekk Talon Lord"] = 14128,
-						["Sunfury Archer"] = 68773,
-						["Syth Fire Elemental <Darkweaver Syth>"] = 3698,
-						["Sethekk Prophet"] = 60068,
-						["Severed Spirit"] = 64463,
-						["Time-Lost Shadowmage"] = 25851,
-						["Avian Ripper"] = 34319,
-						["Sunfury Flamekeeper"] = 14658,
-						["Severed Defender"] = 62357,
-						["Cobalt Serpent"] = 37100,
-						["Sethekk Oracle"] = 53159,
-						["Avian Warhawk"] = 34252,
-						["Abjurist Belmara"] = 7250,
-						["Sethekk Initiate"] = 51994,
-						["Charming Totem <Time-Lost Controller>"] = 2239,
-						["Syth Shadow Elemental <Darkweaver Syth>"] = 2668,
-						["Time-Lost Scryer"] = 33228,
-						["Sethekk Guard"] = 54982,
-						["Darkweaver Syth"] = 30937,
-						["Nether Beast"] = 5181,
-						["Dark Vortex <Sethekk Shaman>"] = 12556,
-						["Syth Frost Elemental <Darkweaver Syth>"] = 780,
-					},
-					["friendlyfire_total"] = 3653,
-					["raid_targets"] = {
-						[64] = 59613,
-						[128] = 118448,
-						[16] = 19389,
-					},
-					["fight_component"] = true,
-					["end_time"] = 1695094487,
-					["tipo"] = 1,
 					["friendlyfire"] = {
 						["Müstardtiger"] = {
 							["spells"] = {
@@ -34703,16 +34739,100 @@ _detalhes_database = {
 							["total"] = 893,
 						},
 					},
+					["total_extra"] = 0,
+					["serial"] = "Player-4408-0474E7DA",
+					["damage_from"] = {
+						["Sethekk Ravenguard"] = true,
+						["Syth Arcane Elemental <Darkweaver Syth>"] = true,
+						["Searing Totem VI <Müstardtiger>"] = true,
+						["Spellreaver Marathelle"] = true,
+						["Sethekk Talon Lord"] = true,
+						["Conjurer Luminrath"] = true,
+						["Masturbado"] = true,
+						["Sethekk Oracle"] = true,
+						["Sethekk Initiate"] = true,
+						["Time-Lost Scryer"] = true,
+						["Dancing Sword <Conjurer Luminrath>"] = true,
+						["Darkweaver Syth"] = true,
+						["Mueltee"] = true,
+						["Severed Defender"] = true,
+						["Shifthole"] = true,
+						["Avian Darkhawk"] = true,
+						["Abjurist Belmara"] = true,
+						["Sunfury Archer"] = true,
+						["Syth Fire Elemental <Darkweaver Syth>"] = true,
+						["Müstardtiger"] = true,
+						["Severed Spirit"] = true,
+						["Sunfury Flamekeeper"] = true,
+						["Nether Beast"] = true,
+						["Cobalt Serpent"] = true,
+						["Talon King Ikiss"] = true,
+						["Avian Warhawk"] = true,
+						["Time-Lost Controller"] = true,
+						["Sethekk Prophet"] = true,
+						["Avian Ripper"] = true,
+						["Sethekk Guard"] = true,
+						["Sethekk Shaman"] = true,
+						["Sethekk Spirit"] = true,
+						["Cohlien Frostweaver"] = true,
+						["Kirin'Var Apprentice"] = true,
+						["Dark Vortex <Sethekk Shaman>"] = true,
+						["Time-Lost Shadowmage"] = true,
+					},
+					["targets"] = {
+						["Kirin'Var Apprentice"] = 6936,
+						["Sethekk Ravenguard"] = 34208,
+						["Syth Arcane Elemental <Darkweaver Syth>"] = 1323,
+						["Talon King Ikiss"] = 19045,
+						["Spellreaver Marathelle"] = 5268,
+						["Syth Fire Elemental <Darkweaver Syth>"] = 3698,
+						["Cohlien Frostweaver"] = 6834,
+						["Conjurer Luminrath"] = 6871,
+						["Sethekk Shaman"] = 19926,
+						["Avian Darkhawk"] = 38977,
+						["Sethekk Talon Lord"] = 14128,
+						["Sunfury Archer"] = 68773,
+						["Time-Lost Controller"] = 36644,
+						["Sethekk Prophet"] = 60068,
+						["Severed Spirit"] = 64463,
+						["Time-Lost Shadowmage"] = 25851,
+						["Avian Ripper"] = 34319,
+						["Sunfury Flamekeeper"] = 14658,
+						["Severed Defender"] = 62357,
+						["Cobalt Serpent"] = 37100,
+						["Sethekk Oracle"] = 53159,
+						["Avian Warhawk"] = 34252,
+						["Abjurist Belmara"] = 7250,
+						["Sethekk Initiate"] = 51994,
+						["Charming Totem <Time-Lost Controller>"] = 2239,
+						["Sethekk Guard"] = 54982,
+						["Time-Lost Scryer"] = 33228,
+						["Syth Shadow Elemental <Darkweaver Syth>"] = 2668,
+						["Darkweaver Syth"] = 30937,
+						["Nether Beast"] = 5181,
+						["Dark Vortex <Sethekk Shaman>"] = 12556,
+						["Syth Frost Elemental <Darkweaver Syth>"] = 780,
+					},
+					["friendlyfire_total"] = 3653,
+					["raid_targets"] = {
+						[64] = 59613,
+						[128] = 118448,
+						[16] = 19389,
+					},
+					["fight_component"] = true,
+					["end_time"] = 1695094487,
+					["tipo"] = 1,
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 202,
+								["DODGE"] = 29,
 								["b_amt"] = 37,
 								["g_amt"] = 48,
-								["n_max"] = 480,
+								["b_dmg"] = 7949,
 								["targets"] = {
-									["Sethekk Ravenguard"] = 10320,
+									["Mueltee"] = 0,
 									["Severed Defender"] = 16150,
 									["Spellreaver Marathelle"] = 983,
 									["Sethekk Prophet"] = 16604,
@@ -34735,11 +34855,11 @@ _detalhes_database = {
 									["Charming Totem <Time-Lost Controller>"] = 725,
 									["Kirin'Var Apprentice"] = 1712,
 									["Avian Ripper"] = 10478,
-									["Sethekk Guard"] = 12706,
-									["Time-Lost Scryer"] = 7906,
 									["Sethekk Initiate"] = 13392,
+									["Time-Lost Scryer"] = 7906,
+									["Sethekk Guard"] = 12706,
 									["Darkweaver Syth"] = 11836,
-									["Mueltee"] = 0,
+									["Sethekk Ravenguard"] = 10320,
 									["Dark Vortex <Sethekk Shaman>"] = 1823,
 									["Dark Vortex"] = 0,
 								},
@@ -34749,10 +34869,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["MISS"] = 137,
 								["counter"] = 804,
-								["b_dmg"] = 7949,
+								["r_amt"] = 0,
 								["total"] = 232559,
 								["c_max"] = 983,
-								["DODGE"] = 29,
+								["c_amt"] = 202,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -34764,14 +34884,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 118826,
 								["n_amt"] = 365,
-								["r_amt"] = 0,
+								["n_max"] = 480,
 								["g_dmg"] = 12577,
 							}, -- [1]
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Time-Lost Controller"] = 0,
 								},
@@ -34793,14 +34913,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							}, -- [2]
 							[25286] = {
-								["c_amt"] = 30,
+								["DODGE"] = 2,
 								["b_amt"] = 6,
 								["g_amt"] = 0,
-								["n_max"] = 603,
+								["b_dmg"] = 2736,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 1572,
 									["Severed Defender"] = 8685,
@@ -34813,30 +34933,30 @@ _detalhes_database = {
 									["Severed Spirit"] = 15262,
 									["Conjurer Luminrath"] = 1590,
 									["Talon King Ikiss"] = 3291,
-									["Kirin'Var Apprentice"] = 1007,
+									["Cohlien Frostweaver"] = 1006,
 									["Cobalt Serpent"] = 6907,
 									["Sethekk Oracle"] = 3212,
 									["Avian Warhawk"] = 2924,
-									["Cohlien Frostweaver"] = 1006,
-									["Sethekk Shaman"] = 1429,
-									["Avian Ripper"] = 1134,
-									["Time-Lost Shadowmage"] = 536,
+									["Kirin'Var Apprentice"] = 1007,
 									["Time-Lost Scryer"] = 1092,
+									["Charming Totem <Time-Lost Controller>"] = 541,
+									["Time-Lost Shadowmage"] = 536,
+									["Sethekk Shaman"] = 1429,
 									["Sethekk Guard"] = 1543,
 									["Darkweaver Syth"] = 1165,
-									["Charming Totem <Time-Lost Controller>"] = 541,
+									["Avian Ripper"] = 1134,
 									["Dark Vortex <Sethekk Shaman>"] = 1329,
 									["Sethekk Initiate"] = 1798,
 								},
 								["n_total"] = 47293,
-								["a_amt"] = 2,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["a_amt"] = 2,
 								["counter"] = 130,
 								["IMMUNE"] = 3,
-								["r_amt"] = 0,
+								["total"] = 80228,
 								["c_max"] = 1302,
-								["DODGE"] = 2,
+								["c_amt"] = 30,
 								["id"] = 25286,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -34848,14 +34968,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 32935,
 								["n_amt"] = 93,
-								["b_dmg"] = 2736,
-								["total"] = 80228,
+								["r_amt"] = 0,
+								["n_max"] = 603,
 							},
 							[7922] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Darkweaver Syth"] = 0,
 									["Talon King Ikiss"] = 0,
@@ -34878,23 +34998,23 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[20569] = {
-								["c_amt"] = 45,
+								["DODGE"] = 7,
 								["b_amt"] = 7,
 								["g_amt"] = 0,
-								["n_max"] = 650,
+								["b_dmg"] = 3251,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 5125,
 									["Syth Arcane Elemental <Darkweaver Syth>"] = 543,
-									["Time-Lost Controller"] = 5003,
+									["Syth Fire Elemental <Darkweaver Syth>"] = 1756,
 									["Talon King Ikiss"] = 524,
 									["Avian Darkhawk"] = 8717,
 									["Sethekk Talon Lord"] = 1440,
 									["Sunfury Archer"] = 960,
-									["Syth Fire Elemental <Darkweaver Syth>"] = 1756,
+									["Time-Lost Controller"] = 5003,
 									["Nether Beast"] = 481,
 									["Severed Spirit"] = 514,
 									["Severed Defender"] = 6898,
@@ -34909,21 +35029,21 @@ _detalhes_database = {
 									["Charming Totem <Time-Lost Controller>"] = 474,
 									["Sethekk Initiate"] = 10194,
 									["Sethekk Shaman"] = 3109,
-									["Mueltee"] = 0,
-									["Darkweaver Syth"] = 3734,
 									["Syth Shadow Elemental <Darkweaver Syth>"] = 1403,
-									["Dark Vortex <Sethekk Shaman>"] = 3106,
+									["Darkweaver Syth"] = 3734,
 									["Sethekk Guard"] = 13957,
+									["Dark Vortex <Sethekk Shaman>"] = 3106,
+									["Mueltee"] = 0,
 								},
 								["n_total"] = 55870,
-								["MISS"] = 2,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["MISS"] = 2,
 								["counter"] = 169,
 								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["total"] = 105899,
 								["c_max"] = 1334,
-								["DODGE"] = 7,
+								["c_amt"] = 45,
 								["id"] = 20569,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -34935,24 +35055,24 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 50029,
 								["n_amt"] = 107,
-								["b_dmg"] = 3251,
-								["total"] = 105899,
+								["r_amt"] = 0,
+								["n_max"] = 650,
 							},
 							[7384] = {
 								["c_amt"] = 87,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 502,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 3505,
 									["Severed Defender"] = 7998,
 									["Spellreaver Marathelle"] = 1659,
-									["Sethekk Prophet"] = 6514,
+									["Nether Beast"] = 890,
 									["Avian Darkhawk"] = 3679,
 									["Sethekk Talon Lord"] = 959,
 									["Sunfury Archer"] = 10038,
 									["Time-Lost Controller"] = 1031,
-									["Nether Beast"] = 890,
+									["Sethekk Prophet"] = 6514,
 									["Severed Spirit"] = 10793,
 									["Talon King Ikiss"] = 3440,
 									["Conjurer Luminrath"] = 977,
@@ -34963,12 +35083,12 @@ _detalhes_database = {
 									["Avian Warhawk"] = 1348,
 									["Abjurist Belmara"] = 1320,
 									["Sethekk Shaman"] = 1776,
-									["Avian Ripper"] = 1166,
+									["Charming Totem <Time-Lost Controller>"] = 499,
 									["Time-Lost Shadowmage"] = 907,
 									["Time-Lost Scryer"] = 1142,
 									["Sethekk Guard"] = 7349,
 									["Darkweaver Syth"] = 3832,
-									["Charming Totem <Time-Lost Controller>"] = 499,
+									["Avian Ripper"] = 1166,
 									["Dark Vortex <Sethekk Shaman>"] = 689,
 									["Sethekk Initiate"] = 6919,
 								},
@@ -34990,14 +35110,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 81704,
 								["n_amt"] = 24,
-								["b_dmg"] = 0,
+								["n_max"] = 502,
 								["r_amt"] = 0,
 							},
 							[3018] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 317,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Cohlien Frostweaver"] = 239,
 									["Sunfury Archer"] = 317,
@@ -35021,21 +35141,21 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 317,
 								["r_amt"] = 0,
 							},
 							[413764] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 293,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 1927,
 									["Severed Defender"] = 5277,
 									["Spellreaver Marathelle"] = 159,
-									["Sethekk Talon Lord"] = 1518,
-									["Avian Darkhawk"] = 2811,
 									["Abjurist Belmara"] = 482,
+									["Avian Darkhawk"] = 2811,
+									["Sethekk Talon Lord"] = 1518,
 									["Sunfury Archer"] = 3822,
 									["Time-Lost Controller"] = 4193,
 									["Sethekk Prophet"] = 5358,
@@ -35076,14 +35196,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 812,
-								["b_dmg"] = 0,
+								["n_max"] = 293,
 								["r_amt"] = 0,
 							},
 							[34428] = {
 								["c_amt"] = 9,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 715,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 510,
 									["Severed Defender"] = 2416,
@@ -35100,24 +35220,24 @@ _detalhes_database = {
 									["Nether Beast"] = 1166,
 									["Avian Ripper"] = 1200,
 									["Sethekk Initiate"] = 632,
-									["Sethekk Shaman"] = 1395,
+									["Time-Lost Scryer"] = 1347,
 									["Conjurer Luminrath"] = 507,
 									["Cohlien Frostweaver"] = 457,
 									["Time-Lost Shadowmage"] = 543,
 									["Dark Vortex <Sethekk Shaman>"] = 741,
-									["Time-Lost Scryer"] = 1347,
+									["Sethekk Shaman"] = 1395,
 								},
 								["n_total"] = 18583,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 49,
 								["a_amt"] = 0,
-								["total"] = 28771,
-								["c_max"] = 1347,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["MISS"] = 2,
 								["id"] = 34428,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 1347,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -35126,22 +35246,22 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 10188,
 								["n_amt"] = 37,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 715,
+								["total"] = 28771,
 							},
 							[12723] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1551,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sunfury Flamekeeper"] = 2114,
 									["Severed Defender"] = 841,
-									["Avian Darkhawk"] = 2248,
+									["Sethekk Initiate"] = 1130,
 									["Sethekk Oracle"] = 1802,
 									["Avian Warhawk"] = 1692,
 									["Sethekk Shaman"] = 2639,
-									["Sethekk Initiate"] = 1130,
+									["Avian Darkhawk"] = 2248,
 									["Sethekk Talon Lord"] = 2112,
 									["Sethekk Guard"] = 1821,
 									["Time-Lost Scryer"] = 9422,
@@ -35168,14 +35288,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 60,
-								["b_dmg"] = 0,
+								["n_max"] = 1551,
 								["r_amt"] = 0,
 							},
 							[50782] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 437,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Severed Spirit"] = 437,
 								},
@@ -35196,14 +35316,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 1,
-								["b_dmg"] = 0,
+								["n_max"] = 437,
 								["r_amt"] = 0,
 							},
 							[11574] = {
-								["c_amt"] = 0,
+								["DODGE"] = 3,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 273,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 3967,
 									["Severed Defender"] = 4633,
@@ -35226,8 +35346,8 @@ _detalhes_database = {
 									["Abjurist Belmara"] = 454,
 									["Avian Ripper"] = 3170,
 									["Sethekk Guard"] = 5680,
-									["Sethekk Shaman"] = 2231,
 									["Time-Lost Scryer"] = 4997,
+									["Sethekk Shaman"] = 2231,
 									["Darkweaver Syth"] = 1587,
 									["Sethekk Initiate"] = 7074,
 									["Dark Vortex <Sethekk Shaman>"] = 1889,
@@ -35239,9 +35359,9 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 451,
 								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["total"] = 92089,
 								["c_max"] = 0,
-								["DODGE"] = 3,
+								["c_amt"] = 0,
 								["id"] = 11574,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -35253,14 +35373,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 435,
-								["b_dmg"] = 0,
-								["total"] = 92089,
+								["r_amt"] = 0,
+								["n_max"] = 273,
 							},
 							[26654] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 402,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Darkweaver Syth"] = 387,
 									["Syth Shadow Elemental <Darkweaver Syth>"] = 748,
@@ -35284,14 +35404,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 8,
-								["b_dmg"] = 0,
+								["n_max"] = 402,
 								["r_amt"] = 0,
 							},
 							[20647] = {
-								["c_amt"] = 24,
+								["DODGE"] = 3,
 								["b_amt"] = 4,
 								["g_amt"] = 0,
-								["n_max"] = 925,
+								["b_dmg"] = 4572,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 6634,
 									["Severed Defender"] = 7643,
@@ -35312,8 +35432,8 @@ _detalhes_database = {
 									["Dark Vortex"] = 0,
 									["Avian Ripper"] = 1519,
 									["Sethekk Guard"] = 6261,
-									["Sethekk Shaman"] = 756,
 									["Time-Lost Scryer"] = 2824,
+									["Sethekk Shaman"] = 756,
 									["Darkweaver Syth"] = 3628,
 									["Time-Lost Shadowmage"] = 1636,
 									["Dark Vortex <Sethekk Shaman>"] = 631,
@@ -35325,10 +35445,10 @@ _detalhes_database = {
 								["n_min"] = 0,
 								["MISS"] = 2,
 								["counter"] = 85,
-								["b_dmg"] = 4572,
+								["r_amt"] = 0,
 								["total"] = 79836,
 								["c_max"] = 1940,
-								["DODGE"] = 3,
+								["c_amt"] = 24,
 								["id"] = 20647,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -35340,40 +35460,40 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 38755,
 								["n_amt"] = 52,
-								["r_amt"] = 0,
+								["n_max"] = 925,
 								["g_dmg"] = 0,
 							},
 							[11581] = {
 								["c_amt"] = 23,
 								["b_amt"] = 4,
 								["g_amt"] = 0,
-								["n_max"] = 307,
+								["b_dmg"] = 792,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 648,
 									["Syth Arcane Elemental <Darkweaver Syth>"] = 780,
-									["Time-Lost Controller"] = 2663,
+									["Syth Fire Elemental <Darkweaver Syth>"] = 252,
 									["Talon King Ikiss"] = 487,
 									["Avian Darkhawk"] = 1032,
 									["Sethekk Talon Lord"] = 700,
 									["Sunfury Archer"] = 957,
-									["Syth Fire Elemental <Darkweaver Syth>"] = 252,
+									["Time-Lost Controller"] = 2663,
 									["Sethekk Prophet"] = 1924,
 									["Severed Spirit"] = 757,
 									["Severed Defender"] = 665,
 									["Kirin'Var Apprentice"] = 219,
 									["Sunfury Flamekeeper"] = 185,
-									["Time-Lost Shadowmage"] = 1235,
+									["Sethekk Initiate"] = 2264,
 									["Cobalt Serpent"] = 508,
 									["Sethekk Oracle"] = 5141,
 									["Avian Warhawk"] = 1893,
 									["Sethekk Shaman"] = 1322,
-									["Sethekk Initiate"] = 2264,
+									["Time-Lost Shadowmage"] = 1235,
 									["Avian Ripper"] = 4646,
-									["Syth Shadow Elemental <Darkweaver Syth>"] = 517,
-									["Time-Lost Scryer"] = 1746,
 									["Sethekk Guard"] = 472,
-									["Darkweaver Syth"] = 877,
+									["Time-Lost Scryer"] = 1746,
+									["Syth Shadow Elemental <Darkweaver Syth>"] = 517,
 									["Cohlien Frostweaver"] = 238,
+									["Darkweaver Syth"] = 877,
 									["Dark Vortex <Sethekk Shaman>"] = 909,
 									["Syth Frost Elemental <Darkweaver Syth>"] = 780,
 								},
@@ -35395,14 +35515,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 13293,
 								["n_amt"] = 80,
-								["b_dmg"] = 792,
+								["n_max"] = 307,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["classe"] = "WARRIOR",
+					["aID"] = "4408-0474E7DA",
 					["nome"] = "Masturbado",
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -35417,13 +35537,32 @@ _detalhes_database = {
 					["pets"] = {
 						"Shadowfiend <Lightnot>", -- [1]
 					},
-					["aID"] = "4408-03CDC066",
+					["classe"] = "PRIEST",
 					["total_without_pet"] = 691211.1341230001,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 705398.1341230001,
 					["spec"] = 258,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+						["Lightnot"] = {
+							["spells"] = {
+								[25372] = 1801,
+							},
+							["total"] = 1801,
+						},
+						["Shifthole"] = {
+							["spells"] = {
+								45, -- [1]
+							},
+							["total"] = 45,
+						},
+						["Müstardtiger"] = {
+							["spells"] = {
+								[34916] = 3143,
+							},
+							["total"] = 3143,
+						},
+					},
 					["total_extra"] = 0,
 					["serial"] = "Player-4408-03CDC066",
 					["damage_from"] = {
@@ -35472,26 +35611,7 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
 					["tipo"] = 1,
-					["friendlyfire"] = {
-						["Lightnot"] = {
-							["spells"] = {
-								[25372] = 1801,
-							},
-							["total"] = 1801,
-						},
-						["Shifthole"] = {
-							["spells"] = {
-								45, -- [1]
-							},
-							["total"] = 45,
-						},
-						["Müstardtiger"] = {
-							["spells"] = {
-								[34916] = 3143,
-							},
-							["total"] = 3143,
-						},
-					},
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -35499,7 +35619,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 3,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Oracle"] = 22,
 									["Avian Darkhawk"] = 20,
@@ -35523,14 +35643,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							}, -- [1]
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Avian Ripper"] = 0,
 								},
@@ -35552,14 +35672,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							}, -- [2]
 							[10890] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Time-Lost Scryer"] = 0,
 									["Time-Lost Shadowmage"] = 0,
@@ -35582,14 +35702,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[63675] = {
 								["c_amt"] = 3,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1149,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 3323,
 									["Cobalt Serpent"] = 3112,
@@ -35622,37 +35742,40 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 4938,
 								["n_amt"] = 27,
-								["b_dmg"] = 0,
+								["n_max"] = 1149,
 								["r_amt"] = 3,
 							},
-							[25467] = {
-								["c_amt"] = 13,
+							[58381] = {
+								["c_amt"] = 17,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 479,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Sethekk Ravenguard"] = 4616,
-									["Cobalt Serpent"] = 4594,
-									["Sethekk Oracle"] = 1372,
-									["Avian Warhawk"] = 7972,
-									["Avian Darkhawk"] = 1436,
-									["Sethekk Guard"] = 5164,
-									["Time-Lost Scryer"] = 1893,
-									["Sethekk Talon Lord"] = 2220,
-									["Darkweaver Syth"] = 4280,
-									["Sethekk Prophet"] = 3544,
-									["Talon King Ikiss"] = 3430,
-									["Sethekk Initiate"] = 2403,
+									["Sethekk Ravenguard"] = 5469,
+									["Avian Darkhawk"] = 6805,
+									["Cobalt Serpent"] = 13246,
+									["Sethekk Oracle"] = 2477,
+									["Avian Warhawk"] = 13150,
+									["Talon King Ikiss"] = 10614,
+									["Time-Lost Shadowmage"] = 1232,
+									["Sethekk Talon Lord"] = 3919,
+									["Sethekk Guard"] = 14360,
+									["Time-Lost Scryer"] = 3926,
+									["Sethekk Shaman"] = 3104,
+									["Darkweaver Syth"] = 12303,
+									["Sethekk Prophet"] = 2542,
+									["Dark Vortex <Sethekk Shaman>"] = 2868,
+									["Sethekk Initiate"] = 9132,
 								},
-								["n_total"] = 31145,
+								["n_total"] = 83200,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 85,
-								["total"] = 42924,
-								["c_max"] = 958,
-								["IMMUNE"] = 1,
-								["id"] = 25467,
-								["r_dmg"] = 1988,
+								["counter"] = 151,
+								["total"] = 105147,
+								["c_max"] = 1377,
+								["IMMUNE"] = 3,
+								["id"] = 58381,
+								["r_dmg"] = 2290,
 								["spellschool"] = 32,
 								["extra"] = {
 								},
@@ -35660,16 +35783,16 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["c_total"] = 11779,
-								["n_amt"] = 71,
-								["b_dmg"] = 0,
+								["c_total"] = 21947,
+								["n_amt"] = 131,
+								["n_max"] = 1304,
 								["r_amt"] = 4,
 							},
 							[32379] = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1292,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 2485,
 									["Cobalt Serpent"] = 2388,
@@ -35699,14 +35822,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 364,
 								["n_amt"] = 15,
-								["b_dmg"] = 0,
+								["n_max"] = 1292,
 								["r_amt"] = 1,
 							},
 							[5019] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 145,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Avian Warhawk"] = 280,
 								},
@@ -35727,31 +35850,31 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 145,
 								["r_amt"] = 0,
 							},
 							[25367] = {
 								["c_amt"] = 60,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 895,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Sethekk Talon Lord"] = 6166,
+									["Sethekk Shaman"] = 11729,
 									["Sethekk Ravenguard"] = 9785,
 									["Time-Lost Shadowmage"] = 18481,
 									["Cobalt Serpent"] = 7054,
 									["Sethekk Oracle"] = 11218,
 									["Avian Warhawk"] = 21341,
-									["Sethekk Shaman"] = 11729,
+									["Sethekk Talon Lord"] = 6166,
 									["Darkweaver Syth"] = 4041,
 									["Avian Ripper"] = 467,
-									["Sethekk Initiate"] = 15574,
+									["Sethekk Guard"] = 17930,
 									["Time-Lost Scryer"] = 8482,
 									["Avian Darkhawk"] = 9882,
 									["Time-Lost Controller"] = 19831,
 									["Sethekk Prophet"] = 17471,
 									["Talon King Ikiss"] = 5491,
-									["Sethekk Guard"] = 17930,
+									["Sethekk Initiate"] = 15574,
 								},
 								["n_total"] = 132300,
 								["n_min"] = 0,
@@ -35771,14 +35894,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 52643,
 								["n_amt"] = 304,
-								["b_dmg"] = 0,
+								["n_max"] = 895,
 								["r_amt"] = 16,
 							},
 							[48301] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Charming Totem"] = 0,
 								},
@@ -35800,14 +35923,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[25372] = {
 								["c_amt"] = 9,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1572,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 2965,
 									["Cobalt Serpent"] = 10352,
@@ -35841,14 +35964,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 26420,
 								["n_amt"] = 29,
-								["b_dmg"] = 0,
+								["n_max"] = 1572,
 								["r_amt"] = 3,
 							},
 							[34916] = {
 								["c_amt"] = 59,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1164,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Ravenguard"] = 15838,
 									["Avian Darkhawk"] = 9844,
@@ -35886,14 +36009,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 67473,
 								["n_amt"] = 304,
-								["b_dmg"] = 0,
+								["n_max"] = 1164,
 								["r_amt"] = 13,
 							},
 							[25387] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Talon King Ikiss"] = 0,
 									["Sethekk Initiate"] = 0,
@@ -35903,12 +36026,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 2,
 								["IMMUNE"] = 1,
-								["total"] = 0,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 32,
 								["REFLECT"] = 1,
 								["id"] = 25387,
 								["r_dmg"] = 0,
-								["spellschool"] = 32,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -35917,40 +36040,37 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 0,
+								["total"] = 0,
 							},
-							[58381] = {
-								["c_amt"] = 17,
+							[25467] = {
+								["c_amt"] = 13,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1304,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Sethekk Ravenguard"] = 5469,
-									["Time-Lost Shadowmage"] = 1232,
-									["Cobalt Serpent"] = 13246,
-									["Sethekk Oracle"] = 2477,
-									["Avian Warhawk"] = 13150,
-									["Talon King Ikiss"] = 10614,
-									["Avian Darkhawk"] = 6805,
-									["Sethekk Talon Lord"] = 3919,
-									["Sethekk Initiate"] = 9132,
-									["Time-Lost Scryer"] = 3926,
-									["Sethekk Shaman"] = 3104,
-									["Darkweaver Syth"] = 12303,
-									["Sethekk Prophet"] = 2542,
-									["Dark Vortex <Sethekk Shaman>"] = 2868,
-									["Sethekk Guard"] = 14360,
+									["Sethekk Ravenguard"] = 4616,
+									["Cobalt Serpent"] = 4594,
+									["Sethekk Oracle"] = 1372,
+									["Avian Warhawk"] = 7972,
+									["Avian Darkhawk"] = 1436,
+									["Sethekk Guard"] = 5164,
+									["Time-Lost Scryer"] = 1893,
+									["Sethekk Talon Lord"] = 2220,
+									["Darkweaver Syth"] = 4280,
+									["Sethekk Prophet"] = 3544,
+									["Talon King Ikiss"] = 3430,
+									["Sethekk Initiate"] = 2403,
 								},
-								["n_total"] = 83200,
+								["n_total"] = 31145,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 151,
-								["total"] = 105147,
-								["c_max"] = 1377,
-								["IMMUNE"] = 3,
-								["id"] = 58381,
-								["r_dmg"] = 2290,
+								["counter"] = 85,
+								["total"] = 42924,
+								["c_max"] = 958,
+								["IMMUNE"] = 1,
+								["id"] = 25467,
+								["r_dmg"] = 1988,
 								["spellschool"] = 32,
 								["extra"] = {
 								},
@@ -35958,16 +36078,16 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["c_total"] = 21947,
-								["n_amt"] = 131,
-								["b_dmg"] = 0,
+								["c_total"] = 11779,
+								["n_amt"] = 71,
+								["n_max"] = 479,
 								["r_amt"] = 4,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["classe"] = "PRIEST",
+					["aID"] = "4408-03CDC066",
 					["nome"] = "Lightnot",
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -35983,7 +36103,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 25799.026396,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 25799.026396,
 					["friendlyfire"] = {
 					},
@@ -35994,16 +36114,16 @@ _detalhes_database = {
 						["Shadowfiend <Lightnot>"] = true,
 						["Masturbado"] = true,
 						["Searing Totem VI <Müstardtiger>"] = true,
-						["Müstardtiger"] = true,
 						["Lightnot"] = true,
+						["Müstardtiger"] = true,
 						["Shifthole"] = true,
 						["Mueltee"] = true,
 					},
 					["targets"] = {
-						["Mueltee"] = 717,
 						["Müstardtiger"] = 5264,
-						["Shifthole"] = 16334,
+						["Mueltee"] = 717,
 						["Masturbado"] = 3484,
+						["Shifthole"] = 16334,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -36019,24 +36139,24 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 726,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Mueltee"] = 717,
 									["Müstardtiger"] = 2102,
-									["Shifthole"] = 12192,
+									["Mueltee"] = 717,
 									["Masturbado"] = 2044,
+									["Shifthole"] = 12192,
 								},
 								["n_total"] = 17055,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 51,
 								["MISS"] = 4,
-								["total"] = 17055,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 14,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 3507,
@@ -36045,14 +36165,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 33,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 726,
+								["total"] = 17055,
 							}, -- [1]
 							[32901] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 288,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 4142,
 									["Masturbado"] = 1440,
@@ -36075,14 +36195,14 @@ _detalhes_database = {
 								["successful_casted"] = 6,
 								["c_total"] = 0,
 								["n_amt"] = 22,
-								["b_dmg"] = 0,
+								["n_max"] = 288,
 								["r_amt"] = 0,
 							},
 							[38059] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 845,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Müstardtiger"] = 3162,
 								},
@@ -36102,13 +36222,13 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 845,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36124,7 +36244,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 32315.028246,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 32315.028246,
 					["friendlyfire"] = {
 					},
@@ -36140,10 +36260,10 @@ _detalhes_database = {
 						["Mueltee"] = true,
 					},
 					["targets"] = {
-						["Mueltee"] = 5085,
 						["Lightnot"] = 2250,
-						["Shifthole"] = 19373,
+						["Mueltee"] = 5085,
 						["Masturbado"] = 5607,
+						["Shifthole"] = 19373,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -36156,25 +36276,25 @@ _detalhes_database = {
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 1,
+								["DODGE"] = 14,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 976,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Mueltee"] = 4941,
 									["Lightnot"] = 2250,
-									["Shifthole"] = 19373,
+									["Mueltee"] = 4941,
 									["Masturbado"] = 5607,
+									["Shifthole"] = 19373,
 								},
 								["n_total"] = 30805,
-								["a_amt"] = 9,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["a_amt"] = 9,
 								["counter"] = 70,
 								["MISS"] = 2,
-								["r_amt"] = 0,
+								["total"] = 32171,
 								["c_max"] = 1366,
-								["DODGE"] = 14,
+								["c_amt"] = 1,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -36186,14 +36306,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 1366,
 								["n_amt"] = 51,
-								["b_dmg"] = 0,
-								["total"] = 32171,
+								["r_amt"] = 0,
+								["n_max"] = 976,
 							}, -- [1]
 							[33961] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -36212,14 +36332,14 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[55095] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 29,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 144,
 								},
@@ -36240,14 +36360,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 5,
-								["b_dmg"] = 0,
+								["n_max"] = 29,
 								["r_amt"] = 0,
 							},
 							[16145] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 0,
 									["Masturbado"] = 0,
@@ -36258,7 +36378,7 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["counter"] = 7,
 								["DODGE"] = 3,
-								["total"] = 0,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["g_dmg"] = 0,
 								["id"] = 16145,
@@ -36272,13 +36392,13 @@ _detalhes_database = {
 								["successful_casted"] = 10,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 0,
+								["total"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36293,41 +36413,54 @@ _detalhes_database = {
 					["pets"] = {
 						"Searing Totem VI <Müstardtiger>", -- [1]
 					},
-					["aID"] = "4408-050DF194",
+					["classe"] = "SHAMAN",
 					["total_without_pet"] = 1625.112766,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 9214.112765999998,
 					["spec"] = 264,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+						["Masturbado"] = {
+							["spells"] = {
+								[25439] = 461,
+							},
+							["total"] = 461,
+						},
+						["Mueltee"] = {
+							["spells"] = {
+								[25439] = 627,
+							},
+							["total"] = 627,
+						},
+					},
 					["total_extra"] = 0,
 					["serial"] = "Player-4408-050DF194",
 					["damage_from"] = {
-						["Cobalt Serpent"] = true,
+						["Searing Totem VI <Müstardtiger>"] = true,
 						["Mueltee"] = true,
 						["Masturbado"] = true,
-						["Searing Totem VI <Müstardtiger>"] = true,
+						["Cobalt Serpent"] = true,
 						["Sethekk Oracle"] = true,
 						["Avian Warhawk"] = true,
 						["Talon King Ikiss"] = true,
 						["Time-Lost Shadowmage"] = true,
 						["Avian Ripper"] = true,
-						["Avian Darkhawk"] = true,
+						["Syth Shadow Elemental <Darkweaver Syth>"] = true,
 						["Sethekk Shaman"] = true,
 						["Sethekk Spirit"] = true,
 						["Time-Lost Scryer"] = true,
 						["Lightnot"] = true,
 						["Dark Vortex <Sethekk Shaman>"] = true,
-						["Syth Shadow Elemental <Darkweaver Syth>"] = true,
+						["Avian Darkhawk"] = true,
 					},
 					["targets"] = {
 						["Snake"] = 7,
-						["Sethekk Initiate"] = 755,
+						["Avian Darkhawk"] = 805,
 						["Talon King Ikiss"] = 236,
 						["Cobalt Serpent"] = 1496,
 						["Sethekk Oracle"] = 910,
 						["Avian Warhawk"] = 992,
-						["Avian Darkhawk"] = 805,
+						["Sethekk Initiate"] = 755,
 						["Adder"] = 0,
 						["Avian Ripper"] = 251,
 						["Time-Lost Shadowmage"] = 837,
@@ -36345,20 +36478,7 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
 					["tipo"] = 1,
-					["friendlyfire"] = {
-						["Masturbado"] = {
-							["spells"] = {
-								[25439] = 461,
-							},
-							["total"] = 461,
-						},
-						["Mueltee"] = {
-							["spells"] = {
-								[25439] = 627,
-							},
-							["total"] = 627,
-						},
-					},
+					["on_hold"] = false,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -36366,13 +36486,13 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 1,
 								["g_amt"] = 1,
-								["n_max"] = 76,
+								["b_dmg"] = 76,
 								["targets"] = {
 									["Snake"] = 7,
-									["Avian Darkhawk"] = 125,
+									["Mueltee"] = 0,
 									["Adder"] = 0,
 									["Sethekk Guard"] = 76,
-									["Mueltee"] = 0,
+									["Avian Darkhawk"] = 125,
 								},
 								["n_total"] = 83,
 								["n_min"] = 0,
@@ -36392,14 +36512,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 76,
+								["n_max"] = 76,
 								["r_amt"] = 0,
 							}, -- [1]
 							[10414] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 658,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Sethekk Guard"] = 658,
 								},
@@ -36420,14 +36540,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 1,
-								["b_dmg"] = 0,
+								["n_max"] = 658,
 								["r_amt"] = 0,
 							},
 							[29228] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 410,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Cobalt Serpent"] = 759,
 								},
@@ -36448,14 +36568,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 410,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["grupo"] = true,
-					["classe"] = "SHAMAN",
+					["aID"] = "4408-050DF194",
 					["nome"] = "Müstardtiger",
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36472,7 +36592,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 20993.068016,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 21485.068016,
 					["friendlyfire"] = {
 					},
@@ -36480,10 +36600,10 @@ _detalhes_database = {
 					["serial"] = "Creature-0-4390-556-3743-18327-0001891643",
 					["on_hold"] = false,
 					["damage_from"] = {
-						["Shifthole"] = true,
-						["Lightnot"] = true,
 						["Masturbado"] = true,
 						["Mueltee"] = true,
+						["Shifthole"] = true,
+						["Lightnot"] = true,
 					},
 					["targets"] = {
 						["Lightnot"] = 514,
@@ -36505,7 +36625,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 607,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Lightnot"] = 514,
 									["Masturbado"] = 2574,
@@ -36516,12 +36636,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 77,
 								["MISS"] = 3,
-								["total"] = 20993,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 18,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 1726,
@@ -36530,14 +36650,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 56,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 607,
+								["total"] = 20993,
 							}, -- [1]
 							[32764] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -36556,19 +36676,19 @@ _detalhes_database = {
 								["successful_casted"] = 7,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[35013] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Müstardtiger"] = 0,
 									["Lightnot"] = 0,
-									["Shifthole"] = 0,
+									["Müstardtiger"] = 0,
 									["Masturbado"] = 0,
+									["Shifthole"] = 0,
 								},
 								["n_total"] = 0,
 								["n_min"] = 0,
@@ -36588,13 +36708,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36612,15 +36732,16 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 492.044584,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-20343-00000916EF",
 					["aID"] = "20343",
 					["damage_from"] = {
-						["Lightnot"] = true,
 						["Mueltee"] = true,
-						["Masturbado"] = true,
+						["Lightnot"] = true,
 						["Shifthole"] = true,
+						["Masturbado"] = true,
 					},
 					["targets"] = {
 						["Shifthole"] = 492,
@@ -36639,7 +36760,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -36658,14 +36779,14 @@ _detalhes_database = {
 								["successful_casted"] = 10,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[55095] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 123,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 492,
 								},
@@ -36686,14 +36807,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 123,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36707,16 +36827,16 @@ _detalhes_database = {
 					["totalabsorbed"] = 0.079854,
 					["pets"] = {
 					},
-					["aID"] = "",
+					["classe"] = "UNKNOW",
 					["total_without_pet"] = 9761.079854000001,
 					["last_dps_realtime"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 9761.079854000001,
 					["friendlyfire"] = {
 					},
 					["total_extra"] = 0,
 					["serial"] = "",
-					["classe"] = "UNKNOW",
+					["on_hold"] = false,
 					["damage_from"] = {
 					},
 					["targets"] = {
@@ -36727,16 +36847,16 @@ _detalhes_database = {
 					},
 					["fight_component"] = true,
 					["end_time"] = 1695094527,
-					["boss_fight_component"] = true,
-					["on_hold"] = false,
 					["nome"] = "[*] Shadow Word: Death",
+					["aID"] = "",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							[32409] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 757,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Lightnot"] = 9761,
 								},
@@ -36757,14 +36877,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 14,
-								["b_dmg"] = 0,
+								["n_max"] = 757,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["tipo"] = 1,
-					["dps_started"] = false,
+					["monster"] = true,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["damage_taken"] = 0.079854,
@@ -36782,88 +36902,6 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 7589.078552999999,
-					["on_hold"] = false,
-					["total_extra"] = 0,
-					["serial"] = "Creature-0-4390-556-3743-7402-0000091705",
-					["aID"] = "7402",
-					["damage_from"] = {
-						["Searing Totem VI <Müstardtiger>"] = true,
-					},
-					["targets"] = {
-						["Cobalt Serpent"] = 737,
-						["Sethekk Oracle"] = 910,
-						["Avian Warhawk"] = 992,
-						["Avian Darkhawk"] = 680,
-						["Talon King Ikiss"] = 236,
-						["Avian Ripper"] = 251,
-						["Sethekk Initiate"] = 755,
-						["Time-Lost Scryer"] = 532,
-						["Time-Lost Shadowmage"] = 837,
-						["Darkweaver Syth"] = 255,
-						["Sethekk Prophet"] = 576,
-						["Dark Vortex <Sethekk Shaman>"] = 205,
-						["Syth Frost Elemental <Darkweaver Syth>"] = 623,
-					},
-					["friendlyfire_total"] = 249,
-					["raid_targets"] = {
-						[128] = 529,
-					},
-					["fight_component"] = true,
-					["end_time"] = 1695094559,
-					["boss_fight_component"] = true,
-					["ownerName"] = "Müstardtiger",
-					["nome"] = "Searing Totem VI <Müstardtiger>",
-					["spells"] = {
-						["_ActorTable"] = {
-							[10436] = {
-								["c_amt"] = 10,
-								["b_amt"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 91,
-								["targets"] = {
-									["Avian Darkhawk"] = 680,
-									["Talon King Ikiss"] = 236,
-									["Cobalt Serpent"] = 737,
-									["Sethekk Oracle"] = 910,
-									["Avian Warhawk"] = 992,
-									["Sethekk Initiate"] = 755,
-									["Sethekk Shaman"] = 0,
-									["Avian Ripper"] = 251,
-									["Syth Frost Elemental"] = 0,
-									["Time-Lost Scryer"] = 532,
-									["Time-Lost Shadowmage"] = 837,
-									["Darkweaver Syth"] = 255,
-									["Sethekk Prophet"] = 576,
-									["Dark Vortex <Sethekk Shaman>"] = 205,
-									["Syth Frost Elemental <Darkweaver Syth>"] = 623,
-								},
-								["n_total"] = 6363,
-								["IMMUNE"] = 1,
-								["g_dmg"] = 0,
-								["n_min"] = 0,
-								["MISS"] = 6,
-								["counter"] = 98,
-								["RESIST"] = 1,
-								["total"] = 7589,
-								["c_max"] = 133,
-								["REFLECT"] = 1,
-								["id"] = 10436,
-								["r_dmg"] = 1695,
-								["spellschool"] = 4,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["a_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 1,
-								["c_total"] = 1226,
-								["n_amt"] = 79,
-								["b_dmg"] = 0,
-								["r_amt"] = 22,
-							},
-						},
-						["tipo"] = 2,
-					},
 					["friendlyfire"] = {
 						["Shifthole"] = {
 							["spells"] = {
@@ -36890,6 +36928,88 @@ _detalhes_database = {
 							["total"] = 4,
 						},
 					},
+					["total_extra"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-7402-0000091705",
+					["aID"] = "7402",
+					["damage_from"] = {
+						["Searing Totem VI <Müstardtiger>"] = true,
+					},
+					["targets"] = {
+						["Cobalt Serpent"] = 737,
+						["Sethekk Oracle"] = 910,
+						["Avian Warhawk"] = 992,
+						["Sethekk Initiate"] = 755,
+						["Talon King Ikiss"] = 236,
+						["Avian Ripper"] = 251,
+						["Avian Darkhawk"] = 680,
+						["Time-Lost Scryer"] = 532,
+						["Time-Lost Shadowmage"] = 837,
+						["Darkweaver Syth"] = 255,
+						["Sethekk Prophet"] = 576,
+						["Dark Vortex <Sethekk Shaman>"] = 205,
+						["Syth Frost Elemental <Darkweaver Syth>"] = 623,
+					},
+					["friendlyfire_total"] = 249,
+					["raid_targets"] = {
+						[128] = 529,
+					},
+					["fight_component"] = true,
+					["end_time"] = 1695094559,
+					["nome"] = "Searing Totem VI <Müstardtiger>",
+					["ownerName"] = "Müstardtiger",
+					["boss_fight_component"] = true,
+					["spells"] = {
+						["_ActorTable"] = {
+							[10436] = {
+								["c_amt"] = 10,
+								["b_amt"] = 0,
+								["g_amt"] = 0,
+								["b_dmg"] = 0,
+								["targets"] = {
+									["Sethekk Initiate"] = 755,
+									["Talon King Ikiss"] = 236,
+									["Cobalt Serpent"] = 737,
+									["Sethekk Oracle"] = 910,
+									["Avian Warhawk"] = 992,
+									["Avian Darkhawk"] = 680,
+									["Sethekk Shaman"] = 0,
+									["Avian Ripper"] = 251,
+									["Syth Frost Elemental"] = 0,
+									["Time-Lost Scryer"] = 532,
+									["Time-Lost Shadowmage"] = 837,
+									["Darkweaver Syth"] = 255,
+									["Sethekk Prophet"] = 576,
+									["Dark Vortex <Sethekk Shaman>"] = 205,
+									["Syth Frost Elemental <Darkweaver Syth>"] = 623,
+								},
+								["n_total"] = 6363,
+								["IMMUNE"] = 1,
+								["MISS"] = 6,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 98,
+								["RESIST"] = 1,
+								["total"] = 7589,
+								["c_max"] = 133,
+								["r_amt"] = 22,
+								["id"] = 10436,
+								["r_dmg"] = 1695,
+								["spellschool"] = 4,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["c_total"] = 1226,
+								["n_amt"] = 79,
+								["n_max"] = 91,
+								["REFLECT"] = 1,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36907,7 +37027,8 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 2.033093000000001,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-4076-0001091644",
 					["aID"] = "4076",
@@ -36924,15 +37045,15 @@ _detalhes_database = {
 					["totalabsorbed"] = 1.033093,
 					["fight_component"] = true,
 					["end_time"] = 1695094646,
-					["boss_fight_component"] = true,
 					["nome"] = "Roach",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 2,
 								},
@@ -36954,14 +37075,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 1,
 								["r_amt"] = 0,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -36977,7 +37097,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 41543.032423,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 41543.032423,
 					["friendlyfire"] = {
 					},
@@ -37010,25 +37130,25 @@ _detalhes_database = {
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 2,
+								["DODGE"] = 14,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 708,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Mueltee"] = 542,
 									["Lightnot"] = 708,
-									["Masturbado"] = 7805,
+									["Mueltee"] = 542,
 									["Shifthole"] = 11992,
+									["Masturbado"] = 7805,
 								},
 								["n_total"] = 19239,
-								["MISS"] = 1,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["MISS"] = 1,
 								["counter"] = 66,
 								["a_amt"] = 3,
-								["r_amt"] = 0,
+								["total"] = 21047,
 								["c_max"] = 927,
-								["DODGE"] = 14,
+								["c_amt"] = 2,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -37040,14 +37160,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 1808,
 								["n_amt"] = 47,
-								["b_dmg"] = 0,
-								["total"] = 21047,
+								["r_amt"] = 0,
+								["n_max"] = 708,
 							}, -- [1]
 							[32129] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 0,
 								},
@@ -37068,14 +37188,14 @@ _detalhes_database = {
 								["successful_casted"] = 9,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[32690] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 2225,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 6823,
 									["Masturbado"] = 4618,
@@ -37100,13 +37220,13 @@ _detalhes_database = {
 								["successful_casted"] = 6,
 								["c_total"] = 0,
 								["n_amt"] = 18,
-								["b_dmg"] = 0,
+								["n_max"] = 2225,
 								["r_amt"] = 15,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37119,12 +37239,13 @@ _detalhes_database = {
 					["flag_original"] = 2600,
 					["pets"] = {
 					},
-					["aID"] = "4075",
+					["classe"] = "UNKNOW",
 					["total_without_pet"] = 0.003841,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 0.003841,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-4075-0001091644",
 					["damage_from"] = {
@@ -37135,7 +37256,7 @@ _detalhes_database = {
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "4075",
 					["fight_component"] = true,
 					["end_time"] = 1695094763,
 					["totalabsorbed"] = 0.003841,
@@ -37145,8 +37266,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37159,12 +37279,13 @@ _detalhes_database = {
 					["flag_original"] = 2600,
 					["pets"] = {
 					},
-					["aID"] = "2914",
+					["classe"] = "UNKNOW",
 					["total_without_pet"] = 0.005262,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 0.005262,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-2914-0001891643",
 					["damage_from"] = {
@@ -37175,7 +37296,7 @@ _detalhes_database = {
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "2914",
 					["fight_component"] = true,
 					["end_time"] = 1695094839,
 					["totalabsorbed"] = 0.005262,
@@ -37185,8 +37306,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37203,16 +37323,16 @@ _detalhes_database = {
 						"Syth Frost Elemental <Darkweaver Syth>", -- [3]
 						"Syth Fire Elemental <Darkweaver Syth>", -- [4]
 					},
-					["aID"] = "18472",
+					["classe"] = "UNKNOW",
 					["total_without_pet"] = 6604.016185,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 24647.016185,
 					["friendlyfire"] = {
 					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
-					["classe"] = "UNKNOW",
+					["on_hold"] = false,
 					["damage_from"] = {
 						["Mueltee"] = true,
 						["Masturbado"] = true,
@@ -37221,26 +37341,26 @@ _detalhes_database = {
 						["Shifthole"] = true,
 					},
 					["targets"] = {
-						["Masturbado"] = 2664,
-						["Müstardtiger"] = 870,
 						["Shifthole"] = 19861,
 						["Mueltee"] = 1252,
+						["Masturbado"] = 2664,
+						["Müstardtiger"] = 870,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["totalabsorbed"] = 0.016185,
 					["end_time"] = 1695094898,
-					["boss_fight_component"] = true,
-					["on_hold"] = false,
 					["nome"] = "Darkweaver Syth",
+					["aID"] = "18472",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 759,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 3179,
 									["Masturbado"] = 759,
@@ -37263,14 +37383,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 7,
-								["b_dmg"] = 0,
+								["n_max"] = 759,
 								["r_amt"] = 0,
 							}, -- [1]
 							[15659] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1252,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 776,
 									["Mueltee"] = 1252,
@@ -37291,14 +37411,14 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 1252,
 								["r_amt"] = 2,
 							},
 							[15039] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 266,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 638,
 								},
@@ -37318,13 +37438,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 5,
-								["b_dmg"] = 0,
+								["n_max"] = 266,
 								["r_amt"] = 1,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37342,7 +37462,8 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 6838.014212,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
 					["aID"] = "19205",
@@ -37360,29 +37481,29 @@ _detalhes_database = {
 					},
 					["totalabsorbed"] = 0.014212,
 					["end_time"] = 1695094898,
-					["boss_fight_component"] = true,
-					["ownerName"] = "Darkweaver Syth",
 					["nome"] = "Syth Arcane Elemental <Darkweaver Syth>",
+					["ownerName"] = "Darkweaver Syth",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 0,
+								["DODGE"] = 2,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 692,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 4853,
 									["Masturbado"] = 566,
 								},
 								["n_total"] = 5419,
-								["a_amt"] = 0,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["a_amt"] = 0,
 								["counter"] = 15,
 								["MISS"] = 1,
-								["r_amt"] = 6,
+								["total"] = 5419,
 								["c_max"] = 0,
-								["DODGE"] = 2,
+								["c_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 2813,
 								["spellschool"] = 1,
@@ -37394,14 +37515,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 11,
-								["b_dmg"] = 0,
-								["total"] = 5419,
+								["r_amt"] = 6,
+								["n_max"] = 692,
 							}, -- [1]
 							[33527] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 555,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 864,
 									["Masturbado"] = 555,
@@ -37422,14 +37543,13 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 555,
 								["r_amt"] = 3,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37447,7 +37567,8 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 4685.002751,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
 					["aID"] = "19206",
@@ -37464,16 +37585,16 @@ _detalhes_database = {
 					},
 					["totalabsorbed"] = 0.002751,
 					["end_time"] = 1695094898,
-					["boss_fight_component"] = true,
-					["ownerName"] = "Darkweaver Syth",
 					["nome"] = "Syth Shadow Elemental <Darkweaver Syth>",
+					["ownerName"] = "Darkweaver Syth",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 457,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 3087,
 									["Müstardtiger"] = 870,
@@ -37496,14 +37617,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 870,
 								["n_amt"] = 8,
-								["b_dmg"] = 0,
+								["n_max"] = 457,
 								["r_amt"] = 9,
 							}, -- [1]
 							[33529] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 391,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 728,
 								},
@@ -37523,14 +37644,13 @@ _detalhes_database = {
 								["successful_casted"] = 2,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 391,
 								["r_amt"] = 2,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37548,13 +37668,14 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 4966.011756,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
 					["aID"] = "19204",
 					["damage_from"] = {
-						["Masturbado"] = true,
 						["Shifthole"] = true,
+						["Masturbado"] = true,
 						["Searing Totem VI <Müstardtiger>"] = true,
 					},
 					["targets"] = {
@@ -37565,16 +37686,16 @@ _detalhes_database = {
 					},
 					["totalabsorbed"] = 0.011756,
 					["end_time"] = 1695094898,
-					["boss_fight_component"] = true,
-					["ownerName"] = "Darkweaver Syth",
 					["nome"] = "Syth Frost Elemental <Darkweaver Syth>",
+					["ownerName"] = "Darkweaver Syth",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 563,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 4093,
 								},
@@ -37596,14 +37717,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 9,
-								["b_dmg"] = 0,
+								["n_max"] = 563,
 								["r_amt"] = 8,
 							}, -- [1]
 							[33528] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 536,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 873,
 								},
@@ -37623,14 +37744,13 @@ _detalhes_database = {
 								["successful_casted"] = 2,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 536,
 								["r_amt"] = 2,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37648,7 +37768,8 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 1554.017094,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-19203-0000091859",
 					["aID"] = "19203",
@@ -37666,16 +37787,16 @@ _detalhes_database = {
 					},
 					["totalabsorbed"] = 0.017094,
 					["end_time"] = 1695094898,
-					["boss_fight_component"] = true,
-					["ownerName"] = "Darkweaver Syth",
 					["nome"] = "Syth Fire Elemental <Darkweaver Syth>",
+					["ownerName"] = "Darkweaver Syth",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 784,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 784,
 									["Shifthole"] = 770,
@@ -37698,14 +37819,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 784,
 								["r_amt"] = 2,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37721,7 +37841,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 21572.018143,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 21572.018143,
 					["friendlyfire"] = {
 					},
@@ -37729,10 +37849,10 @@ _detalhes_database = {
 					["serial"] = "Creature-0-4390-556-3743-18322-0000091644",
 					["on_hold"] = false,
 					["damage_from"] = {
-						["Masturbado"] = true,
-						["Lightnot"] = true,
 						["Shifthole"] = true,
 						["Mueltee"] = true,
+						["Masturbado"] = true,
+						["Lightnot"] = true,
 					},
 					["targets"] = {
 						["Shifthole"] = 20974,
@@ -37752,7 +37872,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 598,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 18978,
 									["Masturbado"] = 598,
@@ -37762,12 +37882,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 95,
 								["MISS"] = 20,
-								["total"] = 19576,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 18,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 2433,
@@ -37776,14 +37896,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 57,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 598,
+								["total"] = 19576,
 							}, -- [1]
 							[32651] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 0,
 									["Shifthole"] = 0,
@@ -37807,14 +37927,14 @@ _detalhes_database = {
 								["successful_casted"] = 5,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[33964] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 811,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 1996,
 								},
@@ -37835,14 +37955,14 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 811,
 								["r_amt"] = 0,
 							},
 							[34970] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -37861,13 +37981,13 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -37883,7 +38003,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 46150.026021,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 46150.026021,
 					["friendlyfire"] = {
 					},
@@ -37919,7 +38039,7 @@ _detalhes_database = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 955,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 3595,
 									["Shifthole"] = 9307,
@@ -37930,12 +38050,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 27,
 								["a_amt"] = 2,
-								["total"] = 14599,
-								["c_max"] = 1798,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 5,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 1798,
 								["extra"] = {
 								},
 								["a_dmg"] = 1111,
@@ -37944,14 +38064,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 1798,
 								["n_amt"] = 20,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 955,
+								["total"] = 14599,
 							}, -- [1]
 							[38110] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1808,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 1494,
 									["Masturbado"] = 3026,
@@ -37975,14 +38095,14 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 9,
-								["b_dmg"] = 0,
+								["n_max"] = 1808,
 								["r_amt"] = 0,
 							},
 							[38193] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 2184,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 1828,
 									["Masturbado"] = 2184,
@@ -38006,14 +38126,14 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 9,
-								["b_dmg"] = 0,
+								["n_max"] = 2184,
 								["r_amt"] = 6,
 							},
 							[38238] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1997,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 1997,
 									["Shifthole"] = 856,
@@ -38034,13 +38154,13 @@ _detalhes_database = {
 								["successful_casted"] = 2,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 1997,
 								["r_amt"] = 1,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38056,7 +38176,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 41526.039031,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 41526.039031,
 					["friendlyfire"] = {
 					},
@@ -38092,7 +38212,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 536,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shadowfiend <Lightnot>"] = 878,
 									["Masturbado"] = 485,
@@ -38105,12 +38225,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 57,
 								["MISS"] = 1,
-								["total"] = 16922,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 9,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 876,
@@ -38119,14 +38239,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 47,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 536,
+								["total"] = 16922,
 							}, -- [1]
 							[33989] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 649,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Müstardtiger"] = 3046,
 									["Shifthole"] = 16730,
@@ -38149,14 +38269,14 @@ _detalhes_database = {
 								["successful_casted"] = 54,
 								["c_total"] = 0,
 								["n_amt"] = 51,
-								["b_dmg"] = 0,
+								["n_max"] = 649,
 								["r_amt"] = 40,
 							},
 							[17843] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -38175,40 +38295,14 @@ _detalhes_database = {
 								["successful_casted"] = 5,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
-							},
-							[12160] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["g_amt"] = 0,
 								["n_max"] = 0,
-								["targets"] = {
-								},
-								["n_total"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 12160,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["a_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 4,
-								["c_total"] = 0,
-								["n_amt"] = 0,
-								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 							[32689] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -38227,13 +38321,39 @@ _detalhes_database = {
 								["successful_casted"] = 9,
 								["c_total"] = 0,
 								["n_amt"] = 0,
+								["n_max"] = 0,
+								["r_amt"] = 0,
+							},
+							[12160] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["g_amt"] = 0,
 								["b_dmg"] = 0,
+								["targets"] = {
+								},
+								["n_total"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 12160,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 4,
+								["c_total"] = 0,
+								["n_amt"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38249,7 +38369,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 22069.026537,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 22069.026537,
 					["friendlyfire"] = {
 					},
@@ -38265,12 +38385,12 @@ _detalhes_database = {
 						["Shadowfiend <Lightnot>"] = true,
 					},
 					["targets"] = {
-						["Mueltee"] = 4009,
-						["Masturbado"] = 1416,
-						["Müstardtiger"] = 411,
-						["Lightnot"] = 1187,
-						["Shifthole"] = 14147,
 						["Shadowfiend <Lightnot>"] = 899,
+						["Masturbado"] = 1416,
+						["Lightnot"] = 1187,
+						["Müstardtiger"] = 411,
+						["Shifthole"] = 14147,
+						["Mueltee"] = 4009,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -38286,7 +38406,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 271,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shadowfiend <Lightnot>"] = 899,
 									["Masturbado"] = 361,
@@ -38300,12 +38420,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 129,
 								["DODGE"] = 25,
-								["total"] = 16532,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["MISS"] = 4,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -38314,14 +38434,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 100,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 271,
+								["total"] = 16532,
 							}, -- [1]
 							[38056] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 106,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 1159,
 									["Masturbado"] = 1055,
@@ -38347,13 +38467,13 @@ _detalhes_database = {
 								["successful_casted"] = 16,
 								["c_total"] = 0,
 								["n_amt"] = 58,
-								["b_dmg"] = 0,
+								["n_max"] = 106,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38369,7 +38489,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 60905.028899,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 60905.028899,
 					["friendlyfire"] = {
 					},
@@ -38385,12 +38505,12 @@ _detalhes_database = {
 						["Shadowfiend <Lightnot>"] = true,
 					},
 					["targets"] = {
-						["Shadowfiend <Lightnot>"] = 2120,
-						["Masturbado"] = 5101,
-						["Müstardtiger"] = 3877,
-						["Lightnot"] = 21955,
-						["Shifthole"] = 11812,
 						["Mueltee"] = 16040,
+						["Masturbado"] = 5101,
+						["Lightnot"] = 21955,
+						["Müstardtiger"] = 3877,
+						["Shifthole"] = 11812,
+						["Shadowfiend <Lightnot>"] = 2120,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -38406,27 +38526,27 @@ _detalhes_database = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1072,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Mueltee"] = 9842,
-									["Masturbado"] = 2066,
-									["Lightnot"] = 15992,
-									["Shadowfiend"] = 0,
-									["Müstardtiger"] = 1481,
-									["Shifthole"] = 9397,
 									["Shadowfiend <Lightnot>"] = 2120,
+									["Masturbado"] = 2066,
+									["Müstardtiger"] = 1481,
+									["Shadowfiend"] = 0,
+									["Lightnot"] = 15992,
+									["Shifthole"] = 9397,
+									["Mueltee"] = 9842,
 								},
 								["n_total"] = 39129,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
 								["counter"] = 69,
 								["MISS"] = 2,
-								["total"] = 40898,
-								["c_max"] = 1769,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 10,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 1769,
 								["extra"] = {
 								},
 								["a_dmg"] = 3669,
@@ -38435,14 +38555,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 1769,
 								["n_amt"] = 56,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 1072,
+								["total"] = 40898,
 							}, -- [1]
 							[18144] = {
-								["c_amt"] = 0,
+								["DODGE"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 941,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 941,
 									["Masturbado"] = 774,
@@ -38455,12 +38575,12 @@ _detalhes_database = {
 								["a_amt"] = 0,
 								["counter"] = 10,
 								["MISS"] = 1,
-								["total"] = 5493,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["g_dmg"] = 0,
 								["id"] = 18144,
 								["r_dmg"] = 0,
-								["DODGE"] = 1,
+								["c_amt"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -38469,19 +38589,19 @@ _detalhes_database = {
 								["successful_casted"] = 7,
 								["c_total"] = 0,
 								["n_amt"] = 7,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 941,
+								["total"] = 5493,
 							},
 							[32901] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 588,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Mueltee"] = 3823,
 									["Lightnot"] = 3499,
-									["Masturbado"] = 1470,
+									["Mueltee"] = 3823,
 									["Shifthole"] = 1067,
+									["Masturbado"] = 1470,
 								},
 								["n_total"] = 9859,
 								["n_min"] = 0,
@@ -38500,14 +38620,14 @@ _detalhes_database = {
 								["successful_casted"] = 8,
 								["c_total"] = 0,
 								["n_amt"] = 33,
-								["b_dmg"] = 0,
+								["n_max"] = 588,
 								["r_amt"] = 0,
 							},
 							[38059] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 877,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Müstardtiger"] = 1553,
 									["Lightnot"] = 877,
@@ -38531,13 +38651,13 @@ _detalhes_database = {
 								["successful_casted"] = 7,
 								["c_total"] = 0,
 								["n_amt"] = 6,
-								["b_dmg"] = 0,
+								["n_max"] = 877,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38550,12 +38670,13 @@ _detalhes_database = {
 					["flag_original"] = 2600,
 					["pets"] = {
 					},
-					["aID"] = "3300",
+					["classe"] = "UNKNOW",
 					["total_without_pet"] = 0.013646,
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 0.013646,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-3300-0000091643",
 					["damage_from"] = {
@@ -38567,7 +38688,7 @@ _detalhes_database = {
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "3300",
 					["fight_component"] = true,
 					["end_time"] = 1695095295,
 					["totalabsorbed"] = 0.013646,
@@ -38577,8 +38698,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38594,7 +38714,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 40301.014207,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 40301.014207,
 					["friendlyfire"] = {
 					},
@@ -38630,7 +38750,7 @@ _detalhes_database = {
 								["c_amt"] = 2,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1061,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shadowfiend <Lightnot>"] = 2386,
 									["Masturbado"] = 5563,
@@ -38643,12 +38763,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 115,
 								["DODGE"] = 26,
-								["total"] = 40301,
-								["c_max"] = 1226,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["MISS"] = 4,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 1226,
 								["extra"] = {
 								},
 								["a_dmg"] = 1393,
@@ -38657,26 +38777,26 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 2272,
 								["n_amt"] = 83,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 1061,
+								["total"] = 40301,
 							}, -- [1]
 							[27641] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Shifthole"] = 0,
-									["Mueltee"] = 0,
 									["Masturbado"] = 0,
 									["Lightnot"] = 0,
+									["Shifthole"] = 0,
+									["Mueltee"] = 0,
 								},
 								["n_total"] = 0,
 								["n_min"] = 0,
 								["MISS"] = 2,
 								["counter"] = 17,
 								["g_dmg"] = 0,
-								["total"] = 0,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["IMMUNE"] = 3,
 								["id"] = 27641,
@@ -38690,13 +38810,13 @@ _detalhes_database = {
 								["successful_casted"] = 13,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 0,
+								["total"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38713,7 +38833,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 29013.02039999999,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 44071.02039999999,
 					["friendlyfire"] = {
 					},
@@ -38731,9 +38851,9 @@ _detalhes_database = {
 						["Shadowfiend <Lightnot>"] = 1185,
 						["Masturbado"] = 8481,
 						["Mueltee"] = 1032,
-						["Müstardtiger"] = 9776,
-						["Shifthole"] = 9480,
 						["Lightnot"] = 14117,
+						["Shifthole"] = 9480,
+						["Müstardtiger"] = 9776,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -38749,7 +38869,7 @@ _detalhes_database = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1032,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shadowfiend <Lightnot>"] = 1185,
 									["Masturbado"] = 1531,
@@ -38762,12 +38882,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 50,
 								["MISS"] = 2,
-								["total"] = 19502,
-								["c_max"] = 997,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 9,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 997,
 								["extra"] = {
 								},
 								["a_dmg"] = 481,
@@ -38776,14 +38896,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 997,
 								["n_amt"] = 38,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 1032,
+								["total"] = 19502,
 							}, -- [1]
 							[15501] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1553,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Müstardtiger"] = 8380,
 									["Lightnot"] = 1131,
@@ -38805,14 +38925,14 @@ _detalhes_database = {
 								["successful_casted"] = 8,
 								["c_total"] = 0,
 								["n_amt"] = 7,
-								["b_dmg"] = 0,
+								["n_max"] = 1553,
 								["r_amt"] = 7,
 							},
 							[32663] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -38831,13 +38951,13 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38855,7 +38975,8 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 15058.012853,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-18701-00000919C1",
 					["aID"] = "18701",
@@ -38867,10 +38988,10 @@ _detalhes_database = {
 						["Shifthole"] = true,
 					},
 					["targets"] = {
-						["Müstardtiger"] = 1396,
 						["Lightnot"] = 3946,
-						["Shifthole"] = 2766,
+						["Müstardtiger"] = 1396,
 						["Masturbado"] = 6950,
+						["Shifthole"] = 2766,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -38886,22 +39007,22 @@ _detalhes_database = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 742,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Müstardtiger"] = 1396,
 									["Lightnot"] = 2201,
-									["Shifthole"] = 1943,
+									["Müstardtiger"] = 1396,
 									["Masturbado"] = 6254,
+									["Shifthole"] = 1943,
 								},
 								["n_total"] = 10553,
 								["DODGE"] = 4,
 								["n_min"] = 0,
-								["MISS"] = 1,
+								["g_dmg"] = 0,
 								["counter"] = 29,
 								["a_amt"] = 0,
-								["total"] = 11794,
+								["r_amt"] = 0,
 								["c_max"] = 1241,
-								["b_dmg"] = 0,
+								["n_max"] = 742,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -38913,14 +39034,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 1241,
 								["n_amt"] = 21,
-								["r_amt"] = 0,
-								["g_dmg"] = 0,
+								["total"] = 11794,
+								["MISS"] = 1,
 							}, -- [1]
 							[12471] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 957,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Lightnot"] = 1745,
 									["Masturbado"] = 696,
@@ -38942,14 +39063,13 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 957,
 								["r_amt"] = 4,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -38965,7 +39085,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 42008.035913,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 42008.035913,
 					["friendlyfire"] = {
 					},
@@ -38992,24 +39112,24 @@ _detalhes_database = {
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 0,
+								["DODGE"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1737,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 9158,
 									["Masturbado"] = 6560,
 									["Müstardtiger"] = 11955,
 								},
 								["n_total"] = 27673,
-								["MISS"] = 1,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["MISS"] = 1,
 								["counter"] = 25,
 								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["total"] = 27673,
 								["c_max"] = 0,
-								["DODGE"] = 1,
+								["c_amt"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -39021,14 +39141,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 19,
-								["b_dmg"] = 0,
-								["total"] = 27673,
+								["r_amt"] = 0,
+								["n_max"] = 1737,
 							}, -- [1]
 							[24050] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 668,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 4222,
 									["Masturbado"] = 3248,
@@ -39054,13 +39174,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 32,
-								["b_dmg"] = 0,
+								["n_max"] = 668,
 								["r_amt"] = 31,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -39076,7 +39196,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 39037.025145,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 39037.025145,
 					["friendlyfire"] = {
 					},
@@ -39111,12 +39231,12 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 985,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Müstardtiger"] = 985,
 									["Lightnot"] = 1888,
-									["Masturbado"] = 2161,
+									["Müstardtiger"] = 985,
 									["Shifthole"] = 14053,
+									["Masturbado"] = 2161,
 								},
 								["n_total"] = 19087,
 								["a_amt"] = 1,
@@ -39124,9 +39244,9 @@ _detalhes_database = {
 								["MISS"] = 3,
 								["counter"] = 59,
 								["DODGE"] = 10,
-								["total"] = 19087,
+								["r_amt"] = 0,
 								["c_max"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 985,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -39138,14 +39258,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 45,
-								["r_amt"] = 0,
+								["total"] = 19087,
 								["g_dmg"] = 0,
 							}, -- [1]
 							[32682] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Lightnot"] = 0,
 								},
@@ -39166,14 +39286,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[32677] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 739,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 2996,
 									["Shifthole"] = 9565,
@@ -39196,13 +39316,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 36,
-								["b_dmg"] = 0,
+								["n_max"] = 739,
 								["r_amt"] = 29,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -39218,7 +39338,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 14717.014612,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 14717.014612,
 					["friendlyfire"] = {
 					},
@@ -39226,16 +39346,16 @@ _detalhes_database = {
 					["serial"] = "Creature-0-4390-556-3743-18321-0000091644",
 					["on_hold"] = false,
 					["damage_from"] = {
-						["Masturbado"] = true,
-						["Lightnot"] = true,
 						["Shifthole"] = true,
 						["Mueltee"] = true,
+						["Masturbado"] = true,
+						["Lightnot"] = true,
 					},
 					["targets"] = {
-						["Lightnot"] = 1129,
 						["Mueltee"] = 1484,
-						["Shifthole"] = 10505,
+						["Lightnot"] = 1129,
 						["Masturbado"] = 1599,
+						["Shifthole"] = 10505,
 					},
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
@@ -39251,7 +39371,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 649,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Lightnot"] = 649,
 									["Shifthole"] = 9945,
@@ -39262,12 +39382,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 33,
 								["a_amt"] = 5,
-								["total"] = 11869,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 7,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 2399,
@@ -39276,14 +39396,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 25,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 649,
+								["total"] = 11869,
 							}, -- [1]
 							[32654] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -39302,19 +39422,19 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[32674] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 324,
+								["b_dmg"] = 0,
 								["targets"] = {
-									["Masturbado"] = 324,
-									["Mueltee"] = 1484,
 									["Shifthole"] = 560,
 									["Lightnot"] = 480,
+									["Masturbado"] = 324,
+									["Mueltee"] = 1484,
 								},
 								["n_total"] = 2848,
 								["n_min"] = 0,
@@ -39332,13 +39452,13 @@ _detalhes_database = {
 								["successful_casted"] = 5,
 								["c_total"] = 0,
 								["n_amt"] = 10,
-								["b_dmg"] = 0,
+								["n_max"] = 324,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -39351,16 +39471,16 @@ _detalhes_database = {
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
-					["aID"] = "18473",
+					["classe"] = "UNKNOW",
 					["total_without_pet"] = 62046.007069,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 62046.007069,
 					["friendlyfire"] = {
 					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
-					["classe"] = "UNKNOW",
+					["on_hold"] = false,
 					["damage_from"] = {
 						["Mueltee"] = true,
 						["Masturbado"] = true,
@@ -39380,16 +39500,16 @@ _detalhes_database = {
 					},
 					["totalabsorbed"] = 1268.007069,
 					["end_time"] = 1695095854,
-					["boss_fight_component"] = true,
-					["on_hold"] = false,
 					["nome"] = "Talon King Ikiss",
+					["aID"] = "18473",
+					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 953,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 6456,
 								},
@@ -39398,12 +39518,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 14,
 								["MISS"] = 2,
-								["total"] = 6456,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 4,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 2598,
@@ -39412,14 +39532,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 8,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 953,
+								["total"] = 6456,
 							}, -- [1]
 							[9438] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -39438,14 +39558,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[38151] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -39464,14 +39584,14 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[35059] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1806,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 7456,
 									["Masturbado"] = 7960,
@@ -39495,14 +39615,14 @@ _detalhes_database = {
 								["successful_casted"] = 5,
 								["c_total"] = 0,
 								["n_amt"] = 25,
-								["b_dmg"] = 0,
+								["n_max"] = 1806,
 								["r_amt"] = 18,
 							},
 							[38197] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 4910,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Mueltee"] = 9662,
 									["Masturbado"] = 4763,
@@ -39524,14 +39644,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 4910,
 								["r_amt"] = 4,
 							},
 							[38194] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Shifthole"] = 0,
 									["Mueltee"] = 0,
@@ -39553,14 +39673,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[38245] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -39579,13 +39699,13 @@ _detalhes_database = {
 								["successful_casted"] = 4,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -39601,7 +39721,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 8124.038983,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 8124.038983,
 					["friendlyfire"] = {
 					},
@@ -39625,22 +39745,22 @@ _detalhes_database = {
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["c_amt"] = 2,
+								["DODGE"] = 8,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 209,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 7325,
 								},
 								["n_total"] = 6720,
-								["MISS"] = 5,
-								["n_min"] = 0,
 								["g_dmg"] = 0,
+								["n_min"] = 0,
+								["MISS"] = 5,
 								["counter"] = 58,
 								["a_amt"] = 0,
-								["r_amt"] = 0,
+								["total"] = 7325,
 								["c_max"] = 308,
-								["DODGE"] = 8,
+								["c_amt"] = 2,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -39652,14 +39772,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 605,
 								["n_amt"] = 39,
-								["b_dmg"] = 0,
-								["total"] = 7325,
+								["r_amt"] = 0,
+								["n_max"] = 209,
 							}, -- [1]
 							[36094] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 0,
 								},
@@ -39681,14 +39801,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[12169] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -39707,14 +39827,14 @@ _detalhes_database = {
 								["successful_casted"] = 6,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[36093] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 208,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 799,
 								},
@@ -39736,13 +39856,13 @@ _detalhes_database = {
 								["successful_casted"] = 7,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
+								["n_max"] = 208,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -39758,7 +39878,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 13049.060374,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 13049.060374,
 					["friendlyfire"] = {
 					},
@@ -39785,7 +39905,7 @@ _detalhes_database = {
 								["c_amt"] = 2,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 163,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 1733,
 								},
@@ -39794,12 +39914,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 14,
 								["a_amt"] = 0,
-								["total"] = 1733,
-								["c_max"] = 275,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["MISS"] = 2,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 275,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -39808,14 +39928,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 518,
 								["n_amt"] = 9,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 163,
+								["total"] = 1733,
 							}, -- [1]
 							[20822] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 735,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 11049,
 								},
@@ -39836,14 +39956,14 @@ _detalhes_database = {
 								["successful_casted"] = 18,
 								["c_total"] = 0,
 								["n_amt"] = 17,
-								["b_dmg"] = 0,
+								["n_max"] = 735,
 								["r_amt"] = 0,
 							},
 							[11831] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 267,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 267,
 								},
@@ -39863,13 +39983,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 1,
-								["b_dmg"] = 0,
+								["n_max"] = 267,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -39885,7 +40005,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 1691.016424,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 1691.016424,
 					["friendlyfire"] = {
 					},
@@ -39912,7 +40032,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 195,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 641,
 								},
@@ -39921,12 +40041,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 6,
 								["a_amt"] = 0,
-								["total"] = 641,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 1,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -39935,14 +40055,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 4,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 195,
+								["total"] = 641,
 							}, -- [1]
 							[34447] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 210,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 1050,
 								},
@@ -39962,14 +40082,14 @@ _detalhes_database = {
 								["successful_casted"] = 5,
 								["c_total"] = 0,
 								["n_amt"] = 5,
-								["b_dmg"] = 0,
+								["n_max"] = 210,
 								["r_amt"] = 0,
 							},
 							[17740] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -39988,14 +40108,14 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 							[12544] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40014,13 +40134,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40036,7 +40156,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 1804.010839,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 1804.010839,
 					["friendlyfire"] = {
 					},
@@ -40063,7 +40183,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 158,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 158,
 								},
@@ -40072,12 +40192,12 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 3,
 								["a_amt"] = 0,
-								["total"] = 158,
-								["c_max"] = 0,
+								["r_amt"] = 0,
+								["spellschool"] = 1,
 								["DODGE"] = 1,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
@@ -40086,14 +40206,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 1,
-								["b_dmg"] = 0,
-								["r_amt"] = 0,
+								["n_max"] = 158,
+								["total"] = 158,
 							}, -- [1]
 							[9672] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 487,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 1377,
 								},
@@ -40113,14 +40233,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 487,
 								["r_amt"] = 0,
 							},
 							[11831] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 269,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 269,
 								},
@@ -40140,14 +40260,14 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 1,
-								["b_dmg"] = 0,
+								["n_max"] = 269,
 								["r_amt"] = 0,
 							},
 							[33245] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40166,13 +40286,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40188,7 +40308,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 655.015255,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 655.015255,
 					["friendlyfire"] = {
 					},
@@ -40215,7 +40335,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 181,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 655,
 								},
@@ -40225,9 +40345,9 @@ _detalhes_database = {
 								["MISS"] = 2,
 								["counter"] = 11,
 								["DODGE"] = 2,
-								["total"] = 655,
+								["r_amt"] = 0,
 								["c_max"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 181,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -40239,13 +40359,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 6,
-								["r_amt"] = 0,
+								["total"] = 655,
 								["g_dmg"] = 0,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40262,7 +40382,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 2328.010058,
 					["last_dps_realtime"] = 0,
-					["dps_started"] = false,
+					["monster"] = true,
 					["total"] = 2476.010058,
 					["friendlyfire"] = {
 					},
@@ -40289,7 +40409,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 190,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 507,
 								},
@@ -40310,14 +40430,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 190,
 								["r_amt"] = 0,
 							}, -- [1]
 							[9532] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 688,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 1821,
 								},
@@ -40337,14 +40457,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["b_dmg"] = 0,
+								["n_max"] = 688,
 								["r_amt"] = 0,
 							},
 							[36110] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40363,13 +40483,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["dps_started"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40387,7 +40507,8 @@ _detalhes_database = {
 					["last_dps_realtime"] = 0,
 					["dps_started"] = false,
 					["total"] = 148.008589,
-					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
 					["total_extra"] = 0,
 					["serial"] = "Creature-0-4390-530-126-21093-0000091FC5",
 					["aID"] = "21093",
@@ -40410,7 +40531,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 76,
+								["b_dmg"] = 0,
 								["targets"] = {
 									["Masturbado"] = 148,
 								},
@@ -40432,14 +40553,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["b_dmg"] = 0,
+								["n_max"] = 76,
 								["r_amt"] = 0,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40455,7 +40575,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 11078.049587,
 					["last_dps_realtime"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 11078.049587,
 					["friendlyfire"] = {
 					},
@@ -40484,7 +40604,7 @@ _detalhes_database = {
 								["c_amt"] = 2,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 207,
 								["targets"] = {
 									["Masturbado"] = 7726,
 									["Nether Beast"] = 2175,
@@ -40492,12 +40612,12 @@ _detalhes_database = {
 								["n_total"] = 9285,
 								["DODGE"] = 4,
 								["n_min"] = 0,
-								["g_dmg"] = 0,
+								["MISS"] = 3,
 								["counter"] = 68,
 								["a_amt"] = 0,
 								["total"] = 9901,
 								["c_max"] = 359,
-								["r_amt"] = 0,
+								["b_dmg"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -40509,14 +40629,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 616,
 								["n_amt"] = 56,
-								["n_max"] = 207,
-								["MISS"] = 3,
+								["r_amt"] = 0,
+								["g_dmg"] = 0,
 							}, -- [1]
 							[12024] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40535,14 +40655,14 @@ _detalhes_database = {
 								["successful_casted"] = 5,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 							[6660] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 252,
 								["targets"] = {
 									["Masturbado"] = 684,
 								},
@@ -40562,14 +40682,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 3,
-								["n_max"] = 252,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 							[37847] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 493,
 								["targets"] = {
 									["Masturbado"] = 493,
 								},
@@ -40589,13 +40709,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 1,
-								["n_max"] = 493,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["dps_started"] = false,
+					["monster"] = true,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40611,7 +40731,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 4214.039804999999,
 					["last_dps_realtime"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 4214.039804999999,
 					["friendlyfire"] = {
 					},
@@ -40637,23 +40757,23 @@ _detalhes_database = {
 					["spells"] = {
 						["_ActorTable"] = {
 							{
-								["DODGE"] = 4,
+								["c_amt"] = 0,
 								["b_amt"] = 2,
 								["g_amt"] = 0,
-								["b_dmg"] = 205,
+								["n_max"] = 209,
 								["targets"] = {
 									["Masturbado"] = 2326,
 									["Sunfury Archer"] = 1888,
 								},
 								["n_total"] = 4214,
-								["g_dmg"] = 0,
-								["n_min"] = 0,
 								["a_amt"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
 								["counter"] = 34,
 								["MISS"] = 3,
 								["total"] = 4214,
 								["c_max"] = 0,
-								["c_amt"] = 0,
+								["DODGE"] = 4,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["spellschool"] = 1,
@@ -40665,13 +40785,13 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 25,
+								["b_dmg"] = 205,
 								["r_amt"] = 0,
-								["n_max"] = 209,
 							}, -- [1]
 						},
 						["tipo"] = 2,
 					},
-					["dps_started"] = false,
+					["monster"] = true,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40687,7 +40807,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 3863.014118,
 					["last_dps_realtime"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 3863.014118,
 					["friendlyfire"] = {
 					},
@@ -40714,7 +40834,7 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 321,
 								["targets"] = {
 									["Masturbado"] = 3183,
 								},
@@ -40736,14 +40856,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 0,
 								["n_amt"] = 16,
-								["n_max"] = 321,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							}, -- [1]
 							[33731] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40762,14 +40882,14 @@ _detalhes_database = {
 								["successful_casted"] = 3,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 							[35857] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 364,
 								["targets"] = {
 									["Masturbado"] = 680,
 								},
@@ -40789,14 +40909,14 @@ _detalhes_database = {
 								["successful_casted"] = 2,
 								["c_total"] = 0,
 								["n_amt"] = 2,
-								["n_max"] = 364,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 							[8599] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40815,13 +40935,13 @@ _detalhes_database = {
 								["successful_casted"] = 2,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["dps_started"] = false,
+					["monster"] = true,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40837,7 +40957,7 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["total_without_pet"] = 647.0088659999999,
 					["last_dps_realtime"] = 0,
-					["monster"] = true,
+					["dps_started"] = false,
 					["total"] = 647.0088659999999,
 					["friendlyfire"] = {
 					},
@@ -40864,7 +40984,7 @@ _detalhes_database = {
 								["c_amt"] = 1,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 177,
 								["targets"] = {
 									["Masturbado"] = 647,
 								},
@@ -40885,14 +41005,14 @@ _detalhes_database = {
 								["successful_casted"] = 0,
 								["c_total"] = 298,
 								["n_amt"] = 2,
-								["n_max"] = 177,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							}, -- [1]
 							[35831] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["g_amt"] = 0,
-								["b_dmg"] = 0,
+								["n_max"] = 0,
 								["targets"] = {
 								},
 								["n_total"] = 0,
@@ -40911,13 +41031,13 @@ _detalhes_database = {
 								["successful_casted"] = 1,
 								["c_total"] = 0,
 								["n_amt"] = 0,
-								["n_max"] = 0,
+								["b_dmg"] = 0,
 								["r_amt"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
-					["dps_started"] = false,
+					["monster"] = true,
 					["tipo"] = 1,
 					["custom"] = 0,
 					["last_event"] = 0,
@@ -40933,10 +41053,8 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1298,
-					["healing_from"] = {
-						["Mueltee"] = true,
-						["Müstardtiger"] = true,
-						["Lightnot"] = true,
+					["targets_overheal"] = {
+						["Mueltee"] = 3464,
 					},
 					["pets"] = {
 					},
@@ -40956,16 +41074,19 @@ _detalhes_database = {
 					["targets"] = {
 						["Mueltee"] = 10463,
 					},
-					["last_event"] = 0,
+					["classe"] = "DEATHKNIGHT",
 					["totalover_without_pet"] = 0.134616,
 					["healing_taken"] = 84357.13461600001,
-					["targets_overheal"] = {
-						["Mueltee"] = 3464,
-					},
+					["start_time"] = 1695093832,
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
-					["heal_enemy_amt"] = 74,
-					["classe"] = "DEATHKNIGHT",
+					["healing_from"] = {
+						["Mueltee"] = true,
+						["Müstardtiger"] = true,
+						["Lightnot"] = true,
+					},
+					["targets_absorbs"] = {
+					},
 					["nome"] = "Mueltee",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -40983,12 +41104,12 @@ _detalhes_database = {
 								["counter"] = 1,
 								["overheal"] = 0,
 								["total"] = 1614,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 52697,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 1,
@@ -41009,12 +41130,12 @@ _detalhes_database = {
 								["counter"] = 430,
 								["overheal"] = 3464,
 								["total"] = 4335,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 50475,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 430,
@@ -41034,12 +41155,12 @@ _detalhes_database = {
 								["counter"] = 3,
 								["overheal"] = 0,
 								["total"] = 4514,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 17534,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 3,
@@ -41049,21 +41170,19 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1695093832,
-					["boss_fight_component"] = true,
+					["heal_enemy_amt"] = 74,
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["totaldenied"] = 0.134616,
 					["delay"] = 0,
-					["targets_absorbs"] = {
-					},
+					["boss_fight_component"] = true,
 				}, -- [1]
 				{
 					["flag_original"] = 1298,
-					["healing_from"] = {
-						["Lightnot"] = true,
-						["Shifthole"] = true,
-						["Müstardtiger"] = true,
+					["targets_overheal"] = {
+						["Shifthole"] = 403,
+						["Masturbado"] = 233,
 					},
 					["pets"] = {
 					},
@@ -41083,17 +41202,20 @@ _detalhes_database = {
 					["targets"] = {
 						["Shifthole"] = 53273,
 					},
-					["last_event"] = 0,
+					["classe"] = "DRUID",
 					["totalover_without_pet"] = 0.1334,
 					["healing_taken"] = 261498.1334,
-					["targets_overheal"] = {
-						["Shifthole"] = 403,
-						["Masturbado"] = 233,
-					},
+					["start_time"] = 1695093975,
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
-					["heal_enemy_amt"] = 763,
-					["classe"] = "DRUID",
+					["healing_from"] = {
+						["Lightnot"] = true,
+						["Shifthole"] = true,
+						["Müstardtiger"] = true,
+					},
+					["targets_absorbs"] = {
+						["Shifthole"] = 49533,
+					},
 					["nome"] = "Shifthole",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -41111,13 +41233,13 @@ _detalhes_database = {
 								["counter"] = 147,
 								["overheal"] = 0,
 								["total"] = 49533,
-								["c_max"] = 0,
+								["spellschool"] = 8,
 								["id"] = 62606,
 								["targets_absorbs"] = {
 									["Shifthole"] = 49533,
 								},
 								["c_min"] = 0,
-								["spellschool"] = 8,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 147,
@@ -41138,12 +41260,12 @@ _detalhes_database = {
 								["counter"] = 17,
 								["overheal"] = 312,
 								["total"] = 2503,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 59913,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 17,
@@ -41166,12 +41288,12 @@ _detalhes_database = {
 								["counter"] = 7,
 								["overheal"] = 324,
 								["total"] = 1237,
-								["c_max"] = 0,
+								["spellschool"] = 8,
 								["id"] = 26980,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 8,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 7,
@@ -41181,21 +41303,23 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1695093975,
-					["boss_fight_component"] = true,
+					["heal_enemy_amt"] = 763,
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["totaldenied"] = 0.1334,
 					["delay"] = 0,
-					["targets_absorbs"] = {
-						["Shifthole"] = 49533,
-					},
+					["boss_fight_component"] = true,
 				}, -- [2]
 				{
 					["flag_original"] = 1298,
-					["healing_from"] = {
-						["Müstardtiger"] = true,
-						["Lightnot"] = true,
+					["targets_overheal"] = {
+						["Mueltee"] = 7994,
+						["Masturbado"] = 3529,
+						["Lightnot"] = 68994,
+						["Müstardtiger"] = 9935,
+						["Shifthole"] = 1189,
+						["Shadowfiend <Lightnot>"] = 1002,
 					},
 					["pets"] = {
 						"Shadowfiend <Lightnot>", -- [1]
@@ -41216,28 +41340,27 @@ _detalhes_database = {
 					["totalabsorb"] = 16318.123772,
 					["last_hps"] = 0,
 					["targets"] = {
-						["Shadowfiend <Lightnot>"] = 523,
-						["Masturbado"] = 17240,
-						["Lightnot"] = 64125,
-						["Müstardtiger"] = 10161,
-						["Shifthole"] = 20835,
 						["Mueltee"] = 12727,
+						["Masturbado"] = 17240,
+						["Müstardtiger"] = 10161,
+						["Lightnot"] = 64125,
+						["Shifthole"] = 20835,
+						["Shadowfiend <Lightnot>"] = 523,
 					},
-					["last_event"] = 0,
+					["classe"] = "PRIEST",
 					["totalover_without_pet"] = 0.123772,
 					["healing_taken"] = 75544.12377199999,
-					["targets_overheal"] = {
-						["Shadowfiend <Lightnot>"] = 1002,
-						["Masturbado"] = 3529,
-						["Müstardtiger"] = 9935,
-						["Lightnot"] = 68994,
-						["Shifthole"] = 1189,
-						["Mueltee"] = 7994,
-					},
+					["start_time"] = 1695093771,
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
-					["heal_enemy_amt"] = 779,
-					["classe"] = "PRIEST",
+					["healing_from"] = {
+						["Müstardtiger"] = true,
+						["Lightnot"] = true,
+					},
+					["targets_absorbs"] = {
+						["Shifthole"] = 2151,
+						["Lightnot"] = 14167,
+					},
 					["nome"] = "Lightnot",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -41245,33 +41368,33 @@ _detalhes_database = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
-									["Shadowfiend <Lightnot>"] = 1002,
-									["Masturbado"] = 3529,
-									["Müstardtiger"] = 9935,
-									["Lightnot"] = 60334,
-									["Shifthole"] = 1189,
 									["Mueltee"] = 7994,
+									["Masturbado"] = 3529,
+									["Lightnot"] = 60334,
+									["Müstardtiger"] = 9935,
+									["Shifthole"] = 1189,
+									["Shadowfiend <Lightnot>"] = 1002,
 								},
 								["n_max"] = 374,
 								["targets"] = {
-									["Shadowfiend <Lightnot>"] = 523,
-									["Masturbado"] = 17240,
-									["Lightnot"] = 43521,
-									["Müstardtiger"] = 10161,
-									["Shifthole"] = 18684,
 									["Mueltee"] = 12727,
+									["Masturbado"] = 17240,
+									["Müstardtiger"] = 10161,
+									["Lightnot"] = 43521,
+									["Shifthole"] = 18684,
+									["Shadowfiend <Lightnot>"] = 523,
 								},
 								["n_total"] = 102856,
 								["n_min"] = 0,
 								["counter"] = 6288,
 								["overheal"] = 83983,
 								["total"] = 102856,
-								["c_max"] = 0,
+								["spellschool"] = 32,
 								["id"] = 15290,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 32,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 6288,
@@ -41292,12 +41415,12 @@ _detalhes_database = {
 								["counter"] = 82,
 								["overheal"] = 3510,
 								["total"] = 2738,
-								["c_max"] = 0,
+								["spellschool"] = 32,
 								["id"] = 25467,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 32,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 82,
@@ -41318,14 +41441,14 @@ _detalhes_database = {
 								["counter"] = 36,
 								["overheal"] = 0,
 								["total"] = 16318,
-								["c_max"] = 0,
+								["spellschool"] = 2,
 								["id"] = 25217,
 								["targets_absorbs"] = {
 									["Shifthole"] = 2151,
 									["Lightnot"] = 14167,
 								},
 								["c_min"] = 0,
-								["spellschool"] = 2,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 36,
@@ -41346,12 +41469,12 @@ _detalhes_database = {
 								["counter"] = 40,
 								["overheal"] = 2789,
 								["total"] = 2297,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 59913,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 40,
@@ -41372,12 +41495,12 @@ _detalhes_database = {
 								["counter"] = 29,
 								["overheal"] = 2361,
 								["total"] = 1402,
-								["c_max"] = 186,
+								["spellschool"] = 32,
 								["id"] = 75999,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 32,
+								["c_max"] = 186,
 								["c_total"] = 186,
 								["totaldenied"] = 0,
 								["n_amt"] = 27,
@@ -41387,22 +41510,22 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1695093771,
-					["boss_fight_component"] = true,
+					["heal_enemy_amt"] = 779,
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["totaldenied"] = 0.123772,
 					["delay"] = 0,
-					["targets_absorbs"] = {
-						["Shifthole"] = 2151,
-						["Lightnot"] = 14167,
-					},
+					["boss_fight_component"] = true,
 				}, -- [3]
 				{
 					["flag_original"] = 1298,
-					["healing_from"] = {
-						["Müstardtiger"] = true,
-						["Lightnot"] = true,
+					["targets_overheal"] = {
+						["Mueltee"] = 3828,
+						["Masturbado"] = 1663,
+						["Müstardtiger"] = 2609,
+						["Shifthole"] = 9053,
+						["Lightnot"] = 4340,
 					},
 					["pets"] = {
 					},
@@ -41427,135 +41550,21 @@ _detalhes_database = {
 						["Shifthole"] = 187390,
 						["Lightnot"] = 11419,
 					},
-					["last_event"] = 0,
+					["classe"] = "SHAMAN",
 					["totalover_without_pet"] = 0.113042,
 					["healing_taken"] = 42660.113042,
-					["targets_overheal"] = {
-						["Mueltee"] = 3828,
-						["Masturbado"] = 1663,
-						["Müstardtiger"] = 2609,
-						["Shifthole"] = 9053,
-						["Lightnot"] = 4340,
-					},
+					["start_time"] = 1695093817,
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
-					["heal_enemy_amt"] = 5807,
-					["classe"] = "SHAMAN",
+					["healing_from"] = {
+						["Müstardtiger"] = true,
+						["Lightnot"] = true,
+					},
+					["targets_absorbs"] = {
+					},
 					["nome"] = "Müstardtiger",
 					["spells"] = {
 						["_ActorTable"] = {
-							[25391] = {
-								["c_amt"] = 1,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Shifthole"] = 863,
-								},
-								["n_max"] = 3189,
-								["targets"] = {
-									["Shifthole"] = 15084,
-									["Mueltee"] = 11085,
-								},
-								["n_total"] = 21344,
-								["n_min"] = 0,
-								["counter"] = 8,
-								["overheal"] = 863,
-								["total"] = 26169,
-								["c_max"] = 4825,
-								["id"] = 25391,
-								["targets_absorbs"] = {
-								},
-								["c_min"] = 0,
-								["spellschool"] = 8,
-								["c_total"] = 4825,
-								["totaldenied"] = 0,
-								["n_amt"] = 7,
-								["absorbed"] = 0,
-							},
-							[28495] = {
-								["c_amt"] = 2,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 1770,
-								["targets"] = {
-									["Müstardtiger"] = 8481,
-								},
-								["n_total"] = 1770,
-								["n_min"] = 0,
-								["counter"] = 3,
-								["overheal"] = 0,
-								["total"] = 8481,
-								["c_max"] = 3522,
-								["id"] = 28495,
-								["targets_absorbs"] = {
-								},
-								["c_min"] = 0,
-								["spellschool"] = 1,
-								["c_total"] = 6711,
-								["totaldenied"] = 0,
-								["n_amt"] = 1,
-								["absorbed"] = 0,
-							},
-							[25422] = {
-								["c_amt"] = 1,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 1146,
-								["targets"] = {
-									["Müstardtiger"] = 411,
-									["Masturbado"] = 1035,
-									["Shifthole"] = 1146,
-								},
-								["n_total"] = 1557,
-								["n_min"] = 0,
-								["counter"] = 3,
-								["overheal"] = 0,
-								["total"] = 2592,
-								["c_max"] = 1035,
-								["id"] = 25422,
-								["targets_absorbs"] = {
-								},
-								["c_min"] = 0,
-								["spellschool"] = 8,
-								["c_total"] = 1035,
-								["totaldenied"] = 0,
-								["n_amt"] = 2,
-								["absorbed"] = 0,
-							},
-							[51998] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Shifthole"] = 192,
-									["Müstardtiger"] = 940,
-									["Masturbado"] = 95,
-									["Mueltee"] = 556,
-								},
-								["n_max"] = 182,
-								["targets"] = {
-									["Mueltee"] = 1871,
-									["Masturbado"] = 2331,
-									["Müstardtiger"] = 1945,
-									["Shifthole"] = 12769,
-									["Lightnot"] = 606,
-								},
-								["n_total"] = 19522,
-								["n_min"] = 0,
-								["counter"] = 140,
-								["overheal"] = 1783,
-								["total"] = 19522,
-								["c_max"] = 0,
-								["id"] = 51998,
-								["targets_absorbs"] = {
-								},
-								["c_min"] = 0,
-								["spellschool"] = 8,
-								["c_total"] = 0,
-								["totaldenied"] = 0,
-								["n_amt"] = 140,
-								["absorbed"] = 0,
-							},
 							[10468] = {
 								["c_amt"] = 39,
 								["totalabsorb"] = 0,
@@ -41579,36 +41588,145 @@ _detalhes_database = {
 								["counter"] = 216,
 								["overheal"] = 18847,
 								["total"] = 277647,
-								["c_max"] = 2091,
+								["spellschool"] = 8,
 								["id"] = 10468,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 8,
+								["c_max"] = 2091,
 								["c_total"] = 64805,
 								["totaldenied"] = 0,
 								["n_amt"] = 177,
+								["absorbed"] = 0,
+							},
+							[25422] = {
+								["c_amt"] = 1,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1146,
+								["targets"] = {
+									["Müstardtiger"] = 411,
+									["Masturbado"] = 1035,
+									["Shifthole"] = 1146,
+								},
+								["n_total"] = 1557,
+								["n_min"] = 0,
+								["counter"] = 3,
+								["overheal"] = 0,
+								["total"] = 2592,
+								["spellschool"] = 8,
+								["id"] = 25422,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_max"] = 1035,
+								["c_total"] = 1035,
+								["totaldenied"] = 0,
+								["n_amt"] = 2,
+								["absorbed"] = 0,
+							},
+							[28495] = {
+								["c_amt"] = 2,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1770,
+								["targets"] = {
+									["Müstardtiger"] = 8481,
+								},
+								["n_total"] = 1770,
+								["n_min"] = 0,
+								["counter"] = 3,
+								["overheal"] = 0,
+								["total"] = 8481,
+								["spellschool"] = 1,
+								["id"] = 28495,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_max"] = 3522,
+								["c_total"] = 6711,
+								["totaldenied"] = 0,
+								["n_amt"] = 1,
+								["absorbed"] = 0,
+							},
+							[25391] = {
+								["c_amt"] = 1,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Shifthole"] = 863,
+								},
+								["n_max"] = 3189,
+								["targets"] = {
+									["Shifthole"] = 15084,
+									["Mueltee"] = 11085,
+								},
+								["n_total"] = 21344,
+								["n_min"] = 0,
+								["counter"] = 8,
+								["overheal"] = 863,
+								["total"] = 26169,
+								["spellschool"] = 8,
+								["id"] = 25391,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_max"] = 4825,
+								["c_total"] = 4825,
+								["totaldenied"] = 0,
+								["n_amt"] = 7,
+								["absorbed"] = 0,
+							},
+							[51998] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Masturbado"] = 95,
+									["Mueltee"] = 556,
+									["Shifthole"] = 192,
+									["Müstardtiger"] = 940,
+								},
+								["n_max"] = 182,
+								["targets"] = {
+									["Mueltee"] = 1871,
+									["Masturbado"] = 2331,
+									["Müstardtiger"] = 1945,
+									["Shifthole"] = 12769,
+									["Lightnot"] = 606,
+								},
+								["n_total"] = 19522,
+								["n_min"] = 0,
+								["counter"] = 140,
+								["overheal"] = 1783,
+								["total"] = 19522,
+								["spellschool"] = 8,
+								["id"] = 51998,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_max"] = 0,
+								["c_total"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 140,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1695093817,
-					["boss_fight_component"] = true,
+					["heal_enemy_amt"] = 5807,
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["totaldenied"] = 0.113042,
 					["delay"] = 0,
-					["targets_absorbs"] = {
-					},
+					["boss_fight_component"] = true,
 				}, -- [4]
 				{
 					["flag_original"] = 1297,
-					["healing_from"] = {
-						["Lightnot"] = true,
-						["Masturbado"] = true,
-						["Müstardtiger"] = true,
+					["targets_overheal"] = {
+						["Masturbado"] = 3913,
 					},
 					["pets"] = {
 					},
@@ -41627,16 +41745,19 @@ _detalhes_database = {
 					["targets"] = {
 						["Masturbado"] = 27160,
 					},
-					["last_event"] = 0,
+					["classe"] = "WARRIOR",
 					["totalover_without_pet"] = 0.251385,
 					["healing_taken"] = 86336.25138499995,
-					["targets_overheal"] = {
-						["Masturbado"] = 3913,
-					},
+					["start_time"] = 1695094192,
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
-					["heal_enemy_amt"] = 0,
-					["classe"] = "WARRIOR",
+					["healing_from"] = {
+						["Lightnot"] = true,
+						["Masturbado"] = true,
+						["Müstardtiger"] = true,
+					},
+					["targets_absorbs"] = {
+					},
 					["nome"] = "Masturbado",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -41655,12 +41776,12 @@ _detalhes_database = {
 								["counter"] = 41,
 								["overheal"] = 543,
 								["total"] = 2203,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 20007,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 41,
@@ -41681,12 +41802,12 @@ _detalhes_database = {
 								["counter"] = 164,
 								["overheal"] = 3370,
 								["total"] = 24107,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 59913,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 164,
@@ -41706,12 +41827,12 @@ _detalhes_database = {
 								["counter"] = 2,
 								["overheal"] = 0,
 								["total"] = 850,
-								["c_max"] = 0,
+								["spellschool"] = 1,
 								["id"] = 27031,
 								["targets_absorbs"] = {
 								},
 								["c_min"] = 0,
-								["spellschool"] = 1,
+								["c_max"] = 0,
 								["c_total"] = 0,
 								["totaldenied"] = 0,
 								["n_amt"] = 2,
@@ -41721,19 +41842,17 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1695094192,
-					["boss_fight_component"] = true,
+					["heal_enemy_amt"] = 0,
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["totaldenied"] = 0.251385,
 					["delay"] = 0,
-					["targets_absorbs"] = {
-					},
+					["boss_fight_component"] = true,
 				}, -- [5]
 				{
 					["flag_original"] = 4370,
-					["healing_from"] = {
-						["Lightnot"] = true,
+					["targets_overheal"] = {
 					},
 					["pets"] = {
 					},
@@ -41755,7 +41874,8 @@ _detalhes_database = {
 					["totalover_without_pet"] = 0.020822,
 					["healing_taken"] = 523.0208220000001,
 					["tipo"] = 2,
-					["targets_overheal"] = {
+					["healing_from"] = {
+						["Lightnot"] = true,
 					},
 					["fight_component"] = true,
 					["end_time"] = 1695094487,
@@ -41780,7 +41900,7 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["aID"] = "18473",
+					["classe"] = "UNKNOW",
 					["totalover"] = 0.011174,
 					["total_without_pet"] = 0.011174,
 					["monster"] = true,
@@ -41809,7 +41929,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 3,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "18473",
 					["heal_enemy_amt"] = 10000,
 					["custom"] = 0,
 					["tipo"] = 2,
@@ -41824,11 +41944,11 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1298,
-					["resource"] = 0.157697,
+					["resource"] = 0.17771,
 					["pets"] = {
 					},
-					["aID"] = "4408-04B19510",
-					["totalover"] = 0.001497,
+					["classe"] = "DRUID",
+					["passiveover"] = 0.001497,
 					["total"] = 3548.04435513262,
 					["spec"] = 103,
 					["serial"] = "Player-4408-04B19510",
@@ -41845,8 +41965,8 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[59072] = {
 								["total"] = 541.5000001564622,
-								["id"] = 59072,
 								["totalover"] = 0,
+								["id"] = 59072,
 								["targets"] = {
 									["Shifthole"] = 0,
 								},
@@ -41854,8 +41974,8 @@ _detalhes_database = {
 							},
 							[59914] = {
 								["total"] = 263,
-								["id"] = 59914,
 								["totalover"] = 0,
+								["id"] = 59914,
 								["targets"] = {
 									["Shifthole"] = 0,
 								},
@@ -41863,8 +41983,8 @@ _detalhes_database = {
 							},
 							[29166] = {
 								["total"] = 1296,
-								["id"] = 29166,
 								["totalover"] = 0,
+								["id"] = 29166,
 								["targets"] = {
 									["Lightnot"] = 1296,
 								},
@@ -41872,8 +41992,8 @@ _detalhes_database = {
 							},
 							[16959] = {
 								["total"] = 1115.900000154972,
-								["id"] = 16959,
 								["totalover"] = 0,
+								["id"] = 16959,
 								["targets"] = {
 									["Shifthole"] = 0,
 								},
@@ -41881,8 +42001,8 @@ _detalhes_database = {
 							},
 							[5229] = {
 								["total"] = 311.4999998211861,
-								["id"] = 5229,
 								["totalover"] = 0,
+								["id"] = 5229,
 								["targets"] = {
 									["Shifthole"] = 0,
 								},
@@ -41890,8 +42010,8 @@ _detalhes_database = {
 							},
 							[17057] = {
 								["total"] = 20,
-								["id"] = 17057,
 								["totalover"] = 0,
+								["id"] = 17057,
 								["targets"] = {
 									["Shifthole"] = 20,
 								},
@@ -41901,19 +42021,19 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["classe"] = "DRUID",
-					["passiveover"] = 0.001497,
+					["aID"] = "4408-04B19510",
+					["totalover"] = 0.001497,
 					["tipo"] = 3,
 					["fight_component"] = true,
 					["boss_fight_component"] = true,
 				}, -- [1]
 				{
 					["flag_original"] = 1297,
-					["resource"] = 0.4448810000000001,
+					["resource"] = 0.8047489999999994,
 					["pets"] = {
 					},
-					["aID"] = "4408-0474E7DA",
-					["totalover"] = 0.006905,
+					["classe"] = "WARRIOR",
+					["passiveover"] = 0.006905,
 					["total"] = 712.5468921907351,
 					["spec"] = 71,
 					["serial"] = "Player-4408-0474E7DA",
@@ -41927,28 +42047,28 @@ _detalhes_database = {
 					["nome"] = "Masturbado",
 					["spells"] = {
 						["_ActorTable"] = {
-							[58362] = {
-								["total"] = 300,
-								["id"] = 58362,
-								["totalover"] = 0,
-								["targets"] = {
-									["Masturbado"] = 0,
-								},
-								["counter"] = 30,
-							},
 							[2687] = {
 								["total"] = 189.3000001907349,
-								["id"] = 2687,
 								["totalover"] = 0,
+								["id"] = 2687,
 								["targets"] = {
 									["Masturbado"] = 0,
 								},
 								["counter"] = 10,
 							},
+							[58362] = {
+								["total"] = 300,
+								["totalover"] = 0,
+								["id"] = 58362,
+								["targets"] = {
+									["Masturbado"] = 0,
+								},
+								["counter"] = 30,
+							},
 							[29131] = {
 								["total"] = 102,
-								["id"] = 29131,
 								["totalover"] = 0,
+								["id"] = 29131,
 								["targets"] = {
 									["Masturbado"] = 0,
 								},
@@ -41956,8 +42076,8 @@ _detalhes_database = {
 							},
 							[12964] = {
 								["total"] = 121,
-								["id"] = 12964,
 								["totalover"] = 0,
+								["id"] = 12964,
 								["targets"] = {
 									["Masturbado"] = 0,
 								},
@@ -41967,19 +42087,19 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["classe"] = "WARRIOR",
-					["passiveover"] = 0.006905,
+					["aID"] = "4408-0474E7DA",
+					["totalover"] = 0.006905,
 					["tipo"] = 3,
 					["fight_component"] = true,
 					["boss_fight_component"] = true,
 				}, -- [2]
 				{
 					["flag_original"] = 1298,
-					["resource"] = 0.178524,
+					["resource"] = 0.219534,
 					["pets"] = {
 					},
-					["aID"] = "4408-051A4069",
-					["totalover"] = 0.003772,
+					["classe"] = "DEATHKNIGHT",
+					["passiveover"] = 0.003772,
 					["total"] = 2444.951184190735,
 					["spec"] = 251,
 					["serial"] = "Player-4408-051A4069",
@@ -41995,8 +42115,8 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[49184] = {
 								["total"] = 276.0999999046326,
-								["id"] = 49184,
 								["totalover"] = 0,
+								["id"] = 49184,
 								["targets"] = {
 									["Mueltee"] = 0,
 								},
@@ -42004,8 +42124,8 @@ _detalhes_database = {
 							},
 							[49927] = {
 								["total"] = 394.4000000953674,
-								["id"] = 49927,
 								["totalover"] = 0,
+								["id"] = 49927,
 								["targets"] = {
 									["Mueltee"] = 0,
 								},
@@ -42013,8 +42133,8 @@ _detalhes_database = {
 							},
 							[49020] = {
 								["total"] = 381.5999999046326,
-								["id"] = 49020,
 								["totalover"] = 0,
+								["id"] = 49020,
 								["targets"] = {
 									["Mueltee"] = 0,
 								},
@@ -42022,8 +42142,8 @@ _detalhes_database = {
 							},
 							[51271] = {
 								["total"] = 22,
-								["id"] = 51271,
 								["totalover"] = 0,
+								["id"] = 51271,
 								["targets"] = {
 									["Mueltee"] = 0,
 								},
@@ -42031,8 +42151,8 @@ _detalhes_database = {
 							},
 							[52697] = {
 								["total"] = 50,
-								["id"] = 52697,
 								["totalover"] = 0,
+								["id"] = 52697,
 								["targets"] = {
 									["Mueltee"] = 50,
 								},
@@ -42040,8 +42160,8 @@ _detalhes_database = {
 							},
 							[50163] = {
 								["total"] = 311,
-								["id"] = 50163,
 								["totalover"] = 0,
+								["id"] = 50163,
 								["targets"] = {
 									["Mueltee"] = 311,
 								},
@@ -42049,8 +42169,8 @@ _detalhes_database = {
 							},
 							[49917] = {
 								["total"] = 311.2000002861023,
-								["id"] = 49917,
 								["totalover"] = 0,
+								["id"] = 49917,
 								["targets"] = {
 									["Mueltee"] = 0,
 								},
@@ -42058,8 +42178,8 @@ _detalhes_database = {
 							},
 							[43265] = {
 								["total"] = 210,
-								["id"] = 43265,
 								["totalover"] = 0,
+								["id"] = 43265,
 								["targets"] = {
 									["Mueltee"] = 210,
 								},
@@ -42067,8 +42187,8 @@ _detalhes_database = {
 							},
 							[49896] = {
 								["total"] = 478.5,
-								["id"] = 49896,
 								["totalover"] = 0,
+								["id"] = 49896,
 								["targets"] = {
 									["Mueltee"] = 0,
 								},
@@ -42076,8 +42196,8 @@ _detalhes_database = {
 							},
 							[45524] = {
 								["total"] = 10,
-								["id"] = 45524,
 								["totalover"] = 0,
+								["id"] = 45524,
 								["targets"] = {
 									["Mueltee"] = 10,
 								},
@@ -42087,20 +42207,20 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["classe"] = "DEATHKNIGHT",
-					["passiveover"] = 0.003772,
+					["aID"] = "4408-051A4069",
+					["totalover"] = 0.003772,
 					["tipo"] = 3,
 					["fight_component"] = true,
 					["boss_fight_component"] = true,
 				}, -- [3]
 				{
 					["flag_original"] = 1298,
-					["resource"] = 0.150584,
+					["resource"] = 0.175472,
 					["pets"] = {
 						"Shadowfiend <Lightnot>", -- [1]
 					},
-					["aID"] = "4408-03CDC066",
-					["totalover"] = 0.004235,
+					["classe"] = "PRIEST",
+					["passiveover"] = 0.004235,
 					["total"] = 40492.133992,
 					["spec"] = 258,
 					["serial"] = "Player-4408-03CDC066",
@@ -42118,8 +42238,8 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[17531] = {
 								["total"] = 1752,
-								["id"] = 17531,
 								["totalover"] = 0,
+								["id"] = 17531,
 								["targets"] = {
 									["Lightnot"] = 1752,
 								},
@@ -42127,8 +42247,8 @@ _detalhes_database = {
 							},
 							[59914] = {
 								["total"] = 6957,
-								["id"] = 59914,
 								["totalover"] = 0,
+								["id"] = 59914,
 								["targets"] = {
 									["Lightnot"] = 0,
 								},
@@ -42136,8 +42256,8 @@ _detalhes_database = {
 							},
 							[57669] = {
 								["total"] = 10637,
-								["id"] = 57669,
 								["totalover"] = 0,
+								["id"] = 57669,
 								["targets"] = {
 									["Müstardtiger"] = 0,
 									["Shifthole"] = 0,
@@ -42147,8 +42267,8 @@ _detalhes_database = {
 							},
 							[71132] = {
 								["total"] = 8607,
-								["id"] = 71132,
 								["totalover"] = 0,
+								["id"] = 71132,
 								["targets"] = {
 									["Lightnot"] = 0,
 								},
@@ -42158,20 +42278,20 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["classe"] = "PRIEST",
-					["passiveover"] = 0.004235,
+					["aID"] = "4408-03CDC066",
+					["totalover"] = 0.004235,
 					["tipo"] = 3,
 					["fight_component"] = true,
 					["boss_fight_component"] = true,
 				}, -- [4]
 				{
 					["flag_original"] = 1298,
-					["resource"] = 0.159128,
+					["resource"] = 0.212045,
 					["pets"] = {
 						"Mana Tide Totem <Müstardtiger>", -- [1]
 					},
-					["aID"] = "4408-050DF194",
-					["totalover"] = 0.0046,
+					["classe"] = "SHAMAN",
+					["passiveover"] = 0.0046,
 					["total"] = 13399.12385,
 					["spec"] = 264,
 					["serial"] = "Player-4408-050DF194",
@@ -42187,8 +42307,8 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[23575] = {
 								["total"] = 9208,
-								["id"] = 23575,
 								["totalover"] = 0,
+								["id"] = 23575,
 								["targets"] = {
 									["Müstardtiger"] = 0,
 								},
@@ -42196,8 +42316,8 @@ _detalhes_database = {
 							},
 							[28499] = {
 								["total"] = 1944,
-								["id"] = 28499,
 								["totalover"] = 0,
+								["id"] = 28499,
 								["targets"] = {
 									["Müstardtiger"] = 1944,
 								},
@@ -42207,14 +42327,14 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["classe"] = "SHAMAN",
-					["passiveover"] = 0.0046,
+					["aID"] = "4408-050DF194",
+					["totalover"] = 0.0046,
 					["tipo"] = 3,
 					["fight_component"] = true,
 					["boss_fight_component"] = true,
 				}, -- [5]
 				{
-					["flag_original"] = 4370,
+					["received"] = 0.022359,
 					["resource"] = 0.022359,
 					["targets"] = {
 						["Lightnot"] = 12539,
@@ -42223,7 +42343,7 @@ _detalhes_database = {
 					},
 					["powertype"] = 0,
 					["aID"] = "19668",
-					["totalover"] = 0.005938,
+					["passiveover"] = 0.005938,
 					["fight_component"] = true,
 					["alternatepower"] = 0.022359,
 					["nome"] = "Shadowfiend <Lightnot>",
@@ -42231,8 +42351,8 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[34650] = {
 								["total"] = 12539,
-								["id"] = 34650,
 								["totalover"] = 0,
+								["id"] = 34650,
 								["targets"] = {
 									["Lightnot"] = 12539,
 								},
@@ -42241,20 +42361,20 @@ _detalhes_database = {
 						},
 						["tipo"] = 7,
 					},
-					["received"] = 0.022359,
+					["flag_original"] = 4370,
 					["classe"] = "PET",
-					["last_event"] = 0,
-					["passiveover"] = 0.005938,
+					["tipo"] = 3,
+					["totalover"] = 0.005938,
 					["total"] = 12539.022359,
 					["serial"] = "Creature-0-4390-556-3743-19668-00000916BB",
-					["tipo"] = 3,
+					["last_event"] = 0,
 				}, -- [6]
 				{
 					["flag_original"] = 8466,
 					["resource"] = 0.007508000000000001,
 					["pets"] = {
 					},
-					["aID"] = "10467",
+					["classe"] = "PET",
 					["passiveover"] = 0.00495,
 					["total"] = 2247.007508,
 					["serial"] = "Creature-0-4390-556-3743-10467-00000917C2",
@@ -42271,8 +42391,8 @@ _detalhes_database = {
 						["_ActorTable"] = {
 							[39609] = {
 								["total"] = 2247,
-								["id"] = 39609,
 								["totalover"] = 0,
+								["id"] = 39609,
 								["targets"] = {
 									["Müstardtiger"] = 1275,
 									["Lightnot"] = 972,
@@ -42283,7 +42403,7 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["tipo"] = 3,
-					["classe"] = "PET",
+					["aID"] = "10467",
 					["totalover"] = 0.00495,
 					["last_event"] = 0,
 				}, -- [7]
@@ -42296,26 +42416,6 @@ _detalhes_database = {
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
 						["_ActorTable"] = {
-							[10890] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 9,
-								["id"] = 10890,
-								["uptime"] = 17,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[25467] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 30,
-								["id"] = 25467,
-								["uptime"] = 284,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[33198] = {
 								["actived_at"] = 5085285053,
 								["refreshamt"] = 152,
@@ -42323,6 +42423,26 @@ _detalhes_database = {
 								["appliedamt"] = 96,
 								["id"] = 33198,
 								["uptime"] = 712,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[48301] = {
+								["refreshamt"] = 5,
+								["activedamt"] = 0,
+								["appliedamt"] = 32,
+								["id"] = 48301,
+								["uptime"] = 180,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[10890] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 9,
+								["id"] = 10890,
+								["uptime"] = 17,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -42369,12 +42489,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[48301] = {
-								["refreshamt"] = 5,
+							[25467] = {
+								["refreshamt"] = 0,
 								["activedamt"] = 0,
-								["appliedamt"] = 32,
-								["id"] = 48301,
-								["uptime"] = 180,
+								["appliedamt"] = 30,
+								["id"] = 25467,
+								["uptime"] = 284,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -42387,12 +42507,12 @@ _detalhes_database = {
 					["pets"] = {
 						"Shadowfiend <Lightnot>", -- [1]
 					},
-					["aID"] = "4408-03CDC066",
+					["classe"] = "PRIEST",
 					["dispell_targets"] = {
-						["Shifthole"] = 5,
-						["Lightnot"] = 2,
 						["Masturbado"] = 3,
 						["Mueltee"] = 3,
+						["Shifthole"] = 5,
+						["Lightnot"] = 2,
 					},
 					["debuff_uptime"] = 2746,
 					["buff_uptime_targets"] = {
@@ -42405,18 +42525,7 @@ _detalhes_database = {
 						["Avian Warhawk"] = 2,
 						["Sethekk Talon Lord"] = 1,
 					},
-					["cooldowns_defensive_spells"] = {
-						["_ActorTable"] = {
-							[47585] = {
-								["id"] = 47585,
-								["targets"] = {
-									["Lightnot"] = 1,
-								},
-								["counter"] = 1,
-							},
-						},
-						["tipo"] = 9,
-					},
+					["serial"] = "Player-4408-03CDC066",
 					["buff_uptime"] = 8593,
 					["cc_done_spells"] = {
 						["_ActorTable"] = {
@@ -42446,7 +42555,12 @@ _detalhes_database = {
 					["dispell_spells"] = {
 						["_ActorTable"] = {
 							[988] = {
-								["dispell"] = 13,
+								["targets"] = {
+									["Masturbado"] = 3,
+									["Mueltee"] = 3,
+									["Shifthole"] = 5,
+									["Lightnot"] = 2,
+								},
 								["id"] = 988,
 								["dispell_oque"] = {
 									[32651] = 6,
@@ -42454,23 +42568,13 @@ _detalhes_database = {
 									[27641] = 4,
 									[32129] = 2,
 								},
-								["targets"] = {
-									["Shifthole"] = 5,
-									["Lightnot"] = 2,
-									["Masturbado"] = 3,
-									["Mueltee"] = 3,
-								},
+								["dispell"] = 13,
 								["counter"] = 0,
 							},
 						},
 						["tipo"] = 9,
 					},
 					["fight_component"] = true,
-					["serial"] = "Player-4408-03CDC066",
-					["classe"] = "PRIEST",
-					["cc_done"] = 9.026243000000001,
-					["nome"] = "Lightnot",
-					["grupo"] = true,
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[27089] = {
@@ -42659,11 +42763,27 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["last_event"] = 0,
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
+					["aID"] = "4408-03CDC066",
+					["cc_done"] = 9.026243000000001,
+					["nome"] = "Lightnot",
+					["grupo"] = true,
 					["debuff_uptime_targets"] = {
 					},
+					["tipo"] = 4,
+					["cooldowns_defensive_spells"] = {
+						["_ActorTable"] = {
+							[47585] = {
+								["id"] = 47585,
+								["targets"] = {
+									["Lightnot"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["boss_fight_component"] = true,
+					["last_event"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 1047,
@@ -42689,12 +42809,13 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[51399] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 3,
-								["id"] = 51399,
-								["uptime"] = 9,
+							[51714] = {
+								["actived_at"] = 1695094587,
+								["refreshamt"] = 325,
+								["activedamt"] = 1,
+								["appliedamt"] = 67,
+								["id"] = 51714,
+								["uptime"] = 504,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -42749,13 +42870,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[51714] = {
-								["actived_at"] = 1695094587,
-								["refreshamt"] = 325,
-								["activedamt"] = 1,
-								["appliedamt"] = 67,
-								["id"] = 51714,
-								["uptime"] = 504,
+							[51399] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 3,
+								["id"] = 51399,
+								["uptime"] = 9,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -42902,18 +43022,18 @@ _detalhes_database = {
 					},
 					["fight_component"] = true,
 					["debuff_uptime"] = 1545,
-					["nome"] = "Mueltee",
+					["boss_fight_component"] = true,
 					["spec"] = 251,
 					["grupo"] = true,
-					["boss_fight_component"] = true,
-					["classe"] = "DEATHKNIGHT",
-					["pets"] = {
-					},
-					["tipo"] = 4,
 					["debuff_uptime_targets"] = {
 					},
+					["pets"] = {
+					},
+					["classe"] = "DEATHKNIGHT",
+					["tipo"] = 4,
 					["buff_uptime_targets"] = {
 					},
+					["nome"] = "Mueltee",
 					["serial"] = "Player-4408-051A4069",
 					["last_event"] = 0,
 				}, -- [2]
@@ -42948,19 +43068,44 @@ _detalhes_database = {
 					["pets"] = {
 						"Searing Totem VI <Müstardtiger>", -- [1]
 					},
-					["aID"] = "4408-050DF194",
-					["buff_uptime_spells"] = {
+					["classe"] = "SHAMAN",
+					["dispell_targets"] = {
+						["Shifthole"] = 1,
+					},
+					["debuff_uptime"] = 13,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 264,
+					["serial"] = "Player-4408-050DF194",
+					["buff_uptime"] = 2921,
+					["last_event"] = 0,
+					["dispell_oque"] = {
+						[55095] = 1,
+					},
+					["dispell_spells"] = {
 						["_ActorTable"] = {
-							[51998] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 51998,
-								["uptime"] = 68,
+							[51886] = {
 								["targets"] = {
+									["Shifthole"] = 1,
 								},
+								["id"] = 51886,
+								["dispell_oque"] = {
+									[55095] = 1,
+								},
+								["dispell"] = 1,
 								["counter"] = 0,
 							},
+						},
+						["tipo"] = 9,
+					},
+					["fight_component"] = true,
+					["boss_fight_component"] = true,
+					["grupo"] = true,
+					["nome"] = "Müstardtiger",
+					["aID"] = "4408-050DF194",
+					["tipo"] = 4,
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
 							[24398] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 22,
@@ -42971,13 +43116,23 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[34291] = {
+							[51998] = {
 								["refreshamt"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 34291,
-								["actived_at"] = 1695094788,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 51998,
+								["uptime"] = 68,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[25362] = {
+								["actived_at"] = 5085285416,
+								["refreshamt"] = 0,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 25362,
+								["uptime"] = 197,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -42992,23 +43147,22 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
+							[377749] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 25,
+								["appliedamt"] = 25,
+								["id"] = 377749,
+								["uptime"] = 889,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
 							[33377] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 26,
 								["appliedamt"] = 26,
 								["id"] = 33377,
 								["uptime"] = 785,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[25362] = {
-								["actived_at"] = 5085285416,
-								["refreshamt"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 25362,
-								["uptime"] = 197,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -43084,53 +43238,19 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[377749] = {
+							[34291] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 25,
-								["appliedamt"] = 25,
-								["id"] = 377749,
-								["uptime"] = 889,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 34291,
+								["actived_at"] = 1695094788,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 						},
 						["tipo"] = 9,
-					},
-					["debuff_uptime"] = 13,
-					["buff_uptime_targets"] = {
-					},
-					["spec"] = 264,
-					["serial"] = "Player-4408-050DF194",
-					["buff_uptime"] = 2921,
-					["last_event"] = 0,
-					["dispell_oque"] = {
-						[55095] = 1,
-					},
-					["dispell_spells"] = {
-						["_ActorTable"] = {
-							[51886] = {
-								["dispell"] = 1,
-								["id"] = 51886,
-								["dispell_oque"] = {
-									[55095] = 1,
-								},
-								["targets"] = {
-									["Shifthole"] = 1,
-								},
-								["counter"] = 0,
-							},
-						},
-						["tipo"] = 9,
-					},
-					["fight_component"] = true,
-					["boss_fight_component"] = true,
-					["grupo"] = true,
-					["nome"] = "Müstardtiger",
-					["classe"] = "SHAMAN",
-					["tipo"] = 4,
-					["dispell_targets"] = {
-						["Shifthole"] = 1,
 					},
 					["debuff_uptime_targets"] = {
 					},
@@ -43249,7 +43369,120 @@ _detalhes_database = {
 					["cooldowns_defensive"] = 20.064824,
 					["pets"] = {
 					},
+					["aID"] = "4408-04B19510",
+					["dispell_targets"] = {
+						["Masturbado"] = 1,
+						["Shifthole"] = 1,
+					},
+					["debuff_uptime"] = 1457,
+					["debuff_uptime_targets"] = {
+					},
+					["spec"] = 103,
+					["cc_done_targets"] = {
+						["Masturbado"] = 1,
+						["Cobalt Serpent"] = 1,
+						["Sethekk Oracle"] = 3,
+						["Avian Darkhawk"] = 2,
+						["Time-Lost Scryer"] = 1,
+						["Time-Lost Shadowmage"] = 3,
+						["Time-Lost Controller"] = 1,
+						["Sethekk Prophet"] = 3,
+						["Sethekk Guard"] = 2,
+						["Sethekk Initiate"] = 1,
+					},
+					["serial"] = "Player-4408-04B19510",
+					["buff_uptime"] = 5946,
+					["cc_done_spells"] = {
+						["_ActorTable"] = {
+							[19970] = {
+								["id"] = 19970,
+								["targets"] = {
+									["Avian Darkhawk"] = 2,
+									["Time-Lost Controller"] = 1,
+									["Sethekk Prophet"] = 2,
+									["Time-Lost Shadowmage"] = 2,
+									["Sethekk Oracle"] = 2,
+								},
+								["counter"] = 9,
+							},
+							[45334] = {
+								["id"] = 45334,
+								["targets"] = {
+									["Sethekk Initiate"] = 1,
+									["Time-Lost Scryer"] = 1,
+									["Cobalt Serpent"] = 1,
+									["Time-Lost Shadowmage"] = 1,
+									["Sethekk Guard"] = 2,
+								},
+								["counter"] = 6,
+							},
+							[8983] = {
+								["id"] = 8983,
+								["targets"] = {
+									["Sethekk Oracle"] = 1,
+									["Sethekk Prophet"] = 1,
+									["Masturbado"] = 1,
+								},
+								["counter"] = 3,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["cooldowns_defensive_targets"] = {
+						["Shifthole"] = 18,
+						["Müstardtiger"] = 2,
+					},
+					["dispell_oque"] = {
+						[35013] = 2,
+					},
+					["dispell_spells"] = {
+						["_ActorTable"] = {
+							[2782] = {
+								["targets"] = {
+									["Masturbado"] = 1,
+									["Shifthole"] = 1,
+								},
+								["id"] = 2782,
+								["dispell_oque"] = {
+									[35013] = 2,
+								},
+								["dispell"] = 2,
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["fight_component"] = true,
+					["cooldowns_defensive_spells"] = {
+						["_ActorTable"] = {
+							[22812] = {
+								["id"] = 22812,
+								["targets"] = {
+									["Shifthole"] = 13,
+								},
+								["counter"] = 13,
+							},
+							[29166] = {
+								["id"] = 29166,
+								["targets"] = {
+									["Müstardtiger"] = 2,
+								},
+								["counter"] = 2,
+							},
+							[61336] = {
+								["id"] = 61336,
+								["targets"] = {
+									["Shifthole"] = 5,
+								},
+								["counter"] = 5,
+							},
+						},
+						["tipo"] = 9,
+					},
 					["classe"] = "DRUID",
+					["cc_done"] = 18.052946,
+					["nome"] = "Shifthole",
+					["grupo"] = true,
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[62606] = {
@@ -43425,124 +43658,11 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["debuff_uptime"] = 1457,
+					["tipo"] = 4,
+					["boss_fight_component"] = true,
+					["last_event"] = 0,
 					["buff_uptime_targets"] = {
 					},
-					["spec"] = 103,
-					["cc_done_targets"] = {
-						["Masturbado"] = 1,
-						["Cobalt Serpent"] = 1,
-						["Sethekk Oracle"] = 3,
-						["Sethekk Initiate"] = 1,
-						["Time-Lost Scryer"] = 1,
-						["Time-Lost Shadowmage"] = 3,
-						["Time-Lost Controller"] = 1,
-						["Sethekk Prophet"] = 3,
-						["Sethekk Guard"] = 2,
-						["Avian Darkhawk"] = 2,
-					},
-					["cooldowns_defensive_spells"] = {
-						["_ActorTable"] = {
-							[61336] = {
-								["id"] = 61336,
-								["targets"] = {
-									["Shifthole"] = 5,
-								},
-								["counter"] = 5,
-							},
-							[29166] = {
-								["id"] = 29166,
-								["targets"] = {
-									["Müstardtiger"] = 2,
-								},
-								["counter"] = 2,
-							},
-							[22812] = {
-								["id"] = 22812,
-								["targets"] = {
-									["Shifthole"] = 13,
-								},
-								["counter"] = 13,
-							},
-						},
-						["tipo"] = 9,
-					},
-					["buff_uptime"] = 5946,
-					["cc_done_spells"] = {
-						["_ActorTable"] = {
-							[19970] = {
-								["id"] = 19970,
-								["targets"] = {
-									["Avian Darkhawk"] = 2,
-									["Sethekk Oracle"] = 2,
-									["Sethekk Prophet"] = 2,
-									["Time-Lost Shadowmage"] = 2,
-									["Time-Lost Controller"] = 1,
-								},
-								["counter"] = 9,
-							},
-							[45334] = {
-								["id"] = 45334,
-								["targets"] = {
-									["Sethekk Initiate"] = 1,
-									["Time-Lost Scryer"] = 1,
-									["Cobalt Serpent"] = 1,
-									["Time-Lost Shadowmage"] = 1,
-									["Sethekk Guard"] = 2,
-								},
-								["counter"] = 6,
-							},
-							[8983] = {
-								["id"] = 8983,
-								["targets"] = {
-									["Sethekk Oracle"] = 1,
-									["Sethekk Prophet"] = 1,
-									["Masturbado"] = 1,
-								},
-								["counter"] = 3,
-							},
-						},
-						["tipo"] = 9,
-					},
-					["cooldowns_defensive_targets"] = {
-						["Shifthole"] = 18,
-						["Müstardtiger"] = 2,
-					},
-					["dispell_oque"] = {
-						[35013] = 2,
-					},
-					["dispell_spells"] = {
-						["_ActorTable"] = {
-							[2782] = {
-								["dispell"] = 2,
-								["id"] = 2782,
-								["dispell_oque"] = {
-									[35013] = 2,
-								},
-								["targets"] = {
-									["Masturbado"] = 1,
-									["Shifthole"] = 1,
-								},
-								["counter"] = 0,
-							},
-						},
-						["tipo"] = 9,
-					},
-					["fight_component"] = true,
-					["dispell_targets"] = {
-						["Masturbado"] = 1,
-						["Shifthole"] = 1,
-					},
-					["aID"] = "4408-04B19510",
-					["cc_done"] = 18.052946,
-					["nome"] = "Shifthole",
-					["grupo"] = true,
-					["debuff_uptime_targets"] = {
-					},
-					["last_event"] = 0,
-					["serial"] = "Player-4408-04B19510",
-					["boss_fight_component"] = true,
-					["tipo"] = 4,
 				}, -- [4]
 				{
 					["flag_original"] = 1047,
@@ -43708,12 +43828,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[26297] = {
+							[65156] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 26297,
-								["uptime"] = 30,
+								["activedamt"] = 46,
+								["appliedamt"] = 46,
+								["id"] = 65156,
+								["uptime"] = 431,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -43768,12 +43888,12 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[65156] = {
+							[26297] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 46,
-								["appliedamt"] = 46,
-								["id"] = 65156,
-								["uptime"] = 431,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 26297,
+								["uptime"] = 30,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -43783,18 +43903,18 @@ _detalhes_database = {
 					},
 					["fight_component"] = true,
 					["debuff_uptime"] = 3335,
-					["nome"] = "Masturbado",
+					["boss_fight_component"] = true,
 					["spec"] = 71,
 					["grupo"] = true,
-					["boss_fight_component"] = true,
-					["classe"] = "WARRIOR",
-					["pets"] = {
-					},
-					["tipo"] = 4,
 					["debuff_uptime_targets"] = {
 					},
+					["pets"] = {
+					},
+					["classe"] = "WARRIOR",
+					["tipo"] = 4,
 					["buff_uptime_targets"] = {
 					},
+					["nome"] = "Masturbado",
 					["serial"] = "Player-4408-0474E7DA",
 					["last_event"] = 0,
 				}, -- [5]
@@ -43803,51 +43923,51 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Sethekk Guard",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "18323",
-					["serial"] = "Creature-0-4390-556-3743-18323-0002091643",
+					["nome"] = "Sethekk Guard",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18323-0002091643",
+					["aID"] = "18323",
 				}, -- [6]
 				{
 					["flag_original"] = 4370,
 					["pets"] = {
 					},
-					["aID"] = "19668",
+					["classe"] = "PET",
 					["fight_component"] = true,
 					["nome"] = "Shadowfiend <Lightnot>",
-					["classe"] = "PET",
-					["tipo"] = 4,
-					["serial"] = "Creature-0-4390-556-3743-19668-00000916BB",
+					["aID"] = "19668",
 					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-19668-00000916BB",
+					["tipo"] = 4,
 				}, -- [7]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Sethekk Initiate",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "18318",
-					["serial"] = "Creature-0-4390-556-3743-18318-0003891643",
+					["nome"] = "Sethekk Initiate",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18318-0003891643",
+					["aID"] = "18318",
 				}, -- [8]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Avian Darkhawk",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "19429",
-					["serial"] = "Creature-0-4390-556-3743-19429-0001891643",
+					["nome"] = "Avian Darkhawk",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-19429-0001891643",
+					["aID"] = "19429",
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
@@ -43860,13 +43980,13 @@ _detalhes_database = {
 						"Frost Fever <Time-Lost Controller>", -- [6]
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Time-Lost Controller",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "18327",
-					["serial"] = "Creature-0-4390-556-3743-18327-0001891643",
+					["nome"] = "Time-Lost Controller",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18327-0001891643",
+					["aID"] = "18327",
 				}, -- [10]
 				{
 					["flag_original"] = 8776,
@@ -43876,10 +43996,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["ownerName"] = "Time-Lost Controller",
 					["nome"] = "Charming Totem <Time-Lost Controller>",
-					["last_event"] = 0,
-					["classe"] = "PET",
-					["serial"] = "Creature-0-4390-556-3743-20343-00000916EF",
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-20343-00000916EF",
+					["classe"] = "PET",
 				}, -- [11]
 				{
 					["flag_original"] = 8776,
@@ -43888,30 +44008,15 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["classe"] = "PET",
+					["aID"] = "20343",
 					["pets"] = {
 					},
-					["aID"] = "20343",
+					["classe"] = "PET",
 					["boss_debuff"] = true,
 					["debuff_uptime"] = 32,
 					["spellschool"] = 32,
 					["ownerName"] = "Time-Lost Controller",
-					["nome"] = "Charm <Time-Lost Controller>",
 					["debuff_uptime_targets"] = {
-						["Shifthole"] = {
-							["uptime"] = 6,
-							["appliedamt"] = 0,
-							["activedamt"] = 0,
-							["actived"] = false,
-							["refreshamt"] = 0,
-						},
-						["Müstardtiger"] = {
-							["uptime"] = 17,
-							["appliedamt"] = 0,
-							["activedamt"] = 0,
-							["actived"] = false,
-							["refreshamt"] = 0,
-						},
 						["Masturbado"] = {
 							["uptime"] = 7,
 							["appliedamt"] = 0,
@@ -43926,24 +44031,39 @@ _detalhes_database = {
 							["actived"] = false,
 							["refreshamt"] = 0,
 						},
+						["Shifthole"] = {
+							["uptime"] = 6,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["Müstardtiger"] = {
+							["uptime"] = 17,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
 					},
-					["tipo"] = 4,
-					["damage_twin"] = "Charming Totem",
+					["nome"] = "Charm <Time-Lost Controller>",
 					["last_event"] = 0,
-					["damage_spellid"] = 35120,
+					["damage_twin"] = "Charming Totem",
+					["tipo"] = 4,
 					["serial"] = "Creature-0-4390-556-3743-20343-00000916EF",
+					["damage_spellid"] = 35120,
 				}, -- [12]
 				{
 					["flag_original"] = 8466,
 					["pets"] = {
 					},
-					["aID"] = "7402",
+					["classe"] = "PET",
 					["fight_component"] = true,
 					["ownerName"] = "Müstardtiger",
 					["nome"] = "Searing Totem VI <Müstardtiger>",
 					["boss_fight_component"] = true,
 					["tipo"] = 4,
-					["classe"] = "PET",
+					["aID"] = "7402",
 					["serial"] = "Creature-0-4390-556-3743-7402-0000091705",
 					["last_event"] = 0,
 				}, -- [13]
@@ -43954,15 +44074,14 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "20343",
 					["pets"] = {
 					},
-					["aID"] = "20343",
+					["classe"] = "UNKNOW",
 					["boss_debuff"] = true,
 					["debuff_uptime"] = 0,
 					["spellschool"] = 32,
 					["ownerName"] = "Time-Lost Controller",
-					["nome"] = "Death and Decay <Time-Lost Controller>",
 					["debuff_uptime_targets"] = {
 						["Lightnot"] = {
 							["uptime"] = 0,
@@ -43986,24 +44105,25 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["tipo"] = 4,
-					["damage_twin"] = "Charming Totem",
+					["nome"] = "Death and Decay <Time-Lost Controller>",
 					["last_event"] = 0,
-					["damage_spellid"] = 43265,
+					["damage_twin"] = "Charming Totem",
+					["tipo"] = 4,
 					["serial"] = "Creature-0-4390-556-3743-20343-000009172D",
+					["damage_spellid"] = 43265,
 				}, -- [14]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Sethekk Oracle",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "18328",
-					["serial"] = "Creature-0-4390-556-3743-18328-0000891644",
+					["nome"] = "Sethekk Oracle",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18328-0000891644",
+					["aID"] = "18328",
 				}, -- [15]
 				{
 					["flag_original"] = 74312,
@@ -44012,15 +44132,14 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["classe"] = "PET",
+					["aID"] = "20343",
 					["pets"] = {
 					},
-					["aID"] = "20343",
+					["classe"] = "PET",
 					["boss_debuff"] = true,
 					["debuff_uptime"] = 0,
 					["spellschool"] = 1,
 					["ownerName"] = "Time-Lost Controller",
-					["nome"] = "Bash <Time-Lost Controller>",
 					["debuff_uptime_targets"] = {
 						["Masturbado"] = {
 							["uptime"] = 0,
@@ -44030,11 +44149,12 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["tipo"] = 4,
-					["damage_twin"] = "Charming Totem",
+					["nome"] = "Bash <Time-Lost Controller>",
 					["last_event"] = 0,
-					["damage_spellid"] = 8983,
+					["damage_twin"] = "Charming Totem",
+					["tipo"] = 4,
 					["serial"] = "Creature-0-4390-556-3743-20343-000009179E",
+					["damage_spellid"] = 8983,
 				}, -- [16]
 				{
 					["flag_original"] = 2600,
@@ -44043,15 +44163,14 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "20343",
 					["pets"] = {
 					},
-					["aID"] = "20343",
+					["classe"] = "UNKNOW",
 					["boss_debuff"] = true,
 					["debuff_uptime"] = 0,
 					["spellschool"] = 16,
 					["ownerName"] = "Time-Lost Controller",
-					["nome"] = "Chains of Ice <Time-Lost Controller>",
 					["debuff_uptime_targets"] = {
 						["Shifthole"] = {
 							["uptime"] = 0,
@@ -44061,11 +44180,12 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["tipo"] = 4,
-					["damage_twin"] = "Charming Totem",
+					["nome"] = "Chains of Ice <Time-Lost Controller>",
 					["last_event"] = 0,
-					["damage_spellid"] = 45524,
+					["damage_twin"] = "Charming Totem",
+					["tipo"] = 4,
 					["serial"] = "Creature-0-4390-556-3743-20343-00000917D2",
+					["damage_spellid"] = 45524,
 				}, -- [17]
 				{
 					["flag_original"] = 2600,
@@ -44074,15 +44194,14 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "20343",
 					["pets"] = {
 					},
-					["aID"] = "20343",
+					["classe"] = "UNKNOW",
 					["boss_debuff"] = true,
 					["debuff_uptime"] = 0,
 					["spellschool"] = 16,
 					["ownerName"] = "Time-Lost Controller",
-					["nome"] = "Frost Fever <Time-Lost Controller>",
 					["debuff_uptime_targets"] = {
 						["Shifthole"] = {
 							["uptime"] = 0,
@@ -44092,11 +44211,12 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["tipo"] = 4,
-					["damage_twin"] = "Charming Totem",
+					["nome"] = "Frost Fever <Time-Lost Controller>",
 					["last_event"] = 0,
-					["damage_spellid"] = 55095,
+					["damage_twin"] = "Charming Totem",
+					["tipo"] = 4,
 					["serial"] = "Creature-0-4390-556-3743-20343-00000917D2",
+					["damage_spellid"] = 55095,
 				}, -- [18]
 				{
 					["flag_original"] = 68168,
@@ -44112,10 +44232,10 @@ _detalhes_database = {
 					["monster"] = true,
 					["boss_fight_component"] = true,
 					["nome"] = "Darkweaver Syth",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
+					["classe"] = "UNKNOW",
 				}, -- [19]
 				{
 					["flag_original"] = 8776,
@@ -44123,12 +44243,12 @@ _detalhes_database = {
 					},
 					["aID"] = "19205",
 					["ownerName"] = "Darkweaver Syth",
-					["boss_fight_component"] = true,
 					["nome"] = "Syth Arcane Elemental <Darkweaver Syth>",
+					["boss_fight_component"] = true,
 					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
 					["classe"] = "PET",
+					["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
+					["last_event"] = 0,
 				}, -- [20]
 				{
 					["flag_original"] = 8776,
@@ -44137,6 +44257,15 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
+					["boss_fight_component"] = true,
+					["classe"] = "PET",
+					["pets"] = {
+					},
+					["aID"] = "19205",
+					["boss_debuff"] = true,
+					["debuff_uptime"] = 9,
+					["spellschool"] = 64,
+					["ownerName"] = "Darkweaver Syth",
 					["debuff_uptime_targets"] = {
 						["Shifthole"] = {
 							["uptime"] = 9,
@@ -44153,21 +44282,12 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["classe"] = "PET",
-					["pets"] = {
-					},
-					["aID"] = "19205",
-					["boss_debuff"] = true,
-					["debuff_uptime"] = 9,
-					["spellschool"] = 64,
-					["ownerName"] = "Darkweaver Syth",
-					["boss_fight_component"] = true,
 					["damage_spellid"] = 33527,
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["damage_twin"] = "Syth Arcane Elemental",
 					["nome"] = "Arcane Buffet <Darkweaver Syth>",
 					["serial"] = "Creature-0-4390-556-3743-19205-0000091859",
-					["last_event"] = 0,
+					["tipo"] = 4,
 				}, -- [21]
 				{
 					["flag_original"] = 8776,
@@ -44175,12 +44295,12 @@ _detalhes_database = {
 					},
 					["aID"] = "19204",
 					["ownerName"] = "Darkweaver Syth",
-					["boss_fight_component"] = true,
 					["nome"] = "Syth Frost Elemental <Darkweaver Syth>",
+					["boss_fight_component"] = true,
 					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
 					["classe"] = "PET",
+					["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
+					["last_event"] = 0,
 				}, -- [22]
 				{
 					["flag_original"] = 8776,
@@ -44189,6 +44309,15 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
+					["boss_fight_component"] = true,
+					["classe"] = "PET",
+					["pets"] = {
+					},
+					["aID"] = "19204",
+					["boss_debuff"] = true,
+					["debuff_uptime"] = 13,
+					["spellschool"] = 16,
+					["ownerName"] = "Darkweaver Syth",
 					["debuff_uptime_targets"] = {
 						["Shifthole"] = {
 							["uptime"] = 13,
@@ -44198,21 +44327,12 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["classe"] = "PET",
-					["pets"] = {
-					},
-					["aID"] = "19204",
-					["boss_debuff"] = true,
-					["debuff_uptime"] = 13,
-					["spellschool"] = 16,
-					["ownerName"] = "Darkweaver Syth",
-					["boss_fight_component"] = true,
 					["damage_spellid"] = 33528,
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["damage_twin"] = "Syth Frost Elemental",
 					["nome"] = "Frost Buffet <Darkweaver Syth>",
 					["serial"] = "Creature-0-4390-556-3743-19204-0000091859",
-					["last_event"] = 0,
+					["tipo"] = 4,
 				}, -- [23]
 				{
 					["flag_original"] = 8776,
@@ -44220,12 +44340,12 @@ _detalhes_database = {
 					},
 					["aID"] = "19206",
 					["ownerName"] = "Darkweaver Syth",
-					["boss_fight_component"] = true,
 					["nome"] = "Syth Shadow Elemental <Darkweaver Syth>",
+					["boss_fight_component"] = true,
 					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
 					["classe"] = "PET",
+					["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
+					["last_event"] = 0,
 				}, -- [24]
 				{
 					["flag_original"] = 8776,
@@ -44234,6 +44354,15 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
+					["boss_fight_component"] = true,
+					["classe"] = "PET",
+					["pets"] = {
+					},
+					["aID"] = "19206",
+					["boss_debuff"] = true,
+					["debuff_uptime"] = 5,
+					["spellschool"] = 32,
+					["ownerName"] = "Darkweaver Syth",
 					["debuff_uptime_targets"] = {
 						["Shifthole"] = {
 							["uptime"] = 5,
@@ -44243,21 +44372,12 @@ _detalhes_database = {
 							["refreshamt"] = 0,
 						},
 					},
-					["classe"] = "PET",
-					["pets"] = {
-					},
-					["aID"] = "19206",
-					["boss_debuff"] = true,
-					["debuff_uptime"] = 5,
-					["spellschool"] = 32,
-					["ownerName"] = "Darkweaver Syth",
-					["boss_fight_component"] = true,
 					["damage_spellid"] = 33529,
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["damage_twin"] = "Syth Shadow Elemental",
 					["nome"] = "Shadow Buffet <Darkweaver Syth>",
 					["serial"] = "Creature-0-4390-556-3743-19206-0000091859",
-					["last_event"] = 0,
+					["tipo"] = 4,
 				}, -- [25]
 				{
 					["flag_original"] = 68168,
@@ -44285,63 +44405,63 @@ _detalhes_database = {
 					},
 					["classe"] = "UNKNOW",
 					["nome"] = "Flame Shock",
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["damage_twin"] = "Darkweaver Syth",
 					["boss_fight_component"] = true,
 					["serial"] = "Creature-0-4390-556-3743-18472-0000091643",
-					["last_event"] = 0,
+					["tipo"] = 4,
 				}, -- [26]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Sethekk Ravenguard",
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["aID"] = "18322",
-					["serial"] = "Creature-0-4390-556-3743-18322-0000091644",
+					["nome"] = "Sethekk Ravenguard",
+					["monster"] = true,
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-556-3743-18322-0000091644",
+					["aID"] = "18322",
 				}, -- [27]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Time-Lost Scryer",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "18319",
-					["serial"] = "Creature-0-4390-556-3743-18319-0000091644",
+					["nome"] = "Time-Lost Scryer",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18319-0000091644",
+					["aID"] = "18319",
 				}, -- [28]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Cobalt Serpent",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "19428",
-					["serial"] = "Creature-0-4390-556-3743-19428-0000091644",
+					["nome"] = "Cobalt Serpent",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-19428-0000091644",
+					["aID"] = "19428",
 				}, -- [29]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Avian Ripper",
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["aID"] = "21891",
-					["serial"] = "Creature-0-4390-556-3743-21891-0006891643",
+					["nome"] = "Avian Ripper",
+					["monster"] = true,
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-556-3743-21891-0006891643",
+					["aID"] = "21891",
 				}, -- [30]
 				{
 					["flag_original"] = 2632,
@@ -44367,43 +44487,43 @@ _detalhes_database = {
 					["interrompeu_oque"] = {
 						[10468] = 4,
 					},
-					["monster"] = true,
-					["interrupt"] = 4.009899,
+					["fight_component"] = true,
+					["nome"] = "Sethekk Shaman",
 					["interrupt_targets"] = {
 						["Müstardtiger"] = 4,
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["tipo"] = 4,
-					["nome"] = "Sethekk Shaman",
-					["serial"] = "Creature-0-4390-556-3743-18326-0001091643",
+					["monster"] = true,
 					["last_event"] = 0,
+					["interrupt"] = 4.009899,
+					["serial"] = "Creature-0-4390-556-3743-18326-0001091643",
+					["tipo"] = 4,
 				}, -- [31]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Avian Warhawk",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "21904",
-					["serial"] = "Creature-0-4390-556-3743-21904-0000891644",
+					["nome"] = "Avian Warhawk",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-21904-0000891644",
+					["aID"] = "21904",
 				}, -- [32]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Sethekk Prophet",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "18325",
-					["serial"] = "Creature-0-4390-556-3743-18325-0001091643",
+					["nome"] = "Sethekk Prophet",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18325-0001091643",
+					["aID"] = "18325",
 				}, -- [33]
 				{
 					["flag_original"] = 8776,
@@ -44413,36 +44533,36 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["ownerName"] = "Sethekk Shaman",
 					["nome"] = "Dark Vortex <Sethekk Shaman>",
-					["last_event"] = 0,
-					["classe"] = "PET",
-					["serial"] = "Creature-0-4390-556-3743-18701-00000919C1",
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-556-3743-18701-00000919C1",
+					["classe"] = "PET",
 				}, -- [34]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Sethekk Talon Lord",
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["aID"] = "18321",
-					["serial"] = "Creature-0-4390-556-3743-18321-0000091644",
+					["nome"] = "Sethekk Talon Lord",
+					["monster"] = true,
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-556-3743-18321-0000091644",
+					["aID"] = "18321",
 				}, -- [35]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Time-Lost Shadowmage",
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["aID"] = "18320",
-					["serial"] = "Creature-0-4390-556-3743-18320-0000891643",
+					["nome"] = "Time-Lost Shadowmage",
+					["monster"] = true,
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-556-3743-18320-0000891643",
+					["aID"] = "18320",
 				}, -- [36]
 				{
 					["flag_original"] = 68168,
@@ -44452,10 +44572,10 @@ _detalhes_database = {
 					["monster"] = true,
 					["boss_fight_component"] = true,
 					["nome"] = "Talon King Ikiss",
-					["tipo"] = 4,
-					["classe"] = "UNKNOW",
-					["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
+					["classe"] = "UNKNOW",
 				}, -- [37]
 				{
 					["flag_original"] = 68168,
@@ -44497,115 +44617,115 @@ _detalhes_database = {
 					},
 					["classe"] = "UNKNOW",
 					["nome"] = "Polymorph",
-					["tipo"] = 4,
+					["last_event"] = 0,
 					["damage_twin"] = "Talon King Ikiss",
 					["boss_fight_component"] = true,
 					["serial"] = "Creature-0-4390-556-3743-18473-0000091643",
-					["last_event"] = 0,
+					["tipo"] = 4,
 				}, -- [38]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Severed Defender",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "20934",
-					["serial"] = "Creature-0-4390-530-126-20934-0000090A5E",
+					["nome"] = "Severed Defender",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-530-126-20934-0000090A5E",
+					["aID"] = "20934",
 				}, -- [39]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Severed Spirit",
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["aID"] = "19881",
-					["serial"] = "Creature-0-4390-530-126-19881-0000091CFF",
+					["nome"] = "Severed Spirit",
+					["monster"] = true,
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-530-126-19881-0000091CFF",
+					["aID"] = "19881",
 				}, -- [40]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Abjurist Belmara",
 					["fight_component"] = true,
-					["tipo"] = 4,
-					["aID"] = "19546",
-					["serial"] = "Creature-0-4390-530-126-19546-0000091C08",
+					["nome"] = "Abjurist Belmara",
+					["monster"] = true,
 					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-4390-530-126-19546-0000091C08",
+					["aID"] = "19546",
 				}, -- [41]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Cohlien Frostweaver",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "19545",
-					["serial"] = "Creature-0-4390-530-126-19545-0000091DDB",
+					["nome"] = "Cohlien Frostweaver",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-530-126-19545-0000091DDB",
+					["aID"] = "19545",
 				}, -- [42]
 				{
 					["flag_original"] = 2632,
 					["pets"] = {
 					},
 					["classe"] = "UNKNOW",
-					["fight_component"] = true,
-					["nome"] = "Conjurer Luminrath",
 					["monster"] = true,
-					["last_event"] = 0,
-					["aID"] = "19544",
-					["serial"] = "Creature-0-4390-530-126-19544-0000091ABA",
+					["nome"] = "Conjurer Luminrath",
+					["fight_component"] = true,
 					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-4390-530-126-19544-0000091ABA",
+					["aID"] = "19544",
 				}, -- [43]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
-					["classe"] = "UNKNOW",
+					["aID"] = "19707",
 					["monster"] = true,
 					["nome"] = "Sunfury Archer",
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["aID"] = "19707",
-					["serial"] = "Creature-0-4391-530-72-19707-000489E981",
 					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-4391-530-72-19707-000489E981",
+					["tipo"] = 4,
 				}, -- [44]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
-					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Sunfury Flamekeeper",
-					["fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-4391-530-72-20221-00000A0BBE",
 					["aID"] = "20221",
+					["fight_component"] = true,
+					["nome"] = "Sunfury Flamekeeper",
+					["monster"] = true,
+					["tipo"] = 4,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-4391-530-72-20221-00000A0BBE",
+					["last_event"] = 0,
 				}, -- [45]
 				{
 					["flag_original"] = 68168,
 					["pets"] = {
 					},
-					["classe"] = "UNKNOW",
-					["monster"] = true,
-					["nome"] = "Spellreaver Marathelle",
-					["fight_component"] = true,
-					["tipo"] = 4,
-					["last_event"] = 0,
-					["serial"] = "Creature-0-4391-530-72-19926-00000A0D06",
 					["aID"] = "19926",
+					["fight_component"] = true,
+					["nome"] = "Spellreaver Marathelle",
+					["monster"] = true,
+					["tipo"] = 4,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-4391-530-72-19926-00000A0D06",
+					["last_event"] = 0,
 				}, -- [46]
 			},
 		}, -- [4]
@@ -44670,13 +44790,28 @@ _detalhes_database = {
 			},
 		},
 		["amountCasts"] = {
-			["Syth Arcane Elemental <Darkweaver Syth>"] = {
-				["Arcane Buffet"] = 2,
+			["Lightnot"] = {
+				["Inner Fire"] = 1,
+				["Psychic Scream"] = 3,
+				["Restore Mana"] = 1,
+				["Mind Blast"] = 39,
+				["Shadow Word: Pain"] = 89,
+				["Mind Flay"] = 74,
+				["Dispel Magic"] = 12,
+				["Shadow Word: Death"] = 16,
+				["Shoot"] = 4,
+				["Devouring Plague"] = 29,
+				["Power Word: Shield"] = 10,
+				["Abolish Disease"] = 1,
+				["Shadowfiend"] = 3,
+				["Vampiric Touch"] = 98,
+				["Prayer of Spirit"] = 1,
+				["Dispersion"] = 1,
 			},
 			["Mueltee"] = {
 				["Ferocity"] = 3,
 				["Noth's Special Brew"] = 1,
-				["Unbreakable Armor"] = 3,
+				["Blood Strike"] = 56,
 				["Mind Freeze"] = 2,
 				["Blood Fury"] = 4,
 				["Chains of Ice"] = 1,
@@ -44687,9 +44822,9 @@ _detalhes_database = {
 				["Frost Strike"] = 78,
 				["Healing Potion"] = 3,
 				["Death and Decay"] = 14,
-				["Blood Strike"] = 56,
-				["Hungering Cold"] = 2,
+				["Unbreakable Armor"] = 3,
 				["Plague Strike"] = 49,
+				["Hungering Cold"] = 2,
 				["Death Grip"] = 3,
 			},
 			["Severed Defender"] = {
@@ -44716,11 +44851,11 @@ _detalhes_database = {
 				["Demoralizing Roar"] = 45,
 				["Feral Charge - Bear"] = 9,
 				["Thorns"] = 4,
-				["Challenging Roar"] = 5,
+				["Nature's Grasp"] = 4,
 				["Berserk"] = 5,
 				["Barkskin"] = 13,
 				["Faerie Fire (Feral)"] = 26,
-				["Nature's Grasp"] = 4,
+				["Challenging Roar"] = 5,
 				["Dash"] = 1,
 				["Cat Form"] = 2,
 				["Survival Instincts"] = 5,
@@ -44736,59 +44871,13 @@ _detalhes_database = {
 				["Arcane Volley"] = 5,
 				["Arcane Explosion"] = 3,
 			},
-			["Sunfury Flamekeeper"] = {
-				["Enrage"] = 2,
-				["Judgement of the Flame"] = 3,
-				["Torch"] = 2,
-			},
-			["Avian Darkhawk"] = {
-				["Carnivorous Bite"] = 6,
-				["Sonic Charge"] = 4,
-			},
-			["Abjurist Belmara"] = {
-				["Frost Armor"] = 1,
-			},
-			["Sunfury Archer"] = {
-				["Shoot"] = 3,
-				["Net"] = 5,
-				["Immolation Arrow"] = 1,
-			},
-			["Time-Lost Controller"] = {
-				["Summon Charming Totem"] = 7,
-			},
-			["Lightnot"] = {
-				["Inner Fire"] = 1,
-				["Psychic Scream"] = 3,
-				["Restore Mana"] = 1,
-				["Mind Blast"] = 39,
-				["Shadow Word: Pain"] = 89,
-				["Mind Flay"] = 74,
-				["Dispel Magic"] = 12,
-				["Shadow Word: Death"] = 16,
-				["Shoot"] = 4,
-				["Devouring Plague"] = 29,
-				["Power Word: Shield"] = 10,
-				["Abolish Disease"] = 1,
-				["Shadowfiend"] = 3,
-				["Vampiric Touch"] = 98,
-				["Prayer of Spirit"] = 1,
-				["Dispersion"] = 1,
-			},
-			["Severed Spirit"] = {
-				["Frost Nova"] = 1,
-				["Frostbolt"] = 18,
-			},
-			["Darkweaver Syth"] = {
-				["Chain Lightning"] = 1,
-				["Flame Shock"] = 1,
-			},
 			["Müstardtiger"] = {
 				["Nature's Swiftness"] = 6,
 				["Tremor Totem"] = 3,
 				["Healing Wave"] = 8,
 				["Windfury Totem"] = 8,
-				["Searing Totem"] = 8,
-				["Flame Shock"] = 1,
+				["Stoneskin Totem"] = 1,
+				["Arcane Energy"] = 1,
 				["Lesser Healing Wave"] = 220,
 				["Call of the Elements"] = 8,
 				["Skinning"] = 1,
@@ -44798,32 +44887,64 @@ _detalhes_database = {
 				["Chain Lightning"] = 1,
 				["Mana Spring Totem"] = 8,
 				["Tidal Force"] = 1,
-				["Stoneskin Totem"] = 1,
+				["Searing Totem"] = 8,
 				["Chain Heal"] = 1,
-				["Arcane Energy"] = 1,
+				["Flame Shock"] = 1,
 				["Strength of Earth Totem"] = 7,
 				["Restore Mana"] = 1,
 				["Earth Shock"] = 1,
 			},
+			["Avian Darkhawk"] = {
+				["Carnivorous Bite"] = 6,
+				["Sonic Charge"] = 4,
+			},
+			["Abjurist Belmara"] = {
+				["Frost Armor"] = 1,
+			},
+			["Sunfury Archer"] = {
+				["Net"] = 5,
+				["Shoot"] = 3,
+				["Immolation Arrow"] = 1,
+			},
+			["Time-Lost Controller"] = {
+				["Summon Charming Totem"] = 7,
+			},
+			["Conjurer Luminrath"] = {
+				["Lightning Bolt"] = 3,
+				["Summon Dancing Sword"] = 1,
+			},
+			["Severed Spirit"] = {
+				["Frost Nova"] = 1,
+				["Frostbolt"] = 18,
+			},
+			["Darkweaver Syth"] = {
+				["Chain Lightning"] = 1,
+				["Flame Shock"] = 1,
+			},
 			["Syth Arcane Elemental"] = {
 				["Arcane Buffet"] = 1,
+			},
+			["Sunfury Flamekeeper"] = {
+				["Enrage"] = 2,
+				["Judgement of the Flame"] = 3,
+				["Torch"] = 2,
 			},
 			["Masturbado"] = {
 				["Battle Shout"] = 11,
 				["Charge"] = 27,
-				["Demoralizing Shout"] = 30,
-				["Cleave"] = 89,
 				["Bloodrage"] = 10,
+				["Cleave"] = 89,
+				["Demoralizing Shout"] = 30,
 				["Rend"] = 144,
 				["First Aid"] = 1,
-				["Berserker Rage"] = 4,
-				["Sweeping Strikes"] = 15,
 				["Thunder Clap"] = 33,
+				["Shoot"] = 3,
+				["Berserker Rage"] = 4,
 				["Victory Rush"] = 44,
 				["Berserking"] = 3,
 				["Heavy Netherweave Bandage"] = 2,
 				["Overpower"] = 112,
-				["Shoot"] = 3,
+				["Sweeping Strikes"] = 15,
 				["Heroic Strike"] = 130,
 			},
 			["Cobalt Serpent"] = {
@@ -44850,22 +44971,21 @@ _detalhes_database = {
 			["Charming Totem <Time-Lost Controller>"] = {
 				["Charm"] = 7,
 			},
-			["Syth Shadow Elemental <Darkweaver Syth>"] = {
-				["Shadow Buffet"] = 2,
+			["Sethekk Guard"] = {
+				["Thunderclap"] = 11,
 			},
 			["Sethekk Shaman"] = {
 				["Summon Dark Vortex"] = 4,
 				["Earth Shock"] = 8,
 			},
-			["Sethekk Guard"] = {
-				["Thunderclap"] = 11,
+			["Syth Shadow Elemental <Darkweaver Syth>"] = {
+				["Shadow Buffet"] = 2,
 			},
 			["Shadowfiend"] = {
 				["Shadowcrawl"] = 3,
 			},
-			["Conjurer Luminrath"] = {
-				["Lightning Bolt"] = 3,
-				["Summon Dancing Sword"] = 1,
+			["Syth Arcane Elemental <Darkweaver Syth>"] = {
+				["Arcane Buffet"] = 2,
 			},
 			["Dark Vortex <Sethekk Shaman>"] = {
 				["Shadow Bolt"] = 4,
@@ -45158,122 +45278,18 @@ _detalhes_database = {
 		["trinketProcs"] = {
 		},
 	},
-	["plugin_database"] = {
-		["DETAILS_PLUGIN_TINY_THREAT"] = {
-			["enabled"] = true,
-			["animate"] = false,
-			["hide_pull_bar"] = false,
-			["author"] = "Terciob",
-			["playercolor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			},
-			["usefocus"] = false,
-			["updatespeed"] = 1,
-			["useclasscolors"] = false,
-			["showamount"] = false,
-			["useplayercolor"] = false,
-			["absolute_mode"] = false,
-			["playSound"] = false,
-			["playSoundFile"] = "Details Threat Warning Volume 3",
-			["disable_gouge"] = false,
-		},
-		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
-			["enabled"] = true,
-			["encounter_timers_bw"] = {
-			},
-			["max_emote_segments"] = 3,
-			["last_section_selected"] = "main",
-			["author"] = "Terciob",
-			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
-			["show_icon"] = 5,
-			["opened"] = 0,
-			["hide_on_combat"] = false,
-		},
-		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
-			["enabled"] = true,
-			["author"] = "Terciob",
-		},
-		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
-			["use_square_mode"] = false,
-			["is_first_run"] = false,
-			["arrow_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["arrow_anchor_y"] = 0,
-			["main_frame_size"] = {
-				300, -- [1]
-				500.0000305175781, -- [2]
-			},
-			["minimap"] = {
-				["minimapPos"] = 160,
-				["radius"] = 160,
-				["hide"] = false,
-			},
-			["main_frame_locked"] = false,
-			["arrow_anchor_x"] = 0,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
-			["use_spark"] = true,
-			["author"] = "Terciob",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
-			["y"] = -4.57763671875e-05,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["main_frame_strata"] = "LOW",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["per_second"] = {
-				["enabled"] = false,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 1.52587890625e-05,
-				["x"] = 9.1552734375e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
-			["x"] = 0.000152587890625,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
-			["point"] = "CENTER",
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["row_height"] = 20,
-			["scale"] = 1,
-		},
+	["last_realversion"] = 155,
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
 	},
-	["data_harvested_for_charts"] = {
+	["nick_tag_cache"] = {
+		["nextreset"] = 1700159331,
+		["last_version"] = 15,
 	},
-	["ignore_nicktag"] = false,
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -45281,25 +45297,9 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["cached_roles"] = {
-		["Player-4408-04C650BD"] = "DAMAGER",
-		["Player-4408-05094B98"] = "TANK",
-		["Player-4408-03AFC040"] = "DAMAGER",
-		["Player-4408-04B19510"] = "DAMAGER",
-		["Player-4408-03CDC066"] = "DAMAGER",
-		["Player-4408-050CB254"] = "DAMAGER",
-		["Player-4408-0451E06D"] = "DAMAGER",
-		["Player-4408-05018A7F"] = "DAMAGER",
-		["Player-4408-0504CB8E"] = "TANK",
-		["Player-4408-0474E7DA"] = "DAMAGER",
-		["Player-4408-04FAE7A1"] = "TANK",
-		["Player-4408-050A099F"] = "DAMAGER",
-		["Player-4408-04E447DF"] = "DAMAGER",
-		["Player-4408-051A4069"] = "DAMAGER",
-		["Player-4408-050DF194"] = "HEALER",
-		["Player-4408-050C7AF1"] = "DAMAGER",
-		["Player-4408-0505D59C"] = "HEALER",
-		["Player-4408-0509897A"] = "DAMAGER",
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
 		["Player-4408-0474E7DA"] = 71,

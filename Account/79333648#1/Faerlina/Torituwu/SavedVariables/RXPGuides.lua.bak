@@ -10,7 +10,7 @@ RXPCData = {
 	},
 	["currentStep"] = 3,
 	["questObjectivesCache"] = {
-		[0] = 24,
+		[0] = 25,
 		[9212] = {
 			{
 				["type"] = "event",
@@ -219,6 +219,15 @@ RXPCData = {
 				["numFulfilled"] = 0,
 			}, -- [4]
 		},
+		[6284] = {
+			{
+				["type"] = "item",
+				["numRequired"] = 1,
+				["text"] = "Besseleth's Fang: 0/1",
+				["finished"] = false,
+				["numFulfilled"] = 0,
+			}, -- [1]
+		},
 		[549] = {
 			{
 				["type"] = "monster",
@@ -408,6 +417,7 @@ RXPCData = {
 		[80] = "Ratchet, The Barrens",
 		[25] = "Crossroads, The Barrens",
 		[22] = "Thunder Bluff, Mulgore",
+		[29] = "Sun Rock Retreat, Stonetalon Mountains",
 		[23] = "Orgrimmar, Durotar",
 		[77] = "Camp Taurajo, The Barrens",
 	},
@@ -452,6 +462,89 @@ RXPCTrackingData = {
 	["profiles"] = {
 		["Torituwu - Faerlina"] = {
 			["levels"] = {
+				[21] = {
+					["groupExperience"] = 0,
+					["deaths"] = 0,
+					["mobs"] = {
+						["The Barrens"] = {
+							["xp"] = 6718,
+							["count"] = 19,
+						},
+					},
+					["timestamp"] = {
+						["dateStarted"] = {
+							["monthDay"] = 24,
+							["day"] = 0,
+							["month"] = 10,
+							["weekday"] = 3,
+							["year"] = 2023,
+							["hour"] = 17,
+							["minute"] = 5,
+						},
+						["finished"] = 55298,
+						["dateFinished"] = {
+							["monthDay"] = 25,
+							["day"] = 0,
+							["month"] = 10,
+							["weekday"] = 4,
+							["year"] = 2023,
+							["hour"] = 0,
+							["minute"] = 21,
+						},
+						["started"] = 53956,
+					},
+					["quests"] = {
+						["The Barrens"] = {
+							[1069] = 3315,
+							[877] = 1955,
+							[865] = 2295,
+							[899] = 3315,
+							[6523] = 2295,
+						},
+					},
+				},
+				[22] = {
+					["groupExperience"] = 0,
+					["deaths"] = 2,
+					["mobs"] = {
+						["Stonetalon Mountains"] = {
+							["xp"] = 15949,
+							["count"] = 49,
+						},
+					},
+					["timestamp"] = {
+						["dateStarted"] = {
+							["monthDay"] = 25,
+							["day"] = 0,
+							["month"] = 10,
+							["weekday"] = 4,
+							["year"] = 2023,
+							["hour"] = 0,
+							["minute"] = 21,
+						},
+						["finished"] = 58500,
+						["dateFinished"] = {
+							["monthDay"] = 26,
+							["day"] = 0,
+							["month"] = 10,
+							["minute"] = 15,
+							["year"] = 2023,
+							["hour"] = 16,
+							["weekday"] = 5,
+						},
+						["started"] = 55299,
+					},
+					["quests"] = {
+						["The Barrens"] = {
+							[6629] = 2295,
+						},
+						["Stonetalon Mountains"] = {
+							[12378] = 1487,
+							[6401] = 1700,
+							[6461] = 2465,
+						},
+					},
+				},
 				[20] = {
 					["groupExperience"] = 0,
 					["deaths"] = 1,
@@ -484,33 +577,40 @@ RXPCTrackingData = {
 						},
 					},
 				},
-				[21] = {
+				[23] = {
 					["groupExperience"] = 0,
 					["deaths"] = 0,
 					["mobs"] = {
-						["The Barrens"] = {
-							["xp"] = 6718,
-							["count"] = 19,
+						["Stonetalon Mountains"] = {
+							["xp"] = 12438,
+							["count"] = 44,
 						},
 					},
 					["timestamp"] = {
 						["dateStarted"] = {
-							["monthDay"] = 24,
+							["monthDay"] = 26,
 							["day"] = 0,
 							["month"] = 10,
-							["weekday"] = 3,
+							["minute"] = 15,
 							["year"] = 2023,
-							["hour"] = 17,
-							["minute"] = 5,
+							["hour"] = 16,
+							["weekday"] = 5,
 						},
-						["started"] = 53956,
+						["started"] = 58501,
 					},
 					["quests"] = {
+						["Thunder Bluff"] = {
+							[12367] = 1572,
+						},
 						["The Barrens"] = {
-							[899] = 3315,
-							[1069] = 3315,
-							[865] = 2295,
-							[877] = 1955,
+							[6364] = 187,
+							[12374] = 1572,
+							[1094] = 1402,
+						},
+						["Stonetalon Mountains"] = {
+							[6301] = 2380,
+							[1087] = 2550,
+							[1093] = 2805,
 						},
 					},
 				},

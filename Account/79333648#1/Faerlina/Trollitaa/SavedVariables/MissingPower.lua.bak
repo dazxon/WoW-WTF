@@ -13,8 +13,8 @@ MIPOPC = {
 	["displayiflowerthanx"] = 0,
 	["customcolor"] = false,
 	["textoffsetY"] = 0,
-	["textoffsetX"] = 0,
+	["fonty"] = 0,
 	["showamountcounter"] = true,
 	["fontsize"] = 12,
-	["fonty"] = 0,
+	["textoffsetX"] = 0,
 }

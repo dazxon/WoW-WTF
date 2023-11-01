@@ -28,7 +28,7 @@ HealBot_Plugin_TimeToLive_Config = {
 		["Global"] = 0.9,
 	},
 	["frameY"] = {
-		["Global"] = 848,
+		["Global"] = 623,
 	},
 	["txtoutline"] = {
 		["Global"] = 1,
@@ -54,38 +54,38 @@ HealBot_Plugin_TimeToLive_Config = {
 	["borderB"] = {
 		["Global"] = 1,
 	},
-	["playertxtchars"] = {
-		["Global"] = 0,
+	["borderG"] = {
+		["Global"] = 1,
 	},
-	["titletextB"] = {
-		["Global"] = 0.58,
+	["barR"] = {
+		["Global"] = 0.4,
 	},
 	["bartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["bartxtR"] = {
-		["Global"] = 0.8,
+	["borderA"] = {
+		["Global"] = 0.25,
+	},
+	["barG"] = {
+		["Global"] = 0.4,
 	},
 	["fontsize"] = {
 		["Global"] = 11,
-	},
-	["borderR"] = {
-		["Global"] = 1,
 	},
 	["titletextG"] = {
 		["Global"] = 0.58,
 	},
 	["frameX"] = {
-		["Global"] = 1421,
+		["Global"] = 1424,
 	},
-	["bartxtB"] = {
-		["Global"] = 0.8,
+	["barB"] = {
+		["Global"] = 0.4,
 	},
 	["titlebackA"] = {
 		["Global"] = 0.4,
 	},
-	["headerG"] = {
-		["Global"] = 0.1,
+	["bartxtB"] = {
+		["Global"] = 0.8,
 	},
 	["OnlyShowOnDemand"] = {
 		["Global"] = true,
@@ -93,14 +93,14 @@ HealBot_Plugin_TimeToLive_Config = {
 	["titletextR"] = {
 		["Global"] = 0.58,
 	},
-	["texture"] = {
-		["Global"] = "Smooth",
+	["titlebackG"] = {
+		["Global"] = 1,
+	},
+	["titlebackB"] = {
+		["Global"] = 1,
 	},
 	["titletextA"] = {
 		["Global"] = 0.9,
-	},
-	["OnlyShowOutOfCombat"] = {
-		["Global"] = true,
 	},
 	["coltype"] = {
 		["Global"] = 1,
@@ -111,28 +111,28 @@ HealBot_Plugin_TimeToLive_Config = {
 	["titletext"] = {
 		["Global"] = "HealBot TimeToLive",
 	},
-	["titlebackB"] = {
-		["Global"] = 1,
+	["OnlyShowOutOfCombat"] = {
+		["Global"] = true,
 	},
-	["titlebackG"] = {
-		["Global"] = 1,
+	["texture"] = {
+		["Global"] = "Smooth",
 	},
 	["barA"] = {
 		["Global"] = 0,
 	},
-	["barB"] = {
-		["Global"] = 0.4,
+	["headerG"] = {
+		["Global"] = 0.1,
 	},
-	["barG"] = {
-		["Global"] = 0.4,
-	},
-	["borderA"] = {
-		["Global"] = 0.25,
-	},
-	["barR"] = {
-		["Global"] = 0.4,
-	},
-	["borderG"] = {
+	["borderR"] = {
 		["Global"] = 1,
+	},
+	["bartxtR"] = {
+		["Global"] = 0.8,
+	},
+	["titletextB"] = {
+		["Global"] = 0.58,
+	},
+	["playertxtchars"] = {
+		["Global"] = 0,
 	},
 }

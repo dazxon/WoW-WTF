@@ -21,14 +21,14 @@ HealBot_Plugin_TimeToDie_Config = {
 	["frameA"] = {
 		["Global"] = 0.05,
 	},
-	["borderA"] = {
-		["Global"] = 0.25,
+	["maxttdsecs"] = {
+		["Global"] = 20,
 	},
-	["barR"] = {
-		["Global"] = 0.4,
+	["titletextB"] = {
+		["Global"] = 0.58,
 	},
-	["barB"] = {
-		["Global"] = 0.4,
+	["yourcoltype"] = {
+		["Global"] = 2,
 	},
 	["fluidfreq"] = {
 		["Global"] = 5,
@@ -36,8 +36,8 @@ HealBot_Plugin_TimeToDie_Config = {
 	["tankbartxtR"] = {
 		["Global"] = 0.8,
 	},
-	["tankbarB"] = {
-		["Global"] = 0.1,
+	["rowspace"] = {
+		["Global"] = 0,
 	},
 	["tanktxtcoltype"] = {
 		["Global"] = 1,
@@ -45,11 +45,11 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtR"] = {
 		["Global"] = 0.8,
 	},
+	["tankbarG"] = {
+		["Global"] = 0.1,
+	},
 	["tankbarR"] = {
 		["Global"] = 0.9,
-	},
-	["yourbartxtG"] = {
-		["Global"] = 0.8,
 	},
 	["txtoutline"] = {
 		["Global"] = 1,
@@ -57,47 +57,47 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtA"] = {
 		["Global"] = 0.9,
 	},
-	["maxBars"] = {
-		["Global"] = 5,
+	["font"] = {
+		["Global"] = "Roboto Medium",
 	},
 	["frameLocked"] = {
 		["Global"] = false,
 	},
-	["borderG"] = {
-		["Global"] = 1,
+	["yourbarB"] = {
+		["Global"] = 0.9,
 	},
-	["frameG"] = {
+	["borderG"] = {
 		["Global"] = 1,
 	},
 	["height"] = {
 		["Global"] = 20,
 	},
-	["yourtxtcoltype"] = {
-		["Global"] = 1,
-	},
 	["frameWidth"] = {
 		["Global"] = 180,
+	},
+	["yourtxtcoltype"] = {
+		["Global"] = 1,
 	},
 	["fluidbars"] = {
 		["Global"] = true,
 	},
-	["borderB"] = {
-		["Global"] = 1,
+	["yourbartxtR"] = {
+		["Global"] = 0.8,
 	},
 	["frameR"] = {
 		["Global"] = 1,
 	},
-	["playertxtchars"] = {
-		["Global"] = 0,
+	["borderB"] = {
+		["Global"] = 1,
 	},
 	["txtcoltype"] = {
 		["Global"] = 1,
 	},
-	["titletextA"] = {
-		["Global"] = 0.9,
+	["tankbartxtB"] = {
+		["Global"] = 0.8,
 	},
-	["titlebackB"] = {
-		["Global"] = 1,
+	["fontsize"] = {
+		["Global"] = 11,
 	},
 	["yourbarG"] = {
 		["Global"] = 0.1,
@@ -105,29 +105,29 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["titlebackG"] = {
+	["borderR"] = {
 		["Global"] = 1,
 	},
 	["tankbartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["borderR"] = {
-		["Global"] = 1,
+	["yourbarR"] = {
+		["Global"] = 0.1,
 	},
 	["titletextG"] = {
 		["Global"] = 0.58,
 	},
-	["frameX"] = {
-		["Global"] = 31,
+	["titlebackG"] = {
+		["Global"] = 1,
 	},
-	["texture"] = {
-		["Global"] = "Smooth",
+	["bartxtB"] = {
+		["Global"] = 0.8,
 	},
 	["titlebackA"] = {
 		["Global"] = 0.4,
 	},
-	["bartxtB"] = {
-		["Global"] = 0.8,
+	["texture"] = {
+		["Global"] = "Smooth",
 	},
 	["frameY"] = {
 		["Global"] = 717,
@@ -135,46 +135,46 @@ HealBot_Plugin_TimeToDie_Config = {
 	["titletextR"] = {
 		["Global"] = 0.58,
 	},
-	["fontsize"] = {
-		["Global"] = 11,
+	["frameX"] = {
+		["Global"] = 31,
 	},
-	["yourbarR"] = {
-		["Global"] = 0.1,
+	["titlebackB"] = {
+		["Global"] = 1,
 	},
-	["tankbartxtB"] = {
-		["Global"] = 0.8,
+	["titletextA"] = {
+		["Global"] = 0.9,
 	},
 	["coltype"] = {
 		["Global"] = 2,
 	},
-	["yourbartxtR"] = {
-		["Global"] = 0.8,
+	["playertxtchars"] = {
+		["Global"] = 0,
 	},
 	["titletext"] = {
 		["Global"] = "HealBot TimeToDie",
 	},
-	["yourbarB"] = {
-		["Global"] = 0.9,
+	["frameG"] = {
+		["Global"] = 1,
 	},
-	["font"] = {
-		["Global"] = "Roboto Medium",
+	["maxBars"] = {
+		["Global"] = 5,
 	},
 	["barA"] = {
 		["Global"] = 0.7,
 	},
-	["tankbarG"] = {
+	["yourbartxtG"] = {
+		["Global"] = 0.8,
+	},
+	["tankbarB"] = {
 		["Global"] = 0.1,
 	},
-	["rowspace"] = {
-		["Global"] = 0,
+	["barB"] = {
+		["Global"] = 0.4,
 	},
-	["yourcoltype"] = {
-		["Global"] = 2,
+	["barR"] = {
+		["Global"] = 0.4,
 	},
-	["titletextB"] = {
-		["Global"] = 0.58,
-	},
-	["maxttdsecs"] = {
-		["Global"] = 20,
+	["borderA"] = {
+		["Global"] = 0.25,
 	},
 }

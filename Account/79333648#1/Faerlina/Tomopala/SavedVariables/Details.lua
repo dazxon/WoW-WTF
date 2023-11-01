@@ -36,10 +36,10 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 		["width"] = 120,
-		["height"] = 18,
 		["framme_locked"] = false,
 		["cooldowns"] = {
 		},
+		["height"] = 18,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
 			["only_in_group"] = true,
@@ -57,7 +57,7 @@ _detalhes_database = {
 			["utility"] = false,
 		},
 	},
-	["last_version"] = "3.4.3 11914",
+	["last_version"] = "3.4.3 12018",
 	["player_stats"] = {
 	},
 	["force_font_outline"] = "",
@@ -92,10 +92,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -147.2215576171875,
+					["y"] = -147.2213745117188,
 					["x"] = 816.1112060546875,
 					["w"] = 188.2222747802734,
-					["h"] = 226.4447937011719,
+					["h"] = 226.4448089599609,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -127,10 +127,10 @@ _detalhes_database = {
 			["attribute"] = 4,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 51.66766357421875,
+					["y"] = 51.6678466796875,
 					["x"] = 816.1112060546875,
 					["w"] = 188.2222747802734,
-					["h"] = 131.3336029052734,
+					["h"] = 131.3336639404297,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -927,7 +927,10 @@ _detalhes_database = {
 		["frame"] = {
 		},
 	},
-	["last_realversion"] = 155,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1700158073,
+		["last_version"] = 15,
+	},
 	["combat_log"] = {
 		["inverse_deathlog_overalldata"] = false,
 		["track_hunter_frenzy"] = false,
@@ -938,7 +941,7 @@ _detalhes_database = {
 		["evoker_show_realtimedps"] = true,
 		["inverse_deathlog_mplus"] = false,
 	},
-	["last_encounter"] = "Kel'Thuzad",
+	["on_death_menu"] = false,
 	["mythic_plus_log"] = {
 	},
 	["cached_roles"] = {
@@ -954,27 +957,22 @@ _detalhes_database = {
 		["Player-4408-02F6325C"] = "DAMAGER",
 		["Player-4408-04F964BF"] = "DAMAGER",
 		["Player-4408-02C51D26"] = "DAMAGER",
-		["Player-4408-0371B8C2"] = "HEALER",
+		["Player-4408-04AEA001"] = "DAMAGER",
 		["Player-4408-03587D7E"] = "HEALER",
-		["Player-4408-036EE847"] = "DAMAGER",
+		["Player-4408-0371B8C2"] = "HEALER",
 		["Player-4408-044EF583"] = "DAMAGER",
 		["Player-4408-03738622"] = "HEALER",
-		["Player-4408-04AEA001"] = "DAMAGER",
+		["Player-4408-036EE847"] = "DAMAGER",
 		["Player-4408-03C0E498"] = "DAMAGER",
 		["Player-4408-044E3034"] = "DAMAGER",
 	},
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
-	},
+	["last_realversion"] = 155,
+	["last_encounter"] = "Kel'Thuzad",
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
 	["data_harvested_for_charts"] = {
-	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1698363405,
-		["last_version"] = 15,
 	},
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
@@ -1025,12 +1023,9 @@ _detalhes_database = {
 				0.5, -- [4]
 			},
 			["scale"] = 1,
-			["main_frame_size"] = {
-				300, -- [1]
-				500.0000305175781, -- [2]
-			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
-				["minimapPos"] = 160,
+				["minimapPos"] = 60.62096355551343,
 				["radius"] = 160,
 				["hide"] = false,
 			},
@@ -1049,7 +1044,7 @@ _detalhes_database = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["y"] = -4.57763671875e-05,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -1057,13 +1052,14 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Terciob",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["y"] = -4.57763671875e-05,
-			["x"] = 0.000152587890625,
-			["font_face"] = "Friz Quadrata TT",
-			["square_size"] = 32,
+			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -1075,23 +1071,25 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["x"] = 0.000152587890625,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["font_size"] = 10,
+			["author"] = "Terciob",
 			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
 		},
 	},
 	["last_instance_time"] = 1685074974,
 	["combat_id"] = 332,
 	["savedStyles"] = {
 	},
-	["last_day"] = "11",
+	["last_day"] = "01",
 	["character_data"] = {
-		["logons"] = 15,
+		["logons"] = 17,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -1129,7 +1127,7 @@ _detalhes_database = {
 		},
 		["raid_roster_indexed"] = {
 		},
-		["tempo_start"] = 162545.613,
+		["tempo_start"] = 387563.168,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
@@ -1217,11 +1215,13 @@ _detalhes_database = {
 		["start_time"] = 0,
 		["TimeData"] = {
 		},
-		["combat_counter"] = 375,
+		["combat_counter"] = 379,
 	},
-	["on_death_menu"] = false,
-	["combat_counter"] = 376,
+	["combat_counter"] = 380,
 	["ignore_nicktag"] = false,
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {
@@ -1238,7 +1238,5 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-4408-03B9E406"] = 65,
-		["Player-4408-04DC4E6D"] = 252,
 	},
 }

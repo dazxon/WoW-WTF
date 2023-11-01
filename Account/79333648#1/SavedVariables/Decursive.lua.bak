@@ -9,9 +9,9 @@ DecursiveDB = {
 		["Bocajuniors - Faerlina"] = "Default",
 		["Platinada - Grobbulus"] = "Default",
 		["Naowebona - Faerlina"] = "Default",
-		["Platinada - Faerlina"] = "Default",
-		["Elfitanashe - Faerlina"] = "Default",
 		["Petemaker - Faerlina"] = "Default",
+		["Elfitanashe - Faerlina"] = "Default",
+		["Platinada - Faerlina"] = "Default",
 		["Platinada - Benediction"] = "Default",
 		["Trollituwu - Faerlina"] = "Default",
 	},
@@ -69,7 +69,7 @@ DecursiveDB = {
 				[32] = 3,
 				[64] = 7,
 			},
-			["CureOrder-2"] = {
+			["CureOrder"] = {
 				-15, -- [1]
 				-14, -- [2]
 				nil, -- [3]
@@ -78,7 +78,7 @@ DecursiveDB = {
 				[16] = 2,
 				[32] = 3,
 			},
-			["CureOrder"] = {
+			["CureOrder-2"] = {
 				-15, -- [1]
 				-14, -- [2]
 				nil, -- [3]
@@ -142,17 +142,8 @@ DecursiveDB = {
 				[64] = 7,
 			},
 		},
-		["ROGUE"] = {
+		["HUNTER"] = {
 			["CureOrder-1"] = {
-				-11, -- [1]
-				-15, -- [2]
-				nil, -- [3]
-				-12, -- [4]
-				[8] = -13,
-				[16] = -14,
-				[32] = -16,
-			},
-			["CureOrder"] = {
 				-11, -- [1]
 				-15, -- [2]
 				nil, -- [3]
@@ -204,8 +195,17 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
-		["HUNTER"] = {
+		["ROGUE"] = {
 			["CureOrder-1"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+			["CureOrder"] = {
 				-11, -- [1]
 				-15, -- [2]
 				nil, -- [3]
@@ -217,7 +217,7 @@ DecursiveDB = {
 		},
 	},
 	["global"] = {
-		["LastVersionAnnounce"] = 1698280405,
+		["LastVersionAnnounce"] = 1698862101,
 		["NewerVersionAlert"] = 1698176445,
 	},
 	["profiles"] = {

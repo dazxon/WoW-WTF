@@ -7,142 +7,123 @@ ElvCharacterDB = {
 		"/way #1412 47.6 58.4 Kar Tormensón", -- [3]
 		"/way 48 78", -- [4]
 		"/way 47 58", -- [5]
+		"/s s", -- [6]
+		"/mrt note", -- [7]
+		"/cw tozzop ey dude, nice guild", -- [8]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"lfm dpa ulduar 10m quest", -- [1]
-			"Dontrola", -- [2]
+			"5.7k assa rogue LF ICC 10H PST solid budget if GDKP ", -- [1]
+			"Chorange-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Dontrola", -- [5]
+			"Chorange", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9588, -- [11]
-			"Player-4408-05089EB2", -- [12]
+			4271, -- [11]
+			"Player-4408-05229936", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDontrola|r",
-			[51] = 1698204704,
+			[52] = "|cfffff468Chorange|r",
+			[51] = 1698353520,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [1]
 		{
-			"LFM ONYXIA 10 MS-OS NEED DPS AND HEAL", -- [1]
-			"Vânhelnsîng", -- [2]
+			"Looking for Heal, DD 35+ to Razorfen Downs", -- [1]
+			"Irido-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Vânhelnsîng", -- [5]
+			"Irido", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9589, -- [11]
-			"Player-4408-050A947E", -- [12]
+			4272, -- [11]
+			"Player-4408-052AE7DC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aVânhelnsîng|r",
-			[51] = 1698204712,
+			[52] = "|cfff48cbaIrido|r",
+			[51] = 1698353586,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"LFM 25 ICC REP FARM (FIRST BOE HR, REST OPEN ROLL) 21/25 need heals", -- [1]
-			"Matchesxo-Faerlina", -- [2]
+			"LFM VOA25 Need Tank (Warr,DK,Druid) Heals (Sham,Rdruid,Hpal,Priest), DPS (Warr,DK,Hunter, Boomie,Feral, Sp, Ret, Rogue, Sham)", -- [1]
+			"Zetup-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Matchesxo", -- [5]
+			"Zetup", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9590, -- [11]
-			"Player-4408-0501677D", -- [12]
+			4274, -- [11]
+			"Player-4408-030E82B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aMatchesxo|r",
-			[51] = 1698204713,
+			[52] = "|cff8787edZetup|r",
+			[51] = 1698353592,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"LFM VOA 25: IF I IGNORE YOU WE HAVE YOUR CLASS/SPEC. Need Healers/War tank/Hpal/Druid heal/Shaman Enhance ", -- [1]
-			"Beautyful-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS!", -- [1]
+			"Hamgara-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Beautyful", -- [5]
+			"Hamgara", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9591, -- [11]
-			"Player-4408-0501BC6B", -- [12]
+			4275, -- [11]
+			"Player-4408-0507321E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBeautyful|r",
-			[51] = 1698204660,
+			[52] = "|cfffff468Hamgara|r",
+			[51] = 1698353593,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"LFM Ulduar 10  N weekly FL only need all", -- [1]
-			"Nymunis", -- [2]
+			"LFM ICC 25m GDKP   11/12 Gunship H LF Tank - Dps - 1 Rdruid pst Gs / Budget Starting when full! Discord req", -- [1]
+			"Nanaasta-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Nymunis", -- [5]
+			"Nanaasta", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9592, -- [11]
-			"Player-4408-0507CC5F", -- [12]
+			4276, -- [11]
+			"Player-4408-048D2240", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNymunis|r",
-			[51] = 1698204661,
+			[52] = "|cfff48cbaNanaasta|r",
+			[51] = 1698353594,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [5]
 		{
-			"LFM [¡El Leviatán de llamas debe morir! (24585)]", -- [1]
-			"Meraxys", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Meraxys", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			9593, -- [11]
-			"Player-4408-0525D29A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaMeraxys|r",
-			[51] = 1698204662,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"<affix> filling spots in our ICC progression 25 man raid team lf dps(pref casters) friday/saturday 10 pm - 1 am server time", -- [1]
+			"<affix> filling spots in our ICC progression 25 man raid team lf dps(pref casters)/prot pally friday-saturday 10 pm - 1 am server time", -- [1]
 			"Pyar-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
@@ -152,7 +133,7 @@ ElvCharacterDB = {
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9594, -- [11]
+			4277, -- [11]
 			"Player-4408-052492B0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -160,2031 +141,2053 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffaad372Pyar|r",
-			[51] = 1698204663,
+			[51] = 1698353598,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"LFM VoA 25. Need Prot war/pally/ DK tank/ All shamans/ all priests/ rogue/ All druids/", -- [1]
+			"Eataplana-Faerlina", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Eataplana", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			4278, -- [11]
+			"Player-4408-04FAC7A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aEataplana|r",
+			[51] = 1698353602,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
 		{
-			"WTB dps carry for BT", -- [1]
-			"Schuvi-Faerlina", -- [2]
+			"LF4M PRIME GDKP 25 MAN ICC normie run with marrow + ship hm @ 1:00 am server time ISO: ret/aff lock/spriest/ele. Please pst with logs/budget/experience or for more info. ", -- [1]
+			"Doitlive-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Schuvi", -- [5]
+			"Doitlive", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9595, -- [11]
-			"Player-4408-05079FE1", -- [12]
+			4281, -- [11]
+			"Player-4408-04BD13AD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Schuvi|r",
-			[51] = 1698204664,
+			[52] = "|cffc69b6dDoitlive|r",
+			[51] = 1698353606,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"LF Warlock ToGC 10H 50/50 2 SR MS OS ", -- [1]
-			"Darkempanada-Faerlina", -- [2]
+			"LF tank heal dps Gamma random daily wisp gs", -- [1]
+			"Projectfury-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Darkempanada", -- [5]
+			"Projectfury", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9596, -- [11]
-			"Player-4408-03A798E5", -- [12]
+			4282, -- [11]
+			"Player-4408-04F88195", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDarkempanada|r",
-			[51] = 1698204664,
+			[52] = "|cffc69b6dProjectfury|r",
+			[51] = 1698353612,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"LFM TOGC 5/5 HEROIC 25m GDKP 50/50 258 5k min / 500 inc, regalia / cloak 10k min PST Class/spec/budget/achieve", -- [1]
-			"Mctwistlol-Faerlina", -- [2]
+			" LFM fresh  ICC25  @ 7:30pm-11pm ST - Need 1 healer (Hpriest, RShaman or Rdruid)  3 SR > MS > OS. HM Marrow/Ship/maybe Rot. Going for 10/12 tonight, will clean up Monday. PST for info.", -- [1]
+			"Nübsauce-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Mctwistlol", -- [5]
-			"DND", -- [6]
+			"Nübsauce", -- [5]
+			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9597, -- [11]
-			"Player-4408-050B3F40", -- [12]
+			4283, -- [11]
+			"Player-4408-050126D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aMctwistlol|r",
-			[51] = 1698204666,
+			[52] = "|cfffff468Nübsauce|r",
+			[51] = 1698353616,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"LF 1 dps on rotface icc 25", -- [1]
-			"Twocheekzz-Faerlina", -- [2]
+			"LFM TOC 25 N NEED PalyH-DISC-LOCK-Hunter-SHamy 22-25 - MS>OS - BOE/DC HR - 5.1k+ GS PST ", -- [1]
+			"Blanchfield-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Twocheekzz", -- [5]
+			"Blanchfield", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9598, -- [11]
-			"Player-4408-0528E6BF", -- [12]
+			4284, -- [11]
+			"Player-4408-050358E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aTwocheekzz|r",
-			[51] = 1698204667,
+			[52] = "|cfff48cbaBlanchfield|r",
+			[51] = 1698353619,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"WTS Gargantilla carmesí de la Reina de Sangre", -- [1]
-			"Gudrid", -- [2]
+			"5900 resto druid/5700 boom LF 10man ICC ", -- [1]
+			"Beverlyheäls-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Gudrid", -- [5]
+			"Beverlyheäls", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9599, -- [11]
-			"Player-4408-05224FFD", -- [12]
+			4285, -- [11]
+			"Player-4408-03A361FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGudrid|r",
-			[51] = 1698204671,
+			[52] = "|cffff7c0aBeverlyheäls|r",
+			[51] = 1698353621,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			">Reverie< Main Core: reclutamos jugadores con ganas de participar en un ambiente sano y competitivo, Main raids ICC 25 (12/12N) (7/12HC) Martes-Miercoles-Jueves 20:30 ST+ (3 horas) Spots: Enha (Prio) || HEALER (Cualquiera HIGH PRIO)", -- [1]
-			"Plasmaxd-Faerlina", -- [2]
+			"JOIN horde BOOST GROUP 2.5k people FOR 1-80 boosting  https://discord.gg/5jevNbnWvB ask dangorst for more info", -- [1]
+			"Naramux-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Plasmaxd", -- [5]
+			"Naramux", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9600, -- [11]
-			"Player-4408-04FC7153", -- [12]
+			4286, -- [11]
+			"Player-4408-03CC1DEB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaPlasmaxd|r",
-			[51] = 1698204672,
+			[52] = "|cff0070ddNaramux|r",
+			[51] = 1698353623,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"{RT8} TOC 10 50/50  {RT1} MS>OS  {RT8} JUST NEED HPAL AND MAINTANK", -- [1]
-			"Renwo", -- [2]
+			"Lightweight GDKP Friday 8pm Full Normal Clear + 3-4 Heroics STAX Verified and Hosted run looking for Hpal,  Boomkin Firemage, and 2 dps DM exp and budget to be considered and signup on stax under Fri(Late) 8pm Lightweight", -- [1]
+			"Vucc-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Renwo", -- [5]
+			"Vucc", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9601, -- [11]
-			"Player-4408-050AB7DD", -- [12]
+			4287, -- [11]
+			"Player-4408-04636D2E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRenwo|r",
-			[51] = 1698204735,
+			[52] = "|cffaad372Vucc|r",
+			[51] = 1698353624,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [14]
 		{
-			"<Easily Amused> Is recruiting for our raid roster we currently need 1 Resto Druid/Rsham and Warlocks for our roster. We raid Tues/Mon 9pm Server - 1am server!", -- [1]
-			"Luikangg", -- [2]
+			"WTS Battered Hilt", -- [1]
+			"Arieltatum", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Luikangg", -- [5]
+			"Arieltatum", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9602, -- [11]
-			"Player-4408-050AE05D", -- [12]
+			4288, -- [11]
+			"Player-4408-04F4D990", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLuikangg|r",
-			[51] = 1698204743,
+			[52] = "|cfff48cbaArieltatum|r",
+			[51] = 1698353628,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"LFM need 1 rdps or UH dk 25m toc 4/5 heroic 3SR ms>os 5.2+ gs fast/easy can try H anub depends. link achieve/checking logs", -- [1]
-			"Witheredzug-Faerlina", -- [2]
+			"LF Boomkin or Shadow Priest for ICC 10m GDKP tonight at 9pm. Stax hosted, LK/Sindy/PP/Council normal, rest Heroic. PST", -- [1]
+			"Fantapally-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Witheredzug", -- [5]
+			"Fantapally", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9603, -- [11]
-			"Player-4408-04E5103C", -- [12]
+			4289, -- [11]
+			"Player-4408-0506FB4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aWitheredzug|r",
-			[51] = 1698204743,
+			[52] = "|cfff48cbaFantapally|r",
+			[51] = 1698353629,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"WTB Primordial Saronitex4 1050 each", -- [1]
-			"Mazethecook", -- [2]
+			"LF SHAM DPS VOA 10 AND GTG", -- [1]
+			"Larápio-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Mazethecook", -- [5]
+			"Larápio", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9604, -- [11]
-			"Player-4408-0528C0B6", -- [12]
+			4290, -- [11]
+			"Player-4408-04F6DEEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaMazethecook|r",
-			[51] = 1698204745,
+			[52] = "|cffaad372Larápio|r",
+			[51] = 1698353636,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"LF DPS Druid ICC 10 man", -- [1]
-			"Creamypíes-Faerlina", -- [2]
+			"LFM TOC 25 Normal Mode MS>OS Boe 1 Trophy HR Quick Run Need ALL 10/25", -- [1]
+			"Hazellsquis-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Creamypíes", -- [5]
+			"Hazellsquis", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9605, -- [11]
-			"Player-4408-050E0CA7", -- [12]
+			4291, -- [11]
+			"Player-4408-04532E91", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaCreamypíes|r",
-			[51] = 1698204746,
+			[52] = "|cffc41e3aHazellsquis|r",
+			[51] = 1698353639,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"LFM 25M togc 50/50 need 1 shawdow prist or duird dps", -- [1]
-			"Vaccation-Faerlina", -- [2]
+			"LFM ICC 25m GDKP 11/12 Normal \"Gunship H\" LF Dps - Healers with exp PST", -- [1]
+			"Désm-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Vaccation", -- [5]
+			"Désm", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9606, -- [11]
-			"Player-4408-032F5059", -- [12]
+			4292, -- [11]
+			"Player-4408-05073170", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aVaccation|r",
-			[51] = 1698204747,
+			[52] = "|cfff48cbaDésm|r",
+			[51] = 1698353642,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"LFM ICC 25M REP FARM 2x BOE HR THEN FREE ROLL GS/SPEC W NEED 1 HEALER AND DPS 18/25", -- [1]
-			"Silversins-Faerlina", -- [2]
+			"LFM for VOA 25 need druids/shammies/Priests/rogue/Prot Warrior", -- [1]
+			"Kaystella-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Silversins", -- [5]
+			"Kaystella", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9607, -- [11]
-			"Player-4408-04F94208", -- [12]
+			4293, -- [11]
+			"Player-4408-03DFF850", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSilversins|r",
-			[51] = 1698204748,
+			[52] = "|cffaad372Kaystella|r",
+			[51] = 1698353644,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [20]
 		{
-			"WTS HOS BOOST || ALL MOBS + BOSS || SOLO or DUO || BEST SERVICE || 11 min run || 72+ lvl || PST", -- [1]
-			"Alarón-Faerlina", -- [2]
+			"LFM Fresh voa 10 need all", -- [1]
+			"Rhaegâr-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Alarón", -- [5]
+			"Rhaegâr", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9608, -- [11]
-			"Player-4408-05074101", -- [12]
+			4294, -- [11]
+			"Player-4408-038A4E1D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAlarón|r",
-			[51] = 1698204751,
+			[52] = "|cfff48cbaRhaegâr|r",
+			[51] = 1698353648,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"LFM ICC 10 REP FARM BOE HR NEED 1 HEAL WHISPER ME SPEC AND GS", -- [1]
-			"Dukazuga-Faerlina", -- [2]
+			"LFM VOA25 NEED ALL.", -- [1]
+			"Zetup-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Dukazuga", -- [5]
+			"Zetup", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9609, -- [11]
-			"Player-4408-0508CC55", -- [12]
+			4296, -- [11]
+			"Player-4408-030E82B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDukazuga|r",
-			[51] = 1698204754,
+			[52] = "|cff8787edZetup|r",
+			[51] = 1698353653,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [22]
 		{
-			"LF layer 1, 2, 3, 50g", -- [1]
-			"Kumachomagi", -- [2]
+			"LFM H ICC 10 GDKP tonight at 12:00am. Fielding best roster to get 9+ H down plus N LK. PST if questions!!!  https://discord.gg/8JBJ6RWh", -- [1]
+			"Chilaxinbop", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Kumachomagi", -- [5]
+			"Chilaxinbop", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9610, -- [11]
-			"Player-4408-03D2E518", -- [12]
+			4297, -- [11]
+			"Player-4408-04B11BB7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaKumachomagi|r",
-			[51] = 1698204754,
+			[52] = "|cfff48cbaChilaxinbop|r",
+			[51] = 1698353653,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [23]
 		{
-			"LFM VoA25 - Need Shamans, Cat/Tree, Prot Warr, Hunter", -- [1]
-			"Hopesie-Faerlina", -- [2]
+			"LF1M ICC 10 H GUNSHIP NEED DPS ", -- [1]
+			"Tofi", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Hopesie", -- [5]
+			"Tofi", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9611, -- [11]
-			"Player-4408-0502EE24", -- [12]
+			4298, -- [11]
+			"Player-4408-050A34D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aHopesie|r",
-			[51] = 1698204759,
+			[52] = "|cfff48cbaTofi|r",
+			[51] = 1698353653,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [24]
 		{
-			"LFM VOA 25 - Need  Resto Druid, Disc, Enhance, Rsham, Elemental, Hpal", -- [1]
-			"Muenstermash-Faerlina", -- [2]
+			"5.7k assa rogue LF ICC 10H PST solid budget if GDKP ", -- [1]
+			"Chorange-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Muenstermash", -- [5]
+			"Chorange", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9612, -- [11]
-			"Player-4408-03AF96D3", -- [12]
+			4299, -- [11]
+			"Player-4408-05229936", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMuenstermash|r",
-			[51] = 1698204764,
+			[52] = "|cfffff468Chorange|r",
+			[51] = 1698353664,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [25]
 		{
-			"LFM 25 VOA need resto or balance druid, tank DK, rshaman, ele shaman, warrior tank. PST GS and SPEC", -- [1]
-			"Catorbear-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED JUST NEED 3 HEALS AND DPS 5K MIN GS PST SPEC AND GS!", -- [1]
+			"Keelennin-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Catorbear", -- [5]
+			"Keelennin", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9613, -- [11]
-			"Player-4408-036FE24B", -- [12]
+			4300, -- [11]
+			"Player-4408-04BA2674", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCatorbear|r",
-			[51] = 1698204767,
+			[52] = "|cfff48cbaKeelennin|r",
+			[51] = 1698353669,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [26]
 		{
-			"lfm dpa ulduar 10m quest", -- [1]
-			"Dontrola-Faerlina", -- [2]
+			"LF4M PRIME GDKP 25 MAN ICC normie run with marrow + ship hm @ 1:00 am server time ISO: ret/aff lock/spriest/ele. Please pst with logs/budget/experience or for more info. ", -- [1]
+			"Doitlive-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Dontrola", -- [5]
+			"Doitlive", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9614, -- [11]
-			"Player-4408-05089EB2", -- [12]
+			4301, -- [11]
+			"Player-4408-04BD13AD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDontrola|r",
-			[51] = 1698204767,
+			[52] = "|cffc69b6dDoitlive|r",
+			[51] = 1698353681,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			" Your boss is mad at you? Or your crush reject you because of your low lv? No worries !! HOS.Boost 120+ mobs 2 BOSS PST!!", -- [1]
-			"Yaayaa-Faerlina", -- [2]
+			"LFM ICC 25M Normal. 5.3k+ 2SR. Pst spec/gs. KNOW FIGHTS. Need 2 heals/dps", -- [1]
+			"Sylens-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Yaayaa", -- [5]
+			"Sylens", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9615, -- [11]
-			"Player-4408-052B3A33", -- [12]
+			4302, -- [11]
+			"Player-4408-0513DCD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaYaayaa|r",
-			[51] = 1698204769,
+			[52] = "|cfff48cbaSylens|r",
+			[51] = 1698353683,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"LFM VoA 25 Spec Run Need Prot War Blood DK Hpal Spriest Enhance/Ele Sham Rogue PST Spec GS ", -- [1]
-			"Exoshock-Faerlina", -- [2]
+			"LFM TOC 25 N NEED PalyH-DISC-LOCK-Hunter-SHamy - MS>OS - BOE/DC HR - 23/2 5.1k+ GS PST ", -- [1]
+			"Blanchfield-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Exoshock", -- [5]
+			"Blanchfield", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9616, -- [11]
-			"Player-4408-03DEBDC2", -- [12]
+			4306, -- [11]
+			"Player-4408-050358E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddExoshock|r",
-			[51] = 1698204773,
+			[52] = "|cfff48cbaBlanchfield|r",
+			[51] = 1698353691,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"LFM VOA 25m going with about 15 PST NEED Tanks/HEALS", -- [1]
-			"Ëw-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS!", -- [1]
+			"Hamgara-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Ëw", -- [5]
+			"Hamgara", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9617, -- [11]
-			"Player-4408-04FF6AA0", -- [12]
+			4307, -- [11]
+			"Player-4408-0507321E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaËw|r",
-			[51] = 1698204774,
+			[52] = "|cfffff468Hamgara|r",
+			[51] = 1698353696,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [30]
 		{
-			"{star} LF1M DPS   SERVICE  for kill 3 boss BT tip dps 1k {star}{star} ", -- [1]
-			"Aslanrogue-Faerlina", -- [2]
+			"wts boost HoS 110-120 Mobs", -- [1]
+			"Blackye-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Aslanrogue", -- [5]
+			"Blackye", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9618, -- [11]
-			"Player-4408-05046D8B", -- [12]
+			4308, -- [11]
+			"Player-4408-03D40D22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Aslanrogue|r",
-			[51] = 1698204776,
+			[52] = "|cfff48cbaBlackye|r",
+			[51] = 1698353709,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"LFM 10MAN VOA HEAL DPS", -- [1]
-			"Milbx-Faerlina", -- [2]
+			"VOA CLASS SPEC 10MAN RUN     ROGUE", -- [1]
+			"Quarticr-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Milbx", -- [5]
+			"Quarticr", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9619, -- [11]
-			"Player-4408-044E0B36", -- [12]
+			4309, -- [11]
+			"Player-4408-05012DD7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aMilbx|r",
-			[51] = 1698204776,
+			[52] = "|cffc69b6dQuarticr|r",
+			[51] = 1698353711,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"{star} LF3M Heals & Dps  SERVICE  for kill 3 boss BT tip 750g/ea {star}{star}", -- [1]
-			"Destroyerboy-Faerlina", -- [2]
+			"LFM VOA25 NEED ALL.", -- [1]
+			"Zetup-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Destroyerboy", -- [5]
+			"Zetup", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9620, -- [11]
-			"Player-4408-05097A8E", -- [12]
+			4310, -- [11]
+			"Player-4408-030E82B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Destroyerboy|r",
-			[51] = 1698204778,
+			[52] = "|cff8787edZetup|r",
+			[51] = 1698353714,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"Easy Company-led 10m H12/12 run going now. Full guild run - need (1) Prot Pal with H LK experience. PST logs. Will do 11/12 tonight with some H LK pulls and then come back another day.", -- [1]
-			"Churchie-Faerlina", -- [2]
+			"LF boomy VOA 25 spec run", -- [1]
+			"Drim", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Churchie", -- [5]
+			"Drim", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9621, -- [11]
-			"Player-4408-05018682", -- [12]
+			4311, -- [11]
+			"Player-4408-037E4358", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Churchie|r",
-			[51] = 1698204778,
+			[52] = "|cff3fc6eaDrim|r",
+			[51] = 1698353716,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"lf1m voa 10 need rogue/hunter", -- [1]
-			"Mezugzugz", -- [2]
+			"{Diamond} Reverie {Diamond} busca jugadores para su core main. Rsham, Rdruid, EnhaS y  Dk's con ganas de participar en un ambiente competitivo y sano, Main raids Martes, Miercoles y Jueves  20:30 ST.", -- [1]
+			"Píétro-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Mezugzugz", -- [5]
+			"Píétro", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9622, -- [11]
-			"Player-4408-03A81FD2", -- [12]
+			4312, -- [11]
+			"Player-4408-05085585", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMezugzugz|r",
-			[51] = 1698204779,
+			[52] = "|cffc69b6dPíétro|r",
+			[51] = 1698353716,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"DPS LF ICC REP FARM", -- [1]
-			"Discharged", -- [2]
+			"LFM TOC 25 Normal Mode MS>OS Boe 1 Trophy HR Quick Run Need ALL 12/25", -- [1]
+			"Hazellsquis-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Discharged", -- [5]
+			"Hazellsquis", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9623, -- [11]
-			"Player-4408-050B9394", -- [12]
+			4314, -- [11]
+			"Player-4408-04532E91", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDischarged|r",
-			[51] = 1698204779,
+			[52] = "|cffc41e3aHazellsquis|r",
+			[51] = 1698353727,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"https://classic.warcraftlogs.com/character/id/77048334?mode=detailed&zone=1020#metric=dps&difficulty=4&partition=4&class=Warrior&spec=Fury", -- [1]
-			"Xenoheart-Faerlina", -- [2]
+			"LFM FoS Daily 5400+", -- [1]
+			"Natemcnasty", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Xenoheart", -- [5]
+			"Natemcnasty", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9624, -- [11]
-			"Player-4408-0386109E", -- [12]
+			4315, -- [11]
+			"Player-4408-04F94828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edXenoheart|r",
-			[51] = 1698204721,
+			[52] = "|cff0070ddNatemcnasty|r",
+			[51] = 1698353728,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"LFKM [¡El Leviatán de llamas debe morir! (24585)] 10 ", -- [1]
-			"Meraxys-Faerlina", -- [2]
+			"LFG VOA 10- 5.6k enh shm", -- [1]
+			"Merrec-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Meraxys", -- [5]
+			"Merrec", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9625, -- [11]
-			"Player-4408-0525D29A", -- [12]
+			4316, -- [11]
+			"Player-4408-04FA0E24", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMeraxys|r",
-			[51] = 1698204722,
+			[52] = "|cff0070ddMerrec|r",
+			[51] = 1698353729,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [38]
 		{
-			"LFM VOA SPEC RUN NEED PROT WARR AND SHAMMY", -- [1]
-			"Mantøoth-Faerlina", -- [2]
+			"LF 1 TANK 4 DPS TOGC 25 4/5H SOLACE HR 3 SR", -- [1]
+			"Smournehaver-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Mantøoth", -- [5]
+			"Smournehaver", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9626, -- [11]
-			"Player-4408-03803F14", -- [12]
+			4317, -- [11]
+			"Player-4408-0522FB17", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMantøoth|r",
-			[51] = 1698204726,
+			[52] = "|cfff48cbaSmournehaver|r",
+			[51] = 1698353732,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [39]
 		{
-			"Resto Shaman LF VOA 25man", -- [1]
-			"Anwars", -- [2]
+			"lf hos boost", -- [1]
+			"Smexual-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Anwars", -- [5]
+			"Smexual", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9627, -- [11]
-			"Player-4408-0501D97E", -- [12]
+			4318, -- [11]
+			"Player-4408-03834D48", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAnwars|r",
-			[51] = 1698204726,
+			[52] = "|cffaad372Smexual|r",
+			[51] = 1698353733,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [40]
 		{
-			"<Bloodlin> seeking solid Members to Put icc & TOGC 25m On farm. in return you will get to bring your alts in the main runs and gear given to them! Tue-Wed 10pm ST", -- [1]
-			"Biiscuits-Faerlina", -- [2]
+			"LFM ICC 25N (H GUNSHIP) @6ST/EST || 2SR then MS>OS! <NoLogsJustBosses> MUST BE GEMMED AND ENCHANTED NEED DPS  || BLOOD + BOE HR", -- [1]
+			"Mashalla-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Biiscuits", -- [5]
+			"Mashalla", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9628, -- [11]
-			"Player-4408-05297515", -- [12]
+			4319, -- [11]
+			"Player-4408-05016020", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBiiscuits|r",
-			[51] = 1698204727,
+			[52] = "|cfffff468Mashalla|r",
+			[51] = 1698353736,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [41]
 		{
-			"LFM VOA 25: IF I IGNORE YOU WE HAVE YOUR CLASS/SPEC. Need Healers/War tank/Druid heal/Shaman Enhance ", -- [1]
-			"Beautyful-Faerlina", -- [2]
+			"LF ENCHANTER WITH EXECUTIONER! PST", -- [1]
+			"Ziewar-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Beautyful", -- [5]
+			"Ziewar", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9629, -- [11]
-			"Player-4408-0501BC6B", -- [12]
+			4320, -- [11]
+			"Player-4408-049AFB6A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBeautyful|r",
-			[51] = 1698204731,
+			[52] = "|cffc69b6dZiewar|r",
+			[51] = 1698353740,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [42]
 		{
-			"LF1M TANK for ICC10 FRESH MS>OS  guild run  le chupamos toda", -- [1]
-			"Elmaldito-Faerlina", -- [2]
+			"WTS icc Heroic mode Clear Guild run with Full BiS items guarantee (up to 7-9 pieces) +Mounts starting to day at 20:00st {star}", -- [1]
+			"Erusam-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Elmaldito", -- [5]
+			"Erusam", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9630, -- [11]
-			"Player-4408-03396AB8", -- [12]
+			4321, -- [11]
+			"Player-4408-052DD1CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaElmaldito|r",
-			[51] = 1698204734,
+			[52] = "|cfffff468Erusam|r",
+			[51] = 1698353743,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [43]
 		{
-			" {rt8}{rt8}{rt8}Réquiem{rt8}{rt8}{rt8}..Recluta para su 2do roster de 25 (10/12) (2/12H) jugadores 5.2+ .Buscamos: Rdruid/Sombras/Brujos/Disci...Horarios de raideo 9:00 pm ST. Domingo/Lunes", -- [1]
-			"Ntxzrgx-Faerlina", -- [2]
+			"busco tank para hacer heroicas le pago 100g por mazmorra, cualquier gs", -- [1]
+			"Disculpa", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Ntxzrgx", -- [5]
+			"Disculpa", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9631, -- [11]
-			"Player-4408-05099895", -- [12]
+			4322, -- [11]
+			"Player-4408-0509945B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNtxzrgx|r",
-			[51] = 1698204796,
+			[52] = "|cfffff468Disculpa|r",
+			[51] = 1698353746,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [44]
 		{
-			"LFM ICC10normal GDKP  //{rt1} DPS{rt1}HEAL{rt1} cut 1% - org 10%{ items 3k} {trinket 5k} CARRY buyer wealcome 80s", -- [1]
-			"Fredycrub-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS!", -- [1]
+			"Keelennin-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Fredycrub", -- [5]
+			"Keelennin", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9632, -- [11]
-			"Player-4408-04F908C2", -- [12]
+			4323, -- [11]
+			"Player-4408-04BA2674", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFredycrub|r",
-			[51] = 1698204809,
+			[52] = "|cfff48cbaKeelennin|r",
+			[51] = 1698353749,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"WTS CHOKER", -- [1]
-			"Gudrid-Faerlina", -- [2]
+			"WTS DTK BOOST 1 BOS lvl 68-75 100+ mobs good price for solo duo trio  group no summon", -- [1]
+			"Vynlaz-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Gudrid", -- [5]
+			"Vynlaz", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9633, -- [11]
-			"Player-4408-05224FFD", -- [12]
+			4324, -- [11]
+			"Player-4408-0459A27D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaGudrid|r",
-			[51] = 1698204809,
+			[52] = "|cfff48cbaVynlaz|r",
+			[51] = 1698353751,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 		{
-			"HOS SERVICE EXP 120++ MOBS 1 BOS 10-11MIN/RUN PST", -- [1]
-			"Cõõtank-Faerlina", -- [2]
+			"LFM ICC 25N(Marro, gunship, Rotface H) 3x SR MS>OS Shards HR Need ALL", -- [1]
+			"Vallfirewar-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Cõõtank", -- [5]
+			"Vallfirewar", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9634, -- [11]
-			"Player-4408-05094B2A", -- [12]
+			4325, -- [11]
+			"Player-4408-05256A2C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaCõõtank|r",
-			[51] = 1698204813,
+			[52] = "|cffc69b6dVallfirewar|r",
+			[51] = 1698353755,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [47]
 		{
-			"WTS HOS BOOST || ALL MOBS + BOSS || SOLO or DUO || BEST SERVICE || 11 min run || 72+ lvl || PST", -- [1]
-			"Alarón-Faerlina", -- [2]
+			"lfg RoB nagrand", -- [1]
+			"Pansarvagn-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Alarón", -- [5]
+			"Pansarvagn", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9635, -- [11]
-			"Player-4408-05074101", -- [12]
+			4326, -- [11]
+			"Player-4408-052A7C8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAlarón|r",
-			[51] = 1698204818,
+			[52] = "|cffc69b6dPansarvagn|r",
+			[51] = 1698353758,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"LFM ICC 25M REP FARM! 1x BOE HR AFTER FREE ROLL GS/SPEC PM! NEED 1 TANK 1 HEALER 1 DPS LOCK 23/25", -- [1]
-			"Eyehatecop-Faerlina", -- [2]
+			"LF 1 Boomy Pumper ICC10 11/12 (Some Heroic) GS 5.4k min Discord & Habla Hispana", -- [1]
+			"Derecha", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Eyehatecop", -- [5]
+			"Derecha", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9636, -- [11]
-			"Player-4408-050BF802", -- [12]
+			4327, -- [11]
+			"Player-4408-04F7DD71", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aEyehatecop|r",
-			[51] = 1698204820,
+			[52] = "|cfff48cbaDerecha|r",
+			[51] = 1698353763,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"LFM ICC 25M REP FARM 2x BOE HR THEN FREE ROLL GS/SPEC W NEED 1 HEALER AND DPS 18/25", -- [1]
-			"Silversins-Faerlina", -- [2]
+			"LFM ICC 25m GDKP 11/12 Normal \"Gunship H\" LF Dps - Healers with exp PST", -- [1]
+			"Désm-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Silversins", -- [5]
+			"Désm", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9637, -- [11]
-			"Player-4408-04F94208", -- [12]
+			4328, -- [11]
+			"Player-4408-05073170", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSilversins|r",
-			[51] = 1698204821,
+			[52] = "|cfff48cbaDésm|r",
+			[51] = 1698353764,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"LFM ICC 10 REP FARM BOE HR NEED 1  HEAL AND DPS WHISPER ME SPEC AND GS", -- [1]
-			"Dukazuga-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS! 15/25", -- [1]
+			"Hamgara-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Dukazuga", -- [5]
+			"Hamgara", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9638, -- [11]
-			"Player-4408-0508CC55", -- [12]
+			4329, -- [11]
+			"Player-4408-0507321E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDukazuga|r",
-			[51] = 1698204821,
+			[52] = "|cfffff468Hamgara|r",
+			[51] = 1698353765,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			">Reverie< Main Core: reclutamos jugadores con ganas de participar en un ambiente sano y competitivo, Main raids ICC 25 (12/12N) (7/12HC) Martes-Miercoles-Jueves 20:30 ST+ (3 horas) Spots: Enha (Prio) || HEALER (Cualquiera HIGH PRIO)", -- [1]
-			"Plasmaxd-Faerlina", -- [2]
+			"LFM Fresh voa 10 need all", -- [1]
+			"Rhaegâr-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Plasmaxd", -- [5]
+			"Rhaegâr", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9639, -- [11]
-			"Player-4408-04FC7153", -- [12]
+			4330, -- [11]
+			"Player-4408-038A4E1D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaPlasmaxd|r",
-			[51] = 1698204823,
+			[52] = "|cfff48cbaRhaegâr|r",
+			[51] = 1698353769,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"}", -- [1]
-			"Vânhelnsîng-Faerlina", -- [2]
+			"LFM TOC 25 N NEED PalyH-DISC-LOCK-Hunter-SHamy - MS>OS - BOE/DC HR - 23/2 5.1k+ GS PST ", -- [1]
+			"Blanchfield-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Vânhelnsîng", -- [5]
+			"Blanchfield", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9640, -- [11]
-			"Player-4408-050A947E", -- [12]
+			4331, -- [11]
+			"Player-4408-050358E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aVânhelnsîng|r",
-			[51] = 1698204832,
+			[52] = "|cfff48cbaBlanchfield|r",
+			[51] = 1698353772,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"LFM TOGC10HC NEED 1RESTO 5k+", -- [1]
-			"Iderigho", -- [2]
+			"ALV recluta para su Core 2, raideamos solo los Martes de 9PM - 1AM ST.  Manden whisper si estan interesados o quieren informacion addicional. Pref Hunter/Lock/Pala Holy", -- [1]
+			"Lìna-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Iderigho", -- [5]
+			"Lìna", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9641, -- [11]
-			"Player-4408-051D8F8F", -- [12]
+			4332, -- [11]
+			"Player-4408-044D3C27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaIderigho|r",
-			[51] = 1698204832,
+			[52] = "|cffc41e3aLìna|r",
+			[51] = 1698353772,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"LFM VoA 10 Rainbow Run need 1 heals 1 tank have hpal and prot pal", -- [1]
-			"Shädozug-Faerlina", -- [2]
+			"{Diamond} Reverie {Diamond} busca jugadores para su core main. Rsham, Rdruid, EnhaS y  Dk's con ganas de participar en un ambiente competitivo y sano, Main raids Martes, Miercoles y Jueves  20:30 ST.", -- [1]
+			"Píétro-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Shädozug", -- [5]
+			"Píétro", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9642, -- [11]
-			"Player-4408-0522FFCA", -- [12]
+			4334, -- [11]
+			"Player-4408-05085585", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dShädozug|r",
-			[51] = 1698204833,
+			[52] = "|cffc69b6dPíétro|r",
+			[51] = 1698353778,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"lfm voa 25 need all", -- [1]
-			"Zappiekiyay", -- [2]
+			"LFM ICC 25M H LOOTSHIP need dps and heals 5.3+", -- [1]
+			"Savagry-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Zappiekiyay", -- [5]
+			"Savagry", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9643, -- [11]
-			"Player-4408-05013430", -- [12]
+			4337, -- [11]
+			"Player-4408-0503D42E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddZappiekiyay|r",
-			[51] = 1698204834,
+			[52] = "|cffff7c0aSavagry|r",
+			[51] = 1698353783,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"LFG GAMMA WORLD TOUR", -- [1]
-			"Sosaalmighty-Faerlina", -- [2]
+			"LF4M PRIME GDKP 25 MAN ICC normie run with marrow + ship hm @ 1:00 am server time ISO: ret/aff lock/spriest/ele. Please pst with logs/budget/experience or for more info. ", -- [1]
+			"Doitlive-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Sosaalmighty", -- [5]
+			"Doitlive", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9644, -- [11]
-			"Player-4408-052D5C0C", -- [12]
+			4338, -- [11]
+			"Player-4408-04BD13AD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSosaalmighty|r",
-			[51] = 1698204834,
+			[52] = "|cffc69b6dDoitlive|r",
+			[51] = 1698353788,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [57]
 		{
-			"LFM VOA 25 NEED SHAMAN MAGE DK HOLY PAL", -- [1]
-			"Bignoots", -- [2]
+			"LFM TOC 25 Normal Mode MS>OS Boe 1 Trophy HR Quick Run Need ALL 12/25", -- [1]
+			"Hazellsquis-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Bignoots", -- [5]
+			"Hazellsquis", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9645, -- [11]
-			"Player-4408-0502A55C", -- [12]
+			4339, -- [11]
+			"Player-4408-04532E91", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBignoots|r",
-			[51] = 1698204837,
+			[52] = "|cffc41e3aHazellsquis|r",
+			[51] = 1698353793,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [58]
 		{
-			"LFM VOA 25m going with about 15 PST NEED Tanks/HEALS No wisper no need PST!!!", -- [1]
-			"Ëw-Faerlina", -- [2]
+			"Lightweight GDKP Friday 8pm Full Normal Clear + 3-4 Heroics STAX Verified and Hosted run looking for Hpal,  Boomkin Firemage, and 2 dps DM exp and budget to be considered and signup on stax under Fri(Late) 8pm Lightweight", -- [1]
+			"Vucc-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Ëw", -- [5]
+			"Vucc", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9646, -- [11]
-			"Player-4408-04FF6AA0", -- [12]
+			4340, -- [11]
+			"Player-4408-04636D2E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaËw|r",
-			[51] = 1698204838,
+			[52] = "|cffaad372Vucc|r",
+			[51] = 1698353794,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [59]
 		{
-			"LFM VoA 25 Spec Run Need Prot War Blood DK Hpal Spriest Enhance/Ele Sham Rogue PST Spec GS ", -- [1]
-			"Exoshock-Faerlina", -- [2]
+			"<RESISTANCE> GUILD Latina , Recluta  warlock /ele shaman / shadowpriest,otras clases /specs son bienvenidas para Progress de ICC Heroic  mas info en https://discord.gg/97yqdCMk", -- [1]
+			"Heztya-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Exoshock", -- [5]
+			"Heztya", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9647, -- [11]
-			"Player-4408-03DEBDC2", -- [12]
+			4341, -- [11]
+			"Player-4408-04DDEE12", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddExoshock|r",
-			[51] = 1698204838,
+			[52] = "|cff0070ddHeztya|r",
+			[51] = 1698353794,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [60]
 		{
-			"WTB CASTER DPS  FOR KILL 3 BOSS BT  TIP 1 K", -- [1]
-			"Aslanrogue-Faerlina", -- [2]
+			"LFM VOA25 NEED ALL.", -- [1]
+			"Zetup-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Aslanrogue", -- [5]
+			"Zetup", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9648, -- [11]
-			"Player-4408-05046D8B", -- [12]
+			4342, -- [11]
+			"Player-4408-030E82B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Aslanrogue|r",
-			[51] = 1698204781,
+			[52] = "|cff8787edZetup|r",
+			[51] = 1698353794,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"WTB dps carry for BT", -- [1]
-			"Schuvi-Faerlina", -- [2]
+			"LFM ICC 25M Normal. 5.3k+ 2SR. Pst spec/gs. KNOW FIGHTS. Need 1 heals rest dps.", -- [1]
+			"Sylens-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Schuvi", -- [5]
+			"Sylens", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9649, -- [11]
-			"Player-4408-05079FE1", -- [12]
+			4343, -- [11]
+			"Player-4408-0513DCD5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Schuvi|r",
-			[51] = 1698204782,
+			[52] = "|cfff48cbaSylens|r",
+			[51] = 1698353800,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [62]
 		{
-			"LFM VOA10 SPEC RUN", -- [1]
-			"Zootspace", -- [2]
+			"LFM H ICC 10 GDKP tonight at 12:00am. Fielding best roster to get 9+ H down plus N LK. PST if questions!!!  https://discord.gg/8JBJ6RWh", -- [1]
+			"Chilaxinbop-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Zootspace", -- [5]
+			"Chilaxinbop", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9650, -- [11]
-			"Player-4408-0364D06A", -- [12]
+			4344, -- [11]
+			"Player-4408-04B11BB7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaZootspace|r",
-			[51] = 1698204782,
+			[52] = "|cfff48cbaChilaxinbop|r",
+			[51] = 1698353803,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [63]
 		{
-			"lfm dpa ulduar 10m quest", -- [1]
-			"Dontrola-Faerlina", -- [2]
+			"LFM ICC 25m GDKP   11/12 Gunship H LF Tank - Dps - 1 Rdruid pst Gs / Budget Starting when full! Discord req", -- [1]
+			"Nanaasta-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Dontrola", -- [5]
+			"Nanaasta", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9651, -- [11]
-			"Player-4408-05089EB2", -- [12]
+			4345, -- [11]
+			"Player-4408-048D2240", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDontrola|r",
-			[51] = 1698204783,
+			[52] = "|cfff48cbaNanaasta|r",
+			[51] = 1698353804,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [64]
 		{
-			"You cant see me", -- [1]
-			"Johncena", -- [2]
+			"JOIN horde BOOST GROUP 2.5k people FOR 1-80 boosting  https://discord.gg/5jevNbnWvB ask dangorst for more info", -- [1]
+			"Naramux-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Johncena", -- [5]
+			"Naramux", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9652, -- [11]
-			"Player-4408-037A4395", -- [12]
+			4346, -- [11]
+			"Player-4408-03CC1DEB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aJohncena|r",
-			[51] = 1698204784,
+			[52] = "|cff0070ddNaramux|r",
+			[51] = 1698353804,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [65]
 		{
-			"5400 rsham LFG VOA10 class run", -- [1]
-			"Chainedsnow", -- [2]
+			"5900 resto druid/5700 boom LF 10man ICC ", -- [1]
+			"Beverlyheäls-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Chainedsnow", -- [5]
+			"Beverlyheäls", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9653, -- [11]
-			"Player-4408-035E8ED4", -- [12]
+			4347, -- [11]
+			"Player-4408-03A361FF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddChainedsnow|r",
-			[51] = 1698204788,
+			[52] = "|cffff7c0aBeverlyheäls|r",
+			[51] = 1698353805,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [66]
 		{
-			"LFM VOA SPEC RUN NEED PROT WARR AND SHAMMY", -- [1]
-			"Mantøoth-Faerlina", -- [2]
+			"Looking for Heal, DD 35+ to Razorfen Downs", -- [1]
+			"Irido-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Mantøoth", -- [5]
+			"Irido", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9654, -- [11]
-			"Player-4408-03803F14", -- [12]
+			4352, -- [11]
+			"Player-4408-052AE7DC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMantøoth|r",
-			[51] = 1698204790,
+			[52] = "|cfff48cbaIrido|r",
+			[51] = 1698353817,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [67]
 		{
-			"LFM GAMMA NEED DPS 5,4K GS", -- [1]
-			"Spacetrooper", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS!", -- [1]
+			"Keelennin-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Spacetrooper", -- [5]
+			"Keelennin", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9655, -- [11]
-			"Player-4408-05261FE9", -- [12]
+			4353, -- [11]
+			"Player-4408-04BA2674", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaSpacetrooper|r",
-			[51] = 1698204791,
+			[52] = "|cfff48cbaKeelennin|r",
+			[51] = 1698353819,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [68]
 		{
-			"LF layer 1, 2, 3, 50g", -- [1]
-			"Kumachomagi-Faerlina", -- [2]
+			"LFM ICC 25m GDKP   11/12 Gunship H LF Tank - Dps - 1 Rdruid pst Gs / Budget Starting when full! Discord req", -- [1]
+			"Desmito", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Kumachomagi", -- [5]
+			"Desmito", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9656, -- [11]
-			"Player-4408-03D2E518", -- [12]
+			4354, -- [11]
+			"Player-4408-03B5E076", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaKumachomagi|r",
-			[51] = 1698204792,
+			[52] = "|cfff48cbaDesmito|r",
+			[51] = 1698353819,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [69]
 		{
-			"<Bloodlin> seeking solid Members to Put icc & TOGC 25m On farm. in return you will get to bring your alts in the main runs and gear given to them! Tue-Wed 10pm ST", -- [1]
-			"Biiscuits-Faerlina", -- [2]
+			"lf hos boost", -- [1]
+			"Smexual-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Biiscuits", -- [5]
+			"Smexual", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9657, -- [11]
-			"Player-4408-05297515", -- [12]
+			4355, -- [11]
+			"Player-4408-03834D48", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBiiscuits|r",
-			[51] = 1698204793,
+			[52] = "|cffaad372Smexual|r",
+			[51] = 1698353760,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [70]
 		{
-			"LFM 25m togc 50/50 ms>os whisper gs", -- [1]
-			"Vaccation-Faerlina", -- [2]
+			"LF Tank/Heals FoS Daily 5400+", -- [1]
+			"Natemcnasty-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Vaccation", -- [5]
+			"Natemcnasty", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9658, -- [11]
-			"Player-4408-032F5059", -- [12]
+			4356, -- [11]
+			"Player-4408-04F94828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aVaccation|r",
-			[51] = 1698204857,
+			[52] = "|cff0070ddNatemcnasty|r",
+			[51] = 1698353823,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [71]
 		{
-			"Resto Shaman LF VOA 25man", -- [1]
-			"Anwars-Faerlina", -- [2]
+			"LFM ICC 10m N 2 SR need a tank or an rshaman", -- [1]
+			"Salsajar-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Anwars", -- [5]
+			"Salsajar", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9659, -- [11]
-			"Player-4408-0501D97E", -- [12]
+			4357, -- [11]
+			"Player-4408-0371B323", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddAnwars|r",
-			[51] = 1698204858,
+			[52] = "|cffffffffSalsajar|r",
+			[51] = 1698353836,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"LFM 25 VOA need balance druid, tank DK, rshaman, ele shaman, warrior tank. PST GS and SPEC", -- [1]
-			"Catorbear-Faerlina", -- [2]
+			"LFM ICC 25N (H GUNSHIP) @6:30ST/EST || 2SR then MS>OS! <NoLogsJustBosses> MUST BE GEMMED AND ENCHANTED NEED DPS  || BLOOD + BOE HR", -- [1]
+			"Mashalla-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Catorbear", -- [5]
+			"Mashalla", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9660, -- [11]
-			"Player-4408-036FE24B", -- [12]
+			4358, -- [11]
+			"Player-4408-05016020", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aCatorbear|r",
-			[51] = 1698204859,
+			[52] = "|cfffff468Mashalla|r",
+			[51] = 1698353839,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [73]
 		{
-			"LFM 25 ICC REP FARM (FIRST BOE HR, REST OPEN ROLL) 21/25 need heals", -- [1]
-			"Matchesxo-Faerlina", -- [2]
+			"LFM ICC 25 Rep farm 21/25 need dps(Every other BOE is free roll)", -- [1]
+			"Couldntbeme-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Matchesxo", -- [5]
+			"Couldntbeme", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9661, -- [11]
-			"Player-4408-0501677D", -- [12]
+			4359, -- [11]
+			"Player-4408-04B4602F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aMatchesxo|r",
-			[51] = 1698204863,
+			[52] = "|cff0070ddCouldntbeme|r",
+			[51] = 1698353840,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [74]
 		{
-			"{RT8} TOC 10 50/50  {RT1} MS>OS  {RT8} JUST NEED HPAL", -- [1]
-			"Renwo-Faerlina", -- [2]
+			"LF 1 TANK 4 DPS TOGC 25 4/5H SOLACE HR 3 SR", -- [1]
+			"Smournehaver-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Renwo", -- [5]
+			"Smournehaver", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9662, -- [11]
-			"Player-4408-050AB7DD", -- [12]
+			4360, -- [11]
+			"Player-4408-0522FB17", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRenwo|r",
-			[51] = 1698204865,
+			[52] = "|cfff48cbaSmournehaver|r",
+			[51] = 1698353844,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [75]
 		{
-			"[Neutralizar la peste (13281)]", -- [1]
-			"Kaneeki", -- [2]
+			"LFM TOC 25 N NEED PalyH-LOCK-Hunter-SHamy - MS>OS - BOE/DC HR - 23/2 5.1k+ GS PST ", -- [1]
+			"Blanchfield-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Kaneeki", -- [5]
+			"Blanchfield", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9663, -- [11]
-			"Player-4408-0508EC72", -- [12]
+			4361, -- [11]
+			"Player-4408-050358E9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aKaneeki|r",
-			[51] = 1698204869,
+			[52] = "|cfff48cbaBlanchfield|r",
+			[51] = 1698353849,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [76]
 		{
-			"LFM TOGC 5/5 HEROIC 25m GDKP 50/50 258 5k min / 500 inc, regalia / cloak 10k min PST Class/spec/budget/achieve", -- [1]
-			"Mctwistlol-Faerlina", -- [2]
+			"lf hos boost", -- [1]
+			"Hariscapeta", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Mctwistlol", -- [5]
-			"DND", -- [6]
+			"Hariscapeta", -- [5]
+			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9664, -- [11]
-			"Player-4408-050B3F40", -- [12]
+			4362, -- [11]
+			"Player-4408-0505EFBE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aMctwistlol|r",
-			[51] = 1698204870,
+			[52] = "|cff8787edHariscapeta|r",
+			[51] = 1698353850,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [77]
 		{
-			"LFM Flame LEVI Normal 10m For Quest.", -- [1]
-			"Chëfed-Faerlina", -- [2]
+			"LF5M voa 10 need 1 heal 2 tanks ", -- [1]
+			"Rhaegâr-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Chëfed", -- [5]
+			"Rhaegâr", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9665, -- [11]
-			"Player-4408-036E75C2", -- [12]
+			4363, -- [11]
+			"Player-4408-038A4E1D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dChëfed|r",
-			[51] = 1698204873,
+			[52] = "|cfff48cbaRhaegâr|r",
+			[51] = 1698353850,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [78]
 		{
-			"LFM VOA 25: IF I IGNORE YOU WE HAVE YOUR CLASS/SPEC. Need War tank/Shaman Enhance ", -- [1]
-			"Beautyful-Faerlina", -- [2]
+			"LFM VOA 25 SPEC RUN. DM ME GS AND SPEC", -- [1]
+			"Blackkdots", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Beautyful", -- [5]
+			"Blackkdots", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9666, -- [11]
-			"Player-4408-0501BC6B", -- [12]
+			4370, -- [11]
+			"Player-4408-050BFBE9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBeautyful|r",
-			[51] = 1698204877,
+			[52] = "|cff8787edBlackkdots|r",
+			[51] = 1698353852,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"LFM VOA 25 MAN NEED HEAL AND TANK (PREF HPALLY - RESTO SHAMAN - RESTO DRUID)", -- [1]
-			"Suprimegoat", -- [2]
+			"LFM ICC 25m GDKP 11/12 Normal \"Gunship H\" LF Dps - Healers with exp PST", -- [1]
+			"Désm-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Suprimegoat", -- [5]
+			"Désm", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9667, -- [11]
-			"Player-4408-03ACEAEE", -- [12]
+			4371, -- [11]
+			"Player-4408-05073170", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaSuprimegoat|r",
-			[51] = 1698204882,
+			[52] = "|cfff48cbaDésm|r",
+			[51] = 1698353854,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [80]
 		{
-			"LFM ICC 10 REP FARM BOE HR NEED 1  HEAL WHISPER ME SPEC AND GS 9/10", -- [1]
-			"Dukazuga-Faerlina", -- [2]
+			"LFM ICC 25M H LOOTSHIP need dps and heals 5.3+", -- [1]
+			"Savagry-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Dukazuga", -- [5]
+			"Savagry", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9668, -- [11]
-			"Player-4408-0508CC55", -- [12]
+			4372, -- [11]
+			"Player-4408-0503D42E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDukazuga|r",
-			[51] = 1698204883,
+			[52] = "|cffff7c0aSavagry|r",
+			[51] = 1698353854,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"LF1M TANK for ICC10 FRESH MS>OS  guild run ", -- [1]
-			"Elmaldito-Faerlina", -- [2]
+			"LFM TOC 25 Normal Mode MS>OS Boe 1 Trophy HR Quick Run Need ALL 15/25", -- [1]
+			"Hazellsquis-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Elmaldito", -- [5]
+			"Hazellsquis", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9669, -- [11]
-			"Player-4408-03396AB8", -- [12]
+			4374, -- [11]
+			"Player-4408-04532E91", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaElmaldito|r",
-			[51] = 1698204887,
+			[52] = "|cffc41e3aHazellsquis|r",
+			[51] = 1698353860,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"LFM 25 VOA NEED DK, RESTO SHAM RESTO DRUID", -- [1]
-			"Bignoots-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS! 15/25", -- [1]
+			"Hamgara-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Bignoots", -- [5]
+			"Hamgara", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9670, -- [11]
-			"Player-4408-0502A55C", -- [12]
+			4375, -- [11]
+			"Player-4408-0507321E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBignoots|r",
-			[51] = 1698204897,
+			[52] = "|cfffff468Hamgara|r",
+			[51] = 1698353860,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			" {rt8}{rt8}{rt8}Réquiem{rt8}{rt8}{rt8}..Recluta para su 2do roster de 25 (10/12) (2/12H) jugadores 5.2+ .Buscamos: Rdruid/Sombras/Brujos/Disci...Horarios de raideo 9:00 pm ST. Domingo/Lunes", -- [1]
-			"Ntxzrgx-Faerlina", -- [2]
+			" LFM fresh  ICC25  @ 7:30pm-11pm ST - Need 1 healer (Hpriest, RShaman or Rdruid)  3 SR > MS > OS. HM Marrow/Ship/maybe Rot. Going for 10/12 tonight, will clean up Monday. PST for info.", -- [1]
+			"Nübsauce-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Ntxzrgx", -- [5]
+			"Nübsauce", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9671, -- [11]
-			"Player-4408-05099895", -- [12]
+			4376, -- [11]
+			"Player-4408-050126D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaNtxzrgx|r",
-			[51] = 1698204897,
+			[52] = "|cfffff468Nübsauce|r",
+			[51] = 1698353863,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"5.8k frost DK LF VOA 10/25 {star}", -- [1]
-			"Bootwearer", -- [2]
+			"LFM FARM REP 25N ICC 5K GS + - \"BOE HR\" ALL DAY", -- [1]
+			"Pompinchuu-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Bootwearer", -- [5]
+			"Pompinchuu", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9672, -- [11]
-			"Player-4408-05014FB8", -- [12]
+			4377, -- [11]
+			"Player-4408-0509A64E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aBootwearer|r",
-			[51] = 1698204897,
+			[52] = "|cfff48cbaPompinchuu|r",
+			[51] = 1698353863,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"LFM ULD 10 FLAME LEVIATHAN QUEST", -- [1]
-			"Realcria", -- [2]
+			"LFM ICC 25N(Marro, gunship, Rotface H) 3x SR MS>OS Shards HR Need ALL 5.5k gs +", -- [1]
+			"Vallfirewar-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Realcria", -- [5]
+			"Vallfirewar", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9673, -- [11]
-			"Player-4408-0456A342", -- [12]
+			4382, -- [11]
+			"Player-4408-05256A2C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aRealcria|r",
-			[51] = 1698204840,
+			[52] = "|cffc69b6dVallfirewar|r",
+			[51] = 1698353867,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"LFM VOA 25m going with about 15 PST NEED Tanks/HEALS No wisper no need PST!!!", -- [1]
-			"Ëw-Faerlina", -- [2]
+			"lf1m healer voa 25!", -- [1]
+			"Dsandstorm", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Ëw", -- [5]
+			"Dsandstorm", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9674, -- [11]
-			"Player-4408-04FF6AA0", -- [12]
+			4383, -- [11]
+			"Player-4408-02F08EAC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaËw|r",
-			[51] = 1698204840,
+			[52] = "|cffff7c0aDsandstorm|r",
+			[51] = 1698353869,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [87]
 		{
-			"LFM VOA 10 - Need Lock ", -- [1]
-			"Plowcity-Faerlina", -- [2]
+			"DPS LFG ONY10 or ULDUAR", -- [1]
+			"Jigwan", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Plowcity", -- [5]
+			"Jigwan", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9675, -- [11]
-			"Player-4408-044FA70C", -- [12]
+			4384, -- [11]
+			"Player-4408-050B5765", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aPlowcity|r",
-			[51] = 1698204842,
+			[52] = "|cffc69b6dJigwan|r",
+			[51] = 1698353870,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"<<No Mercy>> Busca juadores experimentados o nuevos con ganas de aprender para ICC 10 y 25 Todos los dias (tenemos 3 cores de 10) Necesitamos Casters y DPS rango /w me para mas info ", -- [1]
-			"Eledrox-Faerlina", -- [2]
+			"ALV recluta para su Core 2, raideamos solo los Martes de 9PM - 1AM ST.  Manden whisper si estan interesados o quieren informacion addicional. Pref Hunter/Lock/Pala Holy", -- [1]
+			"Lìna-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Eledrox", -- [5]
+			"Lìna", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9676, -- [11]
-			"Player-4408-036EC165", -- [12]
+			4393, -- [11]
+			"Player-4408-044D3C27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaEledrox|r",
-			[51] = 1698204842,
+			[52] = "|cffc41e3aLìna|r",
+			[51] = 1698353820,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"LFM VoA25 - Need Shamans, Cat/Tree, Prot Warr", -- [1]
-			"Hopesie-Faerlina", -- [2]
+			"LFM ICC 25 REP FARM BOE HR NEED 1 TANK HEALS AND DPS 5K MIN GS PST SPEC AND GS!", -- [1]
+			"Keelennin-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Hopesie", -- [5]
+			"Keelennin", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9677, -- [11]
-			"Player-4408-0502EE24", -- [12]
+			4394, -- [11]
+			"Player-4408-04BA2674", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aHopesie|r",
-			[51] = 1698204842,
+			[52] = "|cfff48cbaKeelennin|r",
+			[51] = 1698353883,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"LFM ICC10normal GDKP  //{rt1} DPS{rt1}HEAL{rt1} cut 1% - org 10%{ items 3k} {trinket 5k} CARRY buyer wealcome 80s", -- [1]
-			"Fredycrub-Faerlina", -- [2]
+			"LFM FL 10 WEEKLY pst gs", -- [1]
+			"Mustardbaits", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Fredycrub", -- [5]
+			"Mustardbaits", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9678, -- [11]
-			"Player-4408-04F908C2", -- [12]
+			4395, -- [11]
+			"Player-4408-04AABB3F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFredycrub|r",
-			[51] = 1698204843,
+			[52] = "|cff3fc6eaMustardbaits|r",
+			[51] = 1698353886,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"LFM VOA10 SPEC RUN", -- [1]
-			"Zootspace-Faerlina", -- [2]
+			"LFM for VOA 25 need druids/shammies/rogue/Prot Warrior", -- [1]
+			"Kaystella-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Zootspace", -- [5]
+			"Kaystella", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9679, -- [11]
-			"Player-4408-0364D06A", -- [12]
+			4397, -- [11]
+			"Player-4408-03DFF850", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaZootspace|r",
-			[51] = 1698204846,
+			[52] = "|cffaad372Kaystella|r",
+			[51] = 1698353889,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [92]
 		{
-			"LFM VOA 25 - Need  Resto Druid,  Enhance, Rsham,  Hpal", -- [1]
-			"Muenstermash-Faerlina", -- [2]
+			"LFM TOGC 25 MAN, 4/5 HM 3 SR MS/OS - NO DISCORD- MUST HAVE EXP NEED ALL", -- [1]
+			"Onoen", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Muenstermash", -- [5]
+			"Onoen", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9680, -- [11]
-			"Player-4408-03AF96D3", -- [12]
+			4398, -- [11]
+			"Player-4408-050A9E9D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMuenstermash|r",
-			[51] = 1698204852,
+			[52] = "|cffaad372Onoen|r",
+			[51] = 1698353890,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [93]
 		{
-			"LFM ICC 25M REP FARM! 1x BOE HR AFTER FREE ROLL GS/SPEC PM! NEED 1 TANK 1 HEALER 1 DPS LOCK 23/25", -- [1]
-			"Eyehatecop-Faerlina", -- [2]
+			"test", -- [1]
+			"Aggroenjoyr-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Eyehatecop", -- [5]
+			"Aggroenjoyr", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9681, -- [11]
-			"Player-4408-050BF802", -- [12]
+			4399, -- [11]
+			"Player-4408-0509AEDB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aEyehatecop|r",
-			[51] = 1698204853,
+			[52] = "|cfff48cbaAggroenjoyr|r",
+			[51] = 1698353893,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [94]
 		{
-			"<Bloodlin> seeking solid Members to Put icc & TOGC 25m On farm. in return you will get to bring your alts in the main runs and gear given to them! Tue-Wed 10pm ST", -- [1]
-			"Biiscuits-Faerlina", -- [2]
+			"LF Tank FoS Daily", -- [1]
+			"Natemcnasty-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Biiscuits", -- [5]
+			"Natemcnasty", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9682, -- [11]
-			"Player-4408-05297515", -- [12]
+			4400, -- [11]
+			"Player-4408-04F94828", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaBiiscuits|r",
-			[51] = 1698204854,
+			[52] = "|cff0070ddNatemcnasty|r",
+			[51] = 1698353894,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [95]
 		{
-			" Your boss is mad at you? Or your crush reject you because of your low lv? No worries !! HOS.Boost 120+ mobs 2 BOSS PST!!", -- [1]
-			"Yaayaa-Faerlina", -- [2]
+			"<Perdition> Looking to fill our ICC 10 man roster (8/10) Sunday/Monday (5pm to 8pm) Looking to recruit Prot pally, Boomchicken, Demo lock. Brains > gearscore. Will teach and help the right people. Stop pugging and get the gear.", -- [1]
+			"Cleeborp-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Yaayaa", -- [5]
+			"Cleeborp", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9683, -- [11]
-			"Player-4408-052B3A33", -- [12]
+			4402, -- [11]
+			"Player-4408-050ACEE9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaYaayaa|r",
-			[51] = 1698204915,
+			[52] = "|cff0070ddCleeborp|r",
+			[51] = 1698353899,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"LFM quick FOS pst GS/SPEC", -- [1]
-			"Boomkit", -- [2]
+			"5.7k assa 11/12 xp...LF ICC 10Hgdkp ....solid budget", -- [1]
+			"Chorange-Faerlina", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Boomkit", -- [5]
+			"Chorange", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9684, -- [11]
-			"Player-4408-04F6F4B8", -- [12]
+			4403, -- [11]
+			"Player-4408-05229936", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aBoomkit|r",
-			[51] = 1698204915,
+			[52] = "|cfffff468Chorange|r",
+			[51] = 1698353904,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			">Reverie< Main Core: reclutamos jugadores con ganas de participar en un ambiente sano y competitivo, Main raids ICC 25 (12/12N) (7/12HC) Martes-Miercoles-Jueves 20:30 ST+ (3 horas) Spots: Enha (Prio) || HEALER (Cualquiera HIGH PRIO)", -- [1]
-			"Plasmaxd-Faerlina", -- [2]
+			"LFM for ICC @PP Need all!", -- [1]
+			"Vùlwin", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Plasmaxd", -- [5]
+			"Vùlwin", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9685, -- [11]
-			"Player-4408-04FC7153", -- [12]
+			4404, -- [11]
+			"Player-4408-05028767", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaPlasmaxd|r",
-			[51] = 1698204915,
+			[52] = "|cffff7c0aVùlwin|r",
+			[51] = 1698353908,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"{star} LF3M Heals & Dps  SERVICE  for kill 3 boss BT tip 750g/ea {star}{star}", -- [1]
-			"Destroyerboy-Faerlina", -- [2]
+			"LF WEEKLY FLAME LEVIATHAN", -- [1]
+			"Bronxigar", -- [2]
 			"", -- [3]
 			"4. LookingForGroup", -- [4]
-			"Destroyerboy", -- [5]
+			"Bronxigar", -- [5]
 			"", -- [6]
 			26, -- [7]
 			4, -- [8]
 			"LookingForGroup", -- [9]
 			0, -- [10]
-			9686, -- [11]
-			"Player-4408-05097A8E", -- [12]
+			4405, -- [11]
+			"Player-4408-04B2CEFE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Destroyerboy|r",
-			[51] = 1698204917,
+			[52] = "|cffc69b6dBronxigar|r",
+			[51] = 1698353908,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
