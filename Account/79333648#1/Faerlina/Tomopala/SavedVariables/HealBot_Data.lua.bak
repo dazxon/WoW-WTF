@@ -124,7 +124,7 @@ HealBot_Config = {
 	["MacroUse10"] = false,
 	["SkinZoneEnabled"] = {
 	},
-	["Spec"] = "Holy",
+	["LastAutoSkinChangeType"] = "None",
 	["FavGroundMount"] = "Reawakened Phase-Hunter",
 	["DisableHealBot"] = false,
 	["Profile"] = 1,
@@ -132,7 +132,7 @@ HealBot_Config = {
 	["CurrentSpec"] = 1,
 	["SpellsUpdatedToV10"] = true,
 	["DisableSolo"] = false,
-	["LastAutoSkinChangeType"] = "None",
+	["Spec"] = "Holy",
 	["EnableHealthy"] = true,
 	["DisabledNow"] = 0,
 }
@@ -204,7 +204,7 @@ HealBot_Config_Spells = {
 		["Button510"] = "C:E",
 		["Button4"] = "C:D",
 		["Right30"] = "S:48782",
-		["ShiftButton510"] = "C:B",
+		["Middle10"] = "S:1038",
 		["ShiftLeft10"] = "S:53601",
 		["Button410"] = "C:D",
 		["Right10"] = "S:48781",
@@ -216,7 +216,7 @@ HealBot_Config_Spells = {
 		["Button530"] = "C:E",
 		["CtrlLeft"] = "S:4987",
 		["CtrlLeft10"] = "S:4987",
-		["Middle10"] = "S:1038",
+		["ShiftButton510"] = "C:B",
 	},
 	["SpellTargetLastTarget"] = {
 	},
@@ -273,17 +273,17 @@ HealBot_Config_Buffs = {
 	["WellFedItem"] = "",
 	["AutoBuffCastBy"] = 1,
 	["BuffWatchWhenGrouped"] = false,
-	["CustomBuffName"] = {
-		"", -- [1]
-		"", -- [2]
-		"", -- [3]
+	["CustomBuffCheck"] = {
+		false, -- [1]
+		false, -- [2]
+		false, -- [3]
 	},
 	["BuffWatch"] = true,
 	["AlwaysShowSelf"] = false,
-	["BuffWatchInCombat"] = false,
+	["HealBot_CBWarnRange_Sound"] = 3,
 	["ListSortOrder"] = 1,
 	["LongBuffTimer"] = 120,
-	["HealBot_CBWarnRange_Sound"] = 3,
+	["BuffWatchInCombat"] = false,
 	["HealBotBuffColB"] = {
 		1, -- [1]
 		1, -- [2]
@@ -370,10 +370,10 @@ HealBot_Config_Buffs = {
 		["23"] = 1,
 	},
 	["ListSortFilterTag"] = "",
-	["CustomBuffCheck"] = {
-		false, -- [1]
-		false, -- [2]
-		false, -- [3]
+	["CustomBuffName"] = {
+		"", -- [1]
+		"", -- [2]
+		"", -- [3]
 	},
 	["HealBotBuffText"] = {
 		"Greater Blessing of Kings", -- [1]

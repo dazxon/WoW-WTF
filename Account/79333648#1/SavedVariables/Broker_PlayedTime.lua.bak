@@ -17,13 +17,23 @@ BrokerPlayedTimeDB = {
 	["levels"] = false,
 	["factionIcons"] = false,
 	["sortByPlayedTime"] = false,
+	["Benediction"] = {
+		["Alliance"] = {
+			["Platinada"] = {
+				["timePlayed"] = 15172,
+				["class"] = "PALADIN",
+				["timeUpdated"] = 1694997291,
+				["level"] = 16,
+			},
+		},
+	},
 	["Faerlina"] = {
 		["Horde"] = {
 			["Bocajuniors"] = {
-				["timePlayed"] = 39201,
+				["timePlayed"] = 39502,
 				["class"] = "DEATHKNIGHT",
 				["level"] = 62,
-				["timeUpdated"] = 1694721724,
+				["timeUpdated"] = 1698863694,
 			},
 			["Masturbado"] = {
 				["timePlayed"] = 280003,
@@ -56,16 +66,16 @@ BrokerPlayedTimeDB = {
 				["level"] = 17,
 			},
 			["Tomopala"] = {
-				["timePlayed"] = 386762,
+				["timePlayed"] = 390632,
 				["class"] = "PALADIN",
-				["timeUpdated"] = 1698862579,
+				["timeUpdated"] = 1699320246,
 				["level"] = 80,
 			},
 			["Elfitanashe"] = {
-				["timePlayed"] = 836766,
+				["timePlayed"] = 849205,
 				["class"] = "MAGE",
 				["level"] = 73,
-				["timeUpdated"] = 1698863325,
+				["timeUpdated"] = 1699371486,
 			},
 			["Naowebona"] = {
 				["timePlayed"] = 20972,
@@ -74,10 +84,10 @@ BrokerPlayedTimeDB = {
 				["timeUpdated"] = 1680280284,
 			},
 			["Trollitaa"] = {
-				["timePlayed"] = 7959563,
+				["timePlayed"] = 8135707,
 				["class"] = "SHAMAN",
 				["level"] = 80,
-				["timeUpdated"] = 1698862068,
+				["timeUpdated"] = 1700022515,
 			},
 		},
 		["Alliance"] = {
@@ -86,16 +96,6 @@ BrokerPlayedTimeDB = {
 				["class"] = "PALADIN",
 				["level"] = 2,
 				["timeUpdated"] = 1681932582,
-			},
-		},
-	},
-	["Benediction"] = {
-		["Alliance"] = {
-			["Platinada"] = {
-				["timePlayed"] = 15172,
-				["class"] = "PALADIN",
-				["timeUpdated"] = 1694997291,
-				["level"] = 16,
 			},
 		},
 	},

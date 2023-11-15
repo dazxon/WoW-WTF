@@ -28,17 +28,17 @@ GuidelimeDataChar = {
 	["editorFrameY"] = 0,
 	["showCompletedSteps"] = false,
 	["maxNumOfItemButtons"] = 8,
-	["showMinimapButton"] = true,
+	["mainFrameFontSize"] = 14,
 	["arrowX"] = 0,
-	["showUseItemButtons"] = "LEFT",
-	["completedSteps"] = {
-	},
-	["mainFrameShowing"] = true,
-	["editorFrameRelative"] = "CENTER",
-	["arrowSize"] = 64,
-	["mainFrameShowScrollBar"] = true,
+	["showArrow"] = true,
 	["guideSize"] = {
 	},
-	["showArrow"] = true,
-	["mainFrameFontSize"] = 14,
+	["mainFrameShowScrollBar"] = true,
+	["editorFrameRelative"] = "CENTER",
+	["arrowSize"] = 64,
+	["mainFrameShowing"] = true,
+	["completedSteps"] = {
+	},
+	["showUseItemButtons"] = "LEFT",
+	["showMinimapButton"] = true,
 }

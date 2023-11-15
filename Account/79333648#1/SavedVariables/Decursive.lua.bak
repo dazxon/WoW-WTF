@@ -86,6 +86,7 @@ DecursiveDB = {
 				[8] = 1,
 				[16] = 2,
 				[32] = 3,
+				[64] = 7,
 			},
 		},
 		["MAGE"] = {
@@ -217,7 +218,7 @@ DecursiveDB = {
 		},
 	},
 	["global"] = {
-		["LastVersionAnnounce"] = 1698862101,
+		["LastVersionAnnounce"] = 1700022073,
 		["NewerVersionAlert"] = 1698176445,
 	},
 	["profiles"] = {

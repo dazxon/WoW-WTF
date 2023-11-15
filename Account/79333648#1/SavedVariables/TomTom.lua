@@ -75,31 +75,6 @@ TomTomWaypointsM = {
 		["Platinada - Faerlina"] = {
 		},
 		["Elfitanashe - Faerlina"] = {
-			[1955] = {
-				["1955:432518337.40831:922738386.30807:Enchantress Volali"] = {
-					1955, -- [1]
-					0.432518337408313, -- [2]
-					0.9227383863080685, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Enchantress Volali",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Enchantress Volali",
-					["from"] = "Questie",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-			},
 		},
 		["Petemaker - Faerlina"] = {
 		},

@@ -1,3 +1,6 @@
 
 FojjiTimersSavedVars = {
 }
+FojjiSkipWTF = {
+	["skip"] = true,
+}

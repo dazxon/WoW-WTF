@@ -24,14 +24,14 @@ HealBot_Plugin_ManaWatch_Config = {
 	["TimeoutTimer"] = {
 		["Global"] = 10,
 	},
-	["ManaAlert"] = {
-		["Global"] = 25,
+	["ColB"] = {
+		["Global"] = 1,
 	},
 	["UpToolTip"] = {
 		["Global"] = true,
 	},
-	["ColB"] = {
-		["Global"] = 1,
+	["ManaAlert"] = {
+		["Global"] = 25,
 	},
 	["Sound"] = {
 		["Global"] = "Elf Bell Toll",

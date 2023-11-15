@@ -14,7 +14,7 @@ HealBot_Plugin_Tweaks_Config = {
 	},
 	["CustomBuffs"] = {
 	},
-	["AutoTimed"] = {
+	["AutoTimedBuff"] = {
 		["Global"] = 31,
 	},
 	["CustomDebuffs"] = {
@@ -22,7 +22,7 @@ HealBot_Plugin_Tweaks_Config = {
 	["NoRanks"] = {
 		["Global"] = false,
 	},
-	["AutoTimedBuff"] = {
+	["AutoTimed"] = {
 		["Global"] = 31,
 	},
 	["OffTanks"] = {

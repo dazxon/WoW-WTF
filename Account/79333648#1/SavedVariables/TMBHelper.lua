@@ -330,14 +330,36 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[40282] = {
+		[47443] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
+					["character_class"] = 5,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 5,
+					["character_name"] = "Sussertod",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 7,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[47475] = {
@@ -385,30 +407,30 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[45461] = {
+		[40346] = {
 			["received"] = {
 				{
-					["character_is_alt"] = 0,
+					["character_is_alt"] = 1,
 					["character_class"] = 6,
-					["character_name"] = "Sussertod",
-					["is_offspec"] = 0,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 1,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 0,
-				}, -- [2]
 			},
 		},
-		[45493] = {
+		[50608] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
-					["character_name"] = "Liyo",
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[45525] = {
@@ -431,6 +453,16 @@ ItemListsDB = {
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
 				}, -- [3]
+			},
+		},
+		[50672] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[40474] = {
@@ -704,6 +736,15 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
+		[36383] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
 		[50737] = {
 			["wishlist"] = {
 				{
@@ -758,10 +799,34 @@ ItemListsDB = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Ledius",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 1,
 					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [5]
 			},
 		},
 		[45143] = {
@@ -882,18 +947,11 @@ ItemListsDB = {
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 1,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 3,
 					["sort_order"] = 4,
 					["character_name"] = "Nofnor",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [3]
 			},
 		},
 		[40348] = {
@@ -914,34 +972,47 @@ ItemListsDB = {
 					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
-		[45527] = {
+		[50642] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[50706] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
-					["sort_order"] = 5,
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 4,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
 		[45655] = {
@@ -1148,53 +1219,52 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45496] = {
+		[50611] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["character_name"] = "Payovich",
-					["is_offspec"] = 1,
+					["character_name"] = "Emokertraker",
+					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 1,
-				}, -- [2]
 			},
 		},
 		[50675] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 9,
 					["character_name"] = "Cuchomeow",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 15,
-					["character_name"] = "Tharkos",
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
 					["sort_order"] = 5,
 					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 15,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[50707] = {
@@ -1216,7 +1286,7 @@ ItemListsDB = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 11,
+					["sort_order"] = 10,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
 				}, -- [3]
@@ -1240,6 +1310,16 @@ ItemListsDB = {
 			},
 			["prioNote"] = "nao > los demas",
 			["rank"] = "A",
+		},
+		[50068] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 		},
 		[45145] = {
 			["received"] = {
@@ -1621,12 +1701,12 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45434] = {
+		[47480] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Afkblazingit",
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -1714,27 +1794,30 @@ ItemListsDB = {
 			},
 		},
 		[50677] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 13,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45594] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Ledius",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[50709] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
-			["prioNote"] = "",
-			["rank"] = "S",
 		},
 		[45658] = {
 			["received"] = {
@@ -1914,33 +1997,23 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[47417] = {
+		[40256] = {
 			["received"] = {
 				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 1,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Iloveseulgi",
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [4]
 			},
+			["prioNote"] = "",
+			["rank"] = "S",
 		},
 		[47449] = {
 			["received"] = {
@@ -1974,31 +2047,30 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[47513] = {
+		[45467] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 1,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
-		[40384] = {
-			["prioNote"] = "",
-			["rank"] = "A",
+		[50614] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 		},
 		[45531] = {
 			["received"] = {
@@ -2037,10 +2109,22 @@ ItemListsDB = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 1,
+				}, -- [3]
 			},
 		},
 		[45659] = {
@@ -2053,20 +2137,38 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45116] = {
+		[50231] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Ledius",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [5]
 			},
 		},
 		[45148] = {
@@ -2104,15 +2206,29 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[42175] = {
+		[45244] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Cevlade",
+					["is_offspec"] = 1,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 1,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
+			["prioNote"] = "",
+			["rank"] = "S",
 		},
 		[47418] = {
 			["received"] = {
@@ -2196,53 +2312,39 @@ ItemListsDB = {
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 14,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 3,
 					["character_name"] = "Toritoviril",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
 					["sort_order"] = 3,
 					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 13,
 					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 2,
-					["character_name"] = "Rastagirll",
-					["is_offspec"] = 0,
-				}, -- [6]
+				}, -- [4]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 2,
 					["character_name"] = "Sussertod",
 					["is_offspec"] = 0,
-				}, -- [7]
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
-					["sort_order"] = 2,
+					["sort_order"] = 14,
 					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
-				}, -- [8]
+				}, -- [6]
 			},
 		},
 		[45532] = {
@@ -2320,17 +2422,7 @@ ItemListsDB = {
 				}, -- [5]
 			},
 		},
-		[50360] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45309] = {
+		[45245] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 1,
@@ -2340,14 +2432,36 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[40258] = {
+		[50424] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+		},
+		[47419] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
 		},
 		[47451] = {
@@ -2366,49 +2480,19 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[47483] = {
+		[45437] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Nofnor",
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [3]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 13,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 5,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 4,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
 		[45469] = {
@@ -2466,28 +2550,25 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[45533] = {
+		[50648] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 1,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
 		[50680] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
@@ -2496,13 +2577,16 @@ ItemListsDB = {
 					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+		},
+		[50712] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 11,
-					["character_name"] = "Shockmyanus",
+					["character_class"] = 10,
+					["character_name"] = "Ledius",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
 		[45693] = {
@@ -2568,6 +2652,16 @@ ItemListsDB = {
 					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
 				}, -- [2]
+			},
+		},
+		[50425] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[47420] = {
@@ -2704,20 +2798,14 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[40451] = {
+		[50681] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
 		[36391] = {
@@ -2726,17 +2814,6 @@ ItemListsDB = {
 					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
 					["character_name"] = "_disenchanted",
-				}, -- [1]
-			},
-		},
-		[51928] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 9,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
@@ -2750,6 +2827,16 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
+		[50074] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
 		[46046] = {
 			["wishlist"] = {
 				{
@@ -2757,6 +2844,16 @@ ItemListsDB = {
 					["character_class"] = 3,
 					["sort_order"] = 9,
 					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50170] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -2775,13 +2872,13 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45247] = {
+		[42178] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 1,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
@@ -2976,22 +3073,62 @@ ItemListsDB = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 0,
+				}, -- [8]
+			},
+		},
+		[50171] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Gebrochenes",
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[45088] = {
@@ -3014,64 +3151,14 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[50363] = {
-			["wishlist"] = {
+		[45248] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 2,
-					["character_name"] = "Cuchomeow",
-					["is_offspec"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 1,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 1,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 1,
-					["character_name"] = "Sehan",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 1,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 1,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 12,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 1,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 1,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [8]
 			},
 		},
 		[47326] = {
@@ -3080,6 +3167,17 @@ ItemListsDB = {
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50427] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 11,
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -3167,13 +3265,6 @@ ItemListsDB = {
 					["character_name"] = "Tnl",
 					["is_offspec"] = 0,
 				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 12,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [4]
 			},
 		},
 		[47486] = {
@@ -3336,41 +3427,65 @@ ItemListsDB = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 1,
 					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
 					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
 					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
-				}, -- [3]
-			},
-			["wishlist"] = {
+				}, -- [6]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
-					["sort_order"] = 7,
-					["character_name"] = "Tharkos",
+					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [7]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 8,
-					["character_name"] = "Deuxh",
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [8]
 			},
 		},
-		["ID"] = 64713,
+		[50012] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		["ID"] = 620,
 		[45089] = {
 			["received"] = {
 				{
@@ -3388,6 +3503,16 @@ ItemListsDB = {
 					["character_class"] = 2,
 					["character_name"] = "Igriss",
 					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[50428] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
@@ -3527,37 +3652,44 @@ ItemListsDB = {
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 7,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 7,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 13,
 					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 16,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [4]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 14,
 					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 13,
 					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [6]
 			},
 		},
 		[45633] = {
@@ -3682,6 +3814,56 @@ ItemListsDB = {
 			},
 		},
 		[52027] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [8]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
@@ -3702,6 +3884,16 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
+		[50173] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
 		[40071] = {
 			["received"] = {
 				{
@@ -3719,6 +3911,16 @@ ItemListsDB = {
 					["character_class"] = 10,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50429] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 1,
 				}, -- [1]
 			},
 		},
@@ -3792,23 +3994,30 @@ ItemListsDB = {
 			},
 		},
 		[50621] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
-					["sort_order"] = 13,
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
 		[50653] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
-					["sort_order"] = 7,
-					["character_name"] = "Rasta",
+					["sort_order"] = 5,
+					["character_name"] = "Elrastita",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
@@ -3820,9 +4029,9 @@ ItemListsDB = {
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 5,
-					["character_name"] = "Erzen",
+					["character_class"] = 4,
+					["sort_order"] = 7,
+					["character_name"] = "Rastagirll",
 					["is_offspec"] = 0,
 				}, -- [3]
 			},
@@ -3851,11 +4060,10 @@ ItemListsDB = {
 			["rank"] = "S",
 		},
 		[50717] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
-					["sort_order"] = 5,
 					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
@@ -3890,119 +4098,141 @@ ItemListsDB = {
 			},
 		},
 		[52028] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
-					["sort_order"] = 8,
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 10,
 					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["sort_order"] = 4,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["sort_order"] = 6,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["sort_order"] = 8,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [4]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["sort_order"] = 10,
+					["sort_order"] = 9,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 12,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
 				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 13,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 15,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [8]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 2,
 					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
-				}, -- [7]
+				}, -- [9]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 3,
 					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
-				}, -- [8]
+				}, -- [10]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 11,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [9]
+				}, -- [11]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 12,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [10]
+				}, -- [12]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 13,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [11]
+				}, -- [13]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 14,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [12]
+				}, -- [14]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 5,
 					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-				}, -- [13]
+				}, -- [15]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 6,
 					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-				}, -- [14]
+				}, -- [16]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 9,
 					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-				}, -- [15]
+				}, -- [17]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 12,
 					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-				}, -- [16]
+				}, -- [18]
 			},
 		},
 		[48032] = {
@@ -4175,20 +4405,46 @@ ItemListsDB = {
 			},
 		},
 		[50686] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
-					["sort_order"] = 8,
 					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 13,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[36556] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[49919] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shinygodly",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 1,
 				}, -- [2]
 			},
 		},
@@ -4208,128 +4464,14 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[52029] = {
+		[49983] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
 					["is_offspec"] = 0,
 				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 2,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 3,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 8,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 9,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 2,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 3,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 6,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 6,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [8]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 8,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [9]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 10,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [10]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 5,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [11]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 6,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [12]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 5,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [13]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 6,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [14]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 10,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [15]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 13,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [16]
 			},
 		},
 		[44005] = {
@@ -4374,26 +4516,14 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "A",
 		},
-		[47458] = {
+		[40297] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
+					["is_offspec"] = 1,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Emokertraker",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Payovich",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
 		[45444] = {
@@ -4461,58 +4591,74 @@ ItemListsDB = {
 			},
 		},
 		[50687] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
-					["sort_order"] = 8,
-					["character_name"] = "Shemin",
+					["sort_order"] = 12,
+					["character_name"] = "Benneth",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
 		[50719] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 6,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 10,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 10,
 					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 3,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [4]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 7,
 					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 12,
 					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 10,
-					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
 				}, -- [6]
 			},
@@ -4528,217 +4674,230 @@ ItemListsDB = {
 			},
 		},
 		[52030] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [6]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 1,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 2,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 3,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 4,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 1,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 3,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
-				}, -- [6]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 3,
 					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
-				}, -- [7]
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 6,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 14,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 15,
 					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
 				}, -- [8]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
-					["sort_order"] = 14,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [9]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 15,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [10]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
 					["sort_order"] = 16,
 					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
-				}, -- [11]
+				}, -- [9]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 2,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
-				}, -- [12]
+				}, -- [10]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 3,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
-				}, -- [13]
+				}, -- [11]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 11,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [12]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 12,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
-				}, -- [14]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 13,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [15]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 6,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [16]
+				}, -- [13]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 7,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [17]
+				}, -- [14]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 8,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [18]
+				}, -- [15]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 9,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [19]
+				}, -- [16]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 10,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [20]
+				}, -- [17]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 1,
 					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
+				}, -- [18]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 5,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [19]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 6,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [20]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 5,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
 				}, -- [21]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
-					["sort_order"] = 5,
-					["character_name"] = "Liyo",
+					["sort_order"] = 6,
+					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
 				}, -- [22]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 6,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [23]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 10,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [24]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 5,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [25]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 6,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [26]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 14,
 					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
-				}, -- [27]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 15,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [28]
+				}, -- [23]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 1,
 					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 0,
-				}, -- [29]
+				}, -- [24]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 2,
 					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 0,
-				}, -- [30]
+				}, -- [25]
+			},
+		},
+		[50176] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Gebrochenes",
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[45157] = {
@@ -4896,14 +5055,32 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[40426] = {
+		[45541] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
+					["character_class"] = 5,
+					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [4]
 			},
 		},
 		[50688] = {
@@ -4911,8 +5088,8 @@ ItemListsDB = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
-					["sort_order"] = 13,
-					["character_name"] = "Rasta",
+					["sort_order"] = 8,
+					["character_name"] = "Elrastita",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
@@ -4922,6 +5099,13 @@ ItemListsDB = {
 					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 13,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
 		},
 		[45605] = {
@@ -5023,6 +5207,16 @@ ItemListsDB = {
 			},
 			["prioNote"] = "",
 			["rank"] = "S",
+		},
+		[50177] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
 		},
 		[45158] = {
 			["received"] = {
@@ -5207,6 +5401,16 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
+		[50689] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
 		[39468] = {
 			["priolist"] = {
 				{
@@ -5298,27 +5502,34 @@ ItemListsDB = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["sort_order"] = 1,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Ledius",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+			["prioNote"] = "THARKOS",
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 1,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
+			["rank"] = "S",
 		},
 		[40108] = {
 			["received"] = {
@@ -5415,15 +5626,6 @@ ItemListsDB = {
 					["is_offspec"] = 0,
 				}, -- [6]
 			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 4,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
 		},
 		[47461] = {
 			["received"] = {
@@ -5466,71 +5668,25 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[47557] = {
+		[45511] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Avelino",
+					["character_class"] = 9,
+					["character_name"] = "Móringa",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [6]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [8]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [9]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 8,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [3]
 			},
 		},
 		[45543] = {
@@ -5555,11 +5711,10 @@ ItemListsDB = {
 			},
 		},
 		[50690] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 10,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
 				}, -- [1]
@@ -5662,13 +5817,12 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "A",
 		},
-		[45480] = {
+		[36273] = {
 			["received"] = {
 				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
+					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
 		},
@@ -5711,15 +5865,6 @@ ItemListsDB = {
 					["is_offspec"] = 0,
 				}, -- [6]
 			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 6,
-					["character_name"] = "Rastagirll",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
 		},
 		[50659] = {
 			["received"] = {
@@ -5736,6 +5881,16 @@ ItemListsDB = {
 					["character_class"] = 2,
 					["sort_order"] = 9,
 					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50691] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -5786,6 +5941,67 @@ ItemListsDB = {
 				}, -- [7]
 			},
 		},
+		[40347] = {
+			["prioNote"] = "",
+			["rank"] = "A",
+		},
+		[50670] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 5,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 6,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 2,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 14,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 13,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [6]
+			},
+		},
+		[50638] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 1,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
 		[45864] = {
 			["received"] = {
 				{
@@ -5796,13 +6012,107 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[39758] = {
+		[49988] = {
 			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[40345] = {
+			["prioNote"] = "",
+			["rank"] = "A",
+		},
+		[45459] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[40384] = {
+			["prioNote"] = "",
+			["rank"] = "A",
+		},
+		[45463] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 1,
+				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[50650] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 8,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50609] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 2,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50647] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["sort_order"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 6,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[50624] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["sort_order"] = 2,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[36162] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
 		},
@@ -5853,6 +6163,76 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
+		[50639] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 11,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["sort_order"] = 5,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 5,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[45446] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 4,
+					["character_name"] = "Chalidruid",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[50658] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 12,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 15,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
 		[47431] = {
 			["received"] = {
 				{
@@ -5863,14 +6243,57 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[40302] = {
+		[47463] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 1,
+				}, -- [4]
+			},
+		},
+		[50620] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 13,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 11,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[45481] = {
@@ -5895,77 +6318,272 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[40398] = {
+		[47559] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["prioNote"] = "",
-			["rank"] = "B",
-		},
-		[50724] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 14,
-					["character_name"] = "Akaza",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 2,
-					["character_name"] = "Afkblazingit",
+					["character_name"] = "Tnl",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 5,
-					["character_name"] = "Ekö",
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
-					["sort_order"] = 9,
-					["character_name"] = "Fäbri",
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
 				}, -- [4]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 13,
-					["character_name"] = "Iloveseulgi",
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
 				}, -- [5]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 12,
-					["character_name"] = "Neisfron",
+					["character_class"] = 9,
+					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
 				}, -- [6]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 11,
-					["character_name"] = "Shemin",
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
 				}, -- [7]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 3,
-					["character_name"] = "Shockmyanus",
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
 					["is_offspec"] = 0,
 				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Sussertod",
+					["is_offspec"] = 0,
+				}, -- [9]
 			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 1,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 3,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 8,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 11,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 12,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 13,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 6,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 9,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [9]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 4,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
+				}, -- [10]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 5,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
+				}, -- [11]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 7,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
+				}, -- [12]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 11,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
+				}, -- [13]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["sort_order"] = 5,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 0,
+				}, -- [14]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 8,
+					["character_name"] = "Sussertod",
+					["is_offspec"] = 0,
+				}, -- [15]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 9,
+					["character_name"] = "Sussertod",
+					["is_offspec"] = 0,
+				}, -- [16]
+			},
+		},
+		[50660] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[50656] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 12,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 12,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[45609] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+			["prioNote"] = "RAID LEADER > MASTER LOOTER > LOS DEMAS BOBOS",
+			["priolist"] = {
+				{
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["sort_order"] = 1,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["sort_order"] = 11,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 16,
+					["character_name"] = "Sussertod",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["rank"] = "S",
 		},
 		[45641] = {
 			["received"] = {
@@ -6014,6 +6632,170 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
+		[50713] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 11,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45493] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[47462] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 2,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[40381] = {
+			["prioNote"] = "",
+			["rank"] = "C",
+		},
+		[45533] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 1,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[45470] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [3]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[47554] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 12,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[40399] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["priolist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 2,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[40259] = {
+			["prioNote"] = "",
+			["rank"] = "A",
+		},
+		[50735] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 1,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 15,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 13,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 11,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+		},
+		[36371] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
 		[44011] = {
 			["priolist"] = {
 				{
@@ -6032,6 +6814,38 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
+		[50734] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 9,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 4,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 1,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 2,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+		},
 		[45098] = {
 			["received"] = {
 				{
@@ -6040,6 +6854,59 @@ ItemListsDB = {
 					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+		},
+		[50651] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 15,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 3,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 9,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 10,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 14,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 13,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 11,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [7]
 			},
 		},
 		[45162] = {
@@ -6056,6 +6923,97 @@ ItemListsDB = {
 					["character_name"] = "Smokestacker",
 					["is_offspec"] = 0,
 				}, -- [2]
+			},
+		},
+		[45440] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[50628] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 1,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 4,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 11,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 3,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 15,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 11,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 16,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 16,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 1,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [9]
 			},
 		},
 		[45258] = {
@@ -6076,6 +7034,12 @@ ItemListsDB = {
 					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[40207] = {
@@ -6186,81 +7150,79 @@ ItemListsDB = {
 					["character_name"] = "Payovich",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 1,
-					["character_name"] = "Rastagirll",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 8,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [4]
 			},
 		},
-		[40367] = {
+		[40186] = {
 			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 1,
-				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
 					["character_name"] = "Trollitaa",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
-		[40399] = {
+		[47528] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["character_name"] = "Afkblazingit",
+					["character_name"] = "Tozzop",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["priolist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 2,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["prioNote"] = "",
-			["rank"] = "S",
-		},
-		[40431] = {
-			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[50629] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 5,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 14,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 2,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[50661] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
 		},
 		[50693] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["sort_order"] = 7,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [1]
@@ -6321,6 +7283,74 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
+		[40439] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[40407] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[40375] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["prioNote"] = "",
+			["rank"] = "B",
+		},
+		[45309] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45247] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[47491] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
 		[39728] = {
 			["priolist"] = {
 				{
@@ -6340,70 +7370,136 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[40347] = {
-			["prioNote"] = "",
-			["rank"] = "A",
-		},
-		[50670] = {
-			["wishlist"] = {
+		[50619] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 5,
-					["character_name"] = "Cuchomeow",
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
 					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45515] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 6,
-					["character_name"] = "Sehan",
-					["is_offspec"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 1,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 13,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 1,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 2,
-					["character_name"] = "Beskytter",
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
 				}, -- [4]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 14,
-					["character_name"] = "Beskytter",
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
 				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 6,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [6]
 			},
 		},
-		[40381] = {
+		[40398] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["prioNote"] = "",
-			["rank"] = "C",
+			["rank"] = "B",
 		},
-		[40345] = {
+		[40387] = {
 			["prioNote"] = "",
 			["rank"] = "A",
 		},
-		[45459] = {
+		[45474] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [2]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[45594] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
 					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[45115] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45434] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50360] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[47315] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -6424,13 +7520,13 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[40262] = {
+		[50671] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 1,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
@@ -6445,34 +7541,31 @@ ItemListsDB = {
 			},
 		},
 		[50623] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 9,
 					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
-		[50650] = {
-			["wishlist"] = {
+		[45228] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 8,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 1,
 				}, -- [1]
 			},
 		},
-		[50609] = {
-			["wishlist"] = {
+		[40302] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 2,
-					["character_name"] = "Kaleric",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -6503,25 +7596,11 @@ ItemListsDB = {
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 3,
-					["character_name"] = "Rastagirll",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 15,
 					["character_name"] = "Sussertod",
 					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 6,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [3]
 			},
 		},
 		[47465] = {
@@ -6574,54 +7653,26 @@ ItemListsDB = {
 				}, -- [4]
 			},
 		},
-		[45483] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Chalidruid",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[45515] = {
+		[36276] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
 					["character_name"] = "_disenchanted",
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 1,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 1,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [5]
 			},
+		},
+		[40400] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "A",
 		},
 		[45547] = {
 			["received"] = {
@@ -6640,35 +7691,36 @@ ItemListsDB = {
 			},
 		},
 		[50694] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 12,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 11,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 2,
 					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 9,
 					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [3]
 			},
 		},
 		[45611] = {
@@ -6754,144 +7806,160 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[50366] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 1,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 7,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[50629] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 2,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[50654] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 14,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[50734] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 4,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 1,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 2,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [3]
-			},
-		},
-		[40346] = {
+		[40258] = {
 			["received"] = {
 				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[40262] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 1,
 				}, -- [1]
 			},
 		},
-		[50624] = {
-			["wishlist"] = {
+		[47415] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["sort_order"] = 2,
-					["character_name"] = "Caidence",
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 1,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [4]
 			},
 		},
-		[49991] = {
+		[40367] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Fílosofaso",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[40282] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
 					["is_offspec"] = 1,
 				}, -- [1]
 			},
 		},
-		[47484] = {
+		[40396] = {
+			["priolist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 1,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[49991] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
 					["character_name"] = "_disenchanted",
 				}, -- [1]
-			},
-		},
-		[50702] = {
-			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 14,
-					["character_name"] = "Avelino",
+					["character_class"] = 7,
+					["character_name"] = "Fílosofaso",
+					["is_offspec"] = 1,
+				}, -- [2]
+			},
+		},
+		[50361] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 5,
-					["character_name"] = "Kaleric",
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
 		},
-		[50658] = {
-			["wishlist"] = {
+		[40451] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 12,
-					["character_name"] = "Avelino",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[47426] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 15,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
 				}, -- [2]
 			},
 		},
@@ -6917,71 +7985,158 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[50616] = {
+		[50613] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 12,
-					["character_name"] = "Afkblazingit",
+					["character_class"] = 8,
+					["sort_order"] = 10,
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
-					["sort_order"] = 4,
-					["character_name"] = "Shemin",
+					["sort_order"] = 2,
+					["character_name"] = "Benneth",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 6,
-					["character_name"] = "Shockmyanus",
+					["sort_order"] = 7,
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [3]
-			},
-		},
-		[47480] = {
-			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
+					["character_class"] = 9,
+					["sort_order"] = 2,
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 8,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 5,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 2,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [9]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 4,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [10]
 			},
 		},
-		[50620] = {
+		[50732] = {
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 10,
-					["character_name"] = "Tharkos",
+					["character_class"] = 8,
+					["sort_order"] = 4,
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 11,
-					["character_name"] = "Tharkos",
+					["character_class"] = 9,
+					["sort_order"] = 8,
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 13,
-					["character_name"] = "Beskytter",
+					["character_class"] = 9,
+					["sort_order"] = 7,
+					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 3,
-					["character_name"] = "Caidence",
+					["character_class"] = 8,
+					["sort_order"] = 4,
+					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
 				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 7,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [5]
+			},
+		},
+		[47414] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 1,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [5]
 			},
 		},
 		[45132] = {
@@ -7190,14 +8345,22 @@ ItemListsDB = {
 				}, -- [28]
 			},
 		},
-		[45228] = {
-			["received"] = {
+		[50343] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 14,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 1,
-				}, -- [1]
+					["sort_order"] = 9,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[45260] = {
@@ -7226,33 +8389,32 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[47491] = {
+		[43507] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
-		[47412] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Nofnor",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
+		[50636] = {
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 3,
-					["character_name"] = "Trollitaa",
+					["character_class"] = 8,
+					["sort_order"] = 9,
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 3,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[47434] = {
@@ -7293,23 +8455,23 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[45516] = {
-			["received"] = {
+		[50604] = {
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Emokertraker",
-					["is_offspec"] = 1,
+					["character_class"] = 5,
+					["sort_order"] = 8,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
+					["character_class"] = 6,
+					["sort_order"] = 2,
+					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
-			["prioNote"] = "",
-			["rank"] = "S",
 		},
 		[45484] = {
 			["received"] = {
@@ -7322,42 +8484,54 @@ ItemListsDB = {
 			},
 		},
 		[50631] = {
-			["wishlist"] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
-					["sort_order"] = 13,
 					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 14,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
-		[50663] = {
+		[45548] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["character_name"] = "Iloveseulgi",
+					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
 				}, -- [1]
-			},
-		},
-		[50695] = {
-			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 10,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[50695] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
 					["character_name"] = "Cuchomeow",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[45612] = {
@@ -7415,29 +8589,15 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[50639] = {
+		[40342] = {
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 4,
-					["character_name"] = "Tharkos",
+					["character_class"] = 5,
+					["sort_order"] = 15,
+					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 11,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 5,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
 		[40625] = {
@@ -7450,69 +8610,65 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[50656] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 12,
-					["character_name"] = "Sehan",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 12,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[50713] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 11,
-					["character_name"] = "Sehan",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45502] = {
+		[40431] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[47439] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 10,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 1,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["sort_order"] = 1,
+					["character_name"] = "Igriss",
 					["is_offspec"] = 0,
-				}, -- [3]
+				}, -- [2]
+			},
+		},
+		[50605] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 1,
-				}, -- [4]
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[50645] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
-					["sort_order"] = 12,
-					["character_name"] = "Rasta",
+					["sort_order"] = 16,
+					["character_name"] = "Elrastita",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
@@ -7522,6 +8678,13 @@ ItemListsDB = {
 					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 12,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
 		},
 		[39762] = {
@@ -7546,64 +8709,145 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[50618] = {
-			["wishlist"] = {
+		[50632] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 5,
-					["character_name"] = "Rasta",
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[46348] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 7,
-					["character_name"] = "Beskytter",
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 3,
-					["character_name"] = "Deuxh",
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 8,
-					["character_name"] = "Erzen",
+					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
 				}, -- [4]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 7,
-					["character_name"] = "Esthis",
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
 				}, -- [5]
 			},
 		},
-		[47462] = {
-			["wishlist"] = {
+		[50348] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 2,
-					["character_name"] = "Móringa",
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 6,
-					["character_name"] = "Deticy",
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 5,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 7,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 1,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 1,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 1,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 10,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [6]
+			},
 		},
-		[45440] = {
+		[45496] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 1,
+				}, -- [2]
+			},
+		},
+		[47412] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50184] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -7613,54 +8857,79 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[47554] = {
+		[50664] = {
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 12,
-					["character_name"] = "Drudo",
+					["character_class"] = 3,
+					["sort_order"] = 4,
+					["character_name"] = "Benneth",
 					["is_offspec"] = 0,
 				}, -- [1]
-			},
-		},
-		[40439] = {
-			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[40407] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[40375] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["character_class"] = 2,
+					["sort_order"] = 10,
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 16,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 2,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 8,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 8,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 9,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 2,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [9]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 5,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [10]
 			},
-			["prioNote"] = "",
-			["rank"] = "B",
 		},
 		[45133] = {
 			["received"] = {
@@ -7717,83 +8986,77 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[50735] = {
+		[50607] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 1,
+					["sort_order"] = 7,
 					["character_name"] = "Cuchomeow",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
-					["sort_order"] = 11,
-					["character_name"] = "Rasta",
+					["sort_order"] = 10,
+					["character_name"] = "Elrastita",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
-					["sort_order"] = 13,
+					["sort_order"] = 9,
 					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [3]
-			},
-		},
-		[47485] = {
-			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
+					["character_class"] = 2,
+					["sort_order"] = 7,
+					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
 				}, -- [4]
 			},
 		},
-		[47518] = {
+		[45613] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 8,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 4,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 1,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Toritoviril",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [4]
 			},
 		},
 		[45318] = {
@@ -7806,80 +9069,101 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[46348] = {
+		[39763] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
 					["is_offspec"] = 0,
 				}, -- [2]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[45325] = {
+			["received"] = {
 				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Avelino",
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["character_name"] = "Smokestacker",
 					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [1]
 			},
 		},
-		[45495] = {
+		[50363] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 9,
-					["character_name"] = "Chalidruid",
+					["sort_order"] = 2,
+					["character_name"] = "Cuchomeow",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
+					["character_class"] = 4,
 					["sort_order"] = 9,
-					["character_name"] = "Drudo",
+					["character_name"] = "Elrastita",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 16,
-					["character_name"] = "Móringa",
+					["character_class"] = 6,
+					["sort_order"] = 1,
+					["character_name"] = "Sehan",
 					["is_offspec"] = 0,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 22,
-					["character_name"] = "Tnl",
+					["character_class"] = 1,
+					["sort_order"] = 1,
+					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
 				}, -- [4]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 15,
-					["character_name"] = "Deticy",
+					["character_class"] = 10,
+					["sort_order"] = 11,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 1,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 1,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 2,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [8]
 			},
-			["prioNote"] = "",
-			["rank"] = "S",
 		},
 		[47435] = {
 			["received"] = {
@@ -7978,89 +9262,31 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[40402] = {
-			["prioNote"] = "NAOWEBONA",
-			["rank"] = "A",
-		},
-		[50664] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 11,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 2,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 8,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [3]
+		[45517] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 8,
-					["character_name"] = "Iloveseulgi",
+					["character_name"] = "Toritoviril",
 					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 9,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 2,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 5,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [8]
-			},
-		},
-		[40256] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 1,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[45613] = {
+		[45549] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -8069,22 +9295,10 @@ ItemListsDB = {
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Cuchomeow",
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
 					["is_offspec"] = 1,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Toritoviril",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [4]
 			},
 		},
 		[40304] = {
@@ -8097,28 +9311,54 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45510] = {
+		[50728] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["character_name"] = "Igriss",
+					["character_name"] = "Erzen",
 					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[47490] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Fílosofaso",
+					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
 		},
-		[40368] = {
+		[45497] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Esthis",
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[39734] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -8139,220 +9379,96 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[50607] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 7,
-					["character_name"] = "Cuchomeow",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 4,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 9,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 7,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [4]
-			},
-		},
-		[45245] = {
+		[45494] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 1,
 					["character_class"] = 6,
 					["character_name"] = "Smokestacker",
-					["is_offspec"] = 0,
+					["is_offspec"] = 1,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 1,
+				}, -- [2]
 			},
 		},
-		[47315] = {
+		[45510] = {
 			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 1,
+				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [2]
 			},
 		},
-		[50651] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 15,
-					["character_name"] = "Akaza",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 9,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [2]
+		[42175] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
-					["sort_order"] = 10,
-					["character_name"] = "Fäbri",
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 14,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 13,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 11,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [6]
+				}, -- [1]
 			},
 		},
-		[39763] = {
+		[36055] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[49993] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[45516] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
+					["is_offspec"] = 1,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[47487] = {
+		[49986] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
-		[50628] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 13,
-					["character_name"] = "Akaza",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 4,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 3,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 15,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 11,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 16,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 16,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 1,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [8]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 12,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [9]
-			},
-		},
-		[45654] = {
+		[47436] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -8362,31 +9478,43 @@ ItemListsDB = {
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 1,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
+					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
 					["is_offspec"] = 1,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
 				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 1,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [6]
 			},
 		},
-		[45497] = {
+		[40371] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 1,
 				}, -- [1]
 			},
 		},
@@ -8435,30 +9563,74 @@ ItemListsDB = {
 			["prioNote"] = "EL PADRE",
 			["rank"] = "S",
 		},
-		[45271] = {
-			["received"] = {
+		[50633] = {
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[47459] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Emokertraker",
+					["character_class"] = 5,
+					["sort_order"] = 3,
+					["character_name"] = "Cuchomeow",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 13,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 4,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 9,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 2,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 5,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 6,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 12,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [8]
+			},
+		},
+		[50667] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
 		},
 		[45134] = {
@@ -8495,24 +9667,31 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[40257] = {
+		[50635] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 11,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 11,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[40294] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["character_name"] = "Caidence",
 					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[40273] = {
-			["priolist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 1,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
@@ -8531,48 +9710,30 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[47443] = {
+		[47413] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Toritoviril",
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Nofnor",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 5,
-					["character_name"] = "Rastagirll",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 5,
-					["character_name"] = "Sussertod",
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 7,
-					["character_name"] = "Tharkøs",
+					["character_class"] = 10,
+					["character_name"] = "Payovich",
 					["is_offspec"] = 0,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 7,
-					["character_name"] = "Trollitaa",
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
 				}, -- [4]
 			},
@@ -8616,43 +9777,17 @@ ItemListsDB = {
 				}, -- [6]
 			},
 		},
-		[45518] = {
+		[40405] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [3]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 14,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 15,
-					["character_name"] = "Tnl",
+					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 			},
+			["prioNote"] = "",
+			["rank"] = "B",
 		},
 		[40275] = {
 			["received"] = {
@@ -8720,13 +9855,6 @@ ItemListsDB = {
 					["character_name"] = "Tnl",
 					["is_offspec"] = 0,
 				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 13,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [5]
 			},
 		},
 		[45454] = {
@@ -8755,84 +9883,57 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[50633] = {
+		[40403] = {
+			["priolist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 2,
+					["character_name"] = "Linfosito",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["sort_order"] = 1,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["sort_order"] = 4,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 5,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 3,
-					["character_name"] = "Cuchomeow",
+					["character_class"] = 6,
+					["sort_order"] = 1,
+					["character_name"] = "Linfosito",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 6,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 4,
-					["character_name"] = "Sehan",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 12,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 9,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 2,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 5,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [7]
 			},
+			["prioNote"] = "A VER QUIEN SE LA MERECE",
+			["rank"] = "A",
 		},
-		[47463] = {
+		[50665] = {
 			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Cuchomeow",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Toritoviril",
-					["is_offspec"] = 0,
-				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 1,
-				}, -- [4]
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[50697] = {
@@ -8853,18 +9954,38 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[40321] = {
-			["priolist"] = {
+		[47438] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["sort_order"] = 2,
 					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 1,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [5]
 			},
-			["prioNote"] = "",
-			["rank"] = "S",
 		},
 		[40531] = {
 			["priolist"] = {
@@ -8885,30 +10006,111 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45447] = {
+		[50618] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Chalidruid",
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
-		},
-		[45463] = {
-			["received"] = {
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 1,
+					["character_class"] = 4,
+					["sort_order"] = 4,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_class"] = 1,
+					["sort_order"] = 7,
+					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 3,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 8,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["sort_order"] = 7,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 5,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [6]
+			},
+		},
+		[47551] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 13,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 7,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 2,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 12,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 8,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [5]
 			},
 		},
 		[40627] = {
@@ -8933,43 +10135,121 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[50732] = {
-			["wishlist"] = {
+		[50626] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 11,
-					["character_name"] = "Akaza",
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 4,
-					["character_name"] = "Avelino",
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 7,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
 				}, -- [3]
+			},
+		},
+		[45482] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 4,
-					["character_name"] = "Liyo",
+					["character_class"] = 5,
+					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [1]
+			},
+		},
+		[40257] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 7,
-					["character_name"] = "Neisfron",
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[45489] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [2]
+			},
+		},
+		[39758] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [1]
+			},
+		},
+		[40325] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[47459] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Emokertraker",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[40321] = {
+			["priolist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 2,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[45447] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Chalidruid",
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[40385] = {
@@ -8993,213 +10273,87 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "A",
 		},
-		[50668] = {
-			["wishlist"] = {
+		[40401] = {
+			["priolist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 10,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 12,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[50636] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 9,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
+					["character_class"] = 2,
 					["sort_order"] = 3,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[50604] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 8,
-					["character_name"] = "Cuchomeow",
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
+					["character_class"] = 3,
 					["sort_order"] = 2,
-					["character_name"] = "Sehan",
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
+			["prioNote"] = "",
+			["rank"] = "B",
 		},
-		[40342] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 15,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45320] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[47439] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 10,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 1,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[47415] = {
+		[40372] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["character_name"] = "Emokertraker",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 1,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [4]
-			},
-		},
-		[40400] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
+					["character_name"] = "Caidence",
 					["is_offspec"] = 1,
 				}, -- [1]
 			},
 			["prioNote"] = "",
-			["rank"] = "A",
-		},
-		[40194] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[47492] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [4]
-			},
+			["rank"] = "D",
 		},
 		[45135] = {
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[45233] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45315] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[45498] = {
+		[50649] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
 					["character_name"] = "_disenchanted",
 				}, -- [1]
+			},
+		},
+		[43345] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Sehan",
+					["is_offspec"] = 0,
+				}, -- [2]
 				{
 					["character_is_alt"] = 1,
-					["character_class"] = 10,
-					["character_name"] = "Gemminis",
-					["is_offspec"] = 1,
-				}, -- [2]
+					["character_class"] = 6,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+		},
+		[40426] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [1]
 			},
 		},
 		[45263] = {
@@ -9254,20 +10408,31 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "A",
 		},
-		[45487] = {
+		[47492] = {
 			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["character_name"] = "Erzen",
-					["is_offspec"] = 1,
-				}, -- [1]
+					["is_offspec"] = 0,
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [4]
 			},
 		},
 		[45327] = {
@@ -9290,32 +10455,29 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[43345] = {
+		[47437] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
-					["character_name"] = "Drudo",
+					["character_name"] = "Tnl",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Sehan",
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 0,
-				}, -- [3]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["character_class"] = 9,
+					["sort_order"] = 9,
+					["character_name"] = "Móringa",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [1]
 			},
 		},
 		[47469] = {
@@ -9346,17 +10508,14 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[40372] = {
+		[36280] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 1,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
-			["prioNote"] = "",
-			["rank"] = "D",
 		},
 		[45519] = {
 			["received"] = {
@@ -9399,33 +10558,40 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[36282] = {
+		[50615] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 1,
 				}, -- [1]
 			},
 		},
-		[45615] = {
-			["prioNote"] = "",
-			["rank"] = "S",
+		[50698] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 		},
 		[50730] = {
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
-					["sort_order"] = 5,
-					["character_name"] = "Tharkos",
+					["sort_order"] = 4,
+					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
-					["sort_order"] = 4,
-					["character_name"] = "Beskytter",
+					["sort_order"] = 6,
+					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
@@ -9450,6 +10616,76 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
+		[40194] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[50654] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[36170] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[45615] = {
+			["prioNote"] = "",
+			["rank"] = "S",
+		},
+		[39701] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[45487] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[39765] = {
+			["priolist"] = {
+				{
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["sort_order"] = 1,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
 		[40386] = {
 			["received"] = {
 				{
@@ -9468,7 +10704,17 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "A",
 		},
-		[47414] = {
+		[50059] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45512] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -9477,28 +10723,26 @@ ItemListsDB = {
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Beskytter",
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
 					["is_offspec"] = 1,
 				}, -- [3]
+			},
+		},
+		[45527] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Payovich",
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [1]
 			},
 		},
 		[45544] = {
@@ -9516,89 +10760,21 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[40259] = {
-			["prioNote"] = "",
-			["rank"] = "A",
-		},
-		[39701] = {
+		[50702] = {
 			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[47419] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
-				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
-					["character_name"] = "Ekö",
+					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
+			},
+			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [3]
-			},
-		},
-		[39765] = {
-			["priolist"] = {
-				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["sort_order"] = 1,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[40401] = {
-			["priolist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 3,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 2,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["prioNote"] = "",
-			["rank"] = "B",
-		},
-		[50059] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45325] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
+					["sort_order"] = 14,
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -9643,75 +10819,6 @@ ItemListsDB = {
 				}, -- [6]
 			},
 		},
-		[40387] = {
-			["prioNote"] = "",
-			["rank"] = "A",
-		},
-		[45609] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Sehan",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Nofnor",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 0,
-				}, -- [4]
-			},
-			["prioNote"] = "RAID LEADER > MASTER LOOTER > LOS DEMAS BOBOS",
-			["priolist"] = {
-				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["sort_order"] = 1,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 11,
-					["character_name"] = "Payovich",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 16,
-					["character_name"] = "Sussertod",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["rank"] = "S",
-		},
-		[50231] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
 		[45136] = {
 			["received"] = {
 				{
@@ -9752,32 +10859,15 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[47413] = {
-			["received"] = {
+		[40273] = {
+			["priolist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
+					["character_class"] = 9,
+					["sort_order"] = 1,
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Payovich",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [4]
 			},
 		},
 		[45232] = {
@@ -9822,12 +10912,47 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[40339] = {
+		[49992] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [2]
+			},
+		},
+		[45271] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[47518] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 8,
+					["character_name"] = "Móringa",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -9861,57 +10986,6 @@ ItemListsDB = {
 			},
 			["prioNote"] = "",
 			["rank"] = "",
-		},
-		[50635] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 11,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 11,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[47438] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 1,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [5]
-			},
 		},
 		[47470] = {
 			["received"] = {
@@ -9995,84 +11069,99 @@ ItemListsDB = {
 			},
 		},
 		[50699] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 9,
-					["character_name"] = "Akaza",
+					["character_name"] = "Akazâ",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 10,
-					["character_name"] = "Afkblazingit",
+					["character_class"] = 3,
+					["sort_order"] = 5,
+					["character_name"] = "Benneth",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 2,
-					["character_name"] = "Avelino",
+					["character_class"] = 2,
+					["sort_order"] = 9,
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 6,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [4]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 12,
 					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
-				}, -- [4]
+				}, -- [5]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 9,
 					["sort_order"] = 6,
 					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
-				}, -- [5]
+				}, -- [6]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 5,
 					["sort_order"] = 3,
 					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
-				}, -- [6]
+				}, -- [7]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 7,
 					["sort_order"] = 4,
 					["character_name"] = "Kaleric",
 					["is_offspec"] = 0,
-				}, -- [7]
+				}, -- [8]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 11,
 					["character_name"] = "Liyo",
 					["is_offspec"] = 0,
-				}, -- [8]
+				}, -- [9]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 8,
 					["sort_order"] = 3,
 					["character_name"] = "Neisfron",
 					["is_offspec"] = 0,
-				}, -- [9]
+				}, -- [10]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
 					["sort_order"] = 9,
 					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
-				}, -- [10]
+				}, -- [11]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 10,
 					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 0,
-				}, -- [11]
+				}, -- [12]
 			},
 		},
 		[45616] = {
@@ -10101,84 +11190,52 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[40405] = {
+		[40339] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
-			["prioNote"] = "",
-			["rank"] = "B",
 		},
-		[40403] = {
-			["priolist"] = {
+		[50726] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 2,
-					["character_name"] = "Linfosito",
+					["character_class"] = 2,
+					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+		},
+		[45654] = {
+			["received"] = {
 				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["sort_order"] = 1,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 0,
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 1,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 4,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 1,
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
-					["sort_order"] = 5,
 					["character_name"] = "Trollitaa",
-					["is_offspec"] = 0,
+					["is_offspec"] = 1,
 				}, -- [4]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 1,
-					["character_name"] = "Linfosito",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["prioNote"] = "A VER QUIEN SE LA MERECE",
-			["rank"] = "A",
-		},
-		[50655] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Rastagirll",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Rasta",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 12,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [1]
 			},
 		},
 		[40629] = {
@@ -10197,90 +11254,88 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[45446] = {
+		[45111] = {
 			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 4,
-					["character_name"] = "Chalidruid",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["prioNote"] = "",
-			["rank"] = "S",
-		},
-		[50671] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[47436] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 1,
-				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
-				}, -- [2]
+				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["character_name"] = "Erzen",
 					["is_offspec"] = 1,
-				}, -- [3]
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 1,
-				}, -- [5]
+				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 1,
 					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [6]
+					["is_offspec"] = 1,
+				}, -- [4]
 			},
 		},
-		[39734] = {
+		[45518] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["character_class"] = 9,
+					["character_name"] = "Deticy",
 					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 14,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 15,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[40368] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 6,
+					["character_name"] = "Esthis",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[36665] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
 		},
@@ -10294,23 +11349,46 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45248] = {
-			["received"] = {
+		[40432] = {
+			["priolist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 1,
+					["character_class"] = 5,
+					["sort_order"] = 3,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 1,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
-		[40371] = {
+		[50655] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 1,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 12,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
 				}, -- [1]
 			},
 		},
@@ -10330,47 +11408,23 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[45512] = {
+		[36395] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
 					["character_name"] = "_disenchanted",
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [3]
 			},
 		},
-		[47446] = {
+		[45320] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Prismátic",
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
 		[50188] = {
@@ -10382,14 +11436,26 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45504] = {
+		[47513] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 1,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [3]
 			},
 		},
 		[45137] = {
@@ -10408,100 +11474,27 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[47437] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 9,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 7,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
+		[40402] = {
+			["prioNote"] = "NAOWEBONA",
+			["rank"] = "A",
 		},
-		[45482] = {
+		[36168] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
 		},
-		[50348] = {
+		[45233] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
 					["is_offspec"] = 0,
 				}, -- [1]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 5,
-					["character_name"] = "Akaza",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 7,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 1,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 1,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 10,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 3,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [6]
 			},
 		},
 		[45265] = {
@@ -10531,103 +11524,45 @@ ItemListsDB = {
 				}, -- [4]
 			},
 		},
-		[45514] = {
+		[50351] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[50617] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["is_offspec"] = 0,
 					["character_name"] = "_disenchanted",
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Chalidruid",
-					["is_offspec"] = 1,
-				}, -- [2]
 			},
 		},
-		[45517] = {
+		[40543] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Toritoviril",
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 3,
-					["character_name"] = "Nofnor",
-					["is_offspec"] = 0,
-				}, -- [3]
-			},
-			["prioNote"] = "",
-			["rank"] = "S",
-		},
-		[47551] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 13,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 7,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 2,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 2,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 12,
-					["character_name"] = "Nofnor",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["sort_order"] = 8,
 					["character_name"] = "Trollitaa",
 					["is_offspec"] = 0,
-				}, -- [6]
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 1,
+				}, -- [3]
 			},
 		},
 		[40278] = {
@@ -10687,20 +11622,13 @@ ItemListsDB = {
 			["prioNote"] = "",
 			["rank"] = "S",
 		},
-		[45489] = {
+		[36282] = {
 			["received"] = {
 				{
-					["character_is_alt"] = 1,
-					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [2]
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
 			},
 		},
 		[45521] = {
@@ -10724,24 +11652,36 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[43507] = {
+		[50668] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
-		[45115] = {
+		[50700] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
+					["character_class"] = 7,
+					["character_name"] = "Fílosofaso",
 					["is_offspec"] = 0,
 				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
 			},
 		},
 		[45617] = {
@@ -10763,193 +11703,29 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[47559] = {
+		[47446] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Sehan",
+					["character_class"] = 1,
+					["character_name"] = "Prismátic",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Tnl",
+					["character_class"] = 1,
+					["character_name"] = "Beskytter",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
 					["is_offspec"] = 0,
 				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Payovich",
-					["is_offspec"] = 0,
-				}, -- [8]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Sussertod",
-					["is_offspec"] = 0,
-				}, -- [9]
-			},
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 1,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 3,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 8,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 11,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 12,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 13,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 6,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 0,
-				}, -- [8]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 9,
-					["character_name"] = "Tnl",
-					["is_offspec"] = 0,
-				}, -- [9]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 4,
-					["character_name"] = "Toritoviril",
-					["is_offspec"] = 0,
-				}, -- [10]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 5,
-					["character_name"] = "Toritoviril",
-					["is_offspec"] = 0,
-				}, -- [11]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 7,
-					["character_name"] = "Toritoviril",
-					["is_offspec"] = 0,
-				}, -- [12]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 11,
-					["character_name"] = "Toritoviril",
-					["is_offspec"] = 0,
-				}, -- [13]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 9,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [14]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 11,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [15]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 5,
-					["character_name"] = "Payovich",
-					["is_offspec"] = 0,
-				}, -- [16]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 8,
-					["character_name"] = "Sussertod",
-					["is_offspec"] = 0,
-				}, -- [17]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["sort_order"] = 9,
-					["character_name"] = "Sussertod",
-					["is_offspec"] = 0,
-				}, -- [18]
 			},
 		},
-		[45549] = {
+		[45498] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -10957,14 +11733,14 @@ ItemListsDB = {
 					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
+					["character_is_alt"] = 1,
+					["character_class"] = 10,
+					["character_name"] = "Gemminis",
 					["is_offspec"] = 1,
 				}, -- [2]
 			},
 		},
-		[45511] = {
+		[45514] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -10973,16 +11749,10 @@ ItemListsDB = {
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Móringa",
-					["is_offspec"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Chalidruid",
+					["is_offspec"] = 1,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
 		[40630] = {
@@ -10995,22 +11765,7 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45467] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[47426] = {
+		[50685] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -11018,15 +11773,25 @@ ItemListsDB = {
 					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [1]
+			},
+		},
+		[50663] = {
+			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
 				}, -- [2]
 			},
 		},
-		[50613] = {
+		[50616] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -11038,60 +11803,25 @@ ItemListsDB = {
 			["wishlist"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 10,
-					["character_name"] = "Akaza",
+					["character_class"] = 3,
+					["sort_order"] = 3,
+					["character_name"] = "Benneth",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 8,
+					["sort_order"] = 11,
 					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 8,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 5,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 2,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 8,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [7]
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 4,
+					["sort_order"] = 6,
 					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 0,
-				}, -- [8]
+				}, -- [3]
 			},
 		},
 		[45873] = {
@@ -11104,113 +11834,7 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[42178] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 6,
-					["character_name"] = "Esthis",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45244] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Cevlade",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 1,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [3]
-			},
-			["prioNote"] = "",
-			["rank"] = "S",
-		},
-		[50365] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 8,
-					["character_name"] = "Akaza",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 1,
-					["character_name"] = "Avelino",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["sort_order"] = 7,
-					["character_name"] = "Ekö",
-					["is_offspec"] = 0,
-				}, -- [3]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 4,
-					["character_name"] = "Fäbri",
-					["is_offspec"] = 0,
-				}, -- [4]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 4,
-					["character_name"] = "Iloveseulgi",
-					["is_offspec"] = 0,
-				}, -- [5]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 7,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [6]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["sort_order"] = 1,
-					["character_name"] = "Neisfron",
-					["is_offspec"] = 0,
-				}, -- [7]
-			},
-		},
-		[49992] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[47416] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-			},
-		},
-		[45548] = {
+		[45483] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
@@ -11225,6 +11849,210 @@ ItemListsDB = {
 					["is_offspec"] = 0,
 				}, -- [2]
 			},
+		},
+		[47485] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+		},
+		[47483] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Nofnor",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [3]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 13,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 5,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 4,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[50657] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Cuchomeow",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[47487] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [3]
+			},
+		},
+		[45116] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[50644] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45106] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[45138] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45170] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[47416] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[45234] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 1,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[40388] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "A",
 		},
 		[47489] = {
 			["received"] = {
@@ -11268,164 +12096,215 @@ ItemListsDB = {
 					["character_name"] = "Tnl",
 					["is_offspec"] = 0,
 				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 14,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [3]
 			},
 		},
-		[45106] = {
+		[45461] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Beskytter",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[45138] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[45170] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[40432] = {
-			["priolist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["sort_order"] = 3,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 1,
-					["character_name"] = "Deticy",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[45234] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Kaleric",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[45494] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 1,
 					["character_class"] = 6,
-					["character_name"] = "Smokestacker",
-					["is_offspec"] = 1,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 1,
-				}, -- [2]
-			},
-		},
-		[47490] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 7,
-					["character_name"] = "Fílosofaso",
+					["character_name"] = "Sussertod",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Shockmyanus",
-					["is_offspec"] = 0,
-				}, -- [3]
-			},
-		},
-		[45437] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 8,
-					["character_name"] = "Liyo",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[45541] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Chalidruid",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Igriss",
-					["is_offspec"] = 0,
-				}, -- [3]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 3,
 					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[52029] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 6,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 7,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 8,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 13,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
 				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 3,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 6,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 7,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 11,
+					["character_name"] = "Elrastita",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 6,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [9]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 8,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [10]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 10,
+					["character_name"] = "Beskytter",
+					["is_offspec"] = 0,
+				}, -- [11]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 5,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [12]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 6,
+					["character_name"] = "Deuxh",
+					["is_offspec"] = 0,
+				}, -- [13]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 2,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [14]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 3,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [15]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 8,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [16]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 4,
+					["sort_order"] = 9,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [17]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 5,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [18]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 6,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [19]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 10,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [20]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 13,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [21]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 3,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [22]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 4,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [23]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 7,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [24]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 8,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [25]
 			},
 		},
 		[47440] = {
@@ -11581,26 +12460,32 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[40543] = {
+		[47417] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
+					["character_class"] = 5,
+					["character_name"] = "Iloveseulgi",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 1,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
 				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [4]
 			},
 		},
 		[50733] = {
@@ -11608,36 +12493,241 @@ ItemListsDB = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 4,
-					["sort_order"] = 10,
-					["character_name"] = "Rasta",
+					["sort_order"] = 14,
+					["character_name"] = "Elrastita",
 					["is_offspec"] = 0,
 				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 9,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [2]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 6,
 					["sort_order"] = 15,
 					["character_name"] = "Esthis",
 					["is_offspec"] = 0,
-				}, -- [3]
-			},
-		},
-		[48724] = {
-			["wishlist"] = {
+				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 12,
-					["character_name"] = "Igriss",
+					["character_class"] = 4,
+					["sort_order"] = 10,
+					["character_name"] = "Rastagirll",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 1,
+					["sort_order"] = 10,
+					["character_name"] = "Tharkøs",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+		},
+		[36443] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
+				}, -- [1]
+			},
+		},
+		[45504] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
+		},
+		[45315] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["character_name"] = "Trollitaa",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[40631] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "B",
+		},
+		[50365] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 8,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 1,
+					["character_name"] = "Avelino",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 4,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 4,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 4,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 7,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 1,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [8]
+			},
+		},
+		[50724] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 14,
+					["character_name"] = "Akazâ",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 10,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 2,
+					["character_name"] = "Afkblazingit",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 9,
+					["character_name"] = "Deticy",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["sort_order"] = 5,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 9,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 13,
+					["character_name"] = "Iloveseulgi",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["sort_order"] = 12,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 11,
+					["character_name"] = "Shemin",
+					["is_offspec"] = 0,
+				}, -- [9]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 3,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [10]
+			},
+		},
+		[45495] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 9,
+					["character_name"] = "Chalidruid",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 9,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 0,
+				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["sort_order"] = 16,
+					["character_name"] = "Móringa",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["sort_order"] = 22,
+					["character_name"] = "Tnl",
+					["is_offspec"] = 0,
+				}, -- [4]
+			},
+			["prioNote"] = "",
+			["rank"] = "S",
 		},
 		[47482] = {
 			["received"] = {
@@ -11661,49 +12751,22 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[45470] = {
+		[39768] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Afkblazingit",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Shemin",
-					["is_offspec"] = 0,
-				}, -- [2]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [3]
-			},
-			["prioNote"] = "",
-			["rank"] = "S",
-		},
-		[40631] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["character_name"] = "Fadeawaay",
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
-			["prioNote"] = "",
-			["rank"] = "B",
 		},
-		[45111] = {
+		[45502] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
@@ -11719,24 +12782,67 @@ ItemListsDB = {
 				}, -- [3]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["character_name"] = "Tharkøs",
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
 					["is_offspec"] = 1,
 				}, -- [4]
 			},
 		},
-		[47528] = {
+		[50062] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
+					["character_class"] = 9,
+					["character_name"] = "Fäbri",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[40330] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["prioNote"] = "",
+			["rank"] = "A",
+		},
+		[48724] = {
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["character_name"] = "Tozzop",
+					["sort_order"] = 12,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[45480] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 1,
+					["character_class"] = 6,
+					["character_name"] = "Smokestacker",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+		},
+		[47458] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 10,
+					["character_name"] = "Caidence",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
-					["character_name"] = "Caidence",
+					["character_name"] = "Emokertraker",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
@@ -11747,62 +12853,12 @@ ItemListsDB = {
 				}, -- [3]
 			},
 		},
-		[40388] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["prioNote"] = "",
-			["rank"] = "A",
-		},
-		[40297] = {
+		[45107] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
 					["character_class"] = 10,
 					["character_name"] = "Caidence",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[39768] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[50343] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 1,
-					["sort_order"] = 8,
-					["character_name"] = "Tharkos",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 4,
-					["sort_order"] = 14,
-					["character_name"] = "Deuxh",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[50062] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Fäbri",
 					["is_offspec"] = 0,
 				}, -- [1]
 			},
@@ -11820,56 +12876,68 @@ ItemListsDB = {
 					["character_is_alt"] = 0,
 					["character_class"] = 2,
 					["sort_order"] = 7,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [2]
+			},
+		},
+		[45171] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
+					["is_offspec"] = 1,
+				}, -- [1]
+			},
+		},
+		[50366] = {
+			["received"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 3,
+					["sort_order"] = 11,
+					["character_name"] = "Benneth",
+					["is_offspec"] = 0,
+				}, -- [1]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 8,
 					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [2]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 2,
+					["character_class"] = 3,
 					["sort_order"] = 7,
-					["character_name"] = "Shockmyanus",
+					["character_name"] = "Shemin",
 					["is_offspec"] = 0,
 				}, -- [3]
 			},
 		},
-		[40325] = {
+		[45235] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["character_name"] = "Deticy",
+					["character_class"] = 5,
+					["character_name"] = "Chalidruid",
 					["is_offspec"] = 0,
 				}, -- [1]
-			},
-		},
-		[40186] = {
-			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
+					["character_class"] = 5,
+					["character_name"] = "Drudo",
 					["is_offspec"] = 0,
-				}, -- [1]
-			},
-		},
-		[40294] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 1,
-				}, -- [1]
-			},
-		},
-		[45107] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [1]
+				}, -- [2]
 			},
 		},
 		[49981] = {
@@ -11890,61 +12958,14 @@ ItemListsDB = {
 				}, -- [2]
 			},
 		},
-		[45171] = {
+		[47484] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 1,
+					["is_offspec"] = 0,
+					["character_name"] = "_disenchanted",
 				}, -- [1]
 			},
-		},
-		[50647] = {
-			["wishlist"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["sort_order"] = 11,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 2,
-					["sort_order"] = 6,
-					["character_name"] = "Erzen",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[45235] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Chalidruid",
-					["is_offspec"] = 0,
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 5,
-					["character_name"] = "Drudo",
-					["is_offspec"] = 0,
-				}, -- [2]
-			},
-		},
-		[40330] = {
-			["received"] = {
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 10,
-					["character_name"] = "Caidence",
-					["is_offspec"] = 0,
-				}, -- [1]
-			},
-			["prioNote"] = "",
-			["rank"] = "A",
 		},
 		[39756] = {
 			["received"] = {
@@ -11956,42 +12977,72 @@ ItemListsDB = {
 				}, -- [1]
 			},
 		},
-		[45474] = {
+		[47557] = {
 			["received"] = {
 				{
 					["character_is_alt"] = 0,
-					["is_offspec"] = 0,
-					["character_name"] = "_disenchanted",
-				}, -- [1]
-				{
-					["character_is_alt"] = 0,
-					["character_class"] = 3,
-					["character_name"] = "Trollitaa",
-					["is_offspec"] = 1,
-				}, -- [2]
-			},
-			["prioNote"] = "",
-			["rank"] = "S",
-		},
-		[40396] = {
-			["priolist"] = {
-				{
-					["character_is_alt"] = 0,
 					["character_class"] = 2,
-					["sort_order"] = 2,
 					["character_name"] = "Afkblazingit",
 					["is_offspec"] = 0,
 				}, -- [1]
 				{
 					["character_is_alt"] = 0,
-					["character_class"] = 9,
-					["sort_order"] = 1,
-					["character_name"] = "Deticy",
+					["character_class"] = 8,
+					["character_name"] = "Avelino",
 					["is_offspec"] = 0,
 				}, -- [2]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Ekö",
+					["is_offspec"] = 0,
+				}, -- [3]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Erzen",
+					["is_offspec"] = 0,
+				}, -- [4]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Fadeawaay",
+					["is_offspec"] = 0,
+				}, -- [5]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 7,
+					["character_name"] = "Kaleric",
+					["is_offspec"] = 0,
+				}, -- [6]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Liyo",
+					["is_offspec"] = 0,
+				}, -- [7]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 8,
+					["character_name"] = "Neisfron",
+					["is_offspec"] = 0,
+				}, -- [8]
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["character_name"] = "Shockmyanus",
+					["is_offspec"] = 0,
+				}, -- [9]
 			},
-			["prioNote"] = "",
-			["rank"] = "S",
+			["wishlist"] = {
+				{
+					["character_is_alt"] = 0,
+					["character_class"] = 2,
+					["sort_order"] = 8,
+					["character_name"] = "Igriss",
+					["is_offspec"] = 0,
+				}, -- [1]
+			},
 		},
 		[47441] = {
 			["received"] = {
@@ -12122,7 +13173,7 @@ ItemListsDB = {
 			},
 		},
 	},
-	["hideReceivedWishes"] = true,
+	["hideReceivedWishes"] = false,
 	["hideReceivedPrios"] = true,
 	["displayRank"] = true,
 	["lootTableTest"] = {
@@ -12416,15 +13467,15 @@ ItemListsDB = {
 			"42945", -- [2]
 			"Venerable Dal'Rend's Sacred Charge", -- [3]
 		},
-		[1698178593] = {
-			"Torituwu", -- [1]
-			"48691", -- [2]
-			"Tattered Dreadmist Robe", -- [3]
-		},
 		[1694721352] = {
 			"Masturbado", -- [1]
 			"48716", -- [2]
 			"Venerable Mass of McGowan", -- [3]
+		},
+		[1698178593] = {
+			"Torituwu", -- [1]
+			"48691", -- [2]
+			"Tattered Dreadmist Robe", -- [3]
 		},
 		[1675893139] = {
 			"Trollitaa", -- [1]
@@ -12436,25 +13487,25 @@ ItemListsDB = {
 			"44096", -- [2]
 			"Battleworn Thrash Blade", -- [3]
 		},
-		[1694721998] = {
-			"Masturbado", -- [1]
-			"42991", -- [2]
-			"Swift Hand of Justice", -- [3]
+		[1669398135] = {
+			"Tomopala", -- [1]
+			"48685", -- [2]
+			"Polished Breastplate of Valor", -- [3]
 		},
 		[1694721354] = {
 			"Masturbado", -- [1]
 			"48685", -- [2]
 			"Polished Breastplate of Valor", -- [3]
 		},
+		[1694721998] = {
+			"Masturbado", -- [1]
+			"42991", -- [2]
+			"Swift Hand of Justice", -- [3]
+		},
 		[1694721355] = {
 			"Masturbado", -- [1]
 			"42946", -- [2]
 			"Charmed Ancient Bone Bow", -- [3]
-		},
-		[1669398135] = {
-			"Tomopala", -- [1]
-			"48685", -- [2]
-			"Polished Breastplate of Valor", -- [3]
 		},
 		[1681932340] = {
 			"Platinada", -- [1]

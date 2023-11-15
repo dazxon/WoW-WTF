@@ -45,28 +45,28 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtR"] = {
 		["Global"] = 0.8,
 	},
-	["tankbarG"] = {
-		["Global"] = 0.1,
-	},
-	["tankbarR"] = {
-		["Global"] = 0.9,
-	},
 	["txtoutline"] = {
 		["Global"] = 1,
+	},
+	["yourbartxtG"] = {
+		["Global"] = 0.8,
+	},
+	["tankbarG"] = {
+		["Global"] = 0.1,
 	},
 	["bartxtA"] = {
 		["Global"] = 0.9,
 	},
-	["font"] = {
-		["Global"] = "Roboto Medium",
-	},
 	["frameLocked"] = {
 		["Global"] = false,
+	},
+	["font"] = {
+		["Global"] = "Roboto Medium",
 	},
 	["yourbarB"] = {
 		["Global"] = 0.9,
 	},
-	["borderG"] = {
+	["frameG"] = {
 		["Global"] = 1,
 	},
 	["height"] = {
@@ -81,14 +81,14 @@ HealBot_Plugin_TimeToDie_Config = {
 	["fluidbars"] = {
 		["Global"] = true,
 	},
-	["yourbartxtR"] = {
-		["Global"] = 0.8,
-	},
 	["frameR"] = {
 		["Global"] = 1,
 	},
-	["borderB"] = {
-		["Global"] = 1,
+	["yourbartxtR"] = {
+		["Global"] = 0.8,
+	},
+	["playertxtchars"] = {
+		["Global"] = 0,
 	},
 	["txtcoltype"] = {
 		["Global"] = 1,
@@ -96,8 +96,8 @@ HealBot_Plugin_TimeToDie_Config = {
 	["tankbartxtB"] = {
 		["Global"] = 0.8,
 	},
-	["fontsize"] = {
-		["Global"] = 11,
+	["yourbarR"] = {
+		["Global"] = 0.1,
 	},
 	["yourbarG"] = {
 		["Global"] = 0.1,
@@ -105,20 +105,20 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["borderR"] = {
-		["Global"] = 1,
+	["fontsize"] = {
+		["Global"] = 11,
 	},
 	["tankbartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["yourbarR"] = {
-		["Global"] = 0.1,
+	["borderR"] = {
+		["Global"] = 1,
 	},
 	["titletextG"] = {
 		["Global"] = 0.58,
 	},
-	["titlebackG"] = {
-		["Global"] = 1,
+	["frameX"] = {
+		["Global"] = 31,
 	},
 	["bartxtB"] = {
 		["Global"] = 0.8,
@@ -135,8 +135,8 @@ HealBot_Plugin_TimeToDie_Config = {
 	["titletextR"] = {
 		["Global"] = 0.58,
 	},
-	["frameX"] = {
-		["Global"] = 31,
+	["titlebackG"] = {
+		["Global"] = 1,
 	},
 	["titlebackB"] = {
 		["Global"] = 1,
@@ -147,13 +147,13 @@ HealBot_Plugin_TimeToDie_Config = {
 	["coltype"] = {
 		["Global"] = 2,
 	},
-	["playertxtchars"] = {
-		["Global"] = 0,
+	["borderB"] = {
+		["Global"] = 1,
 	},
 	["titletext"] = {
 		["Global"] = "HealBot TimeToDie",
 	},
-	["frameG"] = {
+	["borderG"] = {
 		["Global"] = 1,
 	},
 	["maxBars"] = {
@@ -162,8 +162,8 @@ HealBot_Plugin_TimeToDie_Config = {
 	["barA"] = {
 		["Global"] = 0.7,
 	},
-	["yourbartxtG"] = {
-		["Global"] = 0.8,
+	["tankbarR"] = {
+		["Global"] = 0.9,
 	},
 	["tankbarB"] = {
 		["Global"] = 0.1,

@@ -114,8 +114,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -124,8 +124,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -186,8 +186,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -196,8 +196,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -364,8 +364,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -374,8 +374,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -436,8 +436,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -446,8 +446,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -504,6 +504,150 @@ Bartender4DB = {
 							["position"] = {
 								["y"] = -228.5,
 								["x"] = -230.499755859375,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Petemaker - Faerlina"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207,
+								["x"] = -230.4998168945313,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						[13] = {
+						},
+						[15] = {
+						},
+					},
+				},
+				["Platinada - Benediction"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -207,
+								["x"] = -230.4998168945313,
 								["point"] = "CENTER",
 							},
 						}, -- [2]
@@ -656,150 +800,6 @@ Bartender4DB = {
 								["scale"] = 1.299999952316284,
 							},
 							["padding"] = 0,
-						}, -- [9]
-						{
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Platinada - Benediction"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -207,
-								["x"] = -230.4998168945313,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["padding"] = 5,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						[13] = {
-						},
-						[15] = {
-						},
-					},
-				},
-				["Petemaker - Faerlina"] = {
-					["actionbars"] = {
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -207,
-								["x"] = -230.4998168945313,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [3]
-						{
-							["padding"] = 5,
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-						}, -- [4]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-						}, -- [5]
-						{
-							["padding"] = 6,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
 						}, -- [9]
 						{
 						}, -- [10]
@@ -858,8 +858,8 @@ Bartender4DB = {
 					},
 				},
 				["HELER"] = {
-					["rows"] = 6,
 					["padding"] = -2,
+					["rows"] = 6,
 					["version"] = 3,
 					["position"] = {
 						["y"] = 246.9415125283049,
@@ -898,16 +898,15 @@ Bartender4DB = {
 						["y"] = 42,
 					},
 				},
-				["CLEAN"] = {
-					["rows"] = 6,
+				["Petemaker - Faerlina"] = {
+					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 246.9415125283049,
-						["x"] = -67.74165674403775,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 1.049999952316284,
+						["y"] = 42,
+						["x"] = 33,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
 					},
-					["padding"] = -2,
 				},
 				["Platinada - Benediction"] = {
 					["padding"] = -2,
@@ -919,15 +918,16 @@ Bartender4DB = {
 						["y"] = 42,
 					},
 				},
-				["Petemaker - Faerlina"] = {
-					["padding"] = -2,
+				["CLEAN"] = {
+					["rows"] = 6,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 42,
-						["x"] = 33,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
+						["y"] = 246.9415125283049,
+						["x"] = -67.74165674403775,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 1.049999952316284,
 					},
+					["padding"] = -2,
 				},
 			},
 		},
@@ -1003,16 +1003,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["CLEAN"] = {
-					["onebag"] = true,
+				["Petemaker - Faerlina"] = {
 					["verticalAlignment"] = "CENTER",
+					["padding"] = 4,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 212.9443511962891,
-						["x"] = -161.3880615234375,
-						["point"] = "BOTTOMRIGHT",
+						["y"] = 42,
+						["x"] = 304,
+						["point"] = "BOTTOM",
 					},
-					["padding"] = 1,
 				},
 				["Platinada - Benediction"] = {
 					["verticalAlignment"] = "CENTER",
@@ -1024,38 +1023,39 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Petemaker - Faerlina"] = {
+				["CLEAN"] = {
+					["onebag"] = true,
 					["verticalAlignment"] = "CENTER",
-					["padding"] = 4,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 42,
-						["x"] = 304,
-						["point"] = "BOTTOM",
+						["y"] = 212.9443511962891,
+						["x"] = -161.3880615234375,
+						["point"] = "BOTTOMRIGHT",
 					},
+					["padding"] = 1,
 				},
 			},
 		},
 		["MultiCast"] = {
 			["profiles"] = {
 				["CLEAN"] = {
-					["visibility"] = {
-						["overridebar"] = false,
-					},
-					["version"] = 3,
 					["position"] = {
 						["y"] = 221.7241058349609,
 						["x"] = 410.6112365722656,
 						["point"] = "BOTTOM",
 						["scale"] = 1.5,
 					},
+					["visibility"] = {
+						["overridebar"] = false,
+					},
+					["version"] = 3,
 				},
-				["Trollitaa - Faerlina"] = {
+				["Platinada - Faerlina"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -234.7759323120117,
-						["x"] = -305.0391845703125,
-						["point"] = "RIGHT",
+						["y"] = 19.5,
+						["x"] = -114.499755859375,
+						["point"] = "CENTER",
 					},
 				},
 				["Default"] = {
@@ -1066,12 +1066,12 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Naowebona - Faerlina"] = {
+				["Faerlina"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 19.5,
-						["x"] = -114.499755859375,
-						["point"] = "CENTER",
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
 					},
 				},
 				["HELER"] = {
@@ -1080,10 +1080,10 @@ Bartender4DB = {
 						["overridebar"] = false,
 					},
 					["position"] = {
-						["scale"] = 1.5,
+						["y"] = 221.7241058349609,
 						["x"] = 410.6112365722656,
 						["point"] = "BOTTOM",
-						["y"] = 221.7241058349609,
+						["scale"] = 1.5,
 					},
 				},
 				["Petemaker - Faerlina"] = {
@@ -1094,20 +1094,20 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Faerlina"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Platinada - Faerlina"] = {
+				["Naowebona - Faerlina"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 19.5,
 						["x"] = -114.499755859375,
 						["point"] = "CENTER",
+					},
+				},
+				["Trollitaa - Faerlina"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -234.7759323120117,
+						["x"] = -305.0391845703125,
+						["point"] = "RIGHT",
 					},
 				},
 			},
@@ -1258,13 +1258,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["CLEAN"] = {
+				["Petemaker - Faerlina"] = {
+					["enabled"] = true,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 54,
 						["x"] = -514,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Platinada - Benediction"] = {
 					["enabled"] = true,
@@ -1275,98 +1276,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Petemaker - Faerlina"] = {
-					["enabled"] = true,
-					["version"] = 3,
+				["CLEAN"] = {
 					["position"] = {
 						["y"] = 54,
 						["x"] = -514,
 						["point"] = "BOTTOM",
 					},
-				},
-			},
-		},
-		["Vehicle"] = {
-			["profiles"] = {
-				["Trollitaa - Faerlina"] = {
 					["version"] = 3,
-					["position"] = {
-						["y"] = -66.89996337890625,
-						["x"] = 148.0556030273438,
-						["point"] = "CENTER",
-					},
-				},
-				["Naowebona - Faerlina"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Platinada - Grobbulus"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.500244140625,
-						["point"] = "CENTER",
-					},
-				},
-				["HELER"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 66.99392700195312,
-						["x"] = 115.5617065429688,
-						["point"] = "CENTER",
-					},
-				},
-				["Platinada - Faerlina"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Default"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Faerlina"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.500244140625,
-						["point"] = "CENTER",
-					},
-				},
-				["CLEAN"] = {
-					["position"] = {
-						["y"] = 66.99392700195312,
-						["x"] = 115.5617065429688,
-						["point"] = "CENTER",
-					},
-					["version"] = 3,
-				},
-				["Platinada - Benediction"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Petemaker - Faerlina"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 42.50003051757813,
-						["x"] = 104.5,
-						["point"] = "CENTER",
-					},
 				},
 			},
 		},
@@ -1429,11 +1345,11 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["CLEAN"] = {
+				["Petemaker - Faerlina"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -162.3610343933106,
-						["x"] = -381.3613586425781,
+						["y"] = -14.99998474121094,
+						["x"] = -82.49995422363281,
 						["point"] = "CENTER",
 					},
 				},
@@ -1445,13 +1361,97 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
+				["CLEAN"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -162.3610343933106,
+						["x"] = -381.3613586425781,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Trollitaa - Faerlina"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -66.89996337890625,
+						["x"] = 148.0556030273438,
+						["point"] = "CENTER",
+					},
+				},
+				["Naowebona - Faerlina"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Platinada - Grobbulus"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.500244140625,
+						["point"] = "CENTER",
+					},
+				},
+				["HELER"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 66.99392700195312,
+						["x"] = 115.5617065429688,
+						["point"] = "CENTER",
+					},
+				},
+				["Platinada - Faerlina"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Default"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Faerlina"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.500244140625,
+						["point"] = "CENTER",
+					},
+				},
 				["Petemaker - Faerlina"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -14.99998474121094,
-						["x"] = -82.49995422363281,
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
 						["point"] = "CENTER",
 					},
+				},
+				["Platinada - Benediction"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["CLEAN"] = {
+					["position"] = {
+						["y"] = 66.99392700195312,
+						["x"] = 115.5617065429688,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
 				},
 			},
 		},
@@ -1515,15 +1515,13 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["CLEAN"] = {
+				["Petemaker - Faerlina"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 177.4955849018006,
-						["x"] = -329.8097161309579,
+						["y"] = 143,
+						["x"] = -460,
 						["point"] = "BOTTOM",
-						["scale"] = 1.100000023841858,
 					},
-					["padding"] = 0,
 				},
 				["Platinada - Benediction"] = {
 					["version"] = 3,
@@ -1533,13 +1531,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Petemaker - Faerlina"] = {
+				["CLEAN"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
+						["y"] = 177.4955849018006,
+						["x"] = -329.8097161309579,
 						["point"] = "BOTTOM",
+						["scale"] = 1.100000023841858,
 					},
+					["padding"] = 0,
 				},
 			},
 		},
@@ -1608,14 +1608,14 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["CLEAN"] = {
+				["Petemaker - Faerlina"] = {
 					["enabled"] = true,
-					["position"] = {
-						["y"] = -2.27764892578125,
-						["x"] = 348.9334716796875,
-						["point"] = "TOPLEFT",
-					},
 					["version"] = 3,
+					["position"] = {
+						["y"] = 61,
+						["x"] = -514,
+						["point"] = "BOTTOM",
+					},
 				},
 				["Platinada - Benediction"] = {
 					["enabled"] = true,
@@ -1626,20 +1626,20 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Petemaker - Faerlina"] = {
+				["CLEAN"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
-						["y"] = 61,
-						["x"] = -514,
-						["point"] = "BOTTOM",
+						["y"] = -2.27764892578125,
+						["x"] = 348.9334716796875,
+						["point"] = "TOPLEFT",
 					},
+					["version"] = 3,
 				},
 			},
 		},
 	},
 	["profileKeys"] = {
-		["Trollitaa - Faerlina"] = "HELER",
+		["Trollitaa - Faerlina"] = "CLEAN",
 		["Torituwu - Faerlina"] = "Trollitaa - Faerlina",
 		["Trolluwu - Faerlina"] = "Trollitaa - Faerlina",
 		["Tomopala - Faerlina"] = "HELER",
@@ -1647,9 +1647,9 @@ Bartender4DB = {
 		["Bocajuniors - Faerlina"] = "Trollitaa - Faerlina",
 		["Platinada - Grobbulus"] = "Platinada - Grobbulus",
 		["Naowebona - Faerlina"] = "Naowebona - Faerlina",
-		["Platinada - Faerlina"] = "CLEAN",
-		["Elfitanashe - Faerlina"] = "CLEAN",
 		["Petemaker - Faerlina"] = "Petemaker - Faerlina",
+		["Elfitanashe - Faerlina"] = "CLEAN",
+		["Platinada - Faerlina"] = "CLEAN",
 		["Platinada - Benediction"] = "CLEAN",
 		["Trollituwu - Faerlina"] = "Trollitaa - Faerlina",
 	},
@@ -1672,10 +1672,10 @@ Bartender4DB = {
 		["HELER"] = {
 			["snapping"] = false,
 			["blizzardVehicle"] = true,
-			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["minimapPos"] = 77.66986051388193,
 			},
+			["focuscastmodifier"] = false,
 		},
 		["Platinada - Faerlina"] = {
 			["focuscastmodifier"] = false,
@@ -1692,6 +1692,16 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
+		["Petemaker - Faerlina"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Platinada - Benediction"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
 		["CLEAN"] = {
 			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
@@ -1699,16 +1709,6 @@ Bartender4DB = {
 			["minimapIcon"] = {
 				["minimapPos"] = 77.66986051388193,
 			},
-		},
-		["Platinada - Benediction"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Petemaker - Faerlina"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
 		},
 	},
 }

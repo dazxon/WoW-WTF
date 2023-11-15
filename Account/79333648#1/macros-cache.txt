@@ -22,8 +22,12 @@ VER 3 000000000000000A "blinka    " "135736"
 /stopcasting
 /cast Blink
 END
+VER 3 000000000000002A "BOOTS" "134400"
+/use 8
+END
 VER 3 000000000000000D "Decursive" "INV_MISC_QUESTIONMARK"
-/script DecursiveRootTable.Dcr:Println('No spell available')
+/stopcasting
+/cast [@mouseover,nomod,exists] Cure Toxins;  [@mouseover,exists,mod:ctrl] Hex; [@mouseover,exists,mod:shift] Cure Toxins
 END
 VER 3 000000000000001D "DND" "INV_MISC_QUESTIONMARK"
 /DND
@@ -63,6 +67,9 @@ VER 3 0000000000000008 "G TOTEM" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000017 "GRM_Tool" "INV_MISC_QUESTIONMARK"
 /run GRM.Report("Reserved for GRM Macro Tool Usage. Please do not delete.")
+END
+VER 3 0000000000000029 "HANDS" "134400"
+/use 10
 END
 VER 3 000000000000001A "HEALTHSTONE" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -105,10 +112,10 @@ END
 VER 3 0000000000000006 "pollo" "132090"
 /chicken
 END
-VER 3 0000000000000023 "reload" "135444"
+VER 3 0000000000000024 "reload" "237427"
 /reload
 END
-VER 3 0000000000000024 "reload" "237427"
+VER 3 0000000000000023 "reload" "135444"
 /reload
 END
 VER 3 0000000000000021 "RW ITEM" "INV_MISC_QUESTIONMARK"

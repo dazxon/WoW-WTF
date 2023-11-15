@@ -42,11 +42,6 @@ VER 3 000000000100000C "Flame Shock" "135813"
 /cast Flame Shock
 /startattack
 END
-VER 3 000000000100000A "Hands Rage" "351062"
-#showtooltip 10
-/cast Shamanistic Rage
-/use 10
-END
 VER 3 0000000001000010 "INGENIEROWO" "INV_MISC_QUESTIONMARK"
 #showtooltip Saronite Bomb
 /use Global Thermal Sapper Charge
@@ -65,6 +60,12 @@ END
 VER 3 0000000001000008 "PIEDRA" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /castsequence reset=30 Wrath of Air Totem,Bloodlust,Astral Recall
+END
+VER 3 000000000100000A "RAGE" "136088"
+#showtooltip
+/cast Shamanistic Rage
+/cast Blood Fury
+/use 10
 END
 VER 3 0000000001000009 "Stormtrike" "INV_MISC_QUESTIONMARK"
 #showtooltip

@@ -61,9 +61,9 @@ VMRT = {
 		["Torituwu-Faerlina"] = "default",
 		["Petemaker-Faerlina"] = "default",
 		["Platinada-Grobbulus"] = "default",
-		["Platinada-Faerlina"] = "default",
-		["Tomopala-Faerlina"] = "default",
 		["Trollitaa-Faerlina"] = "default",
+		["Tomopala-Faerlina"] = "default",
+		["Platinada-Faerlina"] = "default",
 	},
 	["Encounter"] = {
 		["list"] = {
@@ -1863,6 +1863,22 @@ VMRT = {
 				"^856^4^1698381308^439^0^25^265.84^Beskytter", -- [1745]
 				"^856^4^1698382101^482^0^25^265.68^Deuxh", -- [1746]
 				"^856^4^1698383190^40^0^25^267.16^Neisfron", -- [1747]
+				"^851^4^1698975703^283^1^25^268.67^", -- [1748]
+				"^852^4^1698976743^132^1^25^268.94^", -- [1749]
+				"^855^4^1698978899^326^1^25^267.68^Kaleric", -- [1750]
+				"^856^4^1698980183^226^0^25^268.06^Deuxh", -- [1751]
+				"^856^4^1698980692^260^0^25^268.29^Deuxh", -- [1752]
+				"^856^4^1698981248^340^0^25^268.81^Payovich", -- [1753]
+				"^856^4^1698981827^253^0^25^268.81^Rastagirll", -- [1754]
+				"^856^4^1698982526^425^0^25^268.81^Deuxh", -- [1755]
+				"^856^4^1698983254^223^0^25^268.38^Shockmyanus", -- [1756]
+				"^856^4^1698983767^518^0^25^268.85^Deuxh", -- [1757]
+				"^856^4^1698984569^748^1^25^268.38^Payovich", -- [1758]
+				"^1118^3^1699374005^113^1^10^260.59^", -- [1759]
+				"^855^3^1699482602^362^1^10^272.45^Esthis", -- [1760]
+				"^855^4^1699587195^302^1^25^271.62^Iloveseulgi", -- [1761]
+				"^856^4^1699587857^655^1^25^271.02^Elrastita", -- [1762]
+				"^1113^3^1699985479^89^1^10^265.48^", -- [1763]
 			},
 			["Naowebona"] = {
 			},
@@ -1955,11 +1971,13 @@ VMRT = {
 	},
 	["Marks"] = {
 		["list"] = {
+			"Caidence", -- [1]
 		},
 	},
 	["ExCD2"] = {
 		["upd4525"] = true,
 		["gnGUIDs"] = {
+			["Fulgorah"] = 0,
 			["Sryph"] = 0,
 			["Zehda"] = 0,
 			["Selwin"] = 0,
@@ -1975,10 +1993,14 @@ VMRT = {
 			["Polion"] = 0,
 			["Luisardi"] = 0,
 			["Gubsy-Arugal"] = 0,
+			["Mosnar"] = 0,
+			["Bignuff"] = 0,
 			["Lilkanthus"] = 0,
 			["Rastagirll"] = 0,
 			["Payovich"] = 0,
+			["Bakedmuffin"] = 0,
 			["Zaebay-Grobbulus"] = 0,
+			["Sylvanora"] = 0,
 			["Yenefred"] = 0,
 			["Gaboorum"] = 0,
 			["Elfitanashe"] = 0,
@@ -1991,7 +2013,9 @@ VMRT = {
 			["Drudo"] = 0,
 			["Shermand"] = 0,
 			["Takha"] = 0,
+			["Goolenx"] = 0,
 			["Iloveseulgi"] = 0,
+			["Chiatsupp"] = 0,
 			["Fílosofaso"] = 0,
 			["Khobo"] = 0,
 			["Itchysack"] = 0,
@@ -2003,74 +2027,151 @@ VMRT = {
 			["Platinada"] = 0,
 			["Ogarcadios"] = 0,
 			["Yourexisback"] = 0,
+			["Bangaraang"] = 0,
 			["Brownbobtwo"] = 0,
 			["Suidel"] = 0,
 			["Tohsakah"] = 0,
 			["Trolluwu"] = 0,
+			["Dogna"] = 0,
+			["Huskerss"] = 0,
 			["Shockmyanus"] = 0,
 			["Jeanamis"] = 0,
+			["Strömbreaker"] = 0,
+			["Sparluk"] = 0,
 			["Swoledickuss-Grobbulus"] = 0,
+			["Krómush"] = 0,
 			["Margothsin-Grobbulus"] = 0,
+			["Zdah"] = 0,
+			["Koystalker-Grobbulus"] = 0,
 			["Chenes"] = 0,
 			["Wigorux"] = 0,
+			["Mzery"] = 0,
+			["Rippynaught"] = 0,
+			["Riteousnite"] = 0,
+			["Pyrogotica-Whitemane"] = 0,
 			["Pattyd"] = 0,
+			["Terpanese"] = 0,
 			["Aeires"] = 0,
+			["Kamehonorbum"] = 0,
 			["Jaywulf-Grobbulus"] = 0,
+			["Casette"] = 0,
 			["Benimarru-Whitemane"] = 0,
 			["Karthoni"] = 0,
+			["Freakselene-Whitemane"] = 0,
 			["Unclejemima-Atiesh"] = 0,
+			["Shivadom"] = 0,
+			["Masturbado"] = 0,
+			["Vonixx-Whitemane"] = 0,
+			["Waifurouge"] = 0,
+			["Dzh"] = 0,
+			["Buttdumpling-Grobbulus"] = 0,
+			["Slowblo"] = 0,
+			["Hugebangerz"] = 0,
 			["Chalecos"] = 0,
+			["Rilløøn"] = 0,
 			["Torrancia"] = 0,
+			["Kromash-Ashkandi"] = 0,
 			["Sucondezznut"] = 0,
 			["Inkist-Atiesh"] = 0,
+			["Walkinha"] = 0,
 			["Shemin"] = 0,
+			["Bullypulpit"] = 0,
+			["Nsanegato"] = 0,
+			["Exams"] = 0,
+			["Dchill"] = 0,
+			["Feelsgayman"] = 0,
+			["Âdiurd"] = 0,
+			["Boltazar"] = 0,
+			["Mustaprime"] = 0,
+			["Walterburn"] = 0,
+			["Tabbtarget"] = 0,
+			["Aleona"] = 0,
 			["Inuaz"] = 0,
 			["Shiftayce"] = 0,
+			["Lacryma"] = 0,
+			["Thoninhunter"] = 0,
+			["Stelo"] = 0,
+			["Heyzeusx"] = 0,
+			["Niassamond"] = 0,
+			["Dèss"] = 0,
+			["Kevsybb"] = 0,
 			["Embiid"] = 0,
 			["Chalidruid"] = 0,
 			["Çleaver-Grobbulus"] = 0,
+			["Azôv"] = 0,
 			["Bogrum"] = 0,
+			["Volkanovski"] = 0,
+			["Protodrake"] = 0,
 			["Apocalypsè"] = 0,
 			["Heartblaze-Whitemane"] = 0,
 			["Shottysims"] = 0,
+			["Vanny"] = 0,
+			["Hardbok"] = 0,
 			["Lyde"] = 0,
-			["Volkanovski"] = 0,
+			["Hankosaurus"] = 0,
+			["Lorthiel-Grobbulus"] = 0,
+			["Shÿft"] = 0,
+			["Hekthric"] = 0,
+			["Chetmanly"] = 0,
+			["Teslatotems"] = 0,
+			["Aviciix"] = 0,
 			["Spicyhealuwu"] = 0,
 			["Grayleaves"] = 0,
 			["Chessnuts"] = 0,
+			["Benneth"] = 0,
 			["Roumeo"] = 0,
 			["Gölden-Grobbulus"] = 0,
+			["Instantx"] = 0,
+			["Robotstop"] = 0,
 			["Stabberoni"] = 0,
-			["Vanny"] = 0,
+			["Furgot"] = 0,
 			["Maxta"] = 0,
 			["Labestialida"] = 0,
 			["Erzen"] = 0,
-			["Aviciix"] = 0,
+			["Drökan"] = 0,
 			["Torituwu"] = 0,
 			["Scòrz"] = 0,
 			["Galibull"] = 0,
-			["Josueyd"] = 0,
+			["Roamer"] = 0,
+			["Rethør"] = 0,
 			["Ushikuma"] = 0,
+			["Beenlord"] = 0,
+			["Kobyto"] = 0,
+			["Ntxzrgx"] = 0,
+			["Náti"] = 0,
+			["Straybizness"] = 0,
+			["Zippidk"] = 0,
 			["Marito"] = 0,
 			["Mimblis"] = 0,
 			["Pezt"] = 0,
+			["Spoopdy"] = 0,
+			["Crivielle-Whitemane"] = 0,
 			["Avelino"] = 0,
-			["Pipenhock"] = 0,
-			["Kobyto"] = 0,
+			["Tezt"] = 0,
+			["Ferost"] = 0,
 			["Charro"] = 0,
 			["Bladyztrack"] = 0,
+			["Nofnor"] = 0,
 			["Quisquis"] = 0,
 			["Terzhu"] = 0,
-			["Petizzo"] = 0,
+			["Atomicxp"] = 0,
+			["Vampdaddy"] = 0,
+			["Backfire"] = 0,
+			["Zyfur"] = 0,
 			["Islu"] = 0,
+			["Loveyoumae"] = 0,
 			["Compaqt-Grobbulus"] = 0,
-			["Nofnor"] = 0,
+			["Impaact"] = 0,
 			["Tiquesita"] = 0,
 			["Voltari"] = 0,
 			["Uhohwl"] = 0,
 			["Liyo"] = 0,
-			["Vampdaddy"] = 0,
+			["Fadeawaay"] = 0,
+			["Prosputita"] = 0,
+			["Bicycbabe"] = 0,
+			["Dawyken"] = 0,
 			["Gardhardest"] = 0,
+			["Anubirus"] = 0,
 			["Cownage-Grobbulus"] = 0,
 			["Tköwnz"] = 0,
 			["Aimeudeus"] = 0,
@@ -2078,224 +2179,286 @@ VMRT = {
 			["Rufyna"] = 0,
 			["Kadiuz"] = 0,
 			["Shifthole"] = 0,
+			["Ripfeetpics"] = 0,
 			["Ageofempires"] = 0,
 			["Tnl"] = 0,
-			["Pemmaz"] = 0,
-			["Fadeawaay"] = 0,
+			["Applesnacks"] = 0,
+			["Terzu"] = 0,
+			["Manohots"] = 0,
+			["Desmont"] = 0,
 			["Rellite-Grobbulus"] = 0,
+			["Zarot-Eranikus"] = 0,
 			["Smokestacker"] = 0,
 			["Deticy"] = 0,
+			["Juandookie"] = 0,
+			["Aricat"] = 0,
+			["Docttorstein"] = 0,
+			["Blazzuris"] = 0,
 			["Dethcroc-Grobbulus"] = 0,
-			["Ripfeetpics"] = 0,
+			["Elrastita"] = 0,
+			["Noonhigher"] = 0,
 			["Smokerwarrer"] = 0,
+			["Radiostroke"] = 0,
+			["Wigan"] = 0,
 			["Anderlech"] = 0,
 			["Cuchomeow"] = 0,
 			["Deuxa"] = 0,
 			["Infa"] = 0,
 			["Anawave"] = 0,
 			["Jacobxm"] = 0,
+			["Yeyø"] = 0,
+			["Iamorcshaman"] = 0,
 			["Neisfron"] = 0,
-			["Wigan"] = 0,
+			["Cyz"] = 0,
+			["Itseuka"] = 0,
 			["Fredmota"] = 0,
 			["Kardun-Whitemane"] = 0,
+			["Tistis"] = 0,
 			["Durtán"] = 0,
+			["Kartt"] = 0,
+			["Winterdk"] = 0,
 			["Dkgón"] = 0,
 			["Gräy"] = 0,
 			["Dufourth"] = 0,
+			["Darktzu"] = 0,
+			["Icesharrd"] = 0,
 			["Lastkiss-Eranikus"] = 0,
+			["Emokertraker"] = 0,
+			["Nhiri"] = 0,
+			["Westrîn"] = 0,
 			["Draxpala"] = 0,
 			["Negrito"] = 0,
 			["Esthis"] = 0,
-			["Nhiri"] = 0,
+			["Belcita"] = 0,
+			["Fidozflay"] = 0,
+			["Burstdruid"] = 0,
+			["Frostyus"] = 0,
+			["Baguétte"] = 0,
 			["Kurawa"] = 0,
+			["Kórgrim"] = 0,
+			["Misapr"] = 0,
+			["Shivaratri"] = 0,
 			["Cortanà"] = 0,
-			["Dalosk"] = 0,
+			["Coomkinn"] = 0,
 			["Druiddreamz"] = 0,
+			["Bigindo"] = 0,
+			["Fortseven"] = 0,
+			["Caidence"] = 0,
+			["Noobiepriest"] = 0,
 			["Smokehh"] = 0,
+			["Repentsinner"] = 0,
+			["Roset-Grobbulus"] = 0,
 			["Ohppressio"] = 0,
+			["Derpknite"] = 0,
+			["Mousepadlol"] = 0,
+			["Akazâ"] = 0,
 			["Fäbri"] = 0,
-			["Tanja"] = 0,
-			["Tomopala"] = 0,
+			["Dalsonpala"] = 0,
+			["Armada"] = 0,
 			["Cuchow"] = 0,
+			["Tanja"] = 0,
+			["Userdk"] = 0,
+			["Trolyinio"] = 0,
+			["Tomopala"] = 0,
+			["Fricndk-Grobbulus"] = 0,
+			["Symmca"] = 0,
+			["Barbacheck"] = 0,
+			["Épéàdeuxmain"] = 0,
+			["Vendomerca"] = 0,
 			["Ðrow-OldBlanchy"] = 0,
 			["Stonkie"] = 0,
-			["Frohlic"] = 0,
+			["Shredderx"] = 0,
+			["Scubastev"] = 0,
+			["Déathdruid"] = 0,
+			["Wheep"] = 0,
+			["Çivil"] = 0,
 			["Alense"] = 0,
+			["Darniety"] = 0,
+			["Cricho"] = 0,
 			["Bonermaster"] = 0,
 			["Tharkøs"] = 0,
 			["Dankkill"] = 0,
+			["Phcx"] = 0,
 			["Hogcrankr"] = 0,
 			["Beskytter"] = 0,
+			["Jamminshaman-Whitemane"] = 0,
 			["Areuhigh"] = 0,
-			["Çivil"] = 0,
+			["Sinaf"] = 0,
 			["Loogy"] = 0,
-			["Ushiochan"] = 0,
-			["Kennyço"] = 0,
-			["Tistis"] = 0,
+			["Mizikar"] = 0,
+			["Bubbaphatts"] = 0,
+			["Ixxlxxl"] = 0,
+			["Dredzz"] = 0,
+			["Precasting"] = 0,
+			["Whodadrood"] = 0,
+			["Flamnhtcheto"] = 0,
 			["Kernal-Grobbulus"] = 0,
+			["Kennyço"] = 0,
+			["Tezzerator"] = 0,
+			["Xagals"] = 0,
 			["Murderii"] = 0,
 			["Williamferal"] = 0,
-			["Flamnhtcheto"] = 0,
-			["Exams"] = 0,
-			["Cyz"] = 0,
+			["Justdylan"] = 0,
+			["Trollmaker"] = 0,
+			["Corvinuss"] = 0,
 			["Mueltee"] = 0,
 			["Dksempai"] = 0,
-			["Slypngrip"] = 0,
-			["Belcita"] = 0,
-			["Pelinka"] = 0,
-			["Titanya"] = 0,
-			["Rïa"] = 0,
+			["Yatsúri"] = 0,
+			["Letaldruid"] = 0,
+			["Moguls"] = 0,
+			["Priestesleia"] = 0,
+			["Terrore-Grobbulus"] = 0,
 			["Nornof"] = 0,
 			["Moleconarroz"] = 0,
-			["Glower-Grobbulus"] = 0,
+			["Cevlade"] = 0,
 			["Xtylez"] = 0,
-			["Radiostroke"] = 0,
-			["Teslatotems"] = 0,
-			["Protodrake"] = 0,
+			["Shuerkis"] = 0,
+			["Xufak"] = 0,
+			["Slypngrip"] = 0,
 			["Bömbay"] = 0,
 			["Khadall"] = 0,
-			["Colecho"] = 0,
-			["Niassamond"] = 0,
-			["Terpanese"] = 0,
-			["Tezzerator"] = 0,
-			["Azôv"] = 0,
+			["Pretension"] = 0,
+			["Druiy"] = 0,
+			["Glower-Grobbulus"] = 0,
+			["Chillykevin-Grobbulus"] = 0,
+			["Quisquisp"] = 0,
 			["Petemaker"] = 0,
-			["Roset-Grobbulus"] = 0,
+			["Trapyy"] = 0,
 			["Sehan"] = 0,
 			["Sussertod"] = 0,
-			["Letaldruid"] = 0,
-			["Jágermeister"] = 0,
+			["Rippyh"] = 0,
+			["Afkblazingit"] = 0,
 			["Donpirulo"] = 0,
 			["Toritoviril"] = 0,
+			["Golddeem"] = 0,
 			["Frosticy"] = 0,
-			["Loveyoumae"] = 0,
-			["Lorthiel-Grobbulus"] = 0,
+			["Robberval"] = 0,
 			["Tronos"] = 0,
 			["Morideydreyn-OldBlanchy"] = 0,
-			["Kaleric"] = 0,
+			["Vanarenisa"] = 0,
 			["Deuxh"] = 0,
 			["Zetoxaskaepz"] = 0,
-			["Akazâ"] = 0,
-			["Vanarenisa"] = 0,
-			["Golddeem"] = 0,
-			["Nsanegato"] = 0,
-			["Shredderx"] = 0,
-			["Zhedaow"] = 0,
-			["Shuerkis"] = 0,
-			["Iamorcshaman"] = 0,
-			["Velmao"] = 0,
-			["Linfosito"] = 0,
-			["Tezt"] = 0,
-			["Emokertraker"] = 0,
-			["Rippyh"] = 0,
-			["Darktzu"] = 0,
-			["Barbacheck"] = 0,
-			["Ekö"] = 0,
-			["Druiy"] = 0,
-			["Wusham"] = 0,
-			["Zheda"] = 0,
-			["Crivielle-Whitemane"] = 0,
-			["Bachonk"] = 0,
-			["Quisquisp"] = 0,
-			["Corvinuss"] = 0,
-			["Ursadaddy"] = 0,
 			["Ogtacototems-Eranikus"] = 0,
-			["Kittencow-Grobbulus"] = 0,
-			["Eldel"] = 0,
-			["Justdylan"] = 0,
-			["Laughlater"] = 0,
+			["Cilufer"] = 0,
+			["Kateqt"] = 0,
+			["Garbagegrub"] = 0,
+			["Zoodleszz"] = 0,
+			["Zhedaow"] = 0,
+			["Zheda"] = 0,
+			["Taimuertoctm"] = 0,
+			["Velmao"] = 0,
+			["Anotherpali-Whitemane"] = 0,
+			["Syndcate"] = 0,
+			["Lightnot"] = 0,
+			["Nightres-Whitemane"] = 0,
+			["Pallyelf"] = 0,
+			["Matchesxo"] = 0,
+			["Doúg"] = 0,
+			["Deftcat"] = 0,
+			["Wusham"] = 0,
+			["Gebrochenes"] = 0,
 			["Brookh"] = 0,
+			["Bachonk"] = 0,
+			["Dilywich"] = 0,
+			["Møgli"] = 0,
+			["Ursadaddy"] = 0,
+			["Chichí"] = 0,
+			["Dogno"] = 0,
+			["Eldel"] = 0,
+			["Imhighdude-Eranikus"] = 0,
+			["Laughlater"] = 0,
+			["Hojeelia"] = 0,
 			["Bluebubble"] = 0,
-			["Vendomerca"] = 0,
+			["Kittencow-Grobbulus"] = 0,
 			["Martelly"] = 0,
-			["Mizikar"] = 0,
+			["Ushiochan"] = 0,
 			["Tukfarms-Grobbulus"] = 0,
 			["Pilucha"] = 0,
 			["Draidy"] = 0,
 			["Ampedx"] = 0,
-			["Pallyelf"] = 0,
+			["Colecho"] = 0,
 			["Dártilde"] = 0,
-			["Zarot-Eranikus"] = 0,
-			["Taimuertoctm"] = 0,
+			["Frohlic"] = 0,
+			["Londress"] = 0,
 			["Bocajuniors"] = 0,
-			["Fricndk-Grobbulus"] = 0,
-			["Trolyinio"] = 0,
-			["Caidence"] = 0,
+			["Dofy"] = 0,
+			["Facilitate"] = 0,
+			["Trollitaa"] = 0,
 			["Zulki"] = 0,
-			["Blazzuris"] = 0,
-			["Masturbado"] = 0,
-			["Derpknite"] = 0,
-			["Sadniahours"] = 0,
-			["Chillykevin-Grobbulus"] = 0,
-			["Pretension"] = 0,
+			["Lishious"] = 0,
+			["Carrymedk"] = 0,
 			["Inhumagetwo"] = 0,
+			["Sadniahours"] = 0,
+			["Ekö"] = 0,
+			["Jágermeister"] = 0,
+			["Magickyle"] = 0,
 			["Arkthion"] = 0,
-			["Armada"] = 0,
-			["Baguétte"] = 0,
+			["Kaleric"] = 0,
 			["Hardcorepal"] = 0,
-			["Matchesxo"] = 0,
+			["Titanya"] = 0,
+			["Dalosk"] = 0,
 			["Prismátic"] = 0,
-			["Impaact"] = 0,
+			["Linfosito"] = 0,
 			["Souleret"] = 0,
 			["Atonz"] = 0,
-			["Kateqt"] = 0,
-			["Gebrochenes"] = 0,
-			["Afkblazingit"] = 0,
+			["Quninfa-Whitemane"] = 0,
+			["Lalusha"] = 0,
+			["Pekenoxd"] = 0,
 			["Mindfrost"] = 0,
-			["Docttorstein"] = 0,
+			["Bunglojungus"] = 0,
 			["Jiraisha"] = 0,
-			["Zoodleszz"] = 0,
-			["Lightnot"] = 0,
+			["Rïa"] = 0,
+			["Aguirre"] = 0,
 			["Relaxtum-Sulfuras"] = 0,
 			["Heissergael"] = 0,
 			["Badrng-Windseeker"] = 0,
 			["Orcverde"] = 0,
-			["Garbagegrub"] = 0,
-			["Captnstabs"] = 0,
+			["Gallettes"] = 0,
+			["Tembotasty"] = 0,
 			["Tassirebea"] = 0,
-			["Hugsankissis-Grobbulus"] = 0,
-			["Hugebangerz"] = 0,
-			["Priestesleia"] = 0,
+			["Pemmaz"] = 0,
+			["Grakarona"] = 0,
+			["Serbrown"] = 0,
 			["Cherryjuice"] = 0,
-			["Imhighdude-Eranikus"] = 0,
-			["Cevlade"] = 0,
+			["Mcsunshine"] = 0,
+			["Hugsankissis-Grobbulus"] = 0,
 			["Slapinator-Whitemane"] = 0,
-			["Ygnatz"] = 0,
-			["Straybizness"] = 0,
-			["Icesharrd"] = 0,
-			["Ixxlxxl"] = 0,
-			["Kartt"] = 0,
-			["Fortseven"] = 0,
-			["Kamehonorbum"] = 0,
-			["Kurmy"] = 0,
-			["Trollmaker"] = 0,
-			["Terrore-Grobbulus"] = 0,
-			["Waifurouge"] = 0,
-			["Cdubshift"] = 0,
-			["Hekthric"] = 0,
-			["Shÿft"] = 0,
-			["Drexal-Maladath"] = 0,
 			["Stabbiie-Eranikus"] = 0,
+			["Petizzo"] = 0,
+			["Fkfacemcgee"] = 0,
+			["Pipenhock"] = 0,
+			["Destradaa"] = 0,
+			["Poby-Grobbulus"] = 0,
+			["Shiftyjam-Whitemane"] = 0,
+			["Kurmy"] = 0,
+			["Josueyd"] = 0,
+			["Igoshadowonu"] = 0,
+			["Mootwo"] = 0,
+			["Cdubshift"] = 0,
+			["Flöxx"] = 0,
+			["Backstabeer"] = 0,
+			["Drexal-Maladath"] = 0,
+			["Anaztacia"] = 0,
 			["Mulagar"] = 0,
-			["Trollitaa"] = 0,
-			["Dalsonpala"] = 0,
+			["Lichdawg"] = 0,
+			["Misacat"] = 0,
 			["Nudisco"] = 0,
 			["Jmwrath"] = 0,
-			["Repentsinner"] = 0,
+			["Nipler-Whitemane"] = 0,
 			["Madmenx"] = 0,
-			["Elrastita"] = 0,
-			["Shivaratri"] = 0,
+			["Extcee"] = 0,
+			["Pelinka"] = 0,
 			["Ledius"] = 0,
-			["Rilløøn"] = 0,
-			["Aguirre"] = 0,
-			["Jamminshaman-Whitemane"] = 0,
+			["Shinygodly"] = 0,
+			["Captnstabs"] = 0,
+			["Putricied"] = 0,
 			["Xhamanco"] = 0,
 			["Tørita"] = 0,
-			["Anubirus"] = 0,
-			["Dzh"] = 0,
-			["Juandookie"] = 0,
+			["Swenc-Whitemane"] = 0,
+			["Ethanpriest"] = 0,
+			["Kayecee"] = 0,
 			["Overrlord"] = 0,
-			["Gallettes"] = 0,
+			["Ygnatz"] = 0,
 			["Supercute"] = 0,
 		},
 		["NoRaid"] = true,
@@ -2519,11 +2682,11 @@ VMRT = {
 				"GTrollitaa", -- [3]
 				"CRicardoiorio", -- [4]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Señor sangriento Mandokir",
 				["eI"] = 787,
-				["t"] = 1668465938,
-				["g"] = 20,
+				["eN"] = "Señor sangriento Mandokir",
 				["d"] = 148,
+				["g"] = 20,
+				["t"] = 1668465938,
 			}, -- [2]
 			{
 				"BRasey", -- [1]
@@ -2531,11 +2694,11 @@ VMRT = {
 				"GTrollitaa", -- [3]
 				"CRicardoiorio", -- [4]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 148,
-				["eN"] = "Hakkar",
 				["t"] = 1668467568,
-				["g"] = 20,
 				["eI"] = 793,
+				["d"] = 148,
+				["g"] = 20,
+				["eN"] = "Hakkar",
 			}, -- [3]
 			{
 				"BRasey", -- [1]
@@ -2544,11 +2707,11 @@ VMRT = {
 				"CRicardoiorio", -- [4]
 				"KNonanol", -- [5]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 148,
-				["eN"] = "Kurinnaxx",
 				["t"] = 1668468864,
-				["g"] = 20,
 				["eI"] = 718,
+				["d"] = 148,
+				["g"] = 20,
+				["eN"] = "Kurinnaxx",
 			}, -- [4]
 			{
 				"HDeticy", -- [1]
@@ -2561,11 +2724,11 @@ VMRT = {
 				"GTrollitaa", -- [8]
 				"CRicardoiorio", -- [9]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Razorgore the Untamed",
 				["eI"] = 610,
-				["d"] = 9,
-				["g"] = 40,
+				["eN"] = "Razorgore the Untamed",
 				["t"] = 1668973286,
+				["g"] = 40,
+				["d"] = 9,
 			}, -- [5]
 			{
 				"BRasey", -- [1]
@@ -2579,11 +2742,11 @@ VMRT = {
 				"IShinriu", -- [9]
 				"KDrudo", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 175,
-				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1674175039,
+				["g"] = 10,
+				["d"] = 175,
 			}, -- [6]
 			{
 				"BRasey", -- [1]
@@ -2597,11 +2760,11 @@ VMRT = {
 				"HDeticy", -- [9]
 				"EBidegain", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 754,
 				["t"] = 1674526697,
-				["g"] = 10,
 				["eN"] = "Mimiron",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 754,
 			}, -- [7]
 			{
 				"KCooliø", -- [1]
@@ -2630,11 +2793,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"EBidegain", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1674606313,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1674606313,
 			}, -- [8]
 			{
 				"KCooliø", -- [1]
@@ -2663,11 +2826,11 @@ VMRT = {
 				"EBidegain", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 754,
 				["eN"] = "Mimiron",
-				["t"] = 1674694097,
-				["g"] = 25,
+				["eI"] = 754,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1674694097,
 			}, -- [9]
 			{
 				"KCooliø", -- [1]
@@ -2695,11 +2858,11 @@ VMRT = {
 				"GShemin", -- [23]
 				"EBidegain", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1675125045,
-				["eN"] = "Yogg-Saron",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 756,
+				["t"] = 1675125045,
+				["g"] = 25,
+				["eN"] = "Yogg-Saron",
 			}, -- [10]
 			{
 				"KCooliø", -- [1]
@@ -2728,11 +2891,11 @@ VMRT = {
 				"EBidegain", -- [24]
 				"GShemin", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1675210884,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1675210884,
 			}, -- [11]
 			{
 				"KCooliø", -- [1]
@@ -2761,11 +2924,11 @@ VMRT = {
 				"EBidegain", -- [24]
 				"GShemin", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1675217530,
-				["eN"] = "Thorim",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 752,
+				["t"] = 1675217530,
+				["g"] = 25,
+				["eN"] = "Thorim",
 			}, -- [12]
 			{
 				"KCooliø", -- [1]
@@ -2794,11 +2957,11 @@ VMRT = {
 				"EBidegain", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 755,
 				["eN"] = "General Vezax",
-				["t"] = 1675298377,
-				["g"] = 25,
+				["eI"] = 755,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1675298377,
 			}, -- [13]
 			{
 				"DSmokestacker", -- [1]
@@ -2812,11 +2975,11 @@ VMRT = {
 				"BAfkblazingit", -- [9]
 				"KChalidruid", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 175,
-				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1675729612,
+				["g"] = 10,
+				["d"] = 175,
 			}, -- [14]
 			{
 				"DSmokestacker", -- [1]
@@ -2830,11 +2993,11 @@ VMRT = {
 				"BAfkblazingit", -- [9]
 				"KChalidruid", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 749,
 				["t"] = 1675733179,
-				["g"] = 10,
 				["eN"] = "Kologarn",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 749,
 			}, -- [15]
 			{
 				"KCooliø", -- [1]
@@ -2863,11 +3026,11 @@ VMRT = {
 				"KDrudo", -- [24]
 				"EBidegain", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eN"] = "Flame Leviathan",
 				["t"] = 1675817833,
-				["g"] = 25,
 				["eI"] = 744,
+				["d"] = 176,
+				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 			}, -- [16]
 			{
 				"KCooliø", -- [1]
@@ -2896,11 +3059,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1675901995,
-				["eN"] = "The Iron Council",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 748,
+				["t"] = 1675901995,
+				["g"] = 25,
+				["eN"] = "The Iron Council",
 			}, -- [17]
 			{
 				"DSmokestacker", -- [1]
@@ -2914,11 +3077,11 @@ VMRT = {
 				"HDeticy", -- [9]
 				"GNaowht", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 744,
 				["t"] = 1676340399,
-				["g"] = 10,
 				["eN"] = "Flame Leviathan",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 744,
 			}, -- [18]
 			{
 				"BRasey", -- [1]
@@ -2947,11 +3110,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1676506738,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1676506738,
 			}, -- [19]
 			{
 				"BRasey", -- [1]
@@ -2980,11 +3143,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1676515680,
-				["eN"] = "Mimiron",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 754,
+				["t"] = 1676515680,
+				["g"] = 25,
+				["eN"] = "Mimiron",
 			}, -- [20]
 			{
 				"KCooliø", -- [1]
@@ -3013,11 +3176,11 @@ VMRT = {
 				"GShemin", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 744,
 				["t"] = 1677026035,
-				["g"] = 25,
 				["eN"] = "Flame Leviathan",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 744,
 			}, -- [21]
 			{
 				"KCooliø", -- [1]
@@ -3046,11 +3209,11 @@ VMRT = {
 				"GShemin", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 752,
 				["eN"] = "Thorim",
-				["t"] = 1677034371,
-				["g"] = 25,
+				["eI"] = 752,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1677034371,
 			}, -- [22]
 			{
 				"KCooliø", -- [1]
@@ -3079,11 +3242,11 @@ VMRT = {
 				"GShemin", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1677036467,
-				["eN"] = "Mimiron",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 754,
+				["t"] = 1677036467,
+				["g"] = 25,
+				["eN"] = "Mimiron",
 			}, -- [23]
 			{
 				"CDeuxh", -- [1]
@@ -3111,11 +3274,11 @@ VMRT = {
 				"EBidegain", -- [23]
 				"BAfkblazingit", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 755,
 				["eN"] = "General Vezax",
-				["t"] = 1677112986,
-				["g"] = 25,
+				["eI"] = 755,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1677112986,
 			}, -- [24]
 			{
 				"FEmokertraker", -- [1]
@@ -3129,11 +3292,11 @@ VMRT = {
 				"BChenes", -- [9]
 				"KTankcat", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1677357941,
-				["g"] = 10,
+				["eI"] = 744,
 				["d"] = 175,
+				["g"] = 10,
+				["t"] = 1677357941,
 			}, -- [25]
 			{
 				"ISebazo", -- [1]
@@ -3147,11 +3310,11 @@ VMRT = {
 				"BDracop", -- [9]
 				"BSuidel", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 744,
 				["t"] = 1677631304,
-				["g"] = 10,
 				["eN"] = "Flame Leviathan",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 744,
 			}, -- [26]
 			{
 				"DSmokestacker", -- [1]
@@ -3165,11 +3328,11 @@ VMRT = {
 				"CRicardoiorio", -- [9]
 				"KDrudo", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 754,
 				["t"] = 1677721707,
-				["g"] = 10,
 				["eN"] = "Mimiron",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 754,
 			}, -- [27]
 			{
 				"BSuidel", -- [1]
@@ -3198,11 +3361,11 @@ VMRT = {
 				"BShockmyanus", -- [24]
 				"FMasmamat", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1677894535,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1677894535,
 			}, -- [28]
 			{
 				"DSmokestacker", -- [1]
@@ -3216,11 +3379,11 @@ VMRT = {
 				"EBidegain", -- [9]
 				"HTiquesita", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1677982539,
-				["eN"] = "General Vezax",
 				["d"] = 175,
-				["g"] = 10,
 				["eI"] = 755,
+				["t"] = 1677982539,
+				["g"] = 10,
+				["eN"] = "General Vezax",
 			}, -- [29]
 			{
 				"KToritoviril", -- [1]
@@ -3248,11 +3411,11 @@ VMRT = {
 				"BMulagar", -- [23]
 				"EPadregrassí", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1678238568,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1678238568,
 			}, -- [30]
 			{
 				"GNofnor", -- [1]
@@ -3281,11 +3444,11 @@ VMRT = {
 				"EPadregrassí", -- [24]
 				"BAfkblazingit", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1678247296,
-				["eN"] = "Thorim",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 752,
+				["t"] = 1678247296,
+				["g"] = 25,
+				["eN"] = "Thorim",
 			}, -- [31]
 			{
 				"KToritoviril", -- [1]
@@ -3314,11 +3477,11 @@ VMRT = {
 				"EPadregrassí", -- [24]
 				"KChalidruid", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 746,
 				["t"] = 1678323747,
-				["g"] = 25,
 				["eN"] = "Razorscale",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 746,
 			}, -- [32]
 			{
 				"BFadeawaay", -- [1]
@@ -3347,11 +3510,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"KChalidruid", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 754,
 				["t"] = 1678756628,
-				["g"] = 25,
 				["eN"] = "Mimiron",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 754,
 			}, -- [33]
 			{
 				"FKokomiel", -- [1]
@@ -3380,11 +3543,11 @@ VMRT = {
 				"BMulagar", -- [24]
 				"KToritoviril", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1678842977,
-				["eN"] = "Flame Leviathan",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 744,
+				["t"] = 1678842977,
+				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 			}, -- [34]
 			{
 				"BErzen", -- [1]
@@ -3413,11 +3576,11 @@ VMRT = {
 				"BMulagar", -- [24]
 				"KChalidruid", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 754,
 				["t"] = 1678929593,
-				["g"] = 25,
 				["eN"] = "Mimiron",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 754,
 			}, -- [35]
 			{
 				"BErzen", -- [1]
@@ -3446,11 +3609,11 @@ VMRT = {
 				"BMulagar", -- [24]
 				"KChalidruid", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 745,
 				["eN"] = "Ignis the Furnace Master",
-				["t"] = 1678930605,
-				["g"] = 25,
+				["eI"] = 745,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1678930605,
 			}, -- [36]
 			{
 				"ATharkøs", -- [1]
@@ -3479,11 +3642,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"EPadregrassí", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 744,
 				["t"] = 1679447872,
-				["g"] = 25,
 				["eN"] = "Flame Leviathan",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 744,
 			}, -- [37]
 			{
 				"BFadeawaay", -- [1]
@@ -3512,11 +3675,11 @@ VMRT = {
 				"EPadregrassí", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Ignis the Furnace Master",
 				["eI"] = 745,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Ignis the Furnace Master",
 				["t"] = 1679535196,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [38]
 			{
 				"BFadeawaay", -- [1]
@@ -3545,11 +3708,11 @@ VMRT = {
 				"EPadregrassí", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 751,
 				["t"] = 1679539265,
-				["g"] = 25,
 				["eN"] = "Hodir",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 751,
 			}, -- [39]
 			{
 				"FKokomiel", -- [1]
@@ -3578,11 +3741,11 @@ VMRT = {
 				"KDrudo", -- [24]
 				"KPumbex", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "General Vezax",
 				["eI"] = 755,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "General Vezax",
 				["t"] = 1679966918,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [40]
 			{
 				"FKokomiel", -- [1]
@@ -3611,11 +3774,11 @@ VMRT = {
 				"KDrudo", -- [24]
 				"KPumbex", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 748,
 				["eN"] = "The Iron Council",
-				["t"] = 1679977124,
-				["g"] = 25,
+				["eI"] = 748,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1679977124,
 			}, -- [41]
 			{
 				"FCaidence", -- [1]
@@ -3643,11 +3806,11 @@ VMRT = {
 				"BMulagar", -- [23]
 				"KChalidruid", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1680052139,
-				["eN"] = "Flame Leviathan",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 744,
+				["t"] = 1680052139,
+				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 			}, -- [42]
 			{
 				"FKokomiel", -- [1]
@@ -3676,11 +3839,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"BAfkblazingit", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 751,
 				["t"] = 1680139327,
-				["g"] = 25,
 				["eN"] = "Hodir",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 751,
 			}, -- [43]
 			{
 				"FKokomiel", -- [1]
@@ -3709,11 +3872,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"BAfkblazingit", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 754,
 				["eN"] = "Mimiron",
-				["t"] = 1680143758,
-				["g"] = 25,
+				["eI"] = 754,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1680143758,
 			}, -- [44]
 			{
 				"BErzen", -- [1]
@@ -3741,11 +3904,11 @@ VMRT = {
 				"EPadregrassí", -- [23]
 				"GShemin", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1680656641,
-				["eN"] = "Flame Leviathan",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 744,
+				["t"] = 1680656641,
+				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 			}, -- [45]
 			{
 				"BFadeawaay", -- [1]
@@ -3774,11 +3937,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"EPadregrassí", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 745,
 				["t"] = 1680744329,
-				["g"] = 25,
 				["eN"] = "Ignis the Furnace Master",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 745,
 			}, -- [46]
 			{
 				"FCaidence", -- [1]
@@ -3807,11 +3970,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"DSehan", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1681261148,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1681261148,
 			}, -- [47]
 			{
 				"BErzen", -- [1]
@@ -3840,11 +4003,11 @@ VMRT = {
 				"GShemin", -- [24]
 				"EPadregrassí", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1681348366,
-				["eN"] = "Mimiron",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 754,
+				["t"] = 1681348366,
+				["g"] = 25,
+				["eN"] = "Mimiron",
 			}, -- [48]
 			{
 				"CDeuxh", -- [1]
@@ -3858,11 +4021,11 @@ VMRT = {
 				"GShemin", -- [9]
 				"FCaidence", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 175,
-				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1681435061,
+				["g"] = 10,
+				["d"] = 175,
 			}, -- [49]
 			{
 				"CDeuxh", -- [1]
@@ -3876,11 +4039,11 @@ VMRT = {
 				"GShemin", -- [9]
 				"FCaidence", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "XT-002 Deconstructor",
 				["eI"] = 747,
-				["d"] = 175,
-				["g"] = 10,
+				["eN"] = "XT-002 Deconstructor",
 				["t"] = 1681436269,
+				["g"] = 10,
+				["d"] = 175,
 			}, -- [50]
 			{
 				"CDeuxh", -- [1]
@@ -3894,11 +4057,11 @@ VMRT = {
 				"GShemin", -- [9]
 				"FCaidence", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 750,
 				["t"] = 1681437777,
-				["g"] = 10,
 				["eN"] = "Auriaya",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 750,
 			}, -- [51]
 			{
 				"BFadeawaay", -- [1]
@@ -3927,11 +4090,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"BIgriss", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 757,
 				["eN"] = "Algalon the Observer",
-				["t"] = 1681783419,
-				["g"] = 25,
+				["eI"] = 757,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1681783419,
 			}, -- [52]
 			{
 				"BFadeawaay", -- [1]
@@ -3960,11 +4123,11 @@ VMRT = {
 				"EPadregrassí", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1681866391,
-				["eN"] = "Flame Leviathan",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 744,
+				["t"] = 1681866391,
+				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 			}, -- [53]
 			{
 				"CNeftflix", -- [1]
@@ -3993,11 +4156,11 @@ VMRT = {
 				"EPadregrassí", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Freya",
 				["eI"] = 753,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Freya",
 				["t"] = 1681873415,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [54]
 			{
 				"BZhaira", -- [1]
@@ -4023,11 +4186,11 @@ VMRT = {
 				"BMulagar", -- [21]
 				"BAfkblazingit", -- [22]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eN"] = "Mimiron",
 				["t"] = 1681951879,
-				["g"] = 25,
 				["eI"] = 754,
+				["d"] = 176,
+				["g"] = 25,
+				["eN"] = "Mimiron",
 			}, -- [55]
 			{
 				"CDeuxh", -- [1]
@@ -4041,11 +4204,11 @@ VMRT = {
 				"HDeticy", -- [9]
 				"EKobyto", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1682042105,
-				["eN"] = "Flame Leviathan",
 				["d"] = 175,
-				["g"] = 10,
 				["eI"] = 744,
+				["t"] = 1682042105,
+				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 			}, -- [56]
 			{
 				"FKokomiel", -- [1]
@@ -4074,11 +4237,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"EAimër", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Algalon the Observer",
 				["eI"] = 757,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Algalon the Observer",
 				["t"] = 1682304021,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [57]
 			{
 				"BErzen", -- [1]
@@ -4107,11 +4270,11 @@ VMRT = {
 				"EAimër", -- [24]
 				"GShemin", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 744,
 				["t"] = 1682471026,
-				["g"] = 25,
 				["eN"] = "Flame Leviathan",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 744,
 			}, -- [58]
 			{
 				"FSrnaowmich", -- [1]
@@ -4140,11 +4303,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"GShemin", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 746,
 				["eN"] = "Razorscale",
-				["t"] = 1682557948,
-				["g"] = 25,
+				["eI"] = 746,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1682557948,
 			}, -- [59]
 			{
 				"FCaidence", -- [1]
@@ -4172,11 +4335,11 @@ VMRT = {
 				"GShemin", -- [23]
 				"EKaleric", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1683075954,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [60]
 			{
 				"FCaidence", -- [1]
@@ -4205,11 +4368,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Freya",
 				["eI"] = 753,
-				["t"] = 1683083602,
-				["g"] = 25,
+				["eN"] = "Freya",
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1683083602,
 			}, -- [61]
 			{
 				"ATharkøs", -- [1]
@@ -4238,11 +4401,11 @@ VMRT = {
 				"KChalidruid", -- [24]
 				"BMulagar", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1683163257,
-				["eN"] = "General Vezax",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 755,
+				["t"] = 1683163257,
+				["g"] = 25,
+				["eN"] = "General Vezax",
 			}, -- [62]
 			{
 				"CDeuxh", -- [1]
@@ -4255,11 +4418,11 @@ VMRT = {
 				"BFadeawaay", -- [8]
 				"FCaidence", -- [9]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1683249448,
-				["g"] = 10,
+				["eI"] = 744,
 				["d"] = 175,
+				["g"] = 10,
+				["t"] = 1683249448,
 			}, -- [63]
 			{
 				"CDeuxh", -- [1]
@@ -4273,11 +4436,11 @@ VMRT = {
 				"FCaidence", -- [9]
 				"FEmokertraker", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1683258250,
-				["eN"] = "Algalon the Observer",
 				["d"] = 175,
-				["g"] = 10,
 				["eI"] = 757,
+				["t"] = 1683258250,
+				["g"] = 10,
+				["eN"] = "Algalon the Observer",
 			}, -- [64]
 			{
 				"BFadeawaay", -- [1]
@@ -4306,11 +4469,11 @@ VMRT = {
 				"KDrudo", -- [24]
 				"EKaleric", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1683680373,
-				["g"] = 25,
+				["eI"] = 744,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1683680373,
 			}, -- [65]
 			{
 				"BFadeawaay", -- [1]
@@ -4339,11 +4502,11 @@ VMRT = {
 				"KDrudo", -- [24]
 				"EKaleric", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1683687135,
-				["eN"] = "Thorim",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 752,
+				["t"] = 1683687135,
+				["g"] = 25,
+				["eN"] = "Thorim",
 			}, -- [66]
 			{
 				"BFadeawaay", -- [1]
@@ -4372,11 +4535,11 @@ VMRT = {
 				"EKaleric", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 754,
 				["eN"] = "Mimiron",
-				["t"] = 1683768321,
-				["g"] = 25,
+				["eI"] = 754,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1683768321,
 			}, -- [67]
 			{
 				"CDeuxh", -- [1]
@@ -4390,11 +4553,11 @@ VMRT = {
 				"FCaidence", -- [9]
 				"IYenefred", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 175,
-				["eI"] = 744,
 				["t"] = 1684200060,
-				["g"] = 10,
 				["eN"] = "Flame Leviathan",
+				["d"] = 175,
+				["g"] = 10,
+				["eI"] = 744,
 			}, -- [68]
 			{
 				"CDeuxh", -- [1]
@@ -4408,11 +4571,11 @@ VMRT = {
 				"BFadeawaay", -- [9]
 				"HDeticy", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1684458546,
-				["g"] = 10,
+				["eI"] = 744,
 				["d"] = 175,
+				["g"] = 10,
+				["t"] = 1684458546,
 			}, -- [69]
 			{
 				"FCaidence", -- [1]
@@ -4439,11 +4602,11 @@ VMRT = {
 				"EKaleric", -- [22]
 				"KDrudo", -- [23]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 744,
 				["t"] = 1684890299,
-				["g"] = 25,
 				["eN"] = "Flame Leviathan",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 744,
 			}, -- [70]
 			{
 				"CDeuxh", -- [1]
@@ -4457,11 +4620,11 @@ VMRT = {
 				"HDeticy", -- [9]
 				"FEmokertraker", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1685324330,
-				["eN"] = "Flame Leviathan",
 				["d"] = 175,
-				["g"] = 10,
 				["eI"] = 744,
+				["t"] = 1685324330,
+				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 			}, -- [71]
 			{
 				"BFadeawaay", -- [1]
@@ -4490,11 +4653,11 @@ VMRT = {
 				"EKaleric", -- [24]
 				"GCevlade", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Ignis the Furnace Master",
 				["eI"] = 745,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Ignis the Furnace Master",
 				["t"] = 1685410309,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [72]
 			{
 				"ABeskytter", -- [1]
@@ -4523,11 +4686,11 @@ VMRT = {
 				"EKaleric", -- [24]
 				"GShemin", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 744,
 				["t"] = 1685495427,
-				["g"] = 25,
 				["eN"] = "Flame Leviathan",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 744,
 			}, -- [73]
 			{
 				"BFadeawaay", -- [1]
@@ -4556,11 +4719,11 @@ VMRT = {
 				"EKaleric", -- [24]
 				"GCevlade", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 746,
 				["eN"] = "Razorscale",
-				["t"] = 1685669183,
-				["g"] = 25,
+				["eI"] = 746,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1685669183,
 			}, -- [74]
 			{
 				"CDeuxh", -- [1]
@@ -4574,11 +4737,11 @@ VMRT = {
 				"FCaidence", -- [9]
 				"HDeticy", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 175,
-				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1685927542,
+				["g"] = 10,
+				["d"] = 175,
 			}, -- [75]
 			{
 				"BFadeawaay", -- [1]
@@ -4607,11 +4770,11 @@ VMRT = {
 				"EKaleric", -- [24]
 				"HDeticy", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1686100062,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [76]
 			{
 				"BFadeawaay", -- [1]
@@ -4641,11 +4804,11 @@ VMRT = {
 				"BIgriss", -- [25]
 				"CDeuxh", -- [26]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1686186998,
-				["eN"] = "General Vezax",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 755,
+				["t"] = 1686186998,
+				["g"] = 25,
+				["eN"] = "General Vezax",
 			}, -- [77]
 			{
 				"CDeuxh", -- [1]
@@ -4659,11 +4822,11 @@ VMRT = {
 				"BFadeawaay", -- [9]
 				"GTrollitaa", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1686272629,
-				["eN"] = "Flame Leviathan",
 				["d"] = 175,
-				["g"] = 10,
 				["eI"] = 744,
+				["t"] = 1686272629,
+				["g"] = 10,
+				["eN"] = "Flame Leviathan",
 			}, -- [78]
 			{
 				"BFadeawaay", -- [1]
@@ -4691,11 +4854,11 @@ VMRT = {
 				"EKaleric", -- [23]
 				"GShemin", -- [24]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["d"] = 176,
-				["g"] = 25,
+				["eI"] = 744,
 				["t"] = 1686704598,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [79]
 			{
 				"BFadeawaay", -- [1]
@@ -4724,11 +4887,11 @@ VMRT = {
 				"GCevlade", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 755,
 				["t"] = 1686792510,
-				["g"] = 25,
 				["eN"] = "General Vezax",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 755,
 			}, -- [80]
 			{
 				"CDeuxh", -- [1]
@@ -4740,11 +4903,11 @@ VMRT = {
 				"BFadeawaay", -- [7]
 				"GTrollitaa", -- [8]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 744,
 				["eN"] = "Flame Leviathan",
-				["t"] = 1687053715,
-				["g"] = 10,
+				["eI"] = 744,
 				["d"] = 175,
+				["g"] = 10,
+				["t"] = 1687053715,
 			}, -- [81]
 			{
 				"CDeuxh", -- [1]
@@ -4758,11 +4921,11 @@ VMRT = {
 				"BAfkblazingit", -- [9]
 				"GTrollitaa", -- [10]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Algalon the Observer",
 				["eI"] = 757,
-				["d"] = 175,
-				["g"] = 10,
+				["eN"] = "Algalon the Observer",
 				["t"] = 1687144443,
+				["g"] = 10,
+				["d"] = 175,
 			}, -- [82]
 			{
 				"FEmokertraker", -- [1]
@@ -4791,11 +4954,11 @@ VMRT = {
 				"EKaleric", -- [24]
 				"KDrudo", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1687395947,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [83]
 			{
 				"FEmokertraker", -- [1]
@@ -4825,11 +4988,11 @@ VMRT = {
 				"KDrudo", -- [25]
 				"CRastagirll", -- [26]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 744,
 				["t"] = 1687396845,
-				["g"] = 25,
 				["eN"] = "Flame Leviathan",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 744,
 			}, -- [84]
 			{
 				"FEmokertraker", -- [1]
@@ -4858,11 +5021,11 @@ VMRT = {
 				"GCevlade", -- [24]
 				"BShockmyanus", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 757,
 				["t"] = 1688606190,
-				["g"] = 25,
 				["eN"] = "Algalon the Observer",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 757,
 			}, -- [85]
 			{
 				"FEmokertraker", -- [1]
@@ -4891,11 +5054,11 @@ VMRT = {
 				"KDrudo", -- [24]
 				"EKaleric", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Flame Leviathan",
 				["eI"] = 744,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Flame Leviathan",
 				["t"] = 1689209812,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [86]
 			{
 				"FEmokertraker", -- [1]
@@ -4924,11 +5087,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"EKaleric", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Algalon the Observer",
 				["eI"] = 757,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Algalon the Observer",
 				["t"] = 1689819810,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [87]
 			{
 				"FEmokertraker", -- [1]
@@ -4957,11 +5120,11 @@ VMRT = {
 				"EBladyztrack", -- [24]
 				"KLetaldruid", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["d"] = 176,
-				["eI"] = 757,
 				["t"] = 1694053608,
-				["g"] = 25,
 				["eN"] = "Algalon the Observer",
+				["d"] = 176,
+				["g"] = 25,
+				["eI"] = 757,
 			}, -- [88]
 			{
 				"FEmokertraker", -- [1]
@@ -4990,11 +5153,11 @@ VMRT = {
 				"BAfkblazingit", -- [24]
 				"EEkö", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eI"] = 757,
 				["eN"] = "Algalon the Observer",
-				["t"] = 1694657024,
-				["g"] = 25,
+				["eI"] = 757,
 				["d"] = 176,
+				["g"] = 25,
+				["t"] = 1694657024,
 			}, -- [89]
 			{
 				"FEmokertraker", -- [1]
@@ -5023,11 +5186,11 @@ VMRT = {
 				"EFílosofaso", -- [24]
 				"EEkö", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["eN"] = "Algalon the Observer",
 				["eI"] = 757,
-				["d"] = 176,
-				["g"] = 25,
+				["eN"] = "Algalon the Observer",
 				["t"] = 1695262673,
+				["g"] = 25,
+				["d"] = 176,
 			}, -- [90]
 			{
 				"FEmokertraker", -- [1]
@@ -5056,11 +5219,11 @@ VMRT = {
 				"GShemin", -- [24]
 				"EEkö", -- [25]
 				["c"] = "Trollitaa-Faerlina",
-				["t"] = 1696471063,
-				["eN"] = "Algalon the Observer",
 				["d"] = 176,
-				["g"] = 25,
 				["eI"] = 757,
+				["t"] = 1696471063,
+				["g"] = 25,
+				["eN"] = "Algalon the Observer",
 			}, -- [91]
 		},
 		["enabled"] = 1,
@@ -5100,12 +5263,12 @@ VMRT = {
 		["Rank"] = 1,
 	},
 	["Addon"] = {
-		["Version"] = 4785,
+		["Version"] = 4810,
+		["PreVersion"] = 4810,
 		["Scale"] = 0.98,
-		["IconMiniMapTop"] = -115.2222290039063,
 		["IconMiniMapLeft"] = 12.16930013652323,
 		["Timer"] = 0.1,
-		["PreVersion"] = 4785,
+		["IconMiniMapTop"] = -115.2222290039063,
 	},
 	["WhoPulled"] = {
 	},
@@ -5140,16 +5303,15 @@ VMRT = {
 		["FontSize"] = 12,
 		["AutoLoad"] = {
 		},
-		["Left"] = 1669.074096679688,
+		["Left"] = 1614.47412109375,
 		["SelfText"] = "",
 		["Text1"] = "\"\n{time:00:03,SCC:69278:1}00:21 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:12,SCC:69278:1}00:32 - ||cfff26722Explosion||r - ||cfff38bb9Erzen||r {spell:31821}  \n{time:00:03,SAR:69279:3}00:33 - ||cffe6dbc7Spread||r - Ranged {text}Spread!{/text}  \n{time:00:03,SCC:69278:2}01:01 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:12,SCC:69278:2}01:13 - ||cfff26722Explosion||r - ||cfff38bb9Afkblazingit||r {spell:64205}  \n{time:00:03,SAR:69279:6}01:14 - ||cffe6dbc7Spread||r - Ranged {text}Spread!{/text}  \n{time:00:04,SCS:69165:3}01:42 - ||cffc59a6cTank def||r - ||cffc31d39Emokertraker||r {spell:55233}  \n{time:00:03,SCC:69278:3}01:43 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:16,SCS:69165:3}01:54 - ||cffc59a6cTank def||r - ||cffc31d39Emokertraker||r {spell:48792}  \n{time:00:12,SCC:69278:3}01:55 - ||cfff26722Explosion||r - ||cfff38bb9Shockmyanus||r {spell:64205}  ||cfff38bb9Shockmyanus||r {spell:31821}  \n{time:00:03,SAR:69279:9}01:56 - ||cffe6dbc7Spread||r - ||cffc31d39Emokertraker||r {spell:42650}  Ranged {text}Spread!{/text}  \n{time:00:28,SCS:69165:3}02:06 - ||cffc59a6cTank def||r - ||cfff38bb9Fadeawaay||r {spell:6940}  \n{time:00:32,SCS:69165:3}02:10 - ||cffc59a6cTank def||r - ||cfffefefeFílosofaso||r {spell:33206}  \n{time:00:32,SCC:69165:3}02:15 - ||cffaa0000AOE||r - ||cfff38bb9Fadeawaay||r {spell:64205}  ||cfff38bb9Afkblazingit||r {spell:31821}  ||cfffefefeKaleric||r {spell:64843}  \n{time:00:03,SCC:69195:1}02:18 - ||cffee5555AOE||r - {everyone} {spell:47875}  \n{time:00:03,SCC:69278:4}02:33 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:12,SCC:69278:4}02:45 - ||cfff26722Explosion||r - ||cfff38bb9Erzen||r {spell:31821}  \n{time:00:03,SAR:69279:12}02:46 - ||cffe6dbc7Spread||r - Ranged {text}Spread!{/text}  \n{time:00:03,SCC:69278:5}03:14 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:12,SCC:69278:5}03:26 - ||cfff26722Explosion||r - ||cfff38bb9Afkblazingit||r {spell:64205}  \n{time:00:03,SAR:69279:15}03:27 - ||cffe6dbc7Spread||r - Ranged {text}Spread!{/text}  \n{time:00:03,SCC:69278:6}03:54 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:12,SCC:69278:6}04:06 - ||cfff26722Explosion||r - ||cfff38bb9Shockmyanus||r {spell:64205}  ||cfff38bb9Shockmyanus||r {spell:31821}  \n{time:00:03,SAR:69279:18}04:07 - ||cffe6dbc7Spread||r - Ranged {text}Spread!{/text}  \n{time:00:16,SCS:69165:6}04:11 - ||cffc59a6cTank def||r - ||cfff38bb9Erzen||r {spell:6940}  \n{time:00:32,SCS:69165:6}04:27 - ||cffc59a6cTank def||r - ||cfffefefeFílosofaso||r {spell:33206}  \n{time:00:32,SCC:69165:6}04:32 - ||cffaa0000AOE||r - ||cfff38bb9Fadeawaay||r {spell:64205}  ||cfff38bb9Afkblazingit||r {spell:31821}  ||cfffefefeFílosofaso||r {spell:64843}  \n{time:00:03,SCC:69278:7}04:49 - ||cffe68e3dSpore||r - Ranged {text}Stack!{/text}  \n{time:00:12,SCC:69278:7}05:01 - ||cfff26722Explosion||r - ||cfff38bb9Erzen||r {spell:31821}  \n{time:00:03,SAR:69279:21}05:02 - ||cffe6dbc7Spread||r - Ranged {text}Spread!{/text}  \n\"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 		["OptionsFormatting"] = true,
 		["DefName"] = "PANZACHANCRO",
 		["LastUpdateName"] = "Shockmyanus-Faerlina",
-		["enabled"] = true,
-		["LastUpdateTime"] = 1698808914,
-		["Width"] = 158.9999389648438,
-		["Top"] = 781.5703735351562,
+		["LastUpdateTime"] = 1700020394,
+		["Width"] = 159,
+		["Top"] = 781.174072265625,
 		["EnableWhenReceive"] = true,
 		["BlackLastUpdateTime"] = {
 			[4] = 1683777272,

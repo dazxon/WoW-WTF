@@ -119,10 +119,10 @@ HealBot_Config = {
 	["SkinSpecEnabled"] = {
 	},
 	["EnableHealthy"] = true,
-	["LastAutoSkinChangeType"] = "None",
+	["Spec"] = "Holy",
 	["MacroUse10"] = false,
 	["DisableSolo"] = false,
-	["Spec"] = "Holy",
+	["LastAutoSkinChangeType"] = "None",
 	["FavGroundMount"] = "Reawakened Phase-Hunter",
 	["DisableHealBot"] = false,
 	["Profile"] = 1,
@@ -203,8 +203,8 @@ HealBot_Config_Spells = {
 		["ShiftButton5"] = "C:B",
 		["Button510"] = "C:E",
 		["Button4"] = "C:D",
-		["Middle10"] = "S:1038",
 		["ShiftButton510"] = "C:B",
+		["Middle10"] = "S:1038",
 		["ShiftLeft10"] = "S:53601",
 		["Button410"] = "C:D",
 		["Right10"] = "S:48781",
@@ -276,18 +276,18 @@ HealBot_Config_Buffs = {
 	["ListSortOrder"] = 1,
 	["BuffWatch"] = true,
 	["AlwaysShowSelf"] = false,
-	["CustomBuffCheck"] = {
-		false, -- [1]
-		false, -- [2]
-		false, -- [3]
-	},
 	["CustomBuffName"] = {
 		"", -- [1]
 		"", -- [2]
 		"", -- [3]
 	},
+	["CustomBuffCheck"] = {
+		false, -- [1]
+		false, -- [2]
+		false, -- [3]
+	},
 	["LongBuffTimer"] = 120,
-	["BuffWatchInCombat"] = false,
+	["HealBot_CBWarnRange_Sound"] = 3,
 	["ListSortFilterTag"] = "",
 	["HealBotBuffDropDown"] = {
 		1, -- [1]
@@ -374,7 +374,7 @@ HealBot_Config_Buffs = {
 		1, -- [13]
 		1, -- [14]
 	},
-	["HealBot_CBWarnRange_Sound"] = 3,
+	["BuffWatchInCombat"] = false,
 	["HealBotBuffText"] = {
 		"Greater Blessing of Kings", -- [1]
 		"Greater Blessing of Might", -- [2]

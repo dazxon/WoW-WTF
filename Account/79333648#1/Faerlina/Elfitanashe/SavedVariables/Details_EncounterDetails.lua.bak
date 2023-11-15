@@ -1,6 +1,41 @@
 
 EncounterDetailsDB = {
 	["chartData"] = {
+		[668] = {
+			["Raid Damage Done"] = {
+				776, -- [1]
+				0, -- [2]
+				781, -- [3]
+				0, -- [4]
+				781, -- [5]
+				0, -- [6]
+				801, -- [7]
+				0, -- [8]
+				754, -- [9]
+				0, -- [10]
+				1026, -- [11]
+				0, -- [12]
+				388, -- [13]
+				0, -- [14]
+				406, -- [15]
+				396, -- [16]
+				0, -- [17]
+				0, -- [18]
+				0, -- [19]
+				232, -- [20]
+				0, -- [21]
+				220, -- [22]
+				225, -- [23]
+				0, -- [24]
+				230, -- [25]
+				["max_value"] = 1026,
+				["__time"] = 1699324207,
+			},
+		},
+		[667] = {
+		},
+		[666] = {
+		},
 	},
 	["encounter_spells"] = {
 		[42705] = {
@@ -124,15 +159,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ingvar the Plunderer",
 		},
-		[43650] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[42724] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Dalronn the Controller",
+			["source"] = "Ingvar the Plunderer",
 		},
 		[42702] = {
 			["school"] = 32,
@@ -150,13 +183,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Water Elemental",
 		},
-		[42724] = {
-			["school"] = 1,
+		[43650] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ingvar the Plunderer",
+			["source"] = "Dalronn the Controller",
 		},
 	},
 	["emotes"] = {

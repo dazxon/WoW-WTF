@@ -5,7 +5,8 @@ FishingBuddy_Player = {
 		["hide"] = false,
 	},
 	["Settings"] = {
-		["TotalTimeFishing"] = 1,
+		["TotalTimeFishing"] = 1897.723999999929,
+		["CaughtSoFar"] = 3,
 		["SpecialBobbers"] = -1,
 	},
 	["WasWearing"] = {
@@ -13,7 +14,7 @@ FishingBuddy_Player = {
 	["WatcherLocation"] = {
 		["grp_point"] = "CENTER",
 		["solo_y"] = -31.28897094726563,
-		["solo_x"] = -346.5458526611328,
+		["solo_x"] = -346.5456390380859,
 		["solo_point"] = "CENTER",
 		["grp_x"] = -346.5458526611328,
 		["solo_scale"] = 1,

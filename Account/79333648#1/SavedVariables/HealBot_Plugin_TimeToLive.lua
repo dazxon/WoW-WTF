@@ -28,7 +28,7 @@ HealBot_Plugin_TimeToLive_Config = {
 		["Global"] = 0.9,
 	},
 	["frameY"] = {
-		["Global"] = 623,
+		["Global"] = 830,
 	},
 	["txtoutline"] = {
 		["Global"] = 1,
@@ -66,26 +66,26 @@ HealBot_Plugin_TimeToLive_Config = {
 	["bartxtR"] = {
 		["Global"] = 0.8,
 	},
-	["borderR"] = {
-		["Global"] = 1,
-	},
 	["fontsize"] = {
 		["Global"] = 11,
+	},
+	["borderR"] = {
+		["Global"] = 1,
 	},
 	["titletextG"] = {
 		["Global"] = 0.58,
 	},
 	["frameX"] = {
-		["Global"] = 1424,
+		["Global"] = 1335,
 	},
-	["headerG"] = {
-		["Global"] = 0.1,
+	["bartxtB"] = {
+		["Global"] = 0.8,
 	},
 	["titlebackA"] = {
 		["Global"] = 0.4,
 	},
-	["bartxtB"] = {
-		["Global"] = 0.8,
+	["headerG"] = {
+		["Global"] = 0.1,
 	},
 	["OnlyShowOnDemand"] = {
 		["Global"] = true,
@@ -96,11 +96,11 @@ HealBot_Plugin_TimeToLive_Config = {
 	["texture"] = {
 		["Global"] = "Smooth",
 	},
-	["OnlyShowOutOfCombat"] = {
-		["Global"] = true,
-	},
 	["titletextA"] = {
 		["Global"] = 0.9,
+	},
+	["OnlyShowOutOfCombat"] = {
+		["Global"] = true,
 	},
 	["coltype"] = {
 		["Global"] = 1,

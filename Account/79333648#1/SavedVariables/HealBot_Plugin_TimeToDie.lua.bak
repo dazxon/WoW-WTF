@@ -45,14 +45,14 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtR"] = {
 		["Global"] = 0.8,
 	},
-	["tankbarR"] = {
-		["Global"] = 0.9,
-	},
 	["yourbartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["txtoutline"] = {
-		["Global"] = 1,
+	["tankbarR"] = {
+		["Global"] = 0.9,
+	},
+	["tankbarG"] = {
+		["Global"] = 0.1,
 	},
 	["bartxtA"] = {
 		["Global"] = 0.9,
@@ -60,13 +60,13 @@ HealBot_Plugin_TimeToDie_Config = {
 	["maxBars"] = {
 		["Global"] = 5,
 	},
-	["frameLocked"] = {
-		["Global"] = false,
-	},
-	["borderG"] = {
-		["Global"] = 1,
+	["font"] = {
+		["Global"] = "Roboto Medium",
 	},
 	["frameG"] = {
+		["Global"] = 1,
+	},
+	["borderG"] = {
 		["Global"] = 1,
 	},
 	["height"] = {
@@ -81,14 +81,14 @@ HealBot_Plugin_TimeToDie_Config = {
 	["fluidbars"] = {
 		["Global"] = true,
 	},
-	["borderB"] = {
-		["Global"] = 1,
-	},
-	["frameR"] = {
-		["Global"] = 1,
-	},
 	["playertxtchars"] = {
 		["Global"] = 0,
+	},
+	["yourbartxtR"] = {
+		["Global"] = 0.8,
+	},
+	["borderB"] = {
+		["Global"] = 1,
 	},
 	["txtcoltype"] = {
 		["Global"] = 1,
@@ -105,20 +105,20 @@ HealBot_Plugin_TimeToDie_Config = {
 	["bartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["titlebackG"] = {
-		["Global"] = 1,
+	["frameX"] = {
+		["Global"] = 31,
 	},
 	["tankbartxtG"] = {
 		["Global"] = 0.8,
 	},
-	["yourbarR"] = {
-		["Global"] = 0.1,
+	["borderR"] = {
+		["Global"] = 1,
 	},
 	["titletextG"] = {
 		["Global"] = 0.58,
 	},
-	["frameX"] = {
-		["Global"] = 31,
+	["titlebackG"] = {
+		["Global"] = 1,
 	},
 	["texture"] = {
 		["Global"] = "Smooth",
@@ -135,11 +135,11 @@ HealBot_Plugin_TimeToDie_Config = {
 	["titletextR"] = {
 		["Global"] = 0.58,
 	},
-	["borderR"] = {
-		["Global"] = 1,
-	},
 	["fontsize"] = {
 		["Global"] = 11,
+	},
+	["yourbarR"] = {
+		["Global"] = 0.1,
 	},
 	["tankbartxtB"] = {
 		["Global"] = 0.8,
@@ -147,8 +147,8 @@ HealBot_Plugin_TimeToDie_Config = {
 	["coltype"] = {
 		["Global"] = 2,
 	},
-	["yourbartxtR"] = {
-		["Global"] = 0.8,
+	["frameR"] = {
+		["Global"] = 1,
 	},
 	["titletext"] = {
 		["Global"] = "HealBot TimeToDie",
@@ -156,14 +156,14 @@ HealBot_Plugin_TimeToDie_Config = {
 	["yourbarB"] = {
 		["Global"] = 0.9,
 	},
-	["font"] = {
-		["Global"] = "Roboto Medium",
+	["frameLocked"] = {
+		["Global"] = false,
 	},
 	["barA"] = {
 		["Global"] = 0.7,
 	},
-	["tankbarG"] = {
-		["Global"] = 0.1,
+	["txtoutline"] = {
+		["Global"] = 1,
 	},
 	["rowspace"] = {
 		["Global"] = 0,

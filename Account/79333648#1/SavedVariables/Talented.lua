@@ -58,14 +58,14 @@ TalentedDB = {
 			["last_template"] = "NEW SPELLHANCE",
 			["framepos"] = {
 				["TalentedFrame"] = {
-					["y"] = -49.42247009277344,
-					["x"] = -123.5854263305664,
-					["anchor"] = "TOP",
-					["anchorTo"] = "TOP",
+					["y"] = 55.82186126708984,
+					["x"] = 35.22970581054688,
+					["anchorTo"] = "CENTER",
+					["anchor"] = "CENTER",
 				},
 				["TalentedGlyphs"] = {
-					["y"] = 2.917855817941017e-05,
-					["x"] = 0,
+					["y"] = -38.8740234375,
+					["x"] = 352.7113037109375,
 					["anchor"] = "CENTER",
 					["anchorTo"] = "CENTER",
 				},
